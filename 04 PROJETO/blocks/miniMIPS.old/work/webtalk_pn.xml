@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pn" timeStamp="Fri Oct 25 00:58:18 2013">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="92A4247A03184B8AB46FCBAC15A60E6D" type="project"/>
+<property name="ProjectIteration" value="0" type="project"/>
+<property name="ProjectFile" value="C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/miniMIPS.xise" type="project"/>
+<property name="ProjectCreationTimestamp" value="2013-10-25T00:29:27" type="project"/>
+</section>
+<section name="Project Statistics" visible="true">
+<property name="PROP_Enable_Message_Filtering" value="false" type="design"/>
+<property name="PROP_FitterReportFormat" value="HTML" type="process"/>
+<property name="PROP_LastAppliedGoal" value="Balanced" type="design"/>
+<property name="PROP_LastAppliedStrategy" value="Xilinx Default (unlocked)" type="design"/>
+<property name="PROP_ManualCompileOrderImp" value="false" type="design"/>
+<property name="PROP_ProjectDescription" value="- The miniMIPS is a 32 bits core and has a Von Neumann architecture. 
+
+- The miniMIPS is 5-stage pipeline : 
+- Instruction extraction 
+- Instruction decoding 
+- Execution 
+- Memory access 
+- Update registers 
+
+- Only two instructions can access the memory. The others work on registers which are 32 bits large. The processor contains 32 registers. 
+
+- Data hazards are resolved thanks to a bypass unit. 
+
+- Branch hazards are resolved by predicting the address results. 
+
+- Interruptions and exceptions are taken in account thanks to a system coprocessor. 
+Assemblee 
+An assembly gasm is provided with the project to generate the binaries for the miniMIPS cores. 
+This program is developed by Samuel Hangouët and Louis-Marie Mouton. 
+Performance 
+The miniMIPS was integrated in an FPGA from Xilinx Xc2V1000-5fg456. 
+
+The processor speed is 50MHz. As at each cycle an instruction ends (except when there are stalls), that means 50 million instructions per second. 
+
+The processor is used as a free example in the XSmart-ICE product (a generic emulator for core) from the french society Raisonance based in Grenoble. 
+Description 
+The project miniMIPS is a processor core based on the MIPS I architecture. 
+
+The project is born during a school project at the ENSERG (Ecole Nationale Supérieure d'Electronique et de Radioélectricité de Grenoble), France. 
+
+The main contributors are Samuel Hangouët, Sébastien Jan, Louis-Marie Mouton and Olivier Schneider." type="process"/>
+<property name="PROP_PropSpecInProjFile" value="Store all values" type="design"/>
+<property name="PROP_Simulator" value="Modelsim-PE Mixed" type="design"/>
+<property name="PROP_SynthTopFile" value="changed" type="process"/>
+<property name="PROP_Top_Level_Module_Type" value="HDL" type="design"/>
+<property name="PROP_UseSmartGuide" value="false" type="design"/>
+<property name="PROP_UserConstraintEditorPreference" value="Text Editor" type="process"/>
+<property name="PROP_intProjectCreationTimestamp" value="2013-10-25T00:29:27" type="design"/>
+<property name="PROP_intWbtProjectID" value="92A4247A03184B8AB46FCBAC15A60E6D" type="design"/>
+<property name="PROP_intWorkingDirLocWRTProjDir" value="UnderProjDir" type="design"/>
+<property name="PROP_intWorkingDirUsed" value="Yes" type="design"/>
+<property name="PROP_AutoTop" value="true" type="design"/>
+<property name="PROP_DevFamily" value="Spartan3E" type="design"/>
+<property name="PROP_DevDevice" value="xc3s100e" type="design"/>
+<property name="PROP_DevFamilyPMName" value="spartan3e" type="design"/>
+<property name="PROP_DevPackage" value="vq100" type="design"/>
+<property name="PROP_Synthesis_Tool" value="XST (VHDL/Verilog)" type="design"/>
+<property name="PROP_DevSpeed" value="-5" type="design"/>
+<property name="PROP_PreferredLanguage" value="Verilog" type="design"/>
+<property name="FILE_VHDL" value="17" type="source"/>
+</section>
+</application>
+</document>

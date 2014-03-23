@@ -1,0 +1,495 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\05 MiniMIPS(OpenCores)\miniMIPS\miniMIPS\bench
+T_opt
+Z1 V1]TPW_`J>Ue88I0R`lNJ>2
+Z2 04 12 5 work sim_minimips bench 1
+Z3 =1-88532e8ec421-53142bd5-275-1228
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5;42
+Ealu
+Z7 w1086270342
+Z8 DPx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 9 pack_mips 0 22 0e@ZCZREEdBo2NcC[f=@m1
+Z9 DPx21 C:\modeltech_6.5\ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z10 DPx21 C:\modeltech_6.5\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+Z11 dC:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO
+Z12 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/alu.vhd
+Z13 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/alu.vhd
+l0
+L58
+Z14 Vh:@ef[6Jd_E:?`zlFj0S51
+Z15 OE;C;6.5;42
+Z16 o-work work -2002 -explicit
+Z17 tExplicit 1
+Z18 !s100 AHmZCN]8IGGcdCY5]B?0J2
+Artl
+R8
+R9
+R10
+Z19 DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 3 alu 0 22 h:@ef[6Jd_E:?`zlFj0S51
+32
+Z20 Mx3 21 C:\modeltech_6.5\ieee 14 std_logic_1164
+Z21 Mx2 21 C:\modeltech_6.5\ieee 11 numeric_std
+Z22 Mx1 69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 9 pack_mips
+l93
+L73
+Z23 VQibmlaKOg<;7B2nUQn85R1
+R15
+R16
+R17
+Z24 !s100 XNlXfSozka=P;Uk<:Pcc;1
+Ebanc
+Z25 w1086270348
+Z26 DPx4 work 9 pack_mips 0 22 0e@ZCZREEdBo2NcC[f=@m1
+Z27 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z28 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+R11
+Z29 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/banc.vhd
+Z30 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/banc.vhd
+l0
+L58
+Z31 VM2]6::PNjZnlDCIo]8BhG1
+R15
+32
+R16
+R17
+Z32 !s100 =8;g`@f_cJWLIKPnoPVYo0
+Artl
+R26
+R27
+R28
+Z33 DEx4 work 4 banc 0 22 M2]6::PNjZnlDCIo]8BhG1
+l89
+L81
+Z34 V5fB1N_6<U2gT<8LYb^lB60
+R15
+32
+Z35 Mx3 4 ieee 14 std_logic_1164
+Z36 Mx2 4 ieee 11 numeric_std
+Z37 Mx1 4 work 9 pack_mips
+R16
+R17
+Z38 !s100 ]S`dWSZ35mTkkU=jB5M8M3
+Ebus_ctrl
+Z39 w1086289296
+R26
+R27
+R28
+R11
+Z40 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/bus_ctrl.vhd
+Z41 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/bus_ctrl.vhd
+l0
+L58
+Z42 VkEU3[LQ2G>h<UYl]EDo680
+R15
+32
+R16
+R17
+Z43 !s100 VGH;nC;N]:5;aJg9BINN22
+Artl
+R26
+R27
+R28
+Z44 DEx4 work 8 bus_ctrl 0 22 kEU3[LQ2G>h<UYl]EDo680
+l101
+L91
+Z45 V5L3dD]S]Afg5egzej9da<2
+R15
+32
+R35
+R36
+R37
+R16
+R17
+Z46 !s100 OCkU`[C5i=XZiF6Hhk=>[3
+Eminimips
+Z47 w1086287564
+R8
+R10
+32
+R11
+Z48 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/minimips.vhd
+Z49 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/minimips.vhd
+l0
+L56
+Z50 Vz1EEo]4[1b2AP^=z4gBO=0
+R15
+R16
+R17
+Z51 !s100 m]6hHIHG1PJ8zKg73ik_g1
+Artl
+R19
+R9
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 8 bus_ctrl 0 22 kEU3[LQ2G>h<UYl]EDo680
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 6 syscop 0 22 WFd]RK;b6W[@YEmHh>K`b1
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 4 banc 0 22 M2]6::PNjZnlDCIo]8BhG1
+Z52 DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 6 renvoi 0 22 :`UiTVEXIUE9nM5:ahK@V0
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 7 pps_mem 0 22 daG<[K0c3E8GQOVfJ[ZzE2
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 6 pps_ex 0 22 [O1?bQBBGHNQUabTXPWHm2
+Z53 DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 6 pps_di 0 22 QDlOR_[`Nm53CC;GFcbRg1
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 6 pps_ei 0 22 7<MMkgmkNoS1dTH;9<hKR0
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 6 pps_pf 0 22 P2HLBFn[zELa2kE4O>HIB1
+R8
+R10
+Z54 DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 8 minimips 0 22 z1EEo]4[1b2AP^=z4gBO=0
+32
+R20
+Mx2 69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 9 pack_mips
+Mx1 21 C:\modeltech_6.5\ieee 11 numeric_std
+l173
+L73
+Z55 V4=[Eo[m9lh4E08BYmGPI92
+R15
+R16
+R17
+Z56 !s100 QTC2I=]=mWn?cL95XHEmG1
+Ppack_mips
+R10
+32
+Mx1 21 C:\modeltech_6.5\ieee 14 std_logic_1164
+Z57 w1086287194
+R11
+Z58 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pack_mips.vhd
+Z59 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pack_mips.vhd
+l0
+L55
+Z60 V0e@ZCZREEdBo2NcC[f=@m1
+R15
+R16
+R17
+Z61 !s100 3H0i2mWzFU>0ldKP_iHae1
+Epps_di
+Z62 w1086270380
+R8
+R9
+R10
+32
+R11
+Z63 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_di.vhd
+Z64 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_di.vhd
+l0
+L58
+Z65 VQDlOR_[`Nm53CC;GFcbRg1
+R15
+R16
+R17
+Z66 !s100 9Y2D8cj2fSVkY_OIPChAj3
+Artl
+R8
+R9
+R10
+R53
+32
+R20
+R21
+R22
+l207
+L103
+Z67 Va@N@?iXFHDBY7nWBfU2_k3
+R15
+R16
+R17
+Z68 !s100 Rz<hfz5cXY]egQz>Am4Ya1
+Epps_ei
+Z69 w1086270334
+R26
+R27
+R28
+R11
+Z70 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_ei.vhd
+Z71 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_ei.vhd
+l0
+L58
+Z72 V7<MMkgmkNoS1dTH;9<hKR0
+R15
+32
+R16
+R17
+Z73 !s100 kj`6SE0V8;iN@94B1o8KL2
+Artl
+R26
+R27
+R28
+Z74 DEx4 work 6 pps_ei 0 22 7<MMkgmkNoS1dTH;9<hKR0
+l84
+L83
+Z75 V^_E]b3XKR5c9PbSPRH7BM3
+R15
+32
+R35
+R36
+R37
+R16
+R17
+Z76 !s100 hWQ>OZnnn5GX9F916OM]l1
+Epps_ex
+Z77 w1086270374
+Z78 DEx4 work 3 alu 0 22 h:@ef[6Jd_E:?`zlFj0S51
+R26
+R27
+R28
+R11
+Z79 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_ex.vhd
+Z80 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_ex.vhd
+l0
+L59
+Z81 V[O1?bQBBGHNQUabTXPWHm2
+R15
+32
+R16
+R17
+Z82 !s100 EUX2Nb=mZ[N2g6[H:_To62
+Artl
+R26
+R27
+R28
+Z83 DEx4 work 6 pps_ex 0 22 [O1?bQBBGHNQUabTXPWHm2
+l123
+L99
+Z84 V4>G0Ek1aL14TJo^0;HA^^1
+R15
+32
+R35
+R36
+R37
+R16
+R17
+Z85 !s100 nS[l4]SR7MjdQLZ?I_PI?2
+Epps_mem
+Z86 w1086270368
+R26
+R28
+R11
+Z87 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_mem.vhd
+Z88 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_mem.vhd
+l0
+L59
+Z89 VdaG<[K0c3E8GQOVfJ[ZzE2
+R15
+32
+R16
+R17
+Z90 !s100 Qbd4PGG9]mImEH=3S87Z<0
+Artl
+R26
+R28
+Z91 DEx4 work 7 pps_mem 0 22 daG<[K0c3E8GQOVfJ[ZzE2
+l102
+L98
+Z92 VbOO_mJ7V>lNlY2m0]d0ZT1
+R15
+32
+Z93 Mx2 4 ieee 14 std_logic_1164
+R37
+R16
+R17
+Z94 !s100 m22dHc2EC`n7k`R3_:cge3
+Epps_pf
+Z95 w1086270362
+R26
+R27
+R28
+R11
+Z96 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_pf.vhd
+Z97 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/pps_pf.vhd
+l0
+L58
+Z98 VP2HLBFn[zELa2kE4O>HIB1
+R15
+32
+R16
+R17
+Z99 !s100 Y[fYWjlCM?jEV[i8A8ARX1
+Artl
+R26
+R27
+R28
+Z100 DEx4 work 6 pps_pf 0 22 P2HLBFn[zELa2kE4O>HIB1
+l82
+L76
+Z101 VE:_?^;18M^SeZ1_=cCFTh1
+R15
+32
+R35
+R36
+R37
+R16
+R17
+Z102 !s100 AdHzRj5DTk:YQBZo?U_KK3
+Eram
+Z103 w1086287588
+R26
+R27
+R28
+R11
+Z104 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/bench/ram.vhd
+Z105 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/bench/ram.vhd
+l0
+L43
+Z106 VB[mQ5>iDnk3=?4>jeCm`<1
+R15
+32
+R16
+R17
+Z107 !s100 MzLK_4WEFm]5jWWYWK6A62
+Abench
+R26
+R27
+R28
+Z108 DEx4 work 3 ram 0 22 B[mQ5>iDnk3=?4>jeCm`<1
+l59
+L56
+Z109 Vh`C??CDh2mQ9]BW_]Z]n_2
+R15
+32
+R35
+R36
+R37
+R16
+R17
+Z110 !s100 oJoOgRg6:>QEQL72GG;jh0
+Erenvoi
+Z111 w1086270402
+R8
+R9
+R10
+32
+R11
+Z112 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/renvoi.vhd
+Z113 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/renvoi.vhd
+l0
+L59
+Z114 V:`UiTVEXIUE9nM5:ahK@V0
+R15
+R16
+R17
+Z115 !s100 5oa@:ZfObMeFzm8lTM6D20
+Artl
+R8
+R9
+R10
+R52
+32
+R20
+R21
+R22
+l116
+L107
+Z116 Vco__9R9UHl59O;O74amHP3
+R15
+R16
+R17
+Z117 !s100 WfD]Ujz`bLWn9zbjn4GEF2
+Erom
+Z118 w1086284772
+R26
+Z119 DPx3 std 6 textio 0 22 m2KQDRRhmF833<<DjYdL70
+Z120 DPx4 ieee 16 std_logic_textio 0 22 8YS?iX`WD1REQG`ZRYQGB2
+R27
+R28
+R11
+Z121 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/bench/rom.vhd
+Z122 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/bench/rom.vhd
+l0
+L45
+Z123 VVhAk1:oGfWOQe]?0^ZI5n1
+R15
+32
+R16
+R17
+Z124 !s100 <=HSNkICYKG8z0doXK6IM1
+Abench
+R26
+R119
+R120
+R27
+R28
+Z125 DEx4 work 3 rom 0 22 VhAk1:oGfWOQe]?0^ZI5n1
+l64
+L59
+Z126 VohAOCbM5hUIEQz8cE74gA1
+R15
+32
+Z127 Mx5 4 ieee 14 std_logic_1164
+Z128 Mx4 4 ieee 11 numeric_std
+Z129 Mx3 4 ieee 16 std_logic_textio
+Z130 Mx2 3 std 6 textio
+R37
+R16
+R17
+Z131 !s100 VEm1]f0TdFXNcEVZ8X0Ug3
+Esim_minimips
+Z132 w1393830788
+R8
+Z133 DPx20 C:\modeltech_6.5\std 6 textio 0 22 m2KQDRRhmF833<<DjYdL70
+R10
+32
+R11
+Z134 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/bench/bench_minimips.vhd
+Z135 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/bench/bench_minimips.vhd
+l0
+L44
+Z136 VSHMKf3<z[j:jT]U1]jL:33
+R15
+R16
+R17
+Z137 !s100 eZ_[Nh93[_z6Y>;KM;hK^1
+Abench
+DPx21 C:\modeltech_6.5\ieee 16 std_logic_textio 0 22 8YS?iX`WD1REQG`ZRYQGB2
+R9
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 3 rom 0 22 VhAk1:oGfWOQe]?0^ZI5n1
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 3 ram 0 22 B[mQ5>iDnk3=?4>jeCm`<1
+R54
+R8
+R133
+R10
+DEx69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 12 sim_minimips 0 22 SHMKf3<z[j:jT]U1]jL:33
+32
+Mx5 21 C:\modeltech_6.5\ieee 14 std_logic_1164
+Mx4 20 C:\modeltech_6.5\std 6 textio
+Mx3 69 C:\Users\Thiago\Dropbox\06 MESTRADO\04 TRABALHO FINAL\04 PROJETO\work 9 pack_mips
+R21
+Mx1 21 C:\modeltech_6.5\ieee 16 std_logic_textio
+l106
+L47
+Z138 V_4=LDjX@zXNAhYH3[[^Cm2
+R15
+R16
+R17
+Z139 !s100 ]IR@kbQe6j3QYjXeHU1ed1
+Esyscop
+Z140 w1086270394
+R26
+R27
+R28
+R11
+Z141 8C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/syscop.vhd
+Z142 FC:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/05 MiniMIPS(OpenCores)/miniMIPS/miniMIPS/src/syscop.vhd
+l0
+L61
+Z143 VWFd]RK;b6W[@YEmHh>K`b1
+R15
+32
+R16
+R17
+Z144 !s100 3;>>9:^Jh[mT>ANkaDb<h0
+Artl
+R26
+R27
+R28
+Z145 DEx4 work 6 syscop 0 22 WFd]RK;b6W[@YEmHh>K`b1
+l119
+L93
+Z146 VM2_Z_GIE18F8_D:8ZZNWz1
+R15
+32
+R35
+R36
+R37
+R16
+R17
+Z147 !s100 bd2]L5kX>o@_k7e@48iO43

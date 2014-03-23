@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLParsers" num="3312" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">2982</arg>. Undefined symbol &apos;<arg fmt="%s" index="3">init_signal_spy</arg>&apos;.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1209" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">2982</arg>. <arg fmt="%s" index="3">init_signal_spy</arg>: Undefined symbol (last report in this block)
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3003</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3006</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3097</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3102</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="854" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. The expression can not be converted to type <arg fmt="%s" index="3">integer</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3116</arg>. IN mode Formal <arg fmt="%s" index="3">value</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="854" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. The expression can not be converted to type <arg fmt="%s" index="3">integer</arg>.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. IN mode Formal <arg fmt="%s" index="3">VALUE</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3324" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3120</arg>. IN mode Formal <arg fmt="%s" index="3">value</arg> of <arg fmt="%s" index="4">write</arg> with no default value must be associated with an actual value.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3139</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3153</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/bench_minimips.vhd</arg>&quot; Line <arg fmt="%d" index="2">3167</arg>. Wait for statement unsupported.
+</msg>
+
+</messages>
+

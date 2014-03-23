@@ -1,0 +1,12 @@
+/alu.vhd///
+/banc.vhd///
+/bus_ctrl.vhd///
+/minimips.vhd///
+/pack_mips.vhd///
+/pps_di.vhd///
+/pps_ei.vhd///
+/pps_ex.vhd///
+/pps_mem.vhd///
+/pps_pf.vhd///
+/renvoi.vhd///
+/syscop.vhd///

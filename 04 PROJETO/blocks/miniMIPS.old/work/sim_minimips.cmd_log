@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/work/sim_minimips.xst" -ofn "C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/work/sim_minimips.syr" 
+xst -intstyle ise -ifn "C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/work/sim_minimips.xst" -ofn "C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/work/sim_minimips.syr" 
+xst -intstyle ise -ifn "C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/work/sim_minimips.xst" -ofn "C:/Users/Thiago/Dropbox/06 MESTRADO/04 TRABALHO FINAL/04 PROJETO/blocks/miniMIPS/work/sim_minimips.syr" 
