@@ -1,0 +1,73 @@
+<!doctype html>
+<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
+<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on http://github.com/jonrohan -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen">
+  <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="javascripts/script.js"></script>
+
+  <title>Radftah</title>
+  <meta name="description" content="Radiation-Fault Tolerant Adaptative Hardware">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+</head>
+
+<body>
+
+  <div class="wrapper">
+    <header>
+      <h1 class="title">Radftah</h1>
+    </header>
+    <div id="container">
+      <p class="tagline">Radiation-Fault Tolerant Adaptative Hardware</p>
+      <div id="main" role="main">
+        <div class="download-bar">
+        <div class="inner">
+          <a href="https://github.com/thiagorider/RadFTAH/tarball/master" class="download-button tar"><span>Download</span></a>
+          <a href="https://github.com/thiagorider/RadFTAH/zipball/master" class="download-button zip"><span>Download</span></a>
+          <a href="https://github.com/thiagorider/RadFTAH" class="code">View Radftah on GitHub</a>
+        </div>
+        <span class="blc"></span><span class="trc"></span>
+        </div>
+        <article class="markdown-body">
+          <h1>
+<a name="radftah" class="anchor" href="#radftah"><span class="octicon octicon-link"></span></a>RadFTAH</h1>
+
+<hr><p>Radiation-Fault Tolerant Adaptative Hardware</p>
+
+<p>Este trabalho visa revisar e avaliar diversas técnicas de detecção de erros em software, com o objetivo de proteger processadores contra falhas transientes e sua viabilidade para implementação em hardware de forma a atuar dinamicamente selecionando qual a melhor técnica, levando em consideração a melhor relação entre o custo e a taxa de detecção de erros. Tem relevância no contexto de uso de sistemas micro processados em ambientes hostis cuja exposição à radiação ou ainda, influência eletromagnética podem causar efeitos inesperados no comportamento do circuito.</p>
+
+<p>O problema de um circuito ser mais sensível à estes fatores está ligado diretamente ao poder de integração de circuito cada vez maior, que ocasiona a diminuição de seus componentes mais básicos, os transistores. Com chaves cada vez menores, a chance de uma partícula afetar um ou mais destes elementos é muito maior. Outro fator tão importante quanto o anterior é o fato das frequências de operação a que estes circuitos são submetidos ser cada vez maior, o que significa que o intervalo entre as bordas de relógio são mais curtos, aumentando a chance de um pulso espúrio ser capturado pela lógica.</p>
+
+<p>O uso de técnicas de detecção de erros permite a construção de um sistema tolerante à falhas, bastando se definir uma rotina para quando se detecta um erro, e para cada técnica existe um custo intrínseco em termos de área, potência, desempenho, tempo de execução e taxa de detecção de erros. A possibilidade de um hardware que permita variar as técnicas tem forte apelo tecnológico por tentar minimizar os custos envolvidos a cada variação das condições a qual o circuito está submetido.</p>
+
+<p>Assim, este trabalho apresenta as diversas técnicas já propostas em diversas publicações e analisa a viabilidade de sua implementação em hardware e seu grau de complexidade, propondo um roadmap para implementação das mesmas em um sistema dinâmico.</p>
+        </article>
+      </div>
+    </div>
+    <footer>
+      <div class="owner">
+      <p><a href="https://github.com/thiagorider" class="avatar"><img src="https://avatars2.githubusercontent.com/u/5251806?v=2&amp;s=60" width="48" height="48"></a> <a href="https://github.com/thiagorider">thiagorider</a> maintains <a href="https://github.com/thiagorider/RadFTAH">Radftah</a></p>
+
+
+      </div>
+      <div class="creds">
+        <small>This page generated using <a href="http://pages.github.com/">GitHub Pages</a><br>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
+      </div>
+    </footer>
+  </div>
+  <div class="current-section">
+    <a href="#top">Scroll to top</a>
+    <a href="https://github.com/thiagorider/RadFTAH/tarball/master" class="tar">tar</a><a href="https://github.com/thiagorider/RadFTAH/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
+    <p class="name"></p>
+  </div>
+
+  
+</body>
+</html>
