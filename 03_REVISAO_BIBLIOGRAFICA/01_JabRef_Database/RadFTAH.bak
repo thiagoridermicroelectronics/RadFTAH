@@ -1,0 +1,27 @@
+% This file was created with JabRef 2.10b2.
+% Encoding: ISO8859_1
+
+
+@MastersThesis{,
+  Title                    = {CFT-tool : ferramenta configurável para aplicação de técnicas de detecção de falhas em processadores por software},
+  Author                   = {Chielle, Eduardo},
+  School                   = {Universidade Federal do Rio Grande do Sul},
+  Year                     = {2012},
+
+  Address                  = {Porto Alegre, BR-RS},
+  Type                     = {Dissertação},
+
+  Abstract                 = {This work presents a configurable tool, called CFT-tool, capable of automatically applying software-based error detection techniques aiming to protect processors with different architectures and organizations against transient faults in the hardware. The techniques are based on redundancy and comparison. They are applied by CFT-tool in the assembly code of an unprotected program, compiled to the target architecture. The developed tool was validated using two distinct processors: miniMIPS and LEON3. The miniMIPS processor has been utilized to verify the efficiency of the software-based techniques applied by CFT-tool in the assembly code of unprotected programs in terms of error detection rate, runtime and memory occupation, comparing the obtained results with those presented in the literature. The LEON3 processor was selected because it is largely adopted in space applications and because it is based on a different architecture that miniMIPS processor. The configurability of the CFT-tool is verified with the LEON3 processor, that is, the capability of the tool at applying software-based detection techniques in a code compiled to a different processor, maintaining it functional and capable of detecting errors. The CFT-tool can be utilized to protect programs compiled to other architectures and organizations by modifying the configuration files of the tool. The configuration of the techniques is defined by the specifications of the application, processor resources and selections of the user. Programs were protected and faults were injected in logical level in both processors. When using the miniMIPS processor, the error detection rates, runtimes and memory occupations of the protected programs are comparable to the results presents in the literature. Similar results are reached with the LEON3 processor. Differences between the results are due to architecture features. The CFT-tool can be configurable to protect the entire code or to select portions of the code or registers that will be redundant and protected. The advantage of protecting portions of the code is to reduce the final cost in terms of runtime and memory occupation. An analysis of the impact of selective selection of registers in the error detection rate is also presented. And policies to reach an optimum committal between amount of protected registers, error detection rate and cost are discussed.},
+  File                     = {:home/thiago/projetos/RadFTAH/02_ARTIGO_CFTOOL/000854148.pdf:PDF},
+  Keywords                 = {Microeletronica, Fault tolerance, Transient faults, Tolerancia : Falhas, SEU, SET, Software-based detection techniques},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.27},
+  Url                      = {http://hdl.handle.net/10183/54883}
+}
+
+@comment{jabref-meta: psDirectory:/home/thiago/projetos/RadFTAH/03_REV
+ISAO_BIBLIOGRAFICA/03_PSs;}
+
+@comment{jabref-meta: pdfDirectory:/home/thiago/projetos/RadFTAH/03_RE
+VISAO_BIBLIOGRAFICA/02_PDFs;}
+
