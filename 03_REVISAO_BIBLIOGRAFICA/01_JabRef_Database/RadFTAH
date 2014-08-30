@@ -2,6 +2,113 @@
 % Encoding: ISO8859_1
 
 
+@Article{774911,
+  Title                    = {Design and evaluation of system-level checks for on-line control flow error detection},
+  Author                   = {Alkhalifa, Z. and Nair, V.S.S. and Krishnamurthy, N. and Abraham, J.A.},
+  Journal                  = {Parallel and Distributed Systems, IEEE Transactions on},
+  Year                     = {1999},
+  Number                   = {6},
+  Pages                    = {627-641},
+  Volume                   = {10},
+
+  Doi                      = {10.1109/71.774911},
+  ISSN                     = {1045-9219},
+  Keywords                 = {concurrency control;distributed processing;real-time systems;ECCA;Enhanced Control-Flow Checking Using Assertions;concurrent error detection;control flow errors;fault and error injection;fault coverage;system-level checks;Application software;Computer aided instruction;Control systems;Delay;Error correction;Fault detection;Hardware;Performance analysis;Runtime;Testing},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{689401,
+  Title                    = {Designing masking fault-tolerance via nonmasking fault-tolerance},
+  Author                   = {Arora, A. and Kulkarni, S.S.},
+  Journal                  = {Software Engineering, IEEE Transactions on},
+  Year                     = {1998},
+  Number                   = {6},
+  Pages                    = {435-450},
+  Volume                   = {24},
+
+  Doi                      = {10.1109/32.689401},
+  ISSN                     = {0098-5589},
+  Keywords                 = {formal specification;software fault tolerance;Byzantine faults;fault-intolerant program;masking fault-tolerance;masking fault-tolerant programs;nonmasking fault-tolerance;process fail-stops;program executions;specification;triple modular redundancy;Costs;Design methodology;Detectors;Fault detection;Fault tolerance;Fault tolerant systems;Interconnected systems;Redundancy},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{5985914,
+  Title                    = {Evaluating the efficiency of data-flow software-based techniques to detect SEEs in microprocessors},
+  Author                   = {Azambuja, J.R. and Lapolli, A. and Altieri, M. and Kastensmidt, F.L.},
+  Booktitle                = {Test Workshop (LATW), 2011 12th Latin American},
+  Year                     = {2011},
+  Pages                    = {1-6},
+
+  Doi                      = {10.1109/LATW.2011.5985914},
+  Keywords                 = {data flow computing;electronic engineering computing;fault tolerance;microprocessor chips;reduced instruction set computing;MlPS-based microprocessor architecture;SEE detection;SEU detection;data flow software-based technique;fault tolerance method;single event transients;single event upsets;transient fault detection;Computer architecture;Fault tolerance;Fault tolerant systems;Microprocessors;Registers;Software;Transient analysis;Fault tolerance;SET;SEU;Soft errors;Software techniques},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{5720529,
+  Title                    = {Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique},
+  Author                   = {Azambuja, J.R. and Lapolli, A. and Rosa, L. and Kastensmidt, F.L.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2011},
+  Number                   = {3},
+  Pages                    = {993-1000},
+  Volume                   = {58},
+
+  Doi                      = {10.1109/TNS.2011.2109398},
+  ISSN                     = {0018-9499},
+  Keywords                 = {fault tolerance;flow control;microprocessor chips;MIPS microprocessor;SEE detection;SET fault;decoder characteristic;error detection;fault injection;light hardware module;microprocessor control-flow;nonintrusive hybrid technique;software signature;watchdog characteristic;Fault tolerance;Fault tolerant systems;Hardware;Microprocessors;Program processors;Registers;Fault tolerance;SEEs;hybrid fault tolerance techniques;microprocessors},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{6236246,
+  Title                    = {A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware},
+  Author                   = {Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2012},
+  Number                   = {4},
+  Pages                    = {1117-1124},
+  Volume                   = {59},
+
+  Doi                      = {10.1109/TNS.2012.2201750},
+  ISSN                     = {0018-9499},
+  Keywords                 = {Fault tolerance;Fault tolerant systems;Hardware;Microprocessors;Registers;Software;Transient analysis;Fault tolerance;microprocessors;reconfigurable;single event effects},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{6236246,
+  Title                    = {A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware},
+  Author                   = {Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2012},
+  Number                   = {4},
+  Pages                    = {1117-1124},
+  Volume                   = {59},
+
+  Doi                      = {10.1109/TNS.2012.2201750},
+  ISSN                     = {0018-9499},
+  Keywords                 = {Fault tolerance;Fault tolerant systems;Hardware;Microprocessors;Registers;Software;Transient analysis;Fault tolerance;microprocessors;reconfigurable;single event effects},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{6131362,
+  Title                    = {Non-intrusive reconfigurable HW/SW fault tolerance approach to detect transient faults in microprocessor systems},
+  Author                   = {Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R.},
+  Booktitle                = {Radiation and Its Effects on Components and Systems (RADECS), 2011 12th European Conference on},
+  Year                     = {2011},
+  Pages                    = {643-648},
+
+  Doi                      = {10.1109/RADECS.2011.6131362},
+  ISSN                     = {0379-6566},
+  Keywords                 = {fault tolerance;microprocessor chips;radiation hardening (electronics);MIPS microprocessor systems;application-oriented hardware module;control flow;data flow;hardware techniques;nonintrusive hybrid fault detection approach;nonintrusive reconfigurable HW-SW fault tolerance approach;software techniques;transient fault detection;Fault tolerance;Fault tolerant systems;Field programmable gate arrays;Hardware;Microprocessors;Registers;Software;Fault tolerance;Microprocessors;Reconfigurable;Single Event Effects},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
 @MastersThesis{Chielle2012,
   Title                    = {CFT-tool : ferramenta configurável para aplicação de técnicas de detecção de falhas em processadores por software},
   Author                   = {Chielle, Eduardo},
@@ -17,6 +124,317 @@
   Owner                    = {thiago},
   Timestamp                = {2014.08.27},
   Url                      = {http://hdl.handle.net/10183/54883}
+}
+
+@Article{6560441,
+  Title                    = {Evaluating Selective Redundancy in Data-Flow Software-Based Techniques},
+  Author                   = {Chielle, E. and Azambuja, J.R. and Barth, R.S. and Almeida, F. and Kastensmidt, F.L.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2013},
+  Number                   = {4},
+  Pages                    = {2768-2775},
+  Volume                   = {60},
+
+  Doi                      = {10.1109/TNS.2013.2266917},
+  ISSN                     = {0018-9499},
+  Keywords                 = {data flow analysis;error detection;microprocessor chips;allocated registers;data-flow errors;data-flow software-based techniques;error detection capability;miniMIPS hardware;miniMIPS microprocessor software;processor hardware;program memory footprint;selective redundancy;semiconductor industry;single event effect upsets;Degradation;Encryption;Memory management;Microprocessors;Redundancy;Registers;Software;Fault tolerance;microprocessors;selective redundancy;soft errors;software-based techniques},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{6562659,
+  Title                    = {Improving error detection with selective redundancy in software-based techniques},
+  Author                   = {Chielle, E. and Azambuja, J.R. and Barth, R.S. and Kastensmidt, F.L.},
+  Booktitle                = {Test Workshop (LATW), 2013 14th Latin American},
+  Year                     = {2013},
+  Pages                    = {1-6},
+
+  Doi                      = {10.1109/LATW.2013.6562659},
+  Keywords                 = {error detection;fault diagnosis;fault tolerant computing;microprocessor chips;redundancy;detection rates;fault injection campaign;fault tolerance approach;hardening overheads;miniMIPS microprocessor;selective redundancy;selective software based techniques;Cryptography;Registers},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{5746555,
+  Title                    = {A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems},
+  Author                   = {Cuenca-Asensi, S. and Martinez-Alvarez, A. and Restrepo-Calle, F. and Palomo, F.R. and Guzman-Miranda, H. and Aguirre, M.A.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2011},
+  Number                   = {3},
+  Pages                    = {1059-1065},
+  Volume                   = {58},
+
+  Doi                      = {10.1109/TNS.2011.2112379},
+  ISSN                     = {0018-9499},
+  Keywords                 = {embedded systems;fault tolerant computing;radiation hardening (electronics);dependability requirements;design constraints;embedded systems;hardening infrastructure;hardware and software mitigation techniques;radiation effects;soft errors mitigation;Circuit faults;Hardware;Microprocessors;Registers;Software;Software reliability;Fault tolerance;radiation effects;reliability},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{6204100,
+  Title                    = {Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices},
+  Author                   = {Estep, N.A. and Petrosky, J.C. and McClory, J.W. and Kim, Y. and Terzuoli, A.J.},
+  Journal                  = {Plasma Science, IEEE Transactions on},
+  Year                     = {2012},
+  Number                   = {6},
+  Pages                    = {1495-1501},
+  Volume                   = {40},
+
+  Doi                      = {10.1109/TPS.2012.2193600},
+  ISSN                     = {0093-3813},
+  Keywords                 = {CMOS integrated circuits;electromagnetic interference;radiation effects;CMOS devices;complementary metal oxide semiconductor inverter technology;device technology;electromagnetic interference;gamma radiation environment;high-energy ionizing radiation;integrated circuit;inverter performance;ionizing radiation effects;radiation hardness;signal error;transistor quantity;CMOS integrated circuits;Electromagnetic interference;Inverters;Ionizing radiation;Leakage current;MOSFETs;CMOS;electromagnetic compatibility;electromagnetic coupling;electromagnetic interference;gamma irradiation effects},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{6522833,
+  Title                    = {Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices},
+  Author                   = {Fleetwood, D.M.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2013},
+  Number                   = {3},
+  Pages                    = {1706-1730},
+  Volume                   = {60},
+
+  Doi                      = {10.1109/TNS.2013.2259260},
+  ISSN                     = {0018-9499},
+  Keywords                 = {CMOS integrated circuits;MIS devices;dangling bonds;elemental semiconductors;hardness;ionisation;radiation hardening (electronics);semiconductor-insulator boundaries;silicon;silicon compounds;vacancies (crystal);IEEE Nuclear and Space Radiation Effects Conference;MOS devices;Si-SiO2;charge transport;charge trapping;critical defects;critical impurities;dangling bonds;effects space systems;enhanced low-dose-rate sensitivity;hardness;integrated circuits;low-dose-rate-sensitive linear-bipolar devices;metal-gate radiation-hardened MOS technology;postirradiation effects;radiation-hardened Si-gate CMOS technology;total ionizing dose effects;vacancies;Defects;ELDRS;MOS;hole traps;hydrogen;interface traps;linear bipolar;total ionizing dose},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{6482273,
+  Title                    = {Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013},
+  Author                   = {Galloway, K.F. and Primich, T.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2013},
+  Number                   = {3},
+  Pages                    = {1674-1680},
+  Volume                   = {60},
+
+  Doi                      = {10.1109/TNS.2013.2244614},
+  ISSN                     = {0018-9499},
+  Keywords                 = {nuclear engineering;AD 2003;AD 2013;IEEE Transactions on Nuclear Science;IEEE nuclear and space radiation effects conference;NSREC;high impact papers;radiation effects research;Awards activities;CMOS integrated circuits;Conferences;MOS capacitors;Radiation effects;Radiation hardening (electronics);Transistors;IEEE Nuclear and Space Radiation Effects Conference;IEEE Transactions on Nuclear Science;radiation effects;radiation effects in microelectronics: radiation hardening},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{1250857,
+  Title                    = {Assessing software implemented fault detection and fault tolerance mechanisms},
+  Author                   = {Gawkowski, P. and Sosnowski, J.},
+  Booktitle                = {Test Symposium, 2003. ATS 2003. 12th Asian},
+  Year                     = {2003},
+  Pages                    = {462-467},
+
+  Doi                      = {10.1109/ATS.2003.1250857},
+  ISSN                     = {1081-7735},
+  Keywords                 = {error detection;error handling;fault tolerant computing;hardware-software codesign;redundancy;COTS error detection mechanisms;compiler specificity;error handling scheme;fault hardening;fault injector;fault susceptibility;fault tolerance mechanisms;hardware fault correction;hardware fault detection;software implementation;statistical tools;Application software;Computer fault tolerance;Computer science;Detectors;Error analysis;Error correction;Fault detection;Fault tolerance;Hardware;Monitoring;Redundancy;Testing},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{6166873,
+  Title                    = {Radiation Effects in Si-NW GAA FET and CMOS Inverter: A TCAD Simulation Study},
+  Author                   = {Kaushal, G. and Rathod, S.S. and Maheshwaram, S. and Manhas, S. K. and Saxena, A. K. and Dasgupta, S.},
+  Journal                  = {Electron Devices, IEEE Transactions on},
+  Year                     = {2012},
+  Number                   = {5},
+  Pages                    = {1563-1566},
+  Volume                   = {59},
+
+  Doi                      = {10.1109/TED.2012.2187656},
+  ISSN                     = {0018-9383},
+  Keywords                 = {CMOS integrated circuits;MOSFET;circuit simulation;elemental semiconductors;gamma-rays;invertors;nanowires;radiation hardening (electronics);semiconductor device reliability;silicon;technology CAD (electronics);transient analysis;3D technology computer-aided design simulations;CMOS inverter;SEE;Si;TCAD simulation study;TID effects;alpha particle;gamma ray exposure;heavy-ion strikes;n-channel MOSFET reliability;p-channel MOSFET reliability;radiation effect analysis;radiation-hardened Si-NW FET circuits;silicon-nanowire GAA FET;silicon-nanowire gate-all-around field-effect transistor;single-event effects;total ionizing dose effects;transient effects;Alpha particles;CMOS integrated circuits;Integrated circuit modeling;Inverters;Logic gates;MOSFET circuits;Semiconductor device modeling;CMOS;radiation effects;silicon-nanowire (Si-NW) MOSFET;simulation;technology computer-aided design (TCAD)},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{6519952,
+  Title                    = {Single-Event Effects in CMOS Image Sensors},
+  Author                   = {Lalucaa, V. and Goiffon, V. and Magnan, P. and Rolland, G. and Petit, S.},
+  Journal                  = {Nuclear Science, IEEE Transactions on},
+  Year                     = {2013},
+  Number                   = {4},
+  Pages                    = {2494-2502},
+  Volume                   = {60},
+
+  Doi                      = {10.1109/TNS.2013.2260355},
+  ISSN                     = {0018-9499},
+  Keywords                 = {CMOS image sensors;electronic engineering computing;simulation;3T active pixel sensors;APS;CMOS image sensors;SEE;SEFI;SEL;SET effects;STARDUST simulation software;single-event effects;single-event functional interrupt;single-event latch-up;single-event transient effects;APS;CIS;CMOS;SEE;image sensor;radiation effects},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{6241810,
+  Title                    = {Technology scaling and soft error reliability},
+  Author                   = {Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D.},
+  Booktitle                = {Reliability Physics Symposium (IRPS), 2012 IEEE International},
+  Year                     = {2012},
+  Pages                    = {3C.1.1-3C.1.7},
+
+  Doi                      = {10.1109/IRPS.2012.6241810},
+  ISSN                     = {1541-7026},
+  Keywords                 = {failure analysis;integrated circuit reliability;radiation hardening (electronics);integrated circuit scaling;radiation soft error failure modes;soft error reliability;technology scaling;CMOS integrated circuits;CMOS technology;Inverters;Logic gates;MOS devices;Sensitivity;Switches;SER;radiation effects;single event effect;soft error;soft error reliability;technology scaling},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{6353739,
+  Title                    = {Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA},
+  Author                   = {O'Bryan, M.V. and LaBel, K.A. and Pellish, J.A. and Lauenstein, J.-M. and Dakai Chen and Marshall, C.J. and Casey, M.C. and Gigliuto, R.A. and Sanders, A.B. and Oldham, T.R. and Kim, H.S. and Phan, A.M. and Berg, M.D. and Marshall, P.W. and Ladbury, R.L. and Wilcox, E.P. and Boutte, A.J. and Musil, P.L. and Overend, G.A.},
+  Booktitle                = {Radiation Effects Data Workshop (REDW), 2012 IEEE},
+  Year                     = {2012},
+  Pages                    = {1-9},
+
+  Doi                      = {10.1109/REDW.2012.6353739},
+  ISSN                     = {2154-0519},
+  Keywords                 = {radiation hardening (electronics);semiconductor device testing;space vehicle electronics;NASA;SEE testing;candidate spacecraft electronics;electronic radiation effect;single event effect testing;CMOS integrated circuits;Laser beams;NASA;Performance evaluation;Protons;Testing;USA Councils},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{980007,
+  Title                    = {ED4I: error detection by diverse data and duplicated instructions},
+  Author                   = {Oh, N. and Mitra, S and McCluskey, E.J.},
+  Journal                  = {Computers, IEEE Transactions on},
+  Year                     = {2002},
+  Number                   = {2},
+  Pages                    = {180-199},
+  Volume                   = {51},
+
+  Doi                      = {10.1109/12.980007},
+  ISSN                     = {0018-9340},
+  Keywords                 = {data integrity;embedded systems;error detection;fault tolerant computing;ED4I;SIHFT;VLSI technologies;abnormal behavior;benchmark programs;commercial off-the-shelf processors;computing system errors;concurrent error detection;critical applications;data diversity;data integrity;diverse data;duplicated instructions;embedded processors;embedded systems;error detection;fault detection probability;feature sizes;floating point numbers;functionally equivalent program execution;high-frequency operation;integer numbers;mapping transformation;permanent errors;program output comparison;software-implemented hardware fault tolerance;supply voltages;system availability;temporary errors;Application software;Degradation;Embedded system;Fault detection;Fault tolerance;Frequency;Hardware;Very large scale integration;Voltage},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{994926,
+  Title                    = {Control-flow checking by software signatures},
+  Author                   = {Oh, N. and Shirvani, P.P. and McCluskey, E.J.},
+  Journal                  = {Reliability, IEEE Transactions on},
+  Year                     = {2002},
+  Number                   = {1},
+  Pages                    = {111-122},
+  Volume                   = {51},
+
+  Doi                      = {10.1109/24.994926},
+  ISSN                     = {0018-9529},
+  Keywords                 = {program diagnostics;program testing;software reliability;assigned signatures;branching fault injection experiment;branching faults;code size reduction;compilation time;control flow checking by software signatures;error detection instructions;execution time overhead reduction;instructions checking;multitasking environment;program graph;run-time signatures;signature monitoring techniques;software method;undetected incorrect outputs;watchdog task;Central Processing Unit;Error correction;Fault detection;Hardware;Monitoring;Multitasking;Operating systems;Process control;Runtime;Satellites},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{6393319,
+  Title                    = {The study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray},
+  Author                   = {Seung-Chan Oh and Nam-Ho Lee and Heung-Ho Lee},
+  Booktitle                = {Control, Automation and Systems (ICCAS), 2012 12th International Conference on},
+  Year                     = {2012},
+  Pages                    = {1233-1236},
+
+  Keywords                 = {CMOS integrated circuits;SPICE;gamma-ray bursts;ionisation;linear accelerators;logic gates;radiation effects;semiconductor device testing;CMOS integrated circuit;LINAC;NAND gate;Pohang Accelerator Laboratory;SPICE simulation;burn-out effect;electron beam pulse;electron volt energy 60 MeV;failure situation identification;gamma-ray burst;high energy ionizing radiation pulse;ionizing effect;latch-up phenomena;linear accelerator facility;partial electronic device;pulsed high energy gamma-ray;transient radiation effect;transient radiation test;Integrated circuit modeling;Logic gates;Photoconductivity;Radiation effects;Semiconductor device modeling;Transient analysis;Tungsten;Burn-out;CMOS Integrated circuits;Gamma-ray burst},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{6128570,
+  Title                    = {MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes},
+  Author                   = {Ortega-Sanchez, C.},
+  Booktitle                = {Reconfigurable Computing and FPGAs (ReConFig), 2011 International Conference on},
+  Year                     = {2011},
+  Pages                    = {152-157},
+
+  Doi                      = {10.1109/ReConFig.2011.62},
+  Keywords                 = {computer aided instruction;display devices;electrical engineering computing;electrical engineering education;field programmable gate arrays;light emitting diodes;user interfaces;7-segment displays;8-bit MIPS;BASYS Spartan 3E development board;DIP switches;FPGA;Fibonacci series;LED;MiniMIPS;custom made assembler-simulator tool;digital electronics;educational purposes;electrical engineering students;laboratory tasks;push-buttons;single cycle architecture;user interface;Computer architecture;Computers;Educational institutions;Field programmable gate arrays;Laboratories;Light emitting diodes;Registers;FPGA applications;MIPS architecture;Soft cores;embedded systems;engineering education},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{1402092,
+  Title                    = {SWIFT: software implemented fault tolerance},
+  Author                   = {Reis, G.A. and Chang, J. and Vachharajani, N. and Rangan, R. and August, D.I.},
+  Booktitle                = {Code Generation and Optimization, 2005. CGO 2005. International Symposium on},
+  Year                     = {2005},
+  Pages                    = {243-254},
+
+  Doi                      = {10.1109/CGO.2005.34},
+  Keywords                 = {error correction codes;fault diagnosis;program processors;redundancy;software fault tolerance;storage management;SWIFT;control-flow checking mechanism;hardware technique;instruction-level resource;memory system;program execution;redundancy;reliable system;single-threaded approach;soft-errors;software implemented fault tolerance;software technique;transient-fault-detection technique;Clocks;Fault tolerance;Hardware;Noise level;Noise reduction;Power system reliability;Process design;Redundancy;Resource management;Voltage},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{Rotenberg99ar-smt:a,
+  Title                    = {AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors},
+  Author                   = {Eric Rotenberg},
+  Year                     = {1999},
+  Pages                    = {84--91},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{6169884,
+  Title                    = {Single-Event Soft Errors in CMOS Logic},
+  Author                   = {Sayil, S. and Juyu Wang},
+  Journal                  = {Potentials, IEEE},
+  Year                     = {2012},
+  Number                   = {2},
+  Pages                    = {15-22},
+  Volume                   = {31},
+
+  Doi                      = {10.1109/MPOT.2011.2178191},
+  ISSN                     = {0278-6648},
+  Keywords                 = {CMOS logic circuits;combinational circuits;crosstalk;radiation hardening (electronics);CMOS logic;HSpice simulations;SE clock jitter;SE crosstalk effects;SE-induced soft delays;clock pulse;combinational logic;device parameters;hardening techniques;predictive technology model;radiation induced soft errors;single-event soft errors;size 65 nm;CMOS integrated circuits;Crosstalk;Integrated circuit reliability;Logic gates;Noise measurement;Signal processing;Transient analysis},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{842342,
+  Title                    = {An experiment with adaptive fault tolerance in highly-constrained systems},
+  Author                   = {Shokri, E. and Beltas, P.},
+  Booktitle                = {Object-Oriented Real-Time Dependable Systems, 1999. WORDS 1999 Fall. Proceedings. Fifth International Workshop on},
+  Year                     = {1999},
+  Pages                    = {119-124},
+
+  Doi                      = {10.1109/WORDSF.1999.842342},
+  Keywords                 = {adaptive systems;aerospace computing;fault tolerance;resource allocation;space vehicles;adaptive fault tolerance;adjustable resource allocation strategy;autonomous spacecraft;dynamic application profile;dynamic environmental conditions;dynamic resource management;fault management strategy;resource availability;resource-constrained dependable real-time systems;self-contained fault tolerance capabilities;Availability;Communication system control;Fault tolerance;Fault tolerant systems;Middleware;Resource management;Software safety;Space missions;Space vehicles;Sun},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{4197508,
+  Title                    = {Transient Error Detection in Embedded Systems Using Reconfigurable Components},
+  Author                   = {Vahdatpour, A. and Fazeli, M. and Miremadi, S.G.},
+  Booktitle                = {Industrial Embedded Systems, 2006. IES '06. International Symposium on},
+  Year                     = {2006},
+  Pages                    = {1-6},
+
+  Doi                      = {10.1109/IES.2006.357485},
+  Keywords                 = {embedded systems;error detection;field programmable gate arrays;microcontrollers;reconfigurable architectures;transient analysis;8051 microcontroller;Altera Max-7000 FPGA chip logic cells;compile time;embedded systems;hardware control flow checking technique;industrial applications;injected control flow errors;processor architecture;processor platforms;reconfigurable components;shelf FPGA;software implemented fault injection;target microprocessor;transient error detection;transient faults;watchdog processor;Application software;Computer architecture;Costs;Embedded system;Error correction;Fault detection;Field programmable gate arrays;Hardware;Logic;Microcontrollers},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@InProceedings{1194806,
+  Title                    = {A foundation for adaptive fault tolerance in software},
+  Author                   = {Whisnant, K. and Kalbarczyk, Z. and Iyer, R.K.},
+  Booktitle                = {Engineering of Computer-Based Systems, 2003. Proceedings. 10th IEEE International Conference and Workshop on the},
+  Year                     = {2003},
+  Pages                    = {252-260},
+
+  Doi                      = {10.1109/ECBS.2003.1194806},
+  Keywords                 = {configuration management;distributed programming;formal specification;software fault tolerance;system recovery;ARMOR processes;SIFT;adaptive software fault tolerance;assertion checking;data error propagation;distributed software-implemented fault tolerance environment;fault tolerance services;formal model;microcheckpointing;reconfigurable process architecture;reconfigurable software processes;recovery services;replaceable error detection;software requirements;user applications;Application software;Computer architecture;Computer errors;Electronic mail;Environmental management;Fault tolerance;Pervasive computing;Propulsion;Runtime;Testing},
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
+}
+
+@Article{ziade2004survey,
+  Title                    = {A survey on fault injection techniques},
+  Author                   = {Ziade, Haissam and Ayoubi, Rafic A and Velazco, Raoul and others},
+  Year                     = {2004},
+
+  Owner                    = {thiago},
+  Timestamp                = {2014.08.30}
 }
 
 @comment{jabref-meta: psDirectory:/home/thiago/projetos/RadFTAH/03_REV

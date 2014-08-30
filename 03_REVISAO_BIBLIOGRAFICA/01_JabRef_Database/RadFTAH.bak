@@ -2,7 +2,7 @@
 % Encoding: ISO8859_1
 
 
-@MastersThesis{,
+@MastersThesis{Chielle2012,
   Title                    = {CFT-tool : ferramenta configurável para aplicação de técnicas de detecção de falhas em processadores por software},
   Author                   = {Chielle, Eduardo},
   School                   = {Universidade Federal do Rio Grande do Sul},
