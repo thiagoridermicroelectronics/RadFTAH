@@ -173,36 +173,6 @@
   Timestamp                = {2014.08.30}
 }
 
-@InProceedings{Comput.Archit.&Comput.Eng.2014,
-  Title                    = {Bit-Flipping Scan --- A unified architecture for fault tolerance and offline test},
-  Author                   = {span id="authorAffiliations" class="Inst. of Comput. Archit. \& Comput. Eng., Univ. of Stuttgart, Stuttgart, M. E., Germany|c|"> Imhof and Wunderlich, H.-J.},
-  Booktitle                = {Design, Automation and Test in Europe Conference and Exhibition (DATE), 2014},
-  Year                     = {2014},
-  Pages                    = {1--6},
-
-  __markedentry            = {[thiago:6]},
-  Abstract                 = {Test is an essential task since the early days of digital circuits. Every produced chip undergoes at least a production test supported by on-chip test infrastructure to reduce test cost. Throughout the technology evolution fault tolerance gained importance and is now necessary in many applications to mitigate soft errors threatening consistent operation. While a variety of effective solutions exists to tackle both areas, test and fault tolerance are often implemented orthogonally, and hence do not exploit the potential synergies of a combined solution. The unified architecture presented here facilitates fault tolerance and test by combining a checksum of the sequential state with the ability to flip arbitrary bits. Experimental results confirm a reduced area overhead compared to a orthogonal combination of classical test and fault tolerance schemes. In combination with heuristically generated test sequences the test application time and test data volume are reduced significantly.},
-  Doi                      = {10.7873/DATE.2014.206},
-  Owner                    = {thiago},
-  Timestamp                = {2014.08.30},
-  Url                      = {http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6800407}
-}
-
-@InProceedings{Comput.Sci.&Eng.2002,
-  Title                    = {The complexity of adding failsafe fault-tolerance},
-  Author                   = {span id="authorAffiliations" class="Dept. of Comput. Sci. \& Eng., Michigan State Univ., East Lansing, MI, S. S., USA|c|"> Kulkarni and Ebnenasir, A.},
-  Booktitle                = {Distributed Computing Systems, 2002. Proceedings. 22nd International Conference on},
-  Year                     = {2002},
-  Pages                    = {337--344},
-
-  __markedentry            = {[thiago:6]},
-  Abstract                 = {In this paper, we focus our attention on the problem of automating the addition of failsafe fault-tolerance where fault-tolerance is added to an existing (fault-intolerant) program. A failsafe fault-tolerant program satisfies its specification (including safety and liveness) in the absence of faults. And, in the presence of faults, it satisfies its safety specification. We present a somewhat unexpected result that, in general, the problem of adding failsafe fault-tolerance in distributed programs is NP-hard. Towards this end, we reduce the 3-SAT problem to the problem of adding failsafe fault-tolerance. We also identify a class of specifications, monotonic specifications and a class of programs, monotonic programs. Given a (positive) monotonic specification and a (negative) monotonic program, we show that failsafe fault-tolerance can be added in polynomial time. We note that the monotonicity restrictions are met for commonly encountered problems such as Byzantine agreement, distributed consensus, and atomic commitment. Finally, we argue that the restrictions on the specifications and programs are necessary to add failsafe fault-tolerance in polynomial time; we prove that if only one of these conditions is satisfied, the addition of failsafe fault-tolerance is still NP-hard.},
-  Doi                      = {10.1109/ICDCS.2002.1022271},
-  Owner                    = {thiago},
-  Timestamp                = {2014.08.30},
-  Url                      = {http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1022271}
-}
-
 @Article{5746555,
   Title                    = {A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems},
   Author                   = {Cuenca-Asensi, S. and Martinez-Alvarez, A. and Restrepo-Calle, F. and Palomo, F.R. and Guzman-Miranda, H. and Aguirre, M.A.},
