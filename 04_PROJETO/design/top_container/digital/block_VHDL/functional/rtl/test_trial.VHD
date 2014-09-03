@@ -31,7 +31,7 @@ UUT : trial
 
 --Add your stimulus here..
 
-request_data <= ’1’ after 10 ns, ’0’ after 100 ns, ’1’ after 250 ns;
-ttl_clock_n <= ’1’ after 25 ns, ’0’ after 50 ns, ’1’ after 80 ns, ’0’ after 300 ns;
+request_data <= '1' after 10 ns, '0' after 100 ns, '1' after 250 ns;
+ttl_clock_n <= '1' after 25 ns, '0' after 50 ns, '1' after 80 ns, '0' after 300 ns;
 
 end tb_arch;
