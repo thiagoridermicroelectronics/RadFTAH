@@ -1,0 +1,3 @@
+ram.vhd
+rom.vhd
+bench_minimips.vhd
