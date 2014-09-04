@@ -58,7 +58,7 @@
 #-snapshot mux_4to1_tb
 
 #top
--top worklib.test_trial
+-top worklib.minimips
 
 
 #../comb_tb.v
