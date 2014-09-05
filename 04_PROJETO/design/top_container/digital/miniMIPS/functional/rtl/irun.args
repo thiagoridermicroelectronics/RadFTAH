@@ -67,6 +67,10 @@
 # smartorder to help VHDL elaborating: indicates that compiler should recognize hierarquical order
 -smartorder
 
+# VHDL SPECIAL OPTIONS
+-V200X
+# -V93
+
 # start sim
 #-run
 
