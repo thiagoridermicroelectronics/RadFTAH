@@ -1,0 +1,84 @@
+# irun -F irun.arg [-gui] [-c]
+
+# deletes previous .INCA_libs directory if it exists
+-clean
+
+# invoke 64-bit version
+# -64bit
+
+-F TB.filelist
+
+# make arrays and queues visible to simvision (remember to add the -memories switch to the probe statement)
+-linedebug
+
+# displays date when each engine is invoked
+-date
+
+# provide read/write/connectivity to the simulator
+-access +rwc
+
+# logfiles
+#-l            logs/irun.log
+#-log_amsspice logs/irun_ams.log
+#-log_ncelab   logs/irun_ncelab.log
+#-log_ncsim    logs/irun_ncsim.log
+#-log_ncvlog   logs/irun_ncvlog.log
+#-log_ncvhdl   logs/irun_ncvhdl.log
+
+# turns off the warning message that the default binding rules were used
++nowarn+CUDEFB
+
+# disable printing of all warning messages
+#-neverwarn
+
+# enable SystemVerilog compilation
+#-sv
+
+# sets PRNG seed
+#-svseed random
+
+# verbose
+-messages
+
+# sets timescale for verilog models that are missing time units
+-timescale 1ns/1ps
+
+# disables timing checks for gate-level testing
+#-notimingchecks
+#-sdf_verbose
+
+# simulation control file
+#+tcl+rtl_probe.tcl
+
+#-allowredefinition
+
+# testbench files
+
+#-snapshot tx_fsm_tb
+#-snapshot mux_4to1_tb
+
+#top
+-top worklib.sim_minimips
+
+
+#../comb_tb.v
+#./test_trial.VHD
+
+# smartorder to help VHDL elaborating: indicates that compiler should recognize hierarquical order
+-smartorder
+
+# VHDL SPECIAL OPTIONS
+-V200X
+# -V93
+
+# start sim
+#-run
+
+# GUI?
+-gui
+
+#checkargs??
+#-checkargs
+
+# exit ncsim when finished
+#-exit

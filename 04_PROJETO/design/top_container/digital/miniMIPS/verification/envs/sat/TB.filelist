@@ -1,3 +1,17 @@
 ram.vhd
 rom.vhd
 bench_minimips.vhd
+../../../functional/rtl/
+../../../functional/rtl/alu.vhd
+../../../functional/rtl/banc.vhd
+../../../functional/rtl/bus_ctrl.vhd
+../../../functional/rtl/minimips.vhd
+../../../functional/rtl/pack_mips.vhd
+../../../functional/rtl/pps_di.vhd
+../../../functional/rtl/pps_ei.vhd
+../../../functional/rtl/pps_ex.vhd
+../../../functional/rtl/pps_mem.vhd
+../../../functional/rtl/pps_pf.vhd
+../../../functional/rtl/predict.vhd
+../../../functional/rtl/renvoi.vhd
+../../../functional/rtl/syscop.vhd
