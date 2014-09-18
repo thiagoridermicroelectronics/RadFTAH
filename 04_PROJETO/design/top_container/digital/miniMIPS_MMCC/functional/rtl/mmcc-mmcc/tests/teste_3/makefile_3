@@ -1,0 +1,67 @@
+# Compile MMCC
+#
+# Federal University of Paraná, Brazil
+#
+# Changelog:
+# 22/11/11: Fernando Nascimento Nakamura: 1.0 Initial version
+#
+
+# Note: Simulation time must be very long in order to able all the computation to be done. Default time: 3400000ns
+
+all:
+	mkdir -p .build
+	mkdir -p log
+	date | tee log/ghdl.log log/ghdl_error.log
+	ghdl --clean
+	ghdl -a -g --std=93c --workdir=.build -Plib --ieee=synopsys -fexplicit \
+		src/multicore/pack_mips.vhd \
+		src/multicore/coherence_pkg.vhd \
+		src/multicore/alu.vhd \
+		src/multicore/pps_ex.vhd \
+		src/multicore/pps_ei.vhd \
+		src/multicore/utils_pkg.vhd \
+		src/multicore/semaphores.vhd\
+    src/multicore/memory.vhd \
+		src/multicore/multicore_cfg.vhd \
+		src/multicore/syscop.vhd \
+		src/multicore/renvoi.vhd \
+		src/multicore/predict.vhd \
+		src/multicore/pps_pf.vhd \
+		src/multicore/pps_mem.vhd \
+		src/multicore/pps_di.vhd \
+		src/multicore/banc.vhd \
+		src/multicore/mmu.vhd \
+		src/multicore/dcache_tag.vhd \
+		src/multicore/dcache_data.vhd \
+		src/multicore/dcache_loader.vhd \
+		src/multicore/dcache.vhd \
+		src/multicore/asyncmem_ctrl.vhd \
+		src/multicore/bus_mux.vhd \
+		src/multicore/icache_tag.vhd \
+		src/multicore/icache_data.vhd \
+		src/multicore/icache_loader.vhd \
+		src/multicore/icache.vhd \
+		src/multicore/zbt_ctrl.vhd \
+		src/multicore/uart.vhd \
+		src/multicore/minimips.vhd \
+		src/multicore/multicore_top.vhd \
+		src/multicore_bench/sram_mem.vhd \
+		src/multicore_bench/flash_mem.vhd \
+		src/multicore_bench/package_utility.vhd \
+		src/multicore_bench/CY7C1354C.vhd \
+		src/multicore_bench/multicore_top_tb.vhd >> log/ghdl.log 2>> log/ghdl_error.log
+
+	ghdl -m --std=93c --workdir=.build -Plib --ieee=synopsys -fexplicit multicore_top_tb >> log/ghdl.log 2>> log/ghdl_error.log
+
+run:
+	date | tee log/run.log log/run_error.log
+	./multicore_top_tb --stop-time=545000ns --vcd=mmcc.vcd >> log/run.log 2> log/run_error.log
+
+clean:
+	rm multicore_top_tb .build/*.o .build/*.cf
+
+cleanrun:
+	rm mmcc.vcd
+
+cleanlog:
+	rm log/*.log

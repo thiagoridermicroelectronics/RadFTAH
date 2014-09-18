@@ -1,0 +1,18 @@
+1	                          main add $1,$1,$2
+	                          Erreur de syntaxe
+2	0000  00031020                 add $2,$0,$3
+3	0004  00631820                 add $3,$3,$3
+4	0008  00041820                 add $3,$0,$4
+5	                          
+6	                          loop beq $3,$0,done #hereâ€™s the loop
+	                          Erreur de syntaxe
+7	000C  00231822                 sub $3,$1,$3
+8	                               j loop
+	                          Etiquette inexistante
+9	                          
+10	                          done sw $2,0($0)
+	                          Erreur de syntaxe
+11	                               lw $a,-2($4)
+	                          Erreur de syntaxe
+12	                          
+Table des étiquettes :

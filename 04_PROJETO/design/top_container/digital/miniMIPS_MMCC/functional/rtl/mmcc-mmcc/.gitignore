@@ -1,0 +1,6 @@
+*.o
+*.vcd
+g.sav
+log/ghdl.log
+log/ghdl_error.log
+.build

@@ -1,0 +1,28 @@
+======================
+MMCC
+======================
+
+It's a VHDL specification of a multicore archtecture based on mips R3000
+
+
+Requirements
+============
+
+Before compiling it you will need to untar the mmcc_depencies.tar on the
+src folder, and them compile the two closed modules:
+
+ cd src/unisims; ./build.sh
+ cd src/xil_cores && make
+
+Those modules can be found on Xilinxs WebPack, for free on the web, but due
+to licensing issues, we can't distribute them.
+We're working to find a open-source alternative soon.
+
+Compiling
+============
+
+After compiling the dependencies, you're able to compile MMCC by typing
+
+ make;
+
+on the root folder.
