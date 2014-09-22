@@ -1,7 +1,7 @@
 <map version="docear 1.1" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1411247157244" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1411352677505" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17,7 +17,7 @@
   </body>
 </html>
 </richcontent>
-<hook NAME="MapStyle" zoom="1.099">
+<hook NAME="MapStyle" zoom="0.337">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -74,70 +74,70 @@
 <attribute NAME="mon_subdirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_flatten_dirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_add_extra_incoming_node" VALUE="2" OBJECT="java.lang.Integer|2"/>
-<node TEXT="Incoming" POSITION="right" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1411248263217" MOVED="1377252717488" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="235" VSHIFT="-44">
+<node TEXT="Incoming" POSITION="right" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1411352677508" MOVED="1377252717488" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="235" VSHIFT="-44">
 <font NAME="Courier New" BOLD="true"/>
 <edge COLOR="#006699"/>
-<node TEXT="art%3A10.1023%2FA%3A1025130131636.pdf" ID="ID_1289755450" CREATED="1411247614347" MODIFIED="1411247614352" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/art%253A10.1023%252FA%253A1025130131636.pdf">
+<node TEXT="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor" ID="ID_1289755450" CREATED="1411247614347" MODIFIED="1411352885031" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/art%253A10.1023%252FA%253A1025130131636.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E2ED74595EF085E2E8CBC753AFD35BB6DAA984EA882723479AAA86E7B4E2C923">
     <pdf_title>Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="04243649.pdf" ID="ID_899312294" CREATED="1411247614491" MODIFIED="1411247614491" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/04243649.pdf">
+<node TEXT="Experimental Evaluation of Three Concurrent Error Detection Mechanisms" ID="ID_899312294" CREATED="1411247614491" MODIFIED="1411353072424" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/04243649.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E954FD21BC57B26DDE104D5A83BF77B3FAC4E4AE2D8FCE445B88085F0C344CB">
     <pdf_title>Experimental</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06334568.pdf" ID="ID_736083008" CREATED="1411247614507" MODIFIED="1411247614507" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06334568.pdf">
+<node TEXT="Soft Error Detection via Double Execution with Hardware Assistance" ID="ID_736083008" CREATED="1411247614507" MODIFIED="1411353063278" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06334568.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="3C13F3858D4A3798C32266CAFFE364494B830A1A427A2F675961DDE5E6A6583">
     <pdf_title>Soft Error Detection via Double Execution with Hardware Assistance</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00588046.pdf" ID="ID_760972837" CREATED="1411247614518" MODIFIED="1411247614518" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00588046.pdf">
+<node TEXT="Concurrent Detection of Software and Hardware Data-Access Faults" ID="ID_760972837" CREATED="1411247614518" MODIFIED="1411353051638" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00588046.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E0F7374BD26FEB0489284A8798DE276D9E260D033868AC77B03DABCE12630">
     <pdf_title>Concurrent Detection of Software and Hardware Data-Access Faults</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01319663.pdf" ID="ID_1960433681" CREATED="1411247614530" MODIFIED="1411247614531" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01319663.pdf">
+<node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1960433681" CREATED="1411247614530" MODIFIED="1411353100873" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01319663.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E668D0EFFDC85F14458CACAC84F0BC471EBC34AD395A35259AFF3E68366862">
     <pdf_title>Hybrid Soft Error Detection by means of Infrastructure IP cores</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="CRC-TR-01-6.pdf" ID="ID_1692182090" CREATED="1411247614546" MODIFIED="1411247614547" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/CRC-TR-01-6.pdf">
+<node TEXT="Fault-Tolerant Computing for Radiation Environments" ID="ID_1692182090" CREATED="1411247614546" MODIFIED="1411353127819" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/CRC-TR-01-6.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="EB18B62F98D7CCDCF39A2932EADF5E38C2F343E444233DFDA99B429FA3B5">
     <pdf_title>TECHNICAL REPORT</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06166873.pdf" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1411247614562" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf">
+<node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1411353152405" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D4D852F99AB0D925364677F4A756C5A8FAB3037A8D28642BF5470F141F1E13E">
     <pdf_title>Radiation Effects in Si-NW GAA FET and CMOS Inverter: A TCAD Simulation Study</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="05985914.pdf" ID="ID_280251868" CREATED="1411247614573" MODIFIED="1411247614573" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/05985914.pdf">
+<node TEXT="Evaluating the Efficiency of Data-flowSoftware-based Techniques to Detect SEEs in Microprocessors" ID="ID_280251868" CREATED="1411247614573" MODIFIED="1411353190513" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/05985914.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8A863A897D3B768F9852AEAE6AD4C87BA1A2F6EC252144C1068BE521D141F81">
     <pdf_title>Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00980007.pdf" ID="ID_1281226928" CREATED="1411247614588" MODIFIED="1411247614588" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00980007.pdf">
+<node TEXT="ED4I: Error Detection by Diverse Data and Duplicated Instructions" ID="ID_1281226928" CREATED="1411247614588" MODIFIED="1411353289256" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00980007.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="84A75D9D67169CF8FCBA212EC3658E035B71343E086BDAED346DAFC35D147">
     <pdf_title>5534.&gt;?@5A5;AB3C55 ;55;</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01607502.pdf" ID="ID_443314927" CREATED="1411247614600" MODIFIED="1411247614600" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01607502.pdf">
+<node TEXT="A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors" ID="ID_443314927" CREATED="1411247614600" MODIFIED="1411353320224" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01607502.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="EB7E4C34D186DE81967448C7FCE41392D195E603AC12B19FDB32C49D45">
     <pdf_title>A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00054849.pdf" ID="ID_1038189823" CREATED="1411247614611" MODIFIED="1411247614611" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00054849.pdf">
+<node TEXT="Control-Flow Checking Using Watchdog Assists and Extended-Precision Checksums" ID="ID_1038189823" CREATED="1411247614611" MODIFIED="1411353346098" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00054849.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="58B0B4ACAC7377702AA28ABA29D3A8BC9BBC43827DD48B2A2665187C09190">
     <pdf_title>micro rollback,</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="05720529.pdf" ID="ID_1483222876" CREATED="1411247614624" MODIFIED="1411247614624" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/05720529.pdf">
+<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_1483222876" CREATED="1411247614624" MODIFIED="1411353365252" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/05720529.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="17CA6DE573D6F4EEF27B7D76810A85EEE1417D224FEBB053E59524E5D45EEB">
     <pdf_title>Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06393319.pdf" ID="ID_1402581234" CREATED="1411247614643" MODIFIED="1411247614643" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06393319.pdf">
+<node TEXT="The Study of Radiation Transient Effects on Electronic Devices caused by Pulsed High Energy Gama-Ray" FOLDED="true" ID="ID_1402581234" CREATED="1411247614643" MODIFIED="1411353494709" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06393319.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E4F37017881C199A537B67BBDDA677836036D7278486FF19B4F794A4728E9C">
     <pdf_title>The Study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray</pdf_title>
 </pdf_annotation>
@@ -147,32 +147,32 @@
 </pdf_annotation>
 </node>
 </node>
-<node TEXT="05720529.pdf" ID="ID_1346855554" CREATED="1411247614659" MODIFIED="1411247614659" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05720529.pdf">
+<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_1346855554" CREATED="1411247614659" MODIFIED="1411353513152" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05720529.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="17CA6DE573D6F4EEF27B7D76810A85EEE1417D224FEBB053E59524E5D45EEB">
     <pdf_title>Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="05551155.pdf" ID="ID_921457065" CREATED="1411247614679" MODIFIED="1411247614679" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/05551155.pdf">
+<node TEXT="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs" ID="ID_921457065" CREATED="1411247614679" MODIFIED="1411353534576" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/05551155.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DC7AAA26B788E5BF257DE72FAEEE6EE7DE35F495C890FC7269EA3DD36212D690">
     <pdf_title>Short Papers</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06653578.pdf" ID="ID_1216976529" CREATED="1411247614688" MODIFIED="1411247614688" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06653578.pdf">
+<node TEXT="CFEDR: Control-Flow Error Detection and Recovery Using Encoded Signatures Monitoring" ID="ID_1216976529" CREATED="1411247614688" MODIFIED="1411353554378" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06653578.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="49945B883679842CDD1839E5CB191F69ED01657328EBAC579F8ABD52C38AA9D">
     <pdf_title>CFEDR: Control-Flow Error Detection and Recovery Using Encoded Signatures Monitoring</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06562659.pdf" ID="ID_384380627" CREATED="1411247614698" MODIFIED="1411247614698" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06562659.pdf">
+<node TEXT="Improving Error Detection with S elective Redundancy in Software-based Techniques" ID="ID_384380627" CREATED="1411247614698" MODIFIED="1411353582138" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06562659.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="EF9C252EA4816D3ACF3B773190119620F64A2B59BE76FAB47C23C7A169B7FC">
     <pdf_title>Improving Error Detection with Selective Redundancy in Software-based Techniques</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06560441.pdf" ID="ID_162567518" CREATED="1411247614711" MODIFIED="1411247614711" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06560441.pdf">
+<node TEXT="Evaluating Selective Redundancy in Data-Flow Software-Based Techniques" ID="ID_162567518" CREATED="1411247614711" MODIFIED="1411353603532" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06560441.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="47631311DE21C49FF9483C5D3465208388655B4CFDB03B4A9F2622D24B0528">
     <pdf_title>Evaluating Selective Redundancy in Data-Flow Software-Based Techniques</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="bok%3A978-1-4419-6715-2.pdf" ID="ID_399637140" CREATED="1411247614730" MODIFIED="1411247614730" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="Dependability in Electronic Systems: Mitigation of Hardware Failures, Soft-Errors and Electro-Magnetic Disturbances" FOLDED="true" ID="ID_399637140" CREATED="1411247614730" MODIFIED="1411353713973" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 <node TEXT="Preface" ID="ID_928573266" CREATED="1411247615620" MODIFIED="1411247615620" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="5" object_id="1970866415583229483" object_number="4328"/>
@@ -659,7 +659,7 @@
 <node TEXT="5.7 Availability Improvement vs. Coverage Improvement" ID="ID_1936853380" CREATED="1411247615231" MODIFIED="1411247615231" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="188" object_id="4996654387839133105" object_number="4493"/>
 </node>
-<node TEXT="5.8 Trade-Off Between Availability and Coverage  Stepwise Negotiating Voting" ID="ID_1520673173" CREATED="1411247615113" MODIFIED="1411247615113" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.8 Trade-Off Between Availability and Coverage  Stepwise Negotiating Voting" FOLDED="true" ID="ID_1520673173" CREATED="1411247615113" MODIFIED="1411247615113" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="188" object_id="6909476793678508167" object_number="4495"/>
 <node TEXT="5.8.1 Basic Concept" ID="ID_110674690" CREATED="1411247615214" MODIFIED="1411247615215" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="188" object_id="7286441237815360412" object_number="4496"/>
@@ -742,228 +742,223 @@
 <pdf_annotation type="BOOKMARK" page="225" object_id="503645062786619423" object_number="4522"/>
 </node>
 </node>
-<node TEXT="AR-SMT.pdf" ID="ID_836763964" CREATED="1411247618509" MODIFIED="1411247618509" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/AR-SMT.pdf">
+<node TEXT="AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors" ID="ID_836763964" CREATED="1411247618509" MODIFIED="1411353755515" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/AR-SMT.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="3E8C555745A4B79315CE07BFF9FC1D8BA6BE684E40BA3419EBFB3998157AD6">
     <pdf_title>AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="art%3A10.1007%2Fs10604-005-0066-9.pdf" ID="ID_1446620220" CREATED="1411247618516" MODIFIED="1411247618516" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" ID="ID_1446620220" CREATED="1411247618516" MODIFIED="1411353815138" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/art%253A10.1007%252Fs10604-005-0066-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
     <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00002145.pdf" ID="ID_779723400" CREATED="1411247618524" MODIFIED="1411247618525" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00002145.pdf">
+<node TEXT="Concurrent Error Detection Using Watchdog Processors - A Survey" ID="ID_779723400" CREATED="1411247618524" MODIFIED="1411353844861" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00002145.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C4DFA6B670D417D74165A0E9AB4CDA9B7AEC6583AD8791BDB8EB32C9896096">
     <pdf_title>Concurrent Error Detection Using Watchdog Processors-A Survey</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="05746555.pdf" ID="ID_347948509" CREATED="1411247618530" MODIFIED="1411247618530" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05746555.pdf">
+<node TEXT="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems" ID="ID_347948509" CREATED="1411247618530" MODIFIED="1411353868696" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05746555.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="424FAF394A9AB9418466BDCFDC250684522B2BBF855E9B09A71FDB518E8B247">
     <pdf_title>A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="04459660.pdf" ID="ID_1154160652" CREATED="1411247618536" MODIFIED="1411247618536" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/04459660.pdf">
+<node TEXT="A New Concurrent Detection of Control Flow ErrorsBased on DCT Technique" ID="ID_1154160652" CREATED="1411247618536" MODIFIED="1411353892815" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/04459660.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FC19AD4ADFFAB5B34F5695A74B925D951B168E2E608146B48F1EDFC6884">
     <pdf_title>A New Concurrent Detection of Control Flow Errors Based on DCT Technique</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00243569.pdf" ID="ID_1719032799" CREATED="1411247618543" MODIFIED="1411247618544" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00243569.pdf">
+<node TEXT="A Study of the Effects of Transient Fault Injection into a 32-bit RISC with a Built-In Watchdog" ID="ID_1719032799" CREATED="1411247618543" MODIFIED="1411360865147" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00243569.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="4E865C5163FDBC223F479D37AB8FF3CDCE4D2802271CE7F9BFC79CF99EC">
     <pdf_title>A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog - Fault-Tolerant Computing, FTCS-22. Digest of Papers., Twenty-Second International Symposium on</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="bok%3A978-0-387-35597-9.pdf" ID="ID_1809054716" CREATED="1411247618552" MODIFIED="1411247618552" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-0-387-35597-9.pdf">
+<node TEXT="SOC DESIGN METHODOLOGIES" ID="ID_1809054716" CREATED="1411247618552" MODIFIED="1411360930512" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-0-387-35597-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 </node>
-<node TEXT="00162054.pdf" ID="ID_228193392" CREATED="1411247618559" MODIFIED="1411247618559" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00162054.pdf">
+<node TEXT="SIGNATURE VERIFICATION: A NEW CONCEPT FOR BUILDING SIMPLE AND EFFECTIVE WATCHDOG PROCESSORS" ID="ID_228193392" CREATED="1411247618559" MODIFIED="1411360956169" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00162054.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="9C9AC09069738F4E4D41242B207E9B13F9E24CE339457B79B39FA9379F1D9F7">
     <pdf_title>Joao</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="04682244.pdf" ID="ID_958183265" CREATED="1411247618567" MODIFIED="1411247618567" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/04682244.pdf">
+<node TEXT="A Study On The Hardware Implementation Of EDAC" ID="ID_958183265" CREATED="1411247618567" MODIFIED="1411360977211" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/04682244.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="14E12F1FF2EFD056FB1235299DA2DE7C227B380E8D632581CF12F638EC3">
     <pdf_title>A Study On The Hardware Implementation Of EDAC</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06204100.pdf" ID="ID_865575048" CREATED="1411247618572" MODIFIED="1411247618572" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06204100.pdf">
+<node TEXT="Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices" ID="ID_865575048" CREATED="1411247618572" MODIFIED="1411360994156" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06204100.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="40F3BD4CA8D111EFF4AB1117A09042324658F5F35C155EAF4E1AE4551AF14AF4">
     <pdf_title>Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06522833.pdf" ID="ID_1948641765" CREATED="1411247618578" MODIFIED="1411247618578" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06522833.pdf">
+<node TEXT="Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices" ID="ID_1948641765" CREATED="1411247618578" MODIFIED="1411361346438" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06522833.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="2EFE6BA933F61650DD8C392DAD8143B6AFB371DC3FCE47529B5238B5F1B5B">
     <pdf_title>Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01402092.pdf" ID="ID_652368858" CREATED="1411247618585" MODIFIED="1411247618585" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01402092.pdf">
+<node TEXT="SWIFT: Software Implemented Fault Tolerance" ID="ID_652368858" CREATED="1411247618585" MODIFIED="1411361363198" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01402092.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8147595D213C833218CFECE5CE779C6397293DA426122F2EF673E54BB0D2">
     <pdf_title>SWIFT: Software Implemented Fault Tolerance</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="shirvanimapld99.pdf" ID="ID_1068558377" CREATED="1411247618593" MODIFIED="1411247618594" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/shirvanimapld99.pdf">
+<node TEXT="Fault-Tolerance Projects at Stanford CRC" ID="ID_1068558377" CREATED="1411247618593" MODIFIED="1411361406472" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/shirvanimapld99.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="F07FE3B2732353CA4E5066D947998E472CF361BC34BE9E5CFAB8EC212858726">
     <pdf_title>Fault-Tolerance Projects at Stanford CRC</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00994926.pdf" ID="ID_300364973" CREATED="1411247618598" MODIFIED="1411247618598" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00994926.pdf">
+<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_300364973" CREATED="1411247618598" MODIFIED="1411361419178" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00994926.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA4D594D38C7FD3721EE38EDA210BC8D265245B855D8F937D5CBDD8DF22CC3">
     <pdf_title>Control-Flow Checking by Software Signatures</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06114526.pdf" ID="ID_1654238221" CREATED="1411247618604" MODIFIED="1411247618605" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06114526.pdf">
+<node TEXT="A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits" ID="ID_1654238221" CREATED="1411247618604" MODIFIED="1411361437235" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06114526.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
     <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00812294.pdf" ID="ID_920022044" CREATED="1411247618623" MODIFIED="1411247618623" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00812294.pdf">
+<node TEXT="A Hybrid Approach to Design Error Detection and Correctioii" ID="ID_920022044" CREATED="1411247618623" MODIFIED="1411361451580" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00812294.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="A8357883C38DAA41BA2BE08FE685BBCB5A329968A7F11076F8FEEA649E4CB62">
     <pdf_title>Hybrid to Design Error Correctioii</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06176590.pdf" ID="ID_1805331216" CREATED="1411247618631" MODIFIED="1411247618631" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06176590.pdf">
+<node TEXT="An Hybrid Architecture to Detect Transient Faults in Microprocessors" ID="ID_1805331216" CREATED="1411247618631" MODIFIED="1411361468868" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06176590.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="25E992F7A2715694BC4A9929EB5ED384262CEDE3BD7D689051E82EFCCC97C48">
     <pdf_title>An Hybrid Architecture to Detect Transient Faults in Microprocessors</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06261259.pdf" ID="ID_1451889085" CREATED="1411247618639" MODIFIED="1411247618639" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06261259.pdf">
+<node TEXT="Configurable Tool to Protect Processors against SEE by Software-based Detection Techniques" ID="ID_1451889085" CREATED="1411247618639" MODIFIED="1411361489440" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06261259.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="497B313F646267BE4DFA15638C1C46AF7FE2979D62B24467C42A19B3448A">
     <pdf_title>Configurable Tool to Protect Processors against SEE by Software-based Detection Techniques</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06353739.pdf" ID="ID_1248100795" CREATED="1411247618646" MODIFIED="1411247618647" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06353739.pdf">
+<node TEXT="Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA" ID="ID_1248100795" CREATED="1411247618646" MODIFIED="1411361507185" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06353739.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DE7C9C241BD457CFC82765F1AF62AFB313D27BC5D56B2ADF87D75170717BFF">
     <pdf_title>Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00980007.pdf" ID="ID_1757843622" CREATED="1411247618654" MODIFIED="1411247618654" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00980007.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="84A75D9D67169CF8FCBA212EC3658E035B71343E086BDAED346DAFC35D147">
-    <pdf_title>5534.&gt;?@5A5;AB3C55 ;55;</pdf_title>
-</pdf_annotation>
-</node>
-<node TEXT="01250857.pdf" ID="ID_1574436401" CREATED="1411247618662" MODIFIED="1411247618662" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01250857.pdf">
+<node TEXT="Assessing Software Implemented Fault Detection and Fault Tolerance Mechanisms" ID="ID_1574436401" CREATED="1411247618662" MODIFIED="1411361693788" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01250857.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="3EFF7CDA527E4103B5A1842F7ECF281E653F6582AA8819B270BC3A93262979">
     <pdf_title>Assessing Software Implemented Fault Detection and Fault Tolerance Mechanisms</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00689401.pdf" ID="ID_918319161" CREATED="1411247618670" MODIFIED="1411247618671" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00689401.pdf">
+<node TEXT="Designing Masking Fault-Tolerance via Nonmasking Fault-Tolerance" ID="ID_918319161" CREATED="1411247618670" MODIFIED="1411361717222" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00689401.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C219F4B5942887F5E8EF58B852BD34A9A442B6752C1F8B3BE7BBE61C8EF1371">
     <pdf_title>Designing Masking Fault-Tolerance via Nonmasking Fault-Tolerance</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="SlidesMassimoViolante.pdf" ID="ID_962458636" CREATED="1411247618678" MODIFIED="1411247618678" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/SlidesMassimoViolante.pdf">
+<node TEXT="Software-implemented hardening against soft errors(SLIDES)" ID="ID_962458636" CREATED="1411247618678" MODIFIED="1411361745738" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/SlidesMassimoViolante.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5F1F8548C7C25DC2447EB6ED5B904F2C450881A689D6F445D30EED66426871C">
     <pdf_title>Software-implemented hardening against soft errors</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01676066.pdf" ID="ID_280934650" CREATED="1411247618685" MODIFIED="1411247618686" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01676066.pdf">
+<node TEXT="Watchdog Processors and Structural Integrity Checking" ID="ID_280934650" CREATED="1411247618685" MODIFIED="1411361761898" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01676066.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="2B32F32C5296F18345FAC346F5116B4125E773599FE164929A7673D52F4E7A1">
     <pdf_title>CONCLUSION</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06378204.pdf" ID="ID_820146409" CREATED="1411247618695" MODIFIED="1411247618695" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06378204.pdf">
+<node TEXT="Single Event Upset Tolerance in Flip-Flop Based Microprocessor Cores" ID="ID_820146409" CREATED="1411247618695" MODIFIED="1411361783203" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06378204.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="1797D527E212DF49487635C35246635E59EC78CB538FE83C9A58EF4837E85CE7">
     <pdf_title>Single Event Upset Tolerance in Flip-Flop Based Microprocessor Cores</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00842342.pdf" ID="ID_1525179419" CREATED="1411247618702" MODIFIED="1411247618702" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00842342.pdf">
+<node TEXT="An Experiment with Adaptive Fault Tolerance in Highly-Constraint Systems" ID="ID_1525179419" CREATED="1411247618702" MODIFIED="1411361802061" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00842342.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="4A36585F92C581F88732BD9E8A6237CC22BAC3BA531499D4ED4B7B5BE1B5CE">
     <pdf_title>An Experiment with Adaptive Fault Tolerance in Highly-Constraint Systems</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01276552.pdf" ID="ID_1189063440" CREATED="1411247618712" MODIFIED="1411247618712" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01276552.pdf">
+<node TEXT="Error Detection Enhancement in COTS Superscalar Processors with Event Monitoring Features" ID="ID_1189063440" CREATED="1411247618712" MODIFIED="1411361822133" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01276552.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="AB2DDC84ABCC66B2CA14FE6F778FDE5E93D1C49D377B4ADC9F0C6804C6447AA">
     <pdf_title>Error Detection Enhancement in COTS Superscalar Processors with Event Monitoring Features</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06131362.pdf" ID="ID_296264744" CREATED="1411247618719" MODIFIED="1411247618719" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06131362.pdf">
+<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_296264744" CREATED="1411247618719" MODIFIED="1411361846823" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/06131362.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="458A25552E5BFEBB0EF8999DE056919B317C612CE62983B5387A2FDBAEE086">
     <pdf_title>Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00994913.pdf" ID="ID_630579912" CREATED="1411247618727" MODIFIED="1411247618727" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00994913.pdf">
+<node TEXT="Error Detection by Duplicated Instructions in Super-Scalar Processors" ID="ID_630579912" CREATED="1411247618727" MODIFIED="1411361863545" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00994913.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="9B7D52B8685D26C9D8A66D9ACC4B14C9EA2C9625E3AFE997335D3D9CAFC563E3">
     <pdf_title>Error Detection by Duplicated Instructions in Super-Scalar Processors</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="azambuja_1.pdf" ID="ID_795448803" CREATED="1411247618734" MODIFIED="1411247618734" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/azambuja_1.pdf">
+<node TEXT="Non-Intrusive Hybrid Signature-Based Technique to Detect SEEs in Microprocessors" ID="ID_795448803" CREATED="1411247618734" MODIFIED="1411361884042" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/azambuja_1.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="F335AFB3A22593BDB7C14EC2A3AC946BA7EBF195A75EBD5C2F911CD6FDE9">
     <pdf_title>Non-Intrusive Hybrid Signature-Based Technique to Detect SEEs in Microprocessors</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="000826746.pdf" ID="ID_278016786" CREATED="1411247618744" MODIFIED="1411247618744" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/000826746.pdf">
+<node TEXT="An&#xe1;lise de T&#xe9;cnicas de Toler&#xe2;ncia a Falhas Baseadas em Software para a Prote&#xe7;&#xe3;o de Microprocessadores" ID="ID_278016786" CREATED="1411247618744" MODIFIED="1411361981881" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/000826746.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA584EA9D2B745F59431FF745986A71D7CE625BE4FCAB566C487EE154DC630">
     <pdf_title>Software</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01250158.pdf" ID="ID_244132322" CREATED="1411247618751" MODIFIED="1411247618751" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01250158.pdf">
+<node TEXT="Soft-error Detection Using Control Flow Assertions" ID="ID_244132322" CREATED="1411247618751" MODIFIED="1411361995497" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01250158.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="1388EE1C7B7C77B799506F97E75C116A55DB6AAC4A2288E28C33396727EEA8">
     <pdf_title>Soft-error Detection Using Control Flow Assertions</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01035377.pdf" ID="ID_866090913" CREATED="1411247618759" MODIFIED="1411247618759" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01035377.pdf">
+<node TEXT="Strategies for Fault-Tolerant, Space-Based Computing: Lessons Learned from the ARGOS Testbed" ID="ID_866090913" CREATED="1411247618759" MODIFIED="1411362026694" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01035377.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="80CC2DDEFCD475FA10351BF58310D903346FB56581E19E7974D784DF965C1">
     <pdf_title>ARGOS</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06128570.pdf" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1411247618766" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
+<node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1411362042677" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5FF56780A5BCACE023A24384365ADABF1FDF4C93E721EC53591F1571F2BE5A">
     <pdf_title>An 8-Bit MIPS in an FPGA for Educational Purposes</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="bok%3A978-0-387-31069-5.pdf" ID="ID_378639350" CREATED="1411247618774" MODIFIED="1411247618774" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-0-387-31069-5.pdf">
+<node TEXT="Fault-Tolerance Techniques for SRAM-based FPGAs" ID="ID_378639350" CREATED="1411247618774" MODIFIED="1411362064752" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-0-387-31069-5.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="AD1A81AB5C7271B73E3E394F6380BC79F2CF52488B8719F1A82F8739B2DEB560">
     <pdf_title>Fault-Tolerance Techniques for SRAM-based FPGAs</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="05640683.pdf" ID="ID_277003067" CREATED="1411247618784" MODIFIED="1411247618785" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/05640683.pdf">
+<node TEXT="A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation" ID="ID_277003067" CREATED="1411247618784" MODIFIED="1411362100793" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/05640683.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="3C665B397D6E623C9CAED7FDA3CC6CF25A0DF95CDBF0F35C41274AB2F55">
     <pdf_title>A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="bok%3A978-1-4020-2754-3.pdf" ID="ID_1865034433" CREATED="1411247618795" MODIFIED="1411247618795" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4020-2754-3.pdf">
+<node TEXT="Effects of Space Weather on Technology Infrastructure" ID="ID_1865034433" CREATED="1411247618795" MODIFIED="1411362122554" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4020-2754-3.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 </node>
-<node TEXT="00941435.pdf" ID="ID_404114006" CREATED="1411247618805" MODIFIED="1411247618805" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias3/00941435.pdf">
+<node TEXT="A Software-Implemented Fault Injection Methodology for Design and Validation of System Fault Tolerance" ID="ID_404114006" CREATED="1411247618805" MODIFIED="1411362141515" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias3/00941435.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="10EF84E043A5796FCB483B5FF7CE279B7608975955EEA114D82A073A74042DE">
     <pdf_title>for</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="04-Hissam.pdf" ID="ID_14728378" CREATED="1411247618811" MODIFIED="1411247618811" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04-Hissam.pdf">
+<node TEXT="A Survey on Fault Injection Techniques" ID="ID_14728378" CREATED="1411247618811" MODIFIED="1411362153269" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04-Hissam.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE777E67E88F91841A4464E68F81892CCEE0305ADE88CC2D7EE3DC351CC48">
     <pdf_title>A Survey on Fault Injection Techniques</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00774911.pdf" ID="ID_591459584" CREATED="1411247618818" MODIFIED="1411247618818" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00774911.pdf">
+<node TEXT="Design and Evaluation of System-Level Checks for On-Line Control Flow Error Detection" ID="ID_591459584" CREATED="1411247618818" MODIFIED="1411362169342" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00774911.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="60B3C9FE54EA11D86CE2F51D393BA8580BFAC2A445D70A445FBB386B7BD44">
     <pdf_title>1045-9219/99/$10.00 &#xdf; 1999 IEEE</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00994926.pdf" ID="ID_1076407100" CREATED="1411247618829" MODIFIED="1411247618829" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00994926.pdf">
+<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_1076407100" CREATED="1411247618829" MODIFIED="1411362182398" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00994926.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA4D594D38C7FD3721EE38EDA210BC8D265245B855D8F937D5CBDD8DF22CC3">
     <pdf_title>Control-Flow Checking by Software Signatures</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00640142.pdf" ID="ID_57130673" CREATED="1411247618836" MODIFIED="1411247618836" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00640142.pdf">
+<node TEXT="Design of A Fault-Tolerant Microprocessor: A Simulation Approach" ID="ID_57130673" CREATED="1411247618836" MODIFIED="1411362200808" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00640142.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="827EC564DE4D81DFCD9F8B3BD7A5953CEA8B125AF25088BE2C85F1EE9A1977CF">
     <pdf_title>of</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="05985914.pdf" ID="ID_1355615074" CREATED="1411247618843" MODIFIED="1411247618843" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05985914.pdf">
+<node TEXT="Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors" ID="ID_1355615074" CREATED="1411247618843" MODIFIED="1411362222633" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05985914.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8A863A897D3B768F9852AEAE6AD4C87BA1A2F6EC252144C1068BE521D141F81">
     <pdf_title>Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06236246.pdf" ID="ID_352644806" CREATED="1411247618850" MODIFIED="1411247618850" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06236246.pdf">
+<node TEXT="A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware" ID="ID_352644806" CREATED="1411247618850" MODIFIED="1411362246699" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06236246.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="43C7E5F33622657FB22FD1EF41726939F21C040BC55D5B0BEDE7CD6BB802E">
     <pdf_title>A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01672925.pdf" ID="ID_384968545" CREATED="1411247618857" MODIFIED="1411247618857" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01672925.pdf">
+<node TEXT="Reliability Analysis of Systems with Concurrent Error Detection" ID="ID_384968545" CREATED="1411247618857" MODIFIED="1411362263260" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01672925.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="8C67D3D91FB9BAEE5CC875A6844E6991B7C7EB6BC66E4F7AFD58AAFBDFDB67">
     <pdf_title>Error Detection</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="Soft Errors in Modern Electronics Systems" ID="ID_1542326560" CREATED="1411247618872" MODIFIED="1411247990505" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6993-4.pdf">
+<node TEXT="Soft Errors in Modern Electronics Systems" FOLDED="true" ID="ID_1542326560" CREATED="1411247618872" MODIFIED="1411247990505" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 <node TEXT="Soft Errors in Modern Electronic Systems" ID="ID_360267089" CREATED="1411247618944" MODIFIED="1411247618944" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="4" object_id="9168383112971903320" object_number="4062"/>
@@ -1020,12 +1015,12 @@
 <pdf_annotation type="BOOKMARK" page="303" object_id="8882200186071711986" object_number="4088"/>
 </node>
 </node>
-<node TEXT="01467779.pdf" ID="ID_1292183537" CREATED="1411247619076" MODIFIED="1411247619076" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01467779.pdf">
+<node TEXT="On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core" ID="ID_1292183537" CREATED="1411247619076" MODIFIED="1411362288761" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01467779.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="B8AED7A81D228BBC8E0B0E6891E360DE5F8D5F9D287A953422B3A0EA9E584">
     <pdf_title>On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="bok%3A978-90-481-3913-2.pdf" ID="ID_418720427" CREATED="1411247619091" MODIFIED="1411247619091" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution" FOLDED="true" ID="ID_418720427" CREATED="1411247619091" MODIFIED="1411362349226" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 <node TEXT="Preface" ID="ID_1046136292" CREATED="1411247620773" MODIFIED="1411247620773" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="6" object_id="2030601324183505047" object_number="3642"/>
@@ -1622,88 +1617,88 @@
 <pdf_annotation type="BOOKMARK" page="185" object_id="2813382053892300590" object_number="3839"/>
 </node>
 </node>
-<node TEXT="SIHFT_000512.pdf" ID="ID_1282195713" CREATED="1411247622105" MODIFIED="1411247622105" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/SIHFT_000512.pdf">
+<node TEXT="Software-Implemented Hardware Fault Tolerance Experiments COTS in Space" ID="ID_1282195713" CREATED="1411247622105" MODIFIED="1411362375012" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/SIHFT_000512.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="73B057B7848ACA3A0417480136E8CF71F5254FF9484FB77451E28AB1674B">
     <pdf_title>Software-Implemented Hardware Fault Tolerance Experiments COTS in Space</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="04197508.pdf" ID="ID_262750164" CREATED="1411247622113" MODIFIED="1411247622113" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04197508.pdf">
+<node TEXT="Transient Error Detection in Embedded Systems Using Reconfigurable Components" ID="ID_262750164" CREATED="1411247622113" MODIFIED="1411362392165" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04197508.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="A16329FFD21CEE2F3EC97B965EC8BE31695A3648A7131A24D4E9904DAC22A6">
     <pdf_title>Using</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="bok%3A978-0-387-32937-6.pdf" ID="ID_895669668" CREATED="1411247622118" MODIFIED="1411247622118" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-0-387-32937-6.pdf">
+<node TEXT="SOFTWARE-IMPLEMENTED HARDWARE FAULT TOLERANCE" ID="ID_895669668" CREATED="1411247622118" MODIFIED="1411362413560" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-0-387-32937-6.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 </node>
-<node TEXT="06169884.pdf" ID="ID_578028470" CREATED="1411247622123" MODIFIED="1411247622123" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<node TEXT="Single-event soft errors in CMOS logic" ID="ID_578028470" CREATED="1411247622123" MODIFIED="1411362429584" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
     <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06241810.pdf" ID="ID_347099177" CREATED="1411247622128" MODIFIED="1411247622128" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<node TEXT="Technology Scaling and Soft Error Reliability" ID="ID_347099177" CREATED="1411247622128" MODIFIED="1411362442297" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
     <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06482273.pdf" ID="ID_123087803" CREATED="1411247622135" MODIFIED="1411247622135" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06482273.pdf">
+<node TEXT="Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013" ID="ID_123087803" CREATED="1411247622135" MODIFIED="1411362465242" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06482273.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="A369AAFC35D92B86E2B555596ABA443526F83AFC955B40BCA4DE412583992E">
     <pdf_title>Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="alyamaniDSN01.pdf" ID="ID_1424012019" CREATED="1411247622145" MODIFIED="1411247622146" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/alyamaniDSN01.pdf">
+<node TEXT="ALGORITHM-BASED FAULT TOLERANCE: A PERFORMANCE PERSPECTIVE BASED ON ERROR RATE" ID="ID_1424012019" CREATED="1411247622145" MODIFIED="1411362486980" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/alyamaniDSN01.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3F661BE05843B14158F46D23A291859F46529F891B84AC9BCD782BE5588A55">
     <pdf_title>w w</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="04030963.pdf" ID="ID_104355958" CREATED="1411247622156" MODIFIED="1411247622156" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/04030963.pdf">
+<node TEXT="Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream" ID="ID_104355958" CREATED="1411247622156" MODIFIED="1411362513823" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/04030963.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="96C898D7FF3C0748894CB6A165513798A7F576D75BD7FB17262F69B6F49D0">
     <pdf_title>Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="00966768.pdf" ID="ID_596800052" CREATED="1411247622163" MODIFIED="1411247622163" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00966768.pdf">
+<node TEXT="Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency" ID="ID_596800052" CREATED="1411247622163" MODIFIED="1411362534679" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/00966768.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="CCD3BCA35AB4FB5C5CB26E18143CD7E9EA80ABE74CACB6C44B6FE378657F4">
     <pdf_title>Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06519952.pdf" ID="ID_429554744" CREATED="1411247622170" MODIFIED="1411247622170" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06519952.pdf">
+<node TEXT="Single-Event Effects in CMOS Image Sensors" ID="ID_429554744" CREATED="1411247622170" MODIFIED="1411362547968" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06519952.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="18285461374C9FBBAB3CD4AD4279A11E1B47A22C581CEECA8BA72F718C43152">
     <pdf_title>Single-Event Effects in CMOS Image Sensors</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="bok%3A978-0-387-77845-7.pdf" ID="ID_1933901635" CREATED="1411247622175" MODIFIED="1411247622175" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-0-387-77845-7.pdf">
+<node TEXT="Ultra-Wideband, Short Pulse Electromagnetics 9" ID="ID_1933901635" CREATED="1411247622175" MODIFIED="1411362570013" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/bok%253A978-0-387-77845-7.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="F0EFC45435515DCCC3A19562C3CCC565FD7FA26FE3D29E921E2E1E5CE51D3E">
     <pdf_title>Ultra-Wideband, Short Pulse Electromagnetics 9</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01431553.pdf" ID="ID_1678049564" CREATED="1411247622182" MODIFIED="1411247622182" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01431553.pdf">
+<node TEXT="Design and Evaluation of Hybrid Fault-Detection Systems" ID="ID_1678049564" CREATED="1411247622182" MODIFIED="1411362582442" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias%202/01431553.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="37CD057959DB5A875DDB22DD476CAC374EF987DF5FFE2EA30C827D63E9D35">
     <pdf_title>Design and Evaluation of Hybrid Fault-Detection Systems</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="06131362.pdf" ID="ID_1271063957" CREATED="1411247622189" MODIFIED="1411247622189" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06131362.pdf">
+<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_1271063957" CREATED="1411247622189" MODIFIED="1411362605190" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06131362.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="458A25552E5BFEBB0EF8999DE056919B317C612CE62983B5387A2FDBAEE086">
     <pdf_title>Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="01194806.pdf" ID="ID_187448554" CREATED="1411247622196" MODIFIED="1411247622196" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01194806.pdf">
+<node TEXT="A Foundation for Adaptive Fault Tolerance in Software" ID="ID_187448554" CREATED="1411247622196" MODIFIED="1411362618933" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01194806.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C2BF5025B536A393C5577B7C34CACE1E6E9F436CE5FEE7CDF3AAB5BC463B7">
     <pdf_title>A Foundation for Adaptive Fault Tolerance in Software</pdf_title>
 </pdf_annotation>
 </node>
 </node>
-<node TEXT="&lt;research category 1&gt;" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1411247157248" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="&lt;research category 1&gt;" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1411352677716" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#007c7c"/>
 </node>
-<node TEXT="&lt;research category 2&gt;" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1411247157248" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="&lt;research category 2&gt;" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1411352677717" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c7c00"/>
 </node>
-<node TEXT="&lt;research category 3&gt;" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1411247157248" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="&lt;research category 3&gt;" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1411352677717" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c0000"/>
-<node TEXT="&lt;research category 3.1&gt;" ID="ID_322863121" CREATED="1377254985251" MODIFIED="1411247157249" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="&lt;research category 3.2&gt;" ID="ID_1951434641" CREATED="1377254985251" MODIFIED="1411247157249" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="&lt;research category 3.3&gt;" ID="ID_444536474" CREATED="1377254985251" MODIFIED="1411247157249" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="&lt;research category 3.1&gt;" ID="ID_322863121" CREATED="1377254985251" MODIFIED="1411352677717" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="&lt;research category 3.2&gt;" ID="ID_1951434641" CREATED="1377254985251" MODIFIED="1411352677717" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="&lt;research category 3.3&gt;" ID="ID_444536474" CREATED="1377254985251" MODIFIED="1411352677717" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1411247157249" HGAP="-411" VSHIFT="-225" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1411352677717" HGAP="-411" VSHIFT="-225" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1729,7 +1724,7 @@
 </html>
 </richcontent>
 </node>
-<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1411247157249" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1411352677717" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1746,13 +1741,13 @@
 </html>
 </richcontent>
 <edge COLOR="#7c0000"/>
-<node TEXT="Example 1: Sort your PDFs (each PDF&#xa;will have its annotations as child node)" FOLDED="true" ID="ID_1397770501" CREATED="1377253207728" MODIFIED="1411247157250" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Category 1: Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_975521723" CREATED="1344508592622" MODIFIED="1411247157250" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Example 1: Sort your PDFs (each PDF&#xa;will have its annotations as child node)" FOLDED="true" ID="ID_1397770501" CREATED="1377253207728" MODIFIED="1411352677717" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Category 1: Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_975521723" CREATED="1344508592622" MODIFIED="1411352677718" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 </node>
-<node TEXT="Category 2: Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1447634729" CREATED="1344508911688" MODIFIED="1411247157260" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Category 3: Search Engine Spam" FOLDED="true" ID="ID_606982085" CREATED="1344509076356" MODIFIED="1411247157311" DCR_PRIVACY_LEVEL="DEMO"/>
-<node ID="ID_141894498" CREATED="1377254593942" MODIFIED="1411247157344" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node TEXT="Category 2: Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1447634729" CREATED="1344508911688" MODIFIED="1411352677718" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Category 3: Search Engine Spam" FOLDED="true" ID="ID_606982085" CREATED="1344509076356" MODIFIED="1411352677718" DCR_PRIVACY_LEVEL="DEMO"/>
+<node ID="ID_141894498" CREATED="1377254593942" MODIFIED="1411352677718" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1768,8 +1763,8 @@
 <font BOLD="false"/>
 </node>
 </node>
-<node TEXT="Example 2: Sort your annotations only" FOLDED="true" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1411247157344" DCR_PRIVACY_LEVEL="DEMO">
-<node ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1411247157344" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node TEXT="Example 2: Sort your annotations only" FOLDED="true" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1411352677718" DCR_PRIVACY_LEVEL="DEMO">
+<node ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1411352677718" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1784,34 +1779,34 @@
 </richcontent>
 <font BOLD="false"/>
 </node>
-<node TEXT=" Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1411247157344" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT=" Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1411352677718" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 </node>
-<node TEXT="Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1411247157350" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Definition &amp; Origin" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1411247157350" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Guidelines" FOLDED="true" ID="ID_194005043" CREATED="1344508982673" MODIFIED="1411247157353" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Opinions" FOLDED="true" ID="ID_1930051329" CREATED="1344509152237" MODIFIED="1411247157370" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Pro" ID="ID_1392476056" CREATED="1344509155557" MODIFIED="1411247157370" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Con" ID="ID_1940856338" CREATED="1344509156803" MODIFIED="1411247157386" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="These annotations already have&#xa;bibliographic data assigned (move&#xa;the mouse over the nodes to see it)" ID="ID_373642256" CREATED="1345720620556" MODIFIED="1411247157389" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1411352677718" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Definition &amp; Origin" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Guidelines" FOLDED="true" ID="ID_194005043" CREATED="1344508982673" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Opinions" FOLDED="true" ID="ID_1930051329" CREATED="1344509152237" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Pro" ID="ID_1392476056" CREATED="1344509155557" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Con" ID="ID_1940856338" CREATED="1344509156803" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="These annotations already have&#xa;bibliographic data assigned (move&#xa;the mouse over the nodes to see it)" ID="ID_373642256" CREATED="1345720620556" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="SummaryNode"/>
 <font BOLD="true"/>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="Search Engine Spam" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1411247157389" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Classic Search Engine Spam" ID="ID_331289321" CREATED="1344509216406" MODIFIED="1411247157389" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Academic Search Engine Spam" FOLDED="true" ID="ID_142245057" CREATED="1344509218390" MODIFIED="1411247157391" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Origin" ID="ID_1454640722" CREATED="1344509131751" MODIFIED="1411247157391" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Current problems of..." ID="ID_1759697893" CREATED="1344509232404" MODIFIED="1411247157392" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Google Scholar" ID="ID_1671464522" CREATED="1344509399579" MODIFIED="1411247157392" MOVED="1377255679985" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Microsoft &amp; CiteSeer" ID="ID_625521591" CREATED="1344509385586" MODIFIED="1411247157414" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Search Engine Spam" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Classic Search Engine Spam" ID="ID_331289321" CREATED="1344509216406" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Academic Search Engine Spam" FOLDED="true" ID="ID_142245057" CREATED="1344509218390" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Origin" ID="ID_1454640722" CREATED="1344509131751" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Current problems of..." ID="ID_1759697893" CREATED="1344509232404" MODIFIED="1411352677719" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Google Scholar" ID="ID_1671464522" CREATED="1344509399579" MODIFIED="1411352677719" MOVED="1377255679985" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Microsoft &amp; CiteSeer" ID="ID_625521591" CREATED="1344509385586" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
 </node>
 </node>
 </node>
-<node ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1411247157420" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1833,45 +1828,45 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Todos" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1411247157420" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Ask John to send me his new paper" ID="ID_1718393569" CREATED="1377253395047" MODIFIED="1411247157420" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Todos" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Ask John to send me his new paper" ID="ID_1718393569" CREATED="1377253395047" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO">
 <icon BUILTIN="button_ok"/>
 </node>
-<node TEXT="Submit article to journal" ID="ID_1884899473" CREATED="1377253406567" MODIFIED="1411247157420" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Submit article to journal" ID="ID_1884899473" CREATED="1377253406567" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO">
 <icon BUILTIN="25%"/>
 </node>
-<node TEXT="Find interns to help with Docear development" FOLDED="true" ID="ID_387032517" CREATED="1377253444350" MODIFIED="1411247157421" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Ask at university" ID="ID_873534185" CREATED="1377253462110" MODIFIED="1411247157421" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Find interns to help with Docear development" FOLDED="true" ID="ID_387032517" CREATED="1377253444350" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Ask at university" ID="ID_873534185" CREATED="1377253462110" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO">
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node TEXT="Place note on Docear homepage" ID="ID_102199314" CREATED="1377253471334" MODIFIED="1411247157421" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Send newsletter" ID="ID_914479173" CREATED="1377253483862" MODIFIED="1411247157421" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Place note on Docear homepage" ID="ID_102199314" CREATED="1377253471334" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Send newsletter" ID="ID_914479173" CREATED="1377253483862" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Read later" FOLDED="true" ID="ID_101014227" CREATED="1377254821613" MODIFIED="1411247157422" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Read later" FOLDED="true" ID="ID_101014227" CREATED="1377254821613" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Project ideas" FOLDED="true" ID="ID_778803683" CREATED="1377253508454" MODIFIED="1411247157424" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Machine for making water from sand (would&#xa;solve the problem of thirst in the world)" ID="ID_1844285982" CREATED="1377253593429" MODIFIED="1411247157424" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Robot to clean my dishes, make my bed, ..." ID="ID_1780949524" CREATED="1377254395207" MODIFIED="1411247157424" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="..." ID="ID_110121390" CREATED="1377254415687" MODIFIED="1411247157424" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Project ideas" FOLDED="true" ID="ID_778803683" CREATED="1377253508454" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Machine for making water from sand (would&#xa;solve the problem of thirst in the world)" ID="ID_1844285982" CREATED="1377253593429" MODIFIED="1411352677720" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Robot to clean my dishes, make my bed, ..." ID="ID_1780949524" CREATED="1377254395207" MODIFIED="1411352677721" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="..." ID="ID_110121390" CREATED="1377254415687" MODIFIED="1411352677721" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Tools for Literature Management" FOLDED="true" ID="ID_1289068930" CREATED="1344508500160" MODIFIED="1411247157424" MOVED="1377254563961" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Docear" ID="ID_92209979" CREATED="1344508512489" MODIFIED="1411247157424" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="http://www.docear.org/" ID="ID_723244074" CREATED="1344508531889" MODIFIED="1411247157424" LINK="http://www.docear.org/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Tools for Literature Management" FOLDED="true" ID="ID_1289068930" CREATED="1344508500160" MODIFIED="1411352677721" MOVED="1377254563961" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Docear" ID="ID_92209979" CREATED="1344508512489" MODIFIED="1411352677721" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="http://www.docear.org/" ID="ID_723244074" CREATED="1344508531889" MODIFIED="1411352677721" LINK="http://www.docear.org/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Zotero" ID="ID_1364979259" CREATED="1344508514120" MODIFIED="1411247157426" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="https://www.zotero.org/" ID="ID_316254824" CREATED="1344508547673" MODIFIED="1411247157426" LINK="https://www.zotero.org/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Zotero" ID="ID_1364979259" CREATED="1344508514120" MODIFIED="1411352677721" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="https://www.zotero.org/" ID="ID_316254824" CREATED="1344508547673" MODIFIED="1411352677721" LINK="https://www.zotero.org/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Endnote" ID="ID_166045555" CREATED="1344508517563" MODIFIED="1411247157426" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="http://endnote.com/" ID="ID_1006685224" CREATED="1344508567781" MODIFIED="1411247157426" LINK="http://endnote.com/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Endnote" ID="ID_166045555" CREATED="1344508517563" MODIFIED="1411352677721" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="http://endnote.com/" ID="ID_1006685224" CREATED="1344508567781" MODIFIED="1411352677721" LINK="http://endnote.com/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
 </node>
-<node TEXT="Sources for funding" FOLDED="true" ID="ID_184721027" CREATED="1377254143969" MODIFIED="1411247157426" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="USA" ID="ID_1912184932" CREATED="1377254213665" MODIFIED="1411247157426" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="NSF" ID="ID_1019872373" CREATED="1377254215727" MODIFIED="1411247157426" LINK="http://www.nsf.gov/funding/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Sources for funding" FOLDED="true" ID="ID_184721027" CREATED="1377254143969" MODIFIED="1411352677721" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="USA" ID="ID_1912184932" CREATED="1377254213665" MODIFIED="1411352677721" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="NSF" ID="ID_1019872373" CREATED="1377254215727" MODIFIED="1411352677721" LINK="http://www.nsf.gov/funding/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Germany" ID="ID_755160370" CREATED="1377254219000" MODIFIED="1411247157426" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="DAAD (for working abroad)" ID="ID_1423937593" CREATED="1377254227170" MODIFIED="1411247157427" LINK="https://www.daad.de/en/index.html" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="DFG" ID="ID_1592702018" CREATED="1377254252006" MODIFIED="1411247157427" LINK="http://www.dfg.de/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Germany" ID="ID_755160370" CREATED="1377254219000" MODIFIED="1411352677721" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="DAAD (for working abroad)" ID="ID_1423937593" CREATED="1377254227170" MODIFIED="1411352677722" LINK="https://www.daad.de/en/index.html" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="DFG" ID="ID_1592702018" CREATED="1377254252006" MODIFIED="1411352677722" LINK="http://www.dfg.de/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
 </node>
 </node>

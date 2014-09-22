@@ -19,7 +19,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 // Interface declaration for the memory///
 //////////////////////////////////////////
 
-interface mem_interface(input bit clock);
+interface mem_ram_interface(input bit clock);
 
     parameter setup_time = 5ns;
     parameter hold_time = 3ns;
