@@ -17,6 +17,71 @@
 
 @STRING{tois = {ACM Transactions on Information Systems}}
 
+@INCOLLECTION{raey,
+  author = {Anghel, L. and Rebaudengo, M. and Reorda, M.Sonza and Violante, M.},
+  title = {Multi-level Fault Effects Evaluation},
+  booktitle = {Radiation Effects on Embedded Systems},
+  publisher = {Springer Netherlands},
+  year = {2007},
+  editor = {VELAZCO, RAOUL and FOUILLAT, PASCAL and REIS, RICARDO},
+  pages = {69-88},
+  doi = {10.1007/978-1-4020-5646-8_4},
+  isbn = {978-1-4020-5645-1},
+  language = {English},
+  url = {http://dx.doi.org/10.1007/978-1-4020-5646-8_4}
+}
+
+@INPROCEEDINGS{887180,
+  author = {Baraza, J.-C. and Gracia, J. and Gil, D. and Gil, P.},
+  title = {A prototype of a VHDL-based fault injection tool},
+  booktitle = {Defect and Fault Tolerance in VLSI Systems, 2000. Proceedings. IEEE
+	International Symposium on},
+  year = {2000},
+  pages = {396-404},
+  abstract = {This paper presents the prototype of an automatic and model-independent
+	fault injection tool, to use on an IBM-PC (or compatible) platform.
+	The tool has been built around a commercial VHDL simulator. With
+	this tool, both transient and permanent faults, of a wide range of
+	types, can be injected into medium-complexity models. Another remarkable
+	aspect of the tool is the fact that it is able to analyse the results
+	obtained from the injection campaigns, in order to study the error
+	syndrome of the system model and/or validate its fault-tolerance
+	mechanisms. Some results of a fault injection campaign carried out
+	to validate the dependability of a fault tolerant microcomputer system
+	are shown. We have analysed the pathology of the propagated errors,
+	measured their latencies, and calculated both error detection and
+	recovery latencies and coverages},
+  doi = {10.1109/DFTVS.2000.887180},
+  file = {:../../../../02_PDFs/Referencias4/00887180.pdf:PDF},
+  issn = {1550-5774},
+  keywords = {computer testing;error detection;fault tolerant computing;hardware
+	description languages;system recovery;virtual machines;IBM-PC platform;VHDL-based
+	fault injection tool;dependability;error detection;error syndrome;fault
+	tolerant microcomputer system;fault-tolerance mechanisms;medium-complexity
+	models;model-independent fault injection tool;permanent faults;recovery
+	latencies;transient faults;Circuit faults;Computational modeling;Computer
+	simulation;Delay;Fault tolerance;Fault tolerant systems;Gas insulated
+	transmission lines;Hardware;Microcomputers;Prototypes}
+}
+
+@ARTICLE{raey,
+  author = {Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and
+	Sciuto, D. and Sterpone, L. and Violante, M.},
+  title = {Software and Hardware Techniques for SEU Detection in IP Processors},
+  journal = {Journal of Electronic Testing},
+  year = {2008},
+  volume = {24},
+  pages = {35-44},
+  number = {1-3},
+  doi = {10.1007/s10836-007-5028-0},
+  issn = {0923-8174},
+  keywords = {Reliability; Hardware/software techniques; Single-event upset faults;
+	Fault injection},
+  language = {English},
+  publisher = {Springer US},
+  url = {http://dx.doi.org/10.1007/s10836-007-5028-0}
+}
+
 @ARTICLE{Beel2010,
   author = {{J}oeran {B}eel and {B}ela {G}ipp},
   title = {{A}cademic search engine spam and {G}oogle {S}cholar's resilience
@@ -27,6 +92,7 @@
   number = {3},
   month = {\#dec\#},
   note = {Available at http://docear.org},
+  __markedentry = {[thiago:1]},
   doi = {10.3998/3336451.0013.305},
   file = {:../../../literature_repository/Example PDFs/Academic search engine spam and Google Scholars resilience against it.pdf:PDF},
   owner = {Docear},
@@ -45,6 +111,7 @@
   pages = {465--466},
   publisher = {{ACM}},
   note = {Available at http://docear.org},
+  __markedentry = {[thiago:1]},
   doi = {10.1145/1998076.1998188},
   file = {:../../../literature_repository/Example PDFs/Docear -- An Academic Literature Suite.pdf:PDF},
   owner = {Docear},
@@ -60,6 +127,7 @@
 	{L}ibraries ({JCDL}`11)},
   year = {2011},
   note = {Available at http://docear.org},
+  __markedentry = {[thiago:1]},
   file = {:../../../literature_repository/Example PDFs/Mr. DLib -- A Machine Readable Digital Library.pdf:PDF},
   owner = {Docear},
   timestamp = {2012-08-20}
@@ -76,10 +144,92 @@
   number = {2},
   month = {\#jan\#},
   note = {University of Toronto Press. Available at http://docear.org},
+  __markedentry = {[thiago:1]},
   doi = {10.3138/jsp.41.2.176},
   file = {:../../../literature_repository/Example PDFs/Academic Search Engine Optimization (ASEO) -- Optimizing Scholarly Literature for Google Scholar and Co.pdf:PDF},
   owner = {Docear},
   timestamp = {2012-08-20}
+}
+
+@INPROCEEDINGS{937838,
+  author = {Nicolescu, B. and Velazco, R. and Reorda, M.S.},
+  title = {Effectiveness and limitations of various software techniques for
+	"soft error" detection: a comparative study},
+  booktitle = {On-Line Testing Workshop, 2001. Proceedings. Seventh International},
+  year = {2001},
+  pages = {172-177},
+  abstract = {Deals with different software based strategies allowing the on-line
+	detection of bit flip errors arising in microprocessor-based digital
+	architectures as the consequence of the interaction with radiation.
+	Fault injection experiments put in evidence the detection capabilities
+	and the limitations of each of the studied techniques},
+  doi = {10.1109/OLT.2001.937838},
+  file = {:../../../../02_PDFs/Referencias4/00937838.pdf:PDF},
+  keywords = {error detection;fault diagnosis;integrated circuit testing;microprocessor
+	chips;radiation effects;transients;bit-flip errors;detection capabilities;fault
+	injection experiments;microprocessor-based digital architectures;on-line
+	detection;radiation effects;single event effects;soft error detection;software
+	techniques;transient effects;CMOS technology;Circuit faults;Costs;Hardware;Integrated
+	circuit technology;Manufacturing processes;Neutrons;Registers;Silicon
+	on insulator technology;Single event transient}
+}
+
+@INPROCEEDINGS{1030193,
+  author = {Rebaudengo, M. and Reorda, M.S. and Violante, M.},
+  title = {Analysis of SEU effects in a pipelined processor},
+  booktitle = {On-Line Testing Workshop, 2002. Proceedings of the Eighth IEEE International},
+  year = {2002},
+  pages = {112-116},
+  abstract = {Modern processors embed features such as pipelined execution units
+	and cache memories that can hardly be controlled by programmers through
+	the processor instruction set. As a result, software-based fault
+	injection approaches are no longer suitable for assessing the effects
+	of SEUs in modern processors, since they are not able to evaluate
+	the effects of SEUs affecting pipelines and caches. In this paper
+	we report an analysis of a commercial processor core where the effects
+	of SEUs located in the processor pipeline and cache memories are
+	studied. Moreover the obtained results are compared with those software-based
+	approaches provide. Experimental results show that software-based
+	approaches may lead to errors during the failure rate estimation
+	of up to 400%.},
+  doi = {10.1109/OLT.2002.1030193},
+  file = {:../../../../02_PDFs/Referencias4/01030193.pdf:PDF},
+  keywords = {cache storage;fault simulation;fault tolerant computing;field programmable
+	gate arrays;hardware description languages;multiprocessing systems;pipeline
+	processing;radiation hardening (electronics);software tools;FPGA-based
+	environment;SEU effects;SPARC;VHDL code;cache memories;failure rate
+	estimation;fault injection environment;fault tolerance;high-performance
+	processors;matrix multiplication program;pipelined processor;processor
+	core;processor-hidden parts;software tool;software-based approaches;transient
+	bit-flip;Application software;Automatic control;Cache memory;Circuit
+	faults;Costs;Error analysis;Pipelines;Programming profession;Registers;Safety}
+}
+
+@INPROCEEDINGS{1159312,
+  author = {Rebaudengo, M. and Reorda, M.S. and Violante, M. and Nicolescu, B.
+	and Velano, R.},
+  title = {Coping with SEUs/SETs in microprocessors by means of low-cost solutions:
+	a comparison study},
+  booktitle = {Radiation and Its Effects on Components and Systems, 2001. 6th European
+	Conference on},
+  year = {2001},
+  pages = {392-397},
+  month = {Sept},
+  abstract = {In this paper two low-cost solutions devoted to provide processor-based
+	systems with error detection capabilities are compared. The effects
+	of SEUs and SETs are studied through simulation-based fault injection.
+	The error detection capabilities of a hardware-implemented solution,
+	based on parity code, are compared with those of a software-implemented
+	solution based on source-level code modification. Radiation testing
+	experiments confirmed results obtained by simulation.},
+  doi = {10.1109/RADECS.2001.1159312},
+  file = {:../../../../02_PDFs/Referencias4/01039689.pdf:PDF},
+  keywords = {integrated circuit testing;radiation hardening (electronics);SEUs/SETs;error
+	detection capabilities;hardware-implemented solution;low-cost solutions;microprocessors;parity
+	code;simulation-based fault injection;software-implemented solution;source-level
+	code modification;Application software;Circuit faults;Computational
+	modeling;Computer errors;Error correction;Fault detection;Hardware;Microprocessors;Single
+	event transient;Telephony}
 }
 
 @comment{jabref-meta: selector_publisher:}
