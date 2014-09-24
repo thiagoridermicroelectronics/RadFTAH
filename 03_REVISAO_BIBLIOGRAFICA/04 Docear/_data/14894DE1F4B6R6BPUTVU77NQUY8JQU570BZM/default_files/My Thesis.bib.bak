@@ -17,6 +17,40 @@
 
 @STRING{tois = {ACM Transactions on Information Systems}}
 
+@ARTICLE{4636948,
+  author = {Abate, F. and Sterpone, L. and Violante, M.},
+  title = {A New Mitigation Approach for Soft Errors in Embedded Processors},
+  journal = {Nuclear Science, IEEE Transactions on},
+  year = {2008},
+  volume = {55},
+  pages = {2063-2069},
+  number = {4},
+  month = {Aug},
+  abstract = {Embedded processors, like for example processor macros inside modern
+	FPGAs, are becoming widely used in many applications. As soon as
+	these devices are deployed in radioactive environments, designers
+	need hardening solutions to mitigate radiation-induced errors. When
+	low-cost applications have to be developed, the traditional hardware
+	redundancy-based approaches exploiting m-way replication and voting
+	are no longer viable as too expensive, and new mitigation techniques
+	have to be developed. In this paper we present a new approach, based
+	on processor duplication, checkpoint and rollback, to detect and
+	correct soft errors affecting the memory elements of embedded processors.
+	Preliminary fault injection results performed on a PowerPC-based
+	system confirmed the efficiency of the approach.},
+  doi = {10.1109/TNS.2008.2000839},
+  issn = {0018-9499},
+  keywords = {embedded systems;fault tolerance;integrated circuit design;integrated
+	circuit reliability;memory architecture;microprocessor chips;radiation
+	effects;radiation hardening (electronics);PowerPC-based system;embedded
+	processors;fault injection;hardening solutions;hardware redundancy-based
+	approaches;memory elements;mitigation approach;processor checkpoint;processor
+	duplication;processor rollback;radiation-induced errors;radioactive
+	environments;single event effects;soft errors;Application software;Computer
+	aided instruction;Costs;Fault detection;Field programmable gate arrays;Hardware;Monitoring;Redundancy;Registers;Voting;Embedded
+	processors reliability;fault injection;single event effects}
+}
+
 @INCOLLECTION{raey,
   author = {Anghel, L. and Rebaudengo, M. and Reorda, M.Sonza and Violante, M.},
   title = {Multi-level Fault Effects Evaluation},
@@ -29,6 +63,39 @@
   isbn = {978-1-4020-5645-1},
   language = {English},
   url = {http://dx.doi.org/10.1007/978-1-4020-5646-8_4}
+}
+
+@INPROCEEDINGS{5510515,
+  author = {Banciu, N. A and Toacse, G.},
+  title = {Testbench components verification using fault injection techniques},
+  booktitle = {Optimization of Electrical and Electronic Equipment (OPTIM), 2010
+	12th International Conference on},
+  year = {2010},
+  pages = {997-1003},
+  month = {May},
+  abstract = {New methodologies for digital designs verification make use of SystemVerilog's
+	object-oriented mechanisms to speed-up the verification environment
+	development. Yet, undetected testbench errors can slow down or even
+	compromise the overall verification process. This paper concentrates
+	on fault injection technique applied to different SystemVerilog testbench
+	components. By altering functionality in different places of the
+	testbench, potential hidden errors can be detected, improving the
+	testbench capacity to detect design misbehavior. The fault injection
+	in SystemVerilog testbench components may be used in addition to
+	existing methods of functional verification analysis, for testbench
+	validation. Modalities to alter the main testbench components are
+	presented, highlighting the effects on the testbench behavior.},
+  doi = {10.1109/OPTIM.2010.5510515},
+  issn = {1842-0133},
+  keywords = {fault diagnosis;formal verification;hardware description languages;object-oriented
+	programming;program testing;SystemVerilog;design misbehavior;digital
+	designs verification;fault injection techniques;functional verification
+	analysis;object-oriented mechanisms;testbench capacity;testbench
+	components verification;testbench validation;verification environment
+	development;Circuit faults;Circuit testing;Design engineering;Design
+	optimization;Electronic equipment;Electronic equipment testing;Hardware
+	design languages;Object oriented modeling;System testing;Systems
+	engineering and theory}
 }
 
 @INPROCEEDINGS{887180,
@@ -64,6 +131,66 @@
 	transmission lines;Hardware;Microcomputers;Prototypes}
 }
 
+@ARTICLE{1566579,
+  author = {Bernardi, P. and Bolzani, L.M.V. and Rebaudengo, M. and Reorda, M.S.
+	and Rodríguez-Andina, J.J. and Violante, M.},
+  title = {A new hybrid fault detection technique for systems-on-a-chip},
+  journal = {Computers, IEEE Transactions on},
+  year = {2006},
+  volume = {55},
+  pages = {185-198},
+  number = {2},
+  month = {Feb},
+  abstract = {Hardening SoCs against transient faults requires new techniques able
+	to combine high fault detection capabilities with the usual requirements
+	of SoC design flow, e.g., reduced design-time, low area overhead,
+	and reduced (or ) accessibility to source core descriptions. This
+	paper proposes a new hybrid approach which combines hardening software
+	transformations with the introduction of an Infrastructure IP with
+	reduced memory and performance overheads. The proposed approach targets
+	faults affecting the memory elements storing both the code and the
+	data, independently of their location (inside or outside the processor).
+	Extensive experimental results, including comparisons with previous
+	approaches, are reported, which allow practically evaluating the
+	characteristics of the method in terms of fault detection capabilities
+	and area, memory, and performance overheads.},
+  doi = {10.1109/TC.2006.15},
+  issn = {0018-9340},
+  keywords = {fault location;hardware-software codesign;logic testing;system-on-chip;SoC;hybrid
+	fault detection technique;systems-on-a-chip;Automotive engineering;Circuit
+	faults;Costs;Electrical fault detection;Electronic circuits;Fault
+	detection;Frequency;Hardware;Software performance;System-on-a-chip;Index
+	Terms- SoC dependability;infrastructure IP;transient fault detection.}
+}
+
+@INPROCEEDINGS{1467779,
+  author = {Bernardi, P. and Bolzani, L. and Rebaudengo, M. and Reorda, M.S.
+	and Vargas, F. and Violante, M.},
+  title = {On-line detection of control-flow errors in SoCs by means of an infrastructure
+	IP core},
+  booktitle = {Dependable Systems and Networks, 2005. DSN 2005. Proceedings. International
+	Conference on},
+  year = {2005},
+  pages = {50-58},
+  month = {June},
+  abstract = {In sub-micron technology circuits high integration levels coupled
+	with the increased sensitivity to soft errors even at ground level
+	make the task of guaranteeing systems' dependability more difficult
+	than ever. In this paper we present a new approach to detect control-flow
+	errors by exploiting a low-cost infrastructure intellectual property
+	(I-IP) core that works in cooperation with software-based techniques.
+	The proposed approach is particularly suited when the system to be
+	hardened is implemented as a system-on-chip (SoC), since the I-IP
+	can be added easily and it is independent on the application. Experimental
+	results are reported showing the effectiveness of the proposed approach.},
+  doi = {10.1109/DSN.2005.74},
+  keywords = {error detection;fault tolerant computing;industrial property;system-on-chip;SoC;control-flow
+	error detection;intellectual property core;system-on-chip;Application
+	software;Computer aided manufacturing;Computer architecture;Costs;Error
+	correction;Fault tolerance;Fault tolerant systems;Hardware;Redundancy;Software
+	safety}
+}
+
 @ARTICLE{raey,
   author = {Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and
 	Sciuto, D. and Sterpone, L. and Violante, M.},
@@ -80,6 +207,27 @@
   language = {English},
   publisher = {Springer US},
   url = {http://dx.doi.org/10.1007/s10836-007-5028-0}
+}
+
+@INPROCEEDINGS{1319663,
+  author = {Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and
+	Violante, M.},
+  title = {Hybrid soft error detection by means of infrastructure IP cores [SoC
+	implementation]},
+  booktitle = {On-Line Testing Symposium, 2004. IOLTS 2004. Proceedings. 10th IEEE
+	International},
+  year = {2004},
+  pages = {79-84},
+  month = {July},
+  doi = {10.1109/OLT.2004.1319663},
+  keywords = {error detection;fault diagnosis;fault tolerance;fault tolerant computing;industrial
+	property;integrated circuit reliability;redundancy;safety-critical
+	software;system-on-chip;dependability;fault correction;fault detection;fault
+	tolerance;hybrid soft error detection;information redundancy;infrastructure
+	IP cores;low-cost infrastructure-intellectual-property cores;safety-critical
+	applications;Application software;Biomedical computing;Computer aided
+	manufacturing;Computer errors;Costs;Fault tolerance;Fault tolerant
+	systems;Hardware;Redundancy;Software safety}
 }
 
 @ARTICLE{Beel2010,
@@ -151,6 +299,37 @@
   timestamp = {2012-08-20}
 }
 
+@INPROCEEDINGS{4030939,
+  author = {Lisboa, C. A L and Carro, L. and Reorda, M.S. and Violante, M.},
+  title = {Online hardening of programs against SEUs and SETs},
+  booktitle = {Defect and Fault Tolerance in VLSI Systems, 2006. DFT '06. 21st IEEE
+	International Symposium on},
+  year = {2006},
+  pages = {280-290},
+  month = {Oct},
+  abstract = {Processor cores embedded in systems-on-a-chip (SoCs) are often deployed
+	in critical computations, and when affected by faults they may produce
+	dramatic effects. When hardware hardening is not cost-effective,
+	software implemented hardware fault tolerance (SIHFT) can be a solution
+	to increase SoCs' dependability. However, SIHFT increases the time
+	for running the hardened application, and the memory occupation.
+	In this paper we propose a method that eliminates the memory overhead,
+	using a new approach to instruction hardening and control flow checking
+	during the execution of the application, without the need for introducing
+	any change in its source code. The proposed method is also non-intrusive,
+	since it does not require any modification in the main processor's
+	architecture. The method is suitable for hardening SoCs against transient
+	faults and also for detecting permanent faults},
+  doi = {10.1109/DFT.2006.49},
+  issn = {1550-5774},
+  keywords = {embedded systems;fault tolerance;instruction sets;microprocessor chips;system-on-chip;SET;SEU;control
+	flow checking;hardware hardening;instruction hardening;memory overhead;online
+	hardening;permanent faults;processor cores;software implemented hardware
+	fault tolerance;systems-on-a-chip;transient faults;Application software;Computer
+	aided instruction;Costs;Fault detection;Fault tolerance;Hardware;Mission
+	critical systems;Safety;Single event transient;System-on-a-chip}
+}
+
 @INPROCEEDINGS{937838,
   author = {Nicolescu, B. and Velazco, R. and Reorda, M.S.},
   title = {Effectiveness and limitations of various software techniques for
@@ -172,6 +351,38 @@
 	techniques;transient effects;CMOS technology;Circuit faults;Costs;Hardware;Integrated
 	circuit technology;Manufacturing processes;Neutrons;Registers;Silicon
 	on insulator technology;Single event transient}
+}
+
+@ARTICLE{raey,
+  author = {Rebaudengo, M. and Reorda, M.Sonza and Violante, M.},
+  title = {A New Approach to Software-Implemented Fault Tolerance},
+  journal = {Journal of Electronic Testing},
+  year = {2004},
+  volume = {20},
+  pages = {433-437},
+  number = {4},
+  doi = {10.1023/B:JETT.0000039610.30724.b2},
+  issn = {0923-8174},
+  keywords = {software-implemented fault tolerance; single event upsets; fault injection},
+  language = {English},
+  publisher = {Kluwer Academic Publishers},
+  url = {http://dx.doi.org/10.1023/B%3AJETT.0000039610.30724.b2}
+}
+
+@ARTICLE{raey,
+  author = {Rebaudengo, M. and Reorda, M.Sonza and Violante, M.},
+  title = {Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor},
+  journal = {Journal of Electronic Testing},
+  year = {2003},
+  volume = {19},
+  pages = {577-584},
+  number = {5},
+  doi = {10.1023/A:1025130131636},
+  issn = {0923-8174},
+  keywords = {dependability evaluation; single event upsets; fault injection},
+  language = {English},
+  publisher = {Kluwer Academic Publishers},
+  url = {http://dx.doi.org/10.1023/A%3A1025130131636}
 }
 
 @INPROCEEDINGS{1030193,
@@ -230,6 +441,148 @@
 	code modification;Application software;Circuit faults;Computational
 	modeling;Computer errors;Error correction;Fault detection;Hardware;Microprocessors;Single
 	event transient;Telephony}
+}
+
+@INPROCEEDINGS{4030937,
+  author = {Rebaudengo, M. and Sterpone, L. and Violante, M. and Bolchini, C.
+	and Miele, A and Sciuto, D.},
+  title = {Combined software and hardware techniques for the design of reliable
+	IP processors},
+  booktitle = {Defect and Fault Tolerance in VLSI Systems, 2006. DFT '06. 21st IEEE
+	International Symposium on},
+  year = {2006},
+  pages = {265-273},
+  month = {Oct},
+  abstract = {In the recent years both software and hardware techniques have been
+	adopted to carry out reliable designs, aimed at autonomously detecting
+	the occurrence of faults, to allow discarding erroneous data and
+	possibly performing the recovery of the system. The aim of this paper
+	is the introduction of a combined use of software and hardware approaches
+	to achieve complete fault coverage in generic IP processors, with
+	respect to SEU faults. Software techniques are preferably adopted
+	to reduce the necessity and costs of modifying the processor architecture;
+	since a complete fault coverage cannot be achieved, partial hardware
+	redundancy techniques are then introduced to deal with the remaining,
+	not covered, faults. The paper presents the methodological approach
+	adopted to achieve the complete fault coverage, the proposed resulting
+	architecture, and the experimental results gathered from the fault
+	injection analysis campaign},
+  doi = {10.1109/DFT.2006.18},
+  issn = {1550-5774},
+  keywords = {fault location;hardware-software codesign;microprocessor chips;redundancy;SEU
+	faults;autonomous detection;fault coverage;fault detection;fault
+	injection analysis;generic IP processors;partial hardware redundancy;processor
+	architecture;reliable IP processor design;software techniques;software-hardware
+	techniques;Computer architecture;Costs;Fault detection;Hardware;Power
+	system reliability;Redundancy;Signal processing;Software performance;Software
+	systems;Time to market}
+}
+
+@ARTICLE{Straka2013155,
+  author = {Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka},
+  title = {Fault tolerant system design and \{SEU\} injection based testing
+	},
+  journal = {Microprocessors and Microsystems },
+  year = {2013},
+  volume = {37},
+  pages = {155 - 173},
+  number = {2},
+  note = {Digital System Safety and Security },
+  abstract = {The methodology for the design and testing of fault tolerant systems
+	implemented into an \{FPGA\} platform with different types of diagnostic
+	techniques is presented in this paper. Basic principles of partial
+	dynamic reconfiguration are described together with their impact
+	on the fault tolerance features of the digital design implemented
+	into the SRAM-based FPGA. The methodology includes detection and
+	localization of a faulty module in the system and its repair and
+	bringing the system back to the state in which it operates correctly.
+	The automatic repair process of a faulty module is implemented by
+	a partial dynamic reconfiguration driven by a generic controller
+	inside the FPGA. The presented methodology was verified on the \{ML506\}
+	development board with Virtex5 \{FPGA\} for different types of \{RTL\}
+	components. Fault tolerant systems developed by the presented methodology
+	were tested by means of the newly developed \{SEU\} simulation framework.
+	The framework is based on the \{SEU\} simulation through the \{JTAG\}
+	interface and allows us to select the region of the \{FPGA\} where
+	the \{SEU\} is placed. The simulator does not require any changes
+	in the tested design and is fully independent of the functions in
+	the FPGA. The external \{SEU\} generator into \{FPGA\} is implemented
+	and its function is verified on an evaluation board \{ML506\} for
+	several types of fault tolerant architectures. The experimental results
+	show the fault coverage and \{SEU\} occurrence causing faulty behavior
+	of verified architectures. },
+  doi = {http://dx.doi.org/10.1016/j.micpro.2012.09.006},
+  issn = {0141-9331},
+  keywords = {Fault tolerant system},
+  url = {http://www.sciencedirect.com/science/article/pii/S0141933112001688}
+}
+
+@ARTICLE{MRS:7964131,
+  author = {Tang,Henry H.K. and Rodbell,Kenneth P.},
+  title = {Single-Event Upsets in Microelectronics: Fundamental Physics and
+	Issues},
+  journal = {MRS Bulletin},
+  year = {2003},
+  volume = {28},
+  pages = {111--116},
+  month = {2},
+  abstract = { ABSTRACT We review the current understanding of single-event upsets
+	(SEUs) in microelectronic devices. In recent years, SEUs have been
+	recognized as one of the key reliability concerns for both current
+	and future technologies. We identify the major sources of SEUs that
+	impact many commercial products: (1) alpha particles in packaging
+	materials, (2) background radiation due to cosmic rays, and (3) thermal
+	neutrons in certain device materials. The origins of SEUs are examined
+	from the standpoint of the fundamental atomic and nuclear interactions
+	between the intruding particles (alpha particles, cosmic rays, and
+	thermal neutrons) and semiconductor materials. We analyze field funneling,
+	which is a key mechanism of charge collection in a device struck
+	by an ionizing particle. Next, we formulate how SEU cross sections
+	and SEU rates are calculated and discuss how these basic quantities
+	are related to experiments. Finally, we summarize the major SEU issues
+	regarding modeling, bulk complementary metal oxide semiconductor
+	technologies, and research on future, exploratory technologies. },
+  doi = {10.1557/mrs2003.37},
+  issn = {1938-1425},
+  issue = {02},
+  numpages = {6},
+  url = {http://journals.cambridge.org/article_S0883769400017504}
+}
+
+@INPROCEEDINGS{5355715,
+  author = {Zhaobo Zhang and Zhanglei Wang and Xinli Gu and Chakrabarty, K.},
+  title = {Physical defect modeling for fault insertion in system reliability
+	test},
+  booktitle = {Test Conference, 2009. ITC 2009. International},
+  year = {2009},
+  pages = {1-10},
+  month = {Nov},
+  abstract = {Hardware fault-insertion test (FIT) is a promising method for system
+	reliability test and diagnosis coverage measurement. It improves
+	the speed of releasing a quality diagnostic program before manufacturing
+	and provides feedbacks of fault tolerance of a very complicated large
+	system. Certain level insufficient fault tolerance can be fixed in
+	the current system but others may require ASIC or overall system
+	architectural modifications. The FIT is achieved by introducing an
+	artificial fault (defect modeling) at the pin level of a module to
+	mimic any physical defect behavior within the module, such as SEU
+	(single event upset) or escaped delay defect. We present a hardware
+	architectural solution for pin fault insertion. We also present a
+	simulation framework and optimization techniques for a subset of
+	module pin selection for FIT, such that desired coverage are obtained
+	under the constraints of limited FIT pins due to the costs of the
+	associated implementation. Experimental results are presented for
+	selected ISCAS and OpenCore benchmarks, as well as for an industrial
+	circuit.},
+  doi = {10.1109/TEST.2009.5355715},
+  keywords = {application specific integrated circuits;fault diagnosis;integrated
+	circuit reliability;integrated circuit testing;modelling;optimisation;simulation;ASIC;diagnosis
+	coverage measurement;hardware architectural solution;hardware fault-insertion
+	test;optimization;physical defect modeling;pin fault insertion;quality
+	diagnostic program;simulation;system reliability test;Application
+	specific integrated circuits;Circuit faults;Fault diagnosis;Fault
+	tolerant systems;Feedback;Hardware;Manufacturing;Reliability;Single
+	event upset;System testing}
 }
 
 @comment{jabref-meta: selector_publisher:}
