@@ -1,7 +1,7 @@
 <map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1411775200336" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1411833109055" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17,7 +17,7 @@
   </body>
 </html>
 </richcontent>
-<hook NAME="MapStyle" zoom="0.963">
+<hook NAME="MapStyle" zoom="0.494">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -75,7 +75,7 @@
 <attribute NAME="mon_flatten_dirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_add_extra_incoming_node" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Incoming" POSITION="right" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1411775200341" MOVED="1377252717488" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="235" VSHIFT="-44">
+<node TEXT="Incoming" POSITION="right" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1411833109058" MOVED="1377252717488" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="235" VSHIFT="-44">
 <font NAME="Courier New" BOLD="true"/>
 <edge COLOR="#006699"/>
 <node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1411706245314" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf">
@@ -8430,85 +8430,139 @@
 <attribute NAME="title" VALUE="Fault-Tolerance Projects at Stanford CRC"/>
 <attribute NAME="year" VALUE="1999"/>
 </node>
-<node TEXT="Effects of Space Weather on Technology Infrastructure" ID="ID_1478385227" CREATED="1411611275269" MODIFIED="1411612709145" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4020-2754-3.pdf">
+<node TEXT="Effects of Space Weather on Technology Infrastructure" ID="ID_1478385227" CREATED="1411611275269" MODIFIED="1411787563738" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4020-2754-3.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
+<attribute NAME="key" VALUE="Baker2004"/>
+<attribute NAME="journal" VALUE="Space Weather"/>
+<attribute NAME="authors" VALUE="Baker, DN and Daly, Eamonn and Daglis, Ioannis and Kappenman, John G and Panasyuk, Mikhail"/>
+<attribute NAME="title" VALUE="Effects of space weather on technology infrastructure"/>
+<attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs" ID="ID_980490496" CREATED="1411611275274" MODIFIED="1411612726876" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05551155.pdf">
+<node TEXT="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs" ID="ID_980490496" CREATED="1411611275274" MODIFIED="1411787863375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05551155.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DC7AAA26B788E5BF257DE72FAEEE6EE7DE35F495C890FC7269EA3DD36212D690">
     <pdf_title>Short Papers</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="5551155"/>
+<attribute NAME="journal" VALUE="Dependable and Secure Computing, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani Poehls, L.M. and Grosso, M. and Reorda, M.S."/>
+<attribute NAME="title" VALUE="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs"/>
+<attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Software-implemented hardening against soft errors" ID="ID_588392281" CREATED="1411611275281" MODIFIED="1411612742764" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/SlidesMassimoViolante.pdf">
+<node TEXT="Software-implemented hardening against soft errors" ID="ID_588392281" CREATED="1411611275281" MODIFIED="1411789801772" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/SlidesMassimoViolante.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5F1F8548C7C25DC2447EB6ED5B904F2C450881A689D6F445D30EED66426871C">
     <pdf_title>Software-implemented hardening against soft errors</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="Violante"/>
+<attribute NAME="authors" VALUE="Massimo Violante"/>
+<attribute NAME="title" VALUE="Software-implemented hardening against soft errors (slides)"/>
+<attribute NAME="year" VALUE="2013"/>
 </node>
-<node TEXT="Error Detection by Duplicated Instructions in Super-Scalar Processors" ID="ID_948503780" CREATED="1411611275304" MODIFIED="1411612758269" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994913.pdf">
+<node TEXT="Error Detection by Duplicated Instructions in Super-Scalar Processors" ID="ID_948503780" CREATED="1411611275304" MODIFIED="1411789966993" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994913.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="9B7D52B8685D26C9D8A66D9ACC4B14C9EA2C9625E3AFE997335D3D9CAFC563E3">
     <pdf_title>Error Detection by Duplicated Instructions in Super-Scalar Processors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Oh2002a"/>
+<attribute NAME="key" VALUE="994913"/>
 <attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Oh, Nahmsuk and Shirvani, Philip P and McCluskey, Edward J"/>
+<attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="Error detection by duplicated instructions in super-scalar processors"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="Soft Errors in Modern Electronic Systems" FOLDED="true" ID="ID_930099762" CREATED="1411611275312" MODIFIED="1411611367075" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
+<node TEXT="Soft Errors in Modern Electronic Systems" FOLDED="true" ID="ID_930099762" CREATED="1411611275312" MODIFIED="1411790564881" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
+<attribute NAME="key" VALUE="Nicolaidis2011"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="Soft Errors in Modern Electronic Systems" ID="ID_52080828" CREATED="1411611275504" MODIFIED="1411611275504" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="4" object_id="9168383112971903320" object_number="4062"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Foreword" ID="ID_1438744658" CREATED="1411611275495" MODIFIED="1411611275495" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="6" object_id="1851227444392265332" object_number="4063"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Preface" ID="ID_266365052" CREATED="1411611275485" MODIFIED="1411611275486" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="10" object_id="4301024322456053092" object_number="4064"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Purpose" ID="ID_786008118" CREATED="1411611275473" MODIFIED="1411611275473" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="12" object_id="3238791392059585112" object_number="4065"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Acknowledgments" ID="ID_1587439118" CREATED="1411611275465" MODIFIED="1411611275465" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="14" object_id="4557709469154828486" object_number="4066"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Contents" ID="ID_336359198" CREATED="1411611275453" MODIFIED="1411611275453" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="16" object_id="8100574064628684589" object_number="4067"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Contributors" ID="ID_350020459" CREATED="1411611275443" MODIFIED="1411611275443" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="18" object_id="3772081554454503464" object_number="4068"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 1: Soft Errors from Space to Ground: Historical Overview, Empirical Evidence, and Future Trends" ID="ID_471627088" CREATED="1411611275428" MODIFIED="1411611275428" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="20" object_id="5262288717346362165" object_number="4069"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 2: Single Event Effects: Mechanisms and Classification" ID="ID_1690601147" CREATED="1411611275418" MODIFIED="1411611275419" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="45" object_id="4544531272852027089" object_number="4071"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 3: JEDEC Standards on Measurement and Reporting of Alpha Particle and Terrestrial Cosmic Ray Induced Soft Errors" ID="ID_1207170157" CREATED="1411611275410" MODIFIED="1411611275410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="73" object_id="7467402877495904661" object_number="4073"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 4: Gate Level Modeling and Simulation" ID="ID_528863859" CREATED="1411611275400" MODIFIED="1411611275401" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="95" object_id="6214262837538650419" object_number="4075"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 5: Circuit and System Level Single-Event Effects Modeling and Simulation" ID="ID_1881926534" CREATED="1411611275386" MODIFIED="1411611275386" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="121" object_id="9077180203723693108" object_number="4076"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 6: Hardware Fault Injection" ID="ID_643661094" CREATED="1411611275375" MODIFIED="1411611275375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="159" object_id="5235187577723276962" object_number="4078"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 7: Integrated Circuit Qualification for Space and Ground-Level Applications: Accelerated Tests and Error-Rate Predictions" ID="ID_1605524941" CREATED="1411611275364" MODIFIED="1411611275364" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="185" object_id="5375840519276110268" object_number="4080"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 8: Circuit-Level Soft-Error Mitigation" ID="ID_217085758" CREATED="1411611275346" MODIFIED="1411611275346" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="220" object_id="1493078757546945567" object_number="4082"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 9: Software-Level Soft-Error Mitigation Techniques" ID="ID_1642596050" CREATED="1411611275337" MODIFIED="1411611275337" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="270" object_id="1601393538652322238" object_number="4084"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Chapter 10: Specification and Verification of Soft Error Performance in Reliable Electronic Systems" ID="ID_1356437643" CREATED="1411611275326" MODIFIED="1411611275326" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="303" object_id="7446364241604815443" object_number="4086"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Index" ID="ID_884449884" CREATED="1411611275310" MODIFIED="1411611275310" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="BOOKMARK" page="303" object_id="8882200186071711986" object_number="4088"/>
+<attribute NAME="title" VALUE="Soft Errors in Modern Electronic Systems"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
+<node TEXT="Soft Errors in Modern Electronic Systems" ID="ID_500119958" CREATED="1411790448879" MODIFIED="1411790448879"/>
 </node>
 <node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_605248550" CREATED="1411611275513" MODIFIED="1411706462262" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05720529.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="17CA6DE573D6F4EEF27B7D76810A85EEE1417D224FEBB053E59524E5D45EEB">
@@ -8520,590 +8574,1175 @@
 <attribute NAME="title" VALUE="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="Dependability in Electronic Systems - Mitigation of Hardware Failures, Soft Errors,&#xa;and Electro-Magnetic Disturbances" FOLDED="true" ID="ID_1912538657" CREATED="1411611275522" MODIFIED="1411705982718" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="Dependability in Electronic Systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances" FOLDED="true" ID="ID_1912538657" CREATED="1411611275522" MODIFIED="1411791245379" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
+<attribute NAME="key" VALUE="Kanekawa2011"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="Preface" ID="ID_1050861268" CREATED="1411611277945" MODIFIED="1411611277946" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="5" object_id="1970866415583229483" object_number="4328"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="Reference" ID="ID_896112792" CREATED="1411611277942" MODIFIED="1411611277943" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="6" object_id="7821239583603890597" object_number="4329"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="Acknowledgements" ID="ID_1183836832" CREATED="1411611277928" MODIFIED="1411611277928" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="7" object_id="3313798816722938762" object_number="4331"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Contents" ID="ID_1671271031" CREATED="1411611277919" MODIFIED="1411611277919" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="9" object_id="3099459194473009845" object_number="4332"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="List of Figures" ID="ID_1231807003" CREATED="1411611277912" MODIFIED="1411611277912" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="13" object_id="7632995453596455456" object_number="4333"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="List of Tables" ID="ID_1559787346" CREATED="1411611277901" MODIFIED="1411611277901" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="21" object_id="136455768011885150" object_number="4334"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="List of Acronyms" ID="ID_488554054" CREATED="1411611277888" MODIFIED="1411611277888" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="22" object_id="4168343706749428940" object_number="4335"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="1 Introduction" ID="ID_845223471" CREATED="1411611277825" MODIFIED="1411611277826" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="25" object_id="6741949538321246676" object_number="4336"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="1.1 Trends in Failure Cause and Countermeasure" ID="ID_1771844541" CREATED="1411611277873" MODIFIED="1411611277873" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="25" object_id="5832247980185969380" object_number="4337"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="1.2 Contents and Organization of This Book" ID="ID_736965570" CREATED="1411611277862" MODIFIED="1411611277862" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="27" object_id="1934099701415505095" object_number="4338"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="1.3 For the Best Result" ID="ID_692706943" CREATED="1411611277846" MODIFIED="1411611277846" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="29" object_id="632076869695934526" object_number="4339"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="References" ID="ID_53020256" CREATED="1411611277820" MODIFIED="1411611277821" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="29" object_id="4159666137588866237" object_number="4340"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2 Terrestrial Neutron-Induced Failures in Semiconductor Devices and Relevant Systems and Their Mitigation Techniques" ID="ID_1773317911" CREATED="1411611276975" MODIFIED="1411611276975" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="31" object_id="884467156898047083" object_number="4342"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.1 Introduction" ID="ID_127823539" CREATED="1411611277748" MODIFIED="1411611277748" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="31" object_id="7490955287357989018" object_number="4343"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.1.1 SER in Memory Devices" ID="ID_1997545564" CREATED="1411611277804" MODIFIED="1411611277804" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="31" object_id="6622070905332775684" object_number="4344"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.1.2 MCU in Memory Devices" ID="ID_394229216" CREATED="1411611277790" MODIFIED="1411611277790" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="32" object_id="774491220168196674" object_number="4345"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.1.3 SET and MNU in Logic Devices" ID="ID_453236146" CREATED="1411611277776" MODIFIED="1411611277776" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="32" object_id="6172393330606143260" object_number="4346"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.1.4 Chip/System-Level SER Problem: SER Estimation and Mitigation" ID="ID_740605266" CREATED="1411611277763" MODIFIED="1411611277763" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="33" object_id="7238630160329190485" object_number="4347"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.1.5 Scope of This Chapter" ID="ID_1125849123" CREATED="1411611277746" MODIFIED="1411611277746" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="33" object_id="3238878085174569941" object_number="4348"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.2 Basic Knowledge on Terrestrial Neutron-Induced Soft-Error in MOSFET Devices" ID="ID_1763337813" CREATED="1411611277711" MODIFIED="1411611277711" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="34" object_id="2121300704642875929" object_number="4349"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.2.1 Cosmic Rays from the Outer Space" ID="ID_1938072128" CREATED="1411611277725" MODIFIED="1411611277725" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="34" object_id="8182773170467568654" object_number="4350"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.2.2 Nuclear Spallation Reaction and Charge Collection in CMOSFET Device" ID="ID_1585937939" CREATED="1411611277709" MODIFIED="1411611277709" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="35" object_id="4588378516764414838" object_number="4351"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.3 Experimental Techniques to Quantify Soft-Error Rate (SER) and Their Standardization" ID="ID_1214460182" CREATED="1411611277623" MODIFIED="1411611277623" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="36" object_id="1483440185560957754" object_number="4352"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.3.1 The System to Quantify SER -- SECIS" ID="ID_1039714364" CREATED="1411611277696" MODIFIED="1411611277696" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="36" object_id="7888289279701700378" object_number="4353"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.3.2 Basic Method in JESD89A" ID="ID_814330097" CREATED="1411611277660" MODIFIED="1411611277660" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="37" object_id="7548099810176448844" object_number="4354"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.3.2.1 Spallation Neutron Methods" ID="ID_1953687580" CREATED="1411611277677" MODIFIED="1411611277677" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="37" object_id="2399876894940673213" object_number="4355"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.3.2.2 (Quasi-)Mono-Energetic Neutron Test" ID="ID_1637956288" CREATED="1411611277657" MODIFIED="1411611277657" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="37" object_id="2847532098370397134" object_number="4356"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.3.3 SEE Classification Techniques in Time Domain" ID="ID_258313966" CREATED="1411611277638" MODIFIED="1411611277638" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="39" object_id="2186700737276029310" object_number="4357"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.3.4 MCU Classification Techniques in Topological Space Domain" ID="ID_1297675204" CREATED="1411611277620" MODIFIED="1411611277620" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="40" object_id="365106842688144913" object_number="4358"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.4 Evolution of Multi-node Upset Problem" ID="ID_550539285" CREATED="1411611277509" MODIFIED="1411611277509" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="41" object_id="3953464299432587372" object_number="4359"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.4.1 MCU Characterization by Accelerator-Based Experiments" ID="ID_1988976994" CREATED="1411611277532" MODIFIED="1411611277532" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="41" object_id="2601399732644864639" object_number="4360"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.4.1.1 DUTs and Neutron Beams" ID="ID_339664520" CREATED="1411611277601" MODIFIED="1411611277601" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="41" object_id="7666163783440836898" object_number="4361"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.4.1.2 MCU Patterns" ID="ID_769373190" CREATED="1411611277581" MODIFIED="1411611277582" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="42" object_id="1401638251946917644" object_number="4362"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.4.1.3 Influence of Tap Locations" ID="ID_756214108" CREATED="1411611277564" MODIFIED="1411611277565" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="43" object_id="6749177285239854730" object_number="4363"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.4.1.4 MCU Category" ID="ID_244722542" CREATED="1411611277548" MODIFIED="1411611277548" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="44" object_id="5763508090327973579" object_number="4364"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.4.1.5 MCU Code" ID="ID_767287344" CREATED="1411611277526" MODIFIED="1411611277526" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="44" object_id="4667887127897100226" object_number="4365"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.4.2 Multi-coupled Bipolar Interaction (MCBI)" ID="ID_1387941662" CREATED="1411611277507" MODIFIED="1411611277507" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="45" object_id="3250624047987835549" object_number="4366"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.5 Simulation Techniques for Neutron-Induced Soft Error" ID="ID_1743853094" CREATED="1411611277391" MODIFIED="1411611277391" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="47" object_id="1512130893582163227" object_number="4367"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.5.1 Overall Microscopic Soft-Error Model" ID="ID_547395276" CREATED="1411611277493" MODIFIED="1411611277493" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="47" object_id="9137047076884570884" object_number="4368"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.5.2 Nuclear Spallation Reaction Models" ID="ID_1938904236" CREATED="1411611277480" MODIFIED="1411611277480" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="48" object_id="1024150465493754686" object_number="4369"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.5.3 Charge Deposition Model" ID="ID_994751674" CREATED="1411611277452" MODIFIED="1411611277452" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="48" object_id="6711694576950293781" object_number="4370"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.5.4 SRAM Device Model" ID="ID_1166908149" CREATED="1411611277436" MODIFIED="1411611277436" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="50" object_id="3528581652567596649" object_number="4371"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.5.5 Cell Matrix Model" ID="ID_1522894603" CREATED="1411611277423" MODIFIED="1411611277423" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="51" object_id="7542562962900757644" object_number="4372"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.5.6 Recycle Simulation Method" ID="ID_1655860137" CREATED="1411611277408" MODIFIED="1411611277408" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="52" object_id="2481410097422634967" object_number="4373"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.5.7 Validation of SRAM Model" ID="ID_860917077" CREATED="1411611277388" MODIFIED="1411611277389" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="53" object_id="6893517653005323513" object_number="4374"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.6 Prediction for Scaling Effects Down to 22nm Design Rule in SRAMs" ID="ID_1488424948" CREATED="1411611277228" MODIFIED="1411611277228" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="53" object_id="519778103867055934" object_number="4375"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.6.1 Roadmap Assumption" ID="ID_1617077426" CREATED="1411611277373" MODIFIED="1411611277374" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="53" object_id="4094514379248368665" object_number="4376"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.6.2 Results and Discussions" ID="ID_1857783208" CREATED="1411611277244" MODIFIED="1411611277244" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="54" object_id="5730674193987179122" object_number="4377"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.6.2.1 Overall Trends" ID="ID_1466042072" CREATED="1411611277357" MODIFIED="1411611277357" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="54" object_id="8293817402740434752" object_number="4378"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.6.2.2 Charge Deposition Density for Secondary Ions" ID="ID_1661423090" CREATED="1411611277338" MODIFIED="1411611277338" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="58" object_id="200640550302915879" object_number="4379"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.6.2.3 Total Charge Collected to Storage Node" ID="ID_741384117" CREATED="1411611277322" MODIFIED="1411611277322" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="59" object_id="1316111433187626481" object_number="4380"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.6.2.4 Failed Bit Map (FBM)" ID="ID_1647766150" CREATED="1411611277302" MODIFIED="1411611277302" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="60" object_id="4496672155831528147" object_number="4381"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.6.2.5 Energy Dependency of SEU/MCU Cross-Section" ID="ID_1096911196" CREATED="1411611277286" MODIFIED="1411611277286" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="60" object_id="4889353126278931344" object_number="4382"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.6.2.6 Trends in MCU Ratio" ID="ID_1073604355" CREATED="1411611277264" MODIFIED="1411611277264" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="62" object_id="3886141945428845746" object_number="4383"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.6.2.7 Trends in MCU Multiplicity Distribution" ID="ID_1218584230" CREATED="1411611277241" MODIFIED="1411611277241" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="62" object_id="3614739968011016750" object_number="4384"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.6.3 Validity of Simulated Results" ID="ID_1711191566" CREATED="1411611277226" MODIFIED="1411611277226" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="63" object_id="479415031268349411" object_number="4385"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.7 SER Estimation in Devices/Components/System" ID="ID_972860059" CREATED="1411611277180" MODIFIED="1411611277180" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="64" object_id="6797454753085016196" object_number="4386"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.7.1 Standards for SER Measurement for Memories" ID="ID_88868668" CREATED="1411611277209" MODIFIED="1411611277209" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="64" object_id="2048699544035569584" object_number="4387"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.7.2 Revisions Needed for the Standards" ID="ID_479928509" CREATED="1411611277193" MODIFIED="1411611277193" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="64" object_id="6128904021542911228" object_number="4388"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.7.3 Quantification of SER in Logic Devices and Related Issues" ID="ID_95760940" CREATED="1411611277177" MODIFIED="1411611277177" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="66" object_id="6807439679773986795" object_number="4389"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.8 An Example of Chip/Board-Level SER Measurement and Architectural Mitigation Techniques" ID="ID_462781856" CREATED="1411611277052" MODIFIED="1411611277052" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="67" object_id="5388102465464070120" object_number="4390"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.8.1 SER Test Procedures for Network Components" ID="ID_578749056" CREATED="1411611277109" MODIFIED="1411611277109" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="67" object_id="5917496139623517043" object_number="4391"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.8.1.1 Full and Partial Board Irradiation Test" ID="ID_663190073" CREATED="1411611277158" MODIFIED="1411611277158" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="67" object_id="1567866812999542485" object_number="4392"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.8.1.2 Neutron Facility" ID="ID_224780332" CREATED="1411611277143" MODIFIED="1411611277143" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="68" object_id="3604603506204597974" object_number="4393"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.8.1.3 Architecture of Test Component" ID="ID_1789989731" CREATED="1411611277126" MODIFIED="1411611277126" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="69" object_id="147508414753798906" object_number="4394"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.8.1.4 Test Procedures" ID="ID_1929096271" CREATED="1411611277107" MODIFIED="1411611277107" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="71" object_id="416707580873426704" object_number="4395"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.8.2 Results and Discussions" ID="ID_1605528828" CREATED="1411611277050" MODIFIED="1411611277050" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="73" object_id="2482849487998555339" object_number="4396"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.8.2.1 Test Results" ID="ID_365437856" CREATED="1411611277088" MODIFIED="1411611277089" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="73" object_id="2322794873525003378" object_number="4397"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.8.2.2 Efficacy of Partial Board Irradiation Test" ID="ID_1668552546" CREATED="1411611277067" MODIFIED="1411611277068" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="73" object_id="5347109116726955691" object_number="4398"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.8.2.3 Correlation Between the Irradiation Test and Field Data" ID="ID_712682921" CREATED="1411611277048" MODIFIED="1411611277048" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="74" object_id="7579465612421523870" object_number="4399"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 </node>
 <node TEXT="2.9 Hierarchical Mitigation Strategies" ID="ID_493070877" CREATED="1411611277013" MODIFIED="1411611277013" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="75" object_id="6773989324137271486" object_number="4400"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="2.9.1 Basic Three Approaches" ID="ID_125402247" CREATED="1411611277029" MODIFIED="1411611277029" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="75" object_id="4441350821292980399" object_number="4401"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.9.2 Design on the Upper Bound (DOUB)" ID="ID_1313515397" CREATED="1411611277011" MODIFIED="1411611277011" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="76" object_id="4408710551545501660" object_number="4402"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="2.10 Inter Layer Built-In Reliability (LABIR)" ID="ID_1069526748" CREATED="1411611276996" MODIFIED="1411611276996" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="80" object_id="5456411614270009461" object_number="4403"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="2.11 Summary" ID="ID_1687338397" CREATED="1411611276986" MODIFIED="1411611276986" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="81" object_id="5851426589479696801" object_number="4404"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="References" ID="ID_1743553025" CREATED="1411611276973" MODIFIED="1411611276973" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="83" object_id="1475786377998683101" object_number="4405"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="3 Electromagnetic Compatibility" ID="ID_570346630" CREATED="1411611276745" MODIFIED="1411611276746" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="88" object_id="4873407891668555681" object_number="4406"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="3.1 Introduction" ID="ID_1022186960" CREATED="1411611276965" MODIFIED="1411611276965" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="88" object_id="7902583870656124272" object_number="4407"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="3.2 Quantitative Estimation of the EMI Radiation Based on the Measured Near-Field Magnetic Distribution" ID="ID_1106440505" CREATED="1411611276911" MODIFIED="1411611276911" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="91" object_id="3552931231180051385" object_number="4408"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="3.2.1 Measurement of the Magnetic Field Distribution Near the Circuit Board" ID="ID_1933512262" CREATED="1411611276940" MODIFIED="1411611276941" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="91" object_id="2595040914012049650" object_number="4409"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="3.2.2 Calculation of the Electric Current Distribution on the Circuit Board" ID="ID_1064158126" CREATED="1411611276926" MODIFIED="1411611276926" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="91" object_id="2996041424748902273" object_number="4410"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="3.2.3 Calculation of the Far-Field Radiated EMI" ID="ID_1050199320" CREATED="1411611276909" MODIFIED="1411611276909" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="93" object_id="7981700596601543978" object_number="4411"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="3.3 Development of a Non-contact Current Distribution Measurement Technique for LSI Packaging on PCBs" ID="ID_1586277296" CREATED="1411611276832" MODIFIED="1411611276833" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="94" object_id="3949511060177510621" object_number="4412"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="3.3.1 Electric Current Distribution Detection" ID="ID_60866892" CREATED="1411611276850" MODIFIED="1411611276850" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="94" object_id="2260391609774075842" object_number="4413"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="3.3.1.1 Target Specification" ID="ID_1100420697" CREATED="1411611276894" MODIFIED="1411611276894" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="94" object_id="2460086483648095667" object_number="4414"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="3.3.1.2 Conventional and Proposed Technique for Obtaining Current Distribution" ID="ID_732864917" CREATED="1411611276874" MODIFIED="1411611276874" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="94" object_id="245545596944969028" object_number="4415"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="3.3.1.3 High-Resolution Current Detecting Technique" ID="ID_713662982" CREATED="1411611276847" MODIFIED="1411611276847" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="97" object_id="650973702485639350" object_number="4416"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="3.3.2 The Current Detection Result and Its Verification" ID="ID_515537598" CREATED="1411611276830" MODIFIED="1411611276830" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="97" object_id="6861284555434245956" object_number="4417"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="3.4 Reduction Technique of Radiated Emission from Chassis with PCB" ID="ID_665743114" CREATED="1411611276771" MODIFIED="1411611276771" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="98" object_id="1384783111960738145" object_number="4418"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="3.4.1 Far-Field Measurement of Chassis with PCB" ID="ID_291401208" CREATED="1411611276814" MODIFIED="1411611276814" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="98" object_id="6366750111171193501" object_number="4419"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="3.4.2 Measurements of Junction Current" ID="ID_1294164327" CREATED="1411611276797" MODIFIED="1411611276797" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="102" object_id="2358120788913674496" object_number="4420"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="3.4.3 PSPICE Modeling" ID="ID_1490168807" CREATED="1411611276783" MODIFIED="1411611276783" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="103" object_id="6910571593462073299" object_number="4421"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="3.4.4 Experimental Validation" ID="ID_451394933" CREATED="1411611276768" MODIFIED="1411611276769" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="108" object_id="6460938297385803496" object_number="4422"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="3.5 Chapter Summary" ID="ID_937545109" CREATED="1411611276757" MODIFIED="1411611276757" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="109" object_id="4436948556162457496" object_number="4424"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="References" ID="ID_485950891" CREATED="1411611276743" MODIFIED="1411611276743" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="111" object_id="3856902537193407943" object_number="4425"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="4 Power Integrity" ID="ID_1038089292" CREATED="1411611276111" MODIFIED="1411611276111" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="113" object_id="4641103487935237482" object_number="4426"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.1 Introduction" ID="ID_321217751" CREATED="1411611276729" MODIFIED="1411611276730" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="113" object_id="7068137774496631830" object_number="4427"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.2 Detrimental Effect and Technical Trends of Power Integrity Design of Electronic Systems and Devices" ID="ID_898445709" CREATED="1411611276619" MODIFIED="1411611276619" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="114" object_id="6146160776066050649" object_number="4428"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.2.1 Detrimental Effect by Power Supply Noise on Semiconducting Devices" ID="ID_319810174" CREATED="1411611276654" MODIFIED="1411611276654" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="114" object_id="1134311438812025259" object_number="4429"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.2.1.1 Noise Margin Degradation" ID="ID_522476167" CREATED="1411611276713" MODIFIED="1411611276713" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="114" object_id="373601295480693222" object_number="4430"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.2.1.2 On-Chip Clock Timing" ID="ID_1931045549" CREATED="1411611276701" MODIFIED="1411611276701" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="115" object_id="8219779301262179434" object_number="4431"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.2.1.3 Signal Timing Uncertainty" ID="ID_531132633" CREATED="1411611276688" MODIFIED="1411611276688" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="116" object_id="2101465527582880519" object_number="4432"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.2.1.4 Jitter in Single-Ended Signaling" ID="ID_68569425" CREATED="1411611276671" MODIFIED="1411611276671" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="116" object_id="8180003259631171100" object_number="4433"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.2.1.5 Jitter in Differential Signaling" ID="ID_1562748717" CREATED="1411611276651" MODIFIED="1411611276651" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="118" object_id="7235575810336177992" object_number="4434"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="4.2.2 Trends of Power Supply Voltage and Power Supply Current for CMOS Semiconducting Devices" ID="ID_1307740322" CREATED="1411611276632" MODIFIED="1411611276632" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="120" object_id="5847226970478720344" object_number="4435"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.2.3 Trend of Power Distribution Network Design for Electronic Systems" ID="ID_579912562" CREATED="1411611276616" MODIFIED="1411611276617" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="122" object_id="3738219091999615499" object_number="4436"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="4.3 Design Methodology of Power Integrity" ID="ID_1758178048" CREATED="1411611276522" MODIFIED="1411611276522" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="124" object_id="4043458925821387677" object_number="4438"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.3.1 Definition of Power Supply Noise in Electric System" ID="ID_515858455" CREATED="1411611276601" MODIFIED="1411611276601" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="124" object_id="1726514293956602352" object_number="4439"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.3.2 Time-Domain and Frequency-Domain Design Methodology" ID="ID_1618948074" CREATED="1411611276520" MODIFIED="1411611276520" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="126" object_id="2927224804936094338" object_number="4440"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.3.2.1 Time-Domain (TD) Analysis" ID="ID_479004239" CREATED="1411611276579" MODIFIED="1411611276579" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="127" object_id="4493739170498121296" object_number="4441"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.3.2.2 Frequency-Domain Analysis" ID="ID_810241973" CREATED="1411611276560" MODIFIED="1411611276560" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="128" object_id="6311383673668014596" object_number="4442"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.3.2.3 Target Impedance" ID="ID_592415996" CREATED="1411611276540" MODIFIED="1411611276540" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="129" object_id="2008855810968967906" object_number="4443"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.3.2.4 Comparison Between TD and FD Analyses" ID="ID_135209688" CREATED="1411611276518" MODIFIED="1411611276518" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="136" object_id="7844131578416290303" object_number="4444"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 </node>
 <node TEXT="4.4 Modeling and Design Methodologies of PDS" ID="ID_443370126" CREATED="1411611276283" MODIFIED="1411611276283" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="137" object_id="4911740612834278272" object_number="4445"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.4.1 Modeling of Electrical Circuit Parameters" ID="ID_290578382" CREATED="1411611276375" MODIFIED="1411611276375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="138" object_id="7559683521493194936" object_number="4446"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.4.1.1 Voltage Regulator Module (VRM)" ID="ID_1400904620" CREATED="1411611276499" MODIFIED="1411611276499" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="138" object_id="6842438376854024708" object_number="4447"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.1.2 Bypass Capacitor" ID="ID_579065229" CREATED="1411611276475" MODIFIED="1411611276475" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="140" object_id="8232984792415885463" object_number="4448"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.1.3 Land of Bypass Capacitor" ID="ID_1971055934" CREATED="1411611276460" MODIFIED="1411611276460" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="141" object_id="4853790019836919884" object_number="4449"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.1.4 Power and Ground Planes" ID="ID_1742177767" CREATED="1411611276433" MODIFIED="1411611276433" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="142" object_id="3172474184289505010" object_number="4450"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.1.5 VIA" ID="ID_1608574924" CREATED="1411611276415" MODIFIED="1411611276415" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="142" object_id="4425833902683877470" object_number="4451"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.1.6 BGA" ID="ID_1158422983" CREATED="1411611276393" MODIFIED="1411611276393" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="142" object_id="8350173842742969859" object_number="4452"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.1.7 On-Chip Bypass Capacitors" ID="ID_453683401" CREATED="1411611276371" MODIFIED="1411611276371" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="143" object_id="1795589673823075492" object_number="4453"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="4.4.2 Design Strategies of PDS" ID="ID_1479617000" CREATED="1411611276280" MODIFIED="1411611276280" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="143" object_id="2096361710483387388" object_number="4454"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.4.2.1 Usage of Different Capacitors" ID="ID_1585871094" CREATED="1411611276354" MODIFIED="1411611276354" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="145" object_id="2630951174090996312" object_number="4455"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.2.2 Usage of a Capacitor with Large BQF" ID="ID_549669137" CREATED="1411611276337" MODIFIED="1411611276337" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="145" object_id="5277463266889412913" object_number="4456"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.2.3 Usage of a Large ESR" ID="ID_1135076913" CREATED="1411611276319" MODIFIED="1411611276319" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="146" object_id="3102056447158519803" object_number="4457"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.2.4 Usage of Multiple Terminal Components" ID="ID_1412021982" CREATED="1411611276299" MODIFIED="1411611276299" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="146" object_id="990283378473213812" object_number="4458"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.4.2.5 Place Components as Close as Possible" ID="ID_1477611177" CREATED="1411611276278" MODIFIED="1411611276278" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="147" object_id="8671547715191775742" object_number="4459"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 </node>
 <node TEXT="4.5 Simultaneous Switching Noise (SSN)" ID="ID_49138737" CREATED="1411611276230" MODIFIED="1411611276230" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="147" object_id="6075391512460358783" object_number="4460"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.5.1 Principle of SSN" ID="ID_1563774692" CREATED="1411611276261" MODIFIED="1411611276261" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="148" object_id="556509641581092740" object_number="4461"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.5.2 S--G loop SSN" ID="ID_1656491391" CREATED="1411611276245" MODIFIED="1411611276245" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="149" object_id="1787770791979678089" object_number="4462"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.5.3 P--G loop SSN" ID="ID_210085907" CREATED="1411611276227" MODIFIED="1411611276227" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="151" object_id="4898126992014293311" object_number="4463"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="4.6 Measurement of Power Distribution System Performance" ID="ID_274485021" CREATED="1411611276139" MODIFIED="1411611276139" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="153" object_id="5813451043721409019" object_number="4464"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.6.1 On-Chip Voltage Waveform Measurement" ID="ID_838936443" CREATED="1411611276175" MODIFIED="1411611276175" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="153" object_id="7073495302530931831" object_number="4465"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.6.1.1 DAC" ID="ID_585126598" CREATED="1411611276208" MODIFIED="1411611276208" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="153" object_id="4655177434745551676" object_number="4466"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.6.1.2 Ring Oscillator" ID="ID_95464621" CREATED="1411611276189" MODIFIED="1411611276189" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="154" object_id="6800179819650296873" object_number="4467"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.6.1.3 Delay Observation" ID="ID_687366378" CREATED="1411611276172" MODIFIED="1411611276173" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="157" object_id="2310067853593827241" object_number="4468"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="4.6.2 On-Chip Power Supply Impedance Measurement" ID="ID_1964296724" CREATED="1411611276137" MODIFIED="1411611276137" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="159" object_id="485928014446178892" object_number="4469"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="4.6.2.1 Integrated Power Supply Frequency Domain Impedance Meter (IFDIM)" ID="ID_443402056" CREATED="1411611276156" MODIFIED="1411611276156" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="159" object_id="1544917897365092000" object_number="4470"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="4.6.2.2 Impulse Response Method" ID="ID_153387962" CREATED="1411611276135" MODIFIED="1411611276135" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="160" object_id="390812724926784303" object_number="4471"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 </node>
 <node TEXT="4.7 Summary" ID="ID_10539660" CREATED="1411611276124" MODIFIED="1411611276124" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="162" object_id="8672686892086078395" object_number="4472"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="References" ID="ID_678656509" CREATED="1411611276108" MODIFIED="1411611276109" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="163" object_id="9029735361167144190" object_number="4473"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5 Fault-Tolerant System Technology" ID="ID_502426057" CREATED="1411611275550" MODIFIED="1411611275550" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="165" object_id="7189074767424726811" object_number="4474"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.1 Introduction" ID="ID_162168949" CREATED="1411611276094" MODIFIED="1411611276094" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="165" object_id="8859647766548491619" object_number="4475"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.2 Metrics for Dependability" ID="ID_1129676986" CREATED="1411611276049" MODIFIED="1411611276049" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="166" object_id="8272116943920193754" object_number="4476"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.2.1 Reliability" ID="ID_1937269992" CREATED="1411611276079" MODIFIED="1411611276079" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="166" object_id="2786312141297002312" object_number="4477"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.2.2 Availability" ID="ID_1837186507" CREATED="1411611276064" MODIFIED="1411611276065" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="167" object_id="2222120894752213410" object_number="4478"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.2.3 Safety" ID="ID_1315046912" CREATED="1411611276046" MODIFIED="1411611276046" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="169" object_id="7936907037703582395" object_number="4479"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5.3 Reliability Paradox" ID="ID_45626123" CREATED="1411611276035" MODIFIED="1411611276035" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="170" object_id="7742902359147557468" object_number="4480"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.4 Survey on Fault-Tolerant Systems" ID="ID_9634440" CREATED="1411611276022" MODIFIED="1411611276022" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="172" object_id="3057722927771898091" object_number="4481"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.5 Technical Issues" ID="ID_1446079319" CREATED="1411611275944" MODIFIED="1411611275945" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="175" object_id="468138474757045504" object_number="4482"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.5.1 High Performance" ID="ID_167627521" CREATED="1411611276006" MODIFIED="1411611276006" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="176" object_id="7967007009931030095" object_number="4483"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.5.2 Transparency" ID="ID_1193504104" CREATED="1411611275990" MODIFIED="1411611275990" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="178" object_id="7209618252732713099" object_number="4484"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.5.3 Physical Transparency" ID="ID_50960658" CREATED="1411611275977" MODIFIED="1411611275977" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="178" object_id="526286074083253478" object_number="4485"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.5.4 Fault Tolerance of Fault Tolerance for Ultimate Safety" ID="ID_1931437074" CREATED="1411611275962" MODIFIED="1411611275962" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="179" object_id="7229078801333217807" object_number="4486"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.5.5 Reliability of Software" ID="ID_217740583" CREATED="1411611275938" MODIFIED="1411611275938" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="182" object_id="5507286236032168089" object_number="4487"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5.6 Industrial Approach" ID="ID_1532705950" CREATED="1411611275869" MODIFIED="1411611275869" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="183" object_id="3789251828626138340" object_number="4488"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.6.1 Autonomous Decentralized Systems" ID="ID_134050323" CREATED="1411611275923" MODIFIED="1411611275923" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="185" object_id="588677551257157564" object_number="4489"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.6.2 Space Application" ID="ID_1486260568" CREATED="1411611275910" MODIFIED="1411611275910" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="186" object_id="3309660150639145980" object_number="4490"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.6.3 Commercial Fault-Tolerant Systems" ID="ID_945834923" CREATED="1411611275884" MODIFIED="1411611275885" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="186" object_id="2636427037153995187" object_number="4491"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.6.4 Ultra-Safe System" ID="ID_620730188" CREATED="1411611275865" MODIFIED="1411611275865" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="187" object_id="4601078321826879060" object_number="4492"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5.7 Availability Improvement vs. Coverage Improvement" ID="ID_199800921" CREATED="1411611275851" MODIFIED="1411611275852" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="188" object_id="4996654387839133105" object_number="4493"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.8 Trade-Off Between Availability and Coverage  Stepwise Negotiating Voting" ID="ID_1805204236" CREATED="1411611275767" MODIFIED="1411611275767" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="188" object_id="6909476793678508167" object_number="4495"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.8.1 Basic Concept" ID="ID_216009320" CREATED="1411611275838" MODIFIED="1411611275838" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="188" object_id="7286441237815360412" object_number="4496"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.8.2 Hiten Onboard Computer" ID="ID_407686888" CREATED="1411611275828" MODIFIED="1411611275828" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="191" object_id="2429988455838283133" object_number="4497"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.8.3 Fault-Tolerance Experiments" ID="ID_1209856969" CREATED="1411611275785" MODIFIED="1411611275785" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="192" object_id="3577018812234967309" object_number="4498"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.8.3.1 Fault-Injection Experiments" ID="ID_1442490157" CREATED="1411611275809" MODIFIED="1411611275810" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="192" object_id="9104951097612806208" object_number="4499"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.8.3.2 Field Data" ID="ID_1886440815" CREATED="1411611275782" MODIFIED="1411611275782" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="193" object_id="6499903313199223923" object_number="4500"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5.8.4 Extension of SNV -- Redundancy Management" ID="ID_1215921303" CREATED="1411611275765" MODIFIED="1411611275765" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="195" object_id="6953935048259397871" object_number="4501"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5.9 Coverage Improvement" ID="ID_11105587" CREATED="1411611275734" MODIFIED="1411611275734" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="197" object_id="9207997094976327766" object_number="4502"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.9.1 Self-Checking Comparator" ID="ID_178804320" CREATED="1411611275749" MODIFIED="1411611275749" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="198" object_id="6206501938732392139" object_number="4503"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.9.2 Optimal Time Diversity" ID="ID_365704048" CREATED="1411611275731" MODIFIED="1411611275731" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="201" object_id="5295666923616915641" object_number="4504"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5.10 On-Chip Redundancy" ID="ID_670022986" CREATED="1411611275720" MODIFIED="1411611275720" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="206" object_id="1328833762740629870" object_number="4505"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.11 High Performance (Commercial Fault-Tolerant Computer)" ID="ID_1284861268" CREATED="1411611275580" MODIFIED="1411611275580" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="210" object_id="7865232507509953690" object_number="4506"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.11.1 Basic Concepts of TPR Architecture" ID="ID_1339553513" CREATED="1411611275683" MODIFIED="1411611275683" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="210" object_id="6516944996533379868" object_number="4507"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.11.1.1 System Reconfiguration by Collaboration of Hardware and Software" ID="ID_716497262" CREATED="1411611275703" MODIFIED="1411611275704" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="210" object_id="5536826708759504275" object_number="4508"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.11.1.2 Intra-board Fault-Masking" ID="ID_872962103" CREATED="1411611275680" MODIFIED="1411611275680" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="211" object_id="2591964187383725618" object_number="4509"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5.11.2 System Configuration" ID="ID_165184771" CREATED="1411611275664" MODIFIED="1411611275665" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="211" object_id="3713899827041644450" object_number="4510"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.11.3 System Reconfiguration on Fault Occurrence" ID="ID_1101067229" CREATED="1411611275649" MODIFIED="1411611275649" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="213" object_id="5867536342947211195" object_number="4511"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.11.4 Processing Take-Over on Fault Occurrence" ID="ID_1412185489" CREATED="1411611275634" MODIFIED="1411611275634" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="213" object_id="8927322110273360646" object_number="4512"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.11.5 Fault Tolerance of Fault Tolerance" ID="ID_283503106" CREATED="1411611275594" MODIFIED="1411611275594" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="214" object_id="8865819777843284258" object_number="4513"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="5.11.5.1 Fault Tolerance of System Reconfiguration" ID="ID_1563522439" CREATED="1411611275612" MODIFIED="1411611275612" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="214" object_id="886023329445409344" object_number="4514"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="5.11.5.2 Fault Tolerance of MPU Checker" ID="ID_1270106427" CREATED="1411611275592" MODIFIED="1411611275592" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="214" object_id="7706130383200068353" object_number="4515"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5.11.6 Commercial Product Model" ID="ID_45915627" CREATED="1411611275577" MODIFIED="1411611275577" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="217" object_id="478443810625592889" object_number="4516"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="5.12 Current Application Field: X-by-Wire" ID="ID_429319528" CREATED="1411611275563" MODIFIED="1411611275564" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="218" object_id="1681346506152524568" object_number="4518"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="References" ID="ID_1563068155" CREATED="1411611275548" MODIFIED="1411611275548" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="220" object_id="5452401674987610754" object_number="4519"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="6 Challenges in the Future" ID="ID_1287474963" CREATED="1411611275534" MODIFIED="1411611275534" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="223" object_id="6543461973822191449" object_number="4520"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 <node TEXT="References" ID="ID_1766195779" CREATED="1411611275529" MODIFIED="1411611275530" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="224" object_id="3002779859045438389" object_number="4521"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="Index" ID="ID_1946825338" CREATED="1411611275519" MODIFIED="1411611275519" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="225" object_id="503645062786619423" object_number="4522"/>
+<attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
+<attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
 <node TEXT="Fault-Tolerant Computing for Radiation Environments" ID="ID_339415893" CREATED="1411611277958" MODIFIED="1411705936754" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/CRC-TR-01-6.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="EB18B62F98D7CCDCF39A2932EADF5E38C2F343E444233DFDA99B429FA3B5">
     <pdf_title>TECHNICAL REPORT</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="Shirvani2001"/>
+<attribute NAME="authors" VALUE="Shirvani, Philip Payman and Adviser-Mccluskey, Edward J"/>
+<attribute NAME="title" VALUE="Fault-tolerant computing for radiation environments"/>
+<attribute NAME="year" VALUE="2001"/>
 </node>
-<node TEXT="Concurrent Detection of Software and Hardware Data-Access Faults" ID="ID_1306654622" CREATED="1411611277965" MODIFIED="1411705917938" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00588046.pdf">
+<node TEXT="Concurrent Detection of Software and Hardware Data-Access Faults" ID="ID_1306654622" CREATED="1411611277965" MODIFIED="1411833801248" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00588046.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E0F7374BD26FEB0489284A8798DE276D9E260D033868AC77B03DABCE12630">
     <pdf_title>Concurrent Detection of Software and Hardware Data-Access Faults</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="588046"/>
+<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Wilken, K.D. and Kong, T."/>
+<attribute NAME="title" VALUE="Concurrent detection of software and hardware data-access faults"/>
+<attribute NAME="year" VALUE="1997"/>
 </node>
-<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1411705896174" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1411834087201" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
     <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
 </node>
 <node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1409436893" CREATED="1411611277983" MODIFIED="1411705874517" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01319663.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E668D0EFFDC85F14458CACAC84F0BC471EBC34AD395A35259AFF3E68366862">
@@ -9114,21 +9753,21 @@
 <attribute NAME="title" VALUE="Hybrid soft error detection by means of infrastructure IP cores [SoC implementation]"/>
 <attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="Soft-error detection using control flow assertions" ID="ID_544471556" CREATED="1411611277990" MODIFIED="1411611965485" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01250158.pdf">
+<node TEXT="Soft-error detection using control flow assertions" ID="ID_544471556" CREATED="1411611277990" MODIFIED="1411834164716" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01250158.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="1388EE1C7B7C77B799506F97E75C116A55DB6AAC4A2288E28C33396727EEA8">
     <pdf_title>Soft-error Detection Using Control Flow Assertions</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Goloubeva2003"/>
-<attribute NAME="authors" VALUE="Goloubeva, Olga and Rebaudengo, Maurizio and Reorda, Matteo Sonza and Violante, Massimo"/>
+<attribute NAME="key" VALUE="1250158"/>
+<attribute NAME="authors" VALUE="Goloubeva, O. and Rebaudengo, M. and Reorda, M.S. and Violante, M."/>
 <attribute NAME="title" VALUE="Soft-error detection using control flow assertions"/>
 <attribute NAME="year" VALUE="2003"/>
 </node>
-<node TEXT="Configurable tool to protect processors against SEE by software-based detection techniques" ID="ID_1423242595" CREATED="1411611277995" MODIFIED="1411611927025" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06261259.pdf">
+<node TEXT="Configurable tool to protect processors against SEE by software-based detection techniques" ID="ID_1423242595" CREATED="1411611277995" MODIFIED="1411834201097" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06261259.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="497B313F646267BE4DFA15638C1C46AF7FE2979D62B24467C42A19B3448A">
     <pdf_title>Configurable Tool to Protect Processors against SEE by Software-based Detection Techniques</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Chielle2012"/>
-<attribute NAME="authors" VALUE="Chielle, Eduardo and Barth, Raul Sergio and Lapolli, Angelo Cardoso and Kastensmidt, Fernanda Lima"/>
+<attribute NAME="key" VALUE="6261259"/>
+<attribute NAME="authors" VALUE="Chielle, E. and Barth, Raul Sergio and Lapolli, Angelo Cardoso and Kastensmidt, F.L."/>
 <attribute NAME="title" VALUE="Configurable tool to protect processors against SEE by software-based detection techniques"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
@@ -9141,69 +9780,96 @@
 <attribute NAME="title" VALUE="Software-implemented hardware fault tolerance experiments: COTS in space"/>
 <attribute NAME="year" VALUE="2000"/>
 </node>
-<node TEXT="An Hybrid Architecture to Detect Transient Faults in Microprocessors" ID="ID_1887115306" CREATED="1411611278009" MODIFIED="1411611765415" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06176590.pdf">
+<node TEXT="An Hybrid Architecture to Detect Transient Faults in Microprocessors" ID="ID_1887115306" CREATED="1411611278009" MODIFIED="1411834374627" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06176590.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="25E992F7A2715694BC4A9929EB5ED384262CEDE3BD7D689051E82EFCCC97C48">
     <pdf_title>An Hybrid Architecture to Detect Transient Faults in Microprocessors</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="6176590"/>
+<attribute NAME="authors" VALUE="Campagna, S. and Violante, M."/>
+<attribute NAME="title" VALUE="An hybrid architecture to detect transient faults in microprocessors: An experimental validation"/>
+<attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="Experimental Evaluation of Three Concurrent Error Detection Mechanisms" ID="ID_165605468" CREATED="1411611278030" MODIFIED="1411611742093" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04243649.pdf">
+<node TEXT="Experimental Evaluation of Three Concurrent Error Detection Mechanisms" ID="ID_165605468" CREATED="1411611278030" MODIFIED="1411834505304" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04243649.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E954FD21BC57B26DDE104D5A83BF77B3FAC4E4AE2D8FCE445B88085F0C344CB">
     <pdf_title>Experimental</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="4243649"/>
+<attribute NAME="authors" VALUE="Vahdatpour, A and Fazeli, M. and Miremadi, S.G."/>
+<attribute NAME="title" VALUE="Experimental Evaluation of Three Concurrent Error Detection Mechanisms"/>
+<attribute NAME="year" VALUE="2006"/>
 </node>
-<node TEXT="Concurrent Error Detection Using Watchdog Processors - A Survey" ID="ID_1745161832" CREATED="1411611278044" MODIFIED="1411611614566" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00002145.pdf">
+<node TEXT="Concurrent Error Detection Using Watchdog Processors - A Survey" ID="ID_1745161832" CREATED="1411611278044" MODIFIED="1411834538931" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00002145.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C4DFA6B670D417D74165A0E9AB4CDA9B7AEC6583AD8791BDB8EB32C9896096">
     <pdf_title>Concurrent Error Detection Using Watchdog Processors-A Survey</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Mahmood1988"/>
+<attribute NAME="key" VALUE="2145"/>
 <attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Mahmood, Aamer and McCluskey, Edward J"/>
+<attribute NAME="authors" VALUE="Mahmood, A and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="Concurrent error detection using watchdog processors-a survey"/>
 <attribute NAME="year" VALUE="1988"/>
 </node>
-<node TEXT="Watchdog Processors and Structural Integrity Checking" ID="ID_487780065" CREATED="1411611278052" MODIFIED="1411611591556" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01676066.pdf">
+<node TEXT="Watchdog Processors and Structural Integrity Checking" ID="ID_487780065" CREATED="1411611278052" MODIFIED="1411834629643" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01676066.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="2B32F32C5296F18345FAC346F5116B4125E773599FE164929A7673D52F4E7A1">
     <pdf_title>CONCLUSION</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="1676066"/>
+<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Lu, D.J."/>
+<attribute NAME="title" VALUE="Watchdog Processors and Structural Integrity Checking"/>
+<attribute NAME="year" VALUE="1982"/>
 </node>
-<node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1411611573410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
+<node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1411834765848" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
     <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="6114526"/>
+<attribute NAME="authors" VALUE="Tran, D. A and Virazel, A and Bosio, A and Dilillo, L. and Girard, P. and Pravossoudovitch, S. and Wunderlich, H. -J"/>
+<attribute NAME="title" VALUE="A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="Reliability Analysis of Systems with Concurrent Error Detection" ID="ID_543376500" CREATED="1411611278059" MODIFIED="1411611560246" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01672925.pdf">
+<node TEXT="Reliability Analysis of Systems with Concurrent Error Detection" ID="ID_543376500" CREATED="1411611278059" MODIFIED="1411834879884" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01672925.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="8C67D3D91FB9BAEE5CC875A6844E6991B7C7EB6BC66E4F7AFD58AAFBDFDB67">
     <pdf_title>Error Detection</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="1672925"/>
+<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Ramamoorthy, C.V. and Yih-Wu Han"/>
+<attribute NAME="title" VALUE="Reliability Analysis of Systems with Concurrent Error Detection"/>
+<attribute NAME="year" VALUE="1975"/>
 </node>
-<node TEXT="ED4I: Error Detection by Diverse Data and Duplicated Instructions" ID="ID_173818103" CREATED="1411611278065" MODIFIED="1411611538384" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00980007.pdf">
+<node TEXT="ED4I: Error Detection by Diverse Data and Duplicated Instructions" ID="ID_173818103" CREATED="1411611278065" MODIFIED="1411835009723" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00980007.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="84A75D9D67169CF8FCBA212EC3658E035B71343E086BDAED346DAFC35D147">
     <pdf_title>5534.&gt;?@5A5;AB3C55 ;55;</pdf_title>
 </pdf_annotation>
+<attribute NAME="key" VALUE="980007"/>
+<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Oh, N. and Mitra, S and McCluskey, E.J."/>
+<attribute NAME="title" VALUE="ED4I: error detection by diverse data and duplicated instructions"/>
+<attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors" ID="ID_1089741212" CREATED="1411611278073" MODIFIED="1411611443448" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01607502.pdf">
+<node TEXT="A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors" ID="ID_1089741212" CREATED="1411611278073" MODIFIED="1411835052977" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01607502.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="EB7E4C34D186DE81967448C7FCE41392D195E603AC12B19FDB32C49D45">
     <pdf_title>A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Rajabzadeh2005"/>
-<attribute NAME="authors" VALUE="Rajabzadeh, Amir and Miremadi, Seyed Ghassem"/>
+<attribute NAME="key" VALUE="1607502"/>
+<attribute NAME="authors" VALUE="Rajabzadeh, A and Miremadi, S.-G."/>
 <attribute NAME="title" VALUE="A hardware approach to concurrent error detection capability enhancement in COTS processors"/>
 <attribute NAME="year" VALUE="2005"/>
 </node>
 </node>
-<node TEXT="&lt;research category 1&gt;" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1411775201110" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="&lt;research category 1&gt;" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#007c7c"/>
 </node>
-<node TEXT="&lt;research category 2&gt;" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1411775201110" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="&lt;research category 2&gt;" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c7c00"/>
 </node>
-<node TEXT="&lt;research category 3&gt;" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1411775201110" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="&lt;research category 3&gt;" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c0000"/>
-<node TEXT="&lt;research category 3.1&gt;" ID="ID_322863121" CREATED="1377254985251" MODIFIED="1411775201110" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="&lt;research category 3.2&gt;" ID="ID_1951434641" CREATED="1377254985251" MODIFIED="1411775201110" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="&lt;research category 3.3&gt;" ID="ID_444536474" CREATED="1377254985251" MODIFIED="1411775201110" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="&lt;research category 3.1&gt;" ID="ID_322863121" CREATED="1377254985251" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="&lt;research category 3.2&gt;" ID="ID_1951434641" CREATED="1377254985251" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="&lt;research category 3.3&gt;" ID="ID_444536474" CREATED="1377254985251" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1411775201110" HGAP="-411" VSHIFT="-225" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1411833109871" HGAP="-411" VSHIFT="-225" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9229,7 +9895,7 @@
 </html>
 </richcontent>
 </node>
-<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1411775201110" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1411833109871" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9246,13 +9912,13 @@
 </html>
 </richcontent>
 <edge COLOR="#7c0000"/>
-<node TEXT="Example 1: Sort your PDFs (each PDF&#xa;will have its annotations as child node)" FOLDED="true" ID="ID_1397770501" CREATED="1377253207728" MODIFIED="1411775201111" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Category 1: Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_975521723" CREATED="1344508592622" MODIFIED="1411775201111" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Example 1: Sort your PDFs (each PDF&#xa;will have its annotations as child node)" FOLDED="true" ID="ID_1397770501" CREATED="1377253207728" MODIFIED="1411833109871" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Category 1: Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_975521723" CREATED="1344508592622" MODIFIED="1411833109871" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 </node>
-<node TEXT="Category 2: Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1447634729" CREATED="1344508911688" MODIFIED="1411775201111" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Category 3: Search Engine Spam" FOLDED="true" ID="ID_606982085" CREATED="1344509076356" MODIFIED="1411775201111" DCR_PRIVACY_LEVEL="DEMO"/>
-<node ID="ID_141894498" CREATED="1377254593942" MODIFIED="1411775201111" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node TEXT="Category 2: Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1447634729" CREATED="1344508911688" MODIFIED="1411833109871" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Category 3: Search Engine Spam" FOLDED="true" ID="ID_606982085" CREATED="1344509076356" MODIFIED="1411833109871" DCR_PRIVACY_LEVEL="DEMO"/>
+<node ID="ID_141894498" CREATED="1377254593942" MODIFIED="1411833109872" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9268,8 +9934,8 @@
 <font BOLD="false"/>
 </node>
 </node>
-<node TEXT="Example 2: Sort your annotations only" FOLDED="true" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1411775201111" DCR_PRIVACY_LEVEL="DEMO">
-<node ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1411775201111" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node TEXT="Example 2: Sort your annotations only" FOLDED="true" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
+<node ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1411833109872" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9284,34 +9950,34 @@
 </richcontent>
 <font BOLD="false"/>
 </node>
-<node TEXT=" Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1411775201111" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT=" Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 </node>
-<node TEXT="Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1411775201111" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Definition &amp; Origin" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1411775201111" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Guidelines" FOLDED="true" ID="ID_194005043" CREATED="1344508982673" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Opinions" FOLDED="true" ID="ID_1930051329" CREATED="1344509152237" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Pro" ID="ID_1392476056" CREATED="1344509155557" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Con" ID="ID_1940856338" CREATED="1344509156803" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="These annotations already have&#xa;bibliographic data assigned (move&#xa;the mouse over the nodes to see it)" ID="ID_373642256" CREATED="1345720620556" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Definition &amp; Origin" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Guidelines" FOLDED="true" ID="ID_194005043" CREATED="1344508982673" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Opinions" FOLDED="true" ID="ID_1930051329" CREATED="1344509152237" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Pro" ID="ID_1392476056" CREATED="1344509155557" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Con" ID="ID_1940856338" CREATED="1344509156803" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="These annotations already have&#xa;bibliographic data assigned (move&#xa;the mouse over the nodes to see it)" ID="ID_373642256" CREATED="1345720620556" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="SummaryNode"/>
 <font BOLD="true"/>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="Search Engine Spam" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Classic Search Engine Spam" ID="ID_331289321" CREATED="1344509216406" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Academic Search Engine Spam" FOLDED="true" ID="ID_142245057" CREATED="1344509218390" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Origin" ID="ID_1454640722" CREATED="1344509131751" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Current problems of..." ID="ID_1759697893" CREATED="1344509232404" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Google Scholar" ID="ID_1671464522" CREATED="1344509399579" MODIFIED="1411775201112" MOVED="1377255679985" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Microsoft &amp; CiteSeer" ID="ID_625521591" CREATED="1344509385586" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Search Engine Spam" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Classic Search Engine Spam" ID="ID_331289321" CREATED="1344509216406" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Academic Search Engine Spam" FOLDED="true" ID="ID_142245057" CREATED="1344509218390" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Origin" ID="ID_1454640722" CREATED="1344509131751" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Current problems of..." ID="ID_1759697893" CREATED="1344509232404" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Google Scholar" ID="ID_1671464522" CREATED="1344509399579" MODIFIED="1411833109873" MOVED="1377255679985" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Microsoft &amp; CiteSeer" ID="ID_625521591" CREATED="1344509385586" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
 </node>
 </node>
 </node>
-<node ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1411775201112" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9333,45 +9999,45 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Todos" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Ask John to send me his new paper" ID="ID_1718393569" CREATED="1377253395047" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Todos" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Ask John to send me his new paper" ID="ID_1718393569" CREATED="1377253395047" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
 <icon BUILTIN="button_ok"/>
 </node>
-<node TEXT="Submit article to journal" ID="ID_1884899473" CREATED="1377253406567" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Submit article to journal" ID="ID_1884899473" CREATED="1377253406567" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
 <icon BUILTIN="25%"/>
 </node>
-<node TEXT="Find interns to help with Docear development" FOLDED="true" ID="ID_387032517" CREATED="1377253444350" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Ask at university" ID="ID_873534185" CREATED="1377253462110" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Find interns to help with Docear development" FOLDED="true" ID="ID_387032517" CREATED="1377253444350" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Ask at university" ID="ID_873534185" CREATED="1377253462110" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node TEXT="Place note on Docear homepage" ID="ID_102199314" CREATED="1377253471334" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Send newsletter" ID="ID_914479173" CREATED="1377253483862" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Place note on Docear homepage" ID="ID_102199314" CREATED="1377253471334" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Send newsletter" ID="ID_914479173" CREATED="1377253483862" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Read later" FOLDED="true" ID="ID_101014227" CREATED="1377254821613" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Read later" FOLDED="true" ID="ID_101014227" CREATED="1377254821613" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Project ideas" FOLDED="true" ID="ID_778803683" CREATED="1377253508454" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Machine for making water from sand (would&#xa;solve the problem of thirst in the world)" ID="ID_1844285982" CREATED="1377253593429" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Robot to clean my dishes, make my bed, ..." ID="ID_1780949524" CREATED="1377254395207" MODIFIED="1411775201113" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="..." ID="ID_110121390" CREATED="1377254415687" MODIFIED="1411775201114" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Project ideas" FOLDED="true" ID="ID_778803683" CREATED="1377253508454" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Machine for making water from sand (would&#xa;solve the problem of thirst in the world)" ID="ID_1844285982" CREATED="1377253593429" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Robot to clean my dishes, make my bed, ..." ID="ID_1780949524" CREATED="1377254395207" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="..." ID="ID_110121390" CREATED="1377254415687" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Tools for Literature Management" FOLDED="true" ID="ID_1289068930" CREATED="1344508500160" MODIFIED="1411775201114" MOVED="1377254563961" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Docear" ID="ID_92209979" CREATED="1344508512489" MODIFIED="1411775201114" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="http://www.docear.org/" ID="ID_723244074" CREATED="1344508531889" MODIFIED="1411775201114" LINK="http://www.docear.org/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Tools for Literature Management" FOLDED="true" ID="ID_1289068930" CREATED="1344508500160" MODIFIED="1411833109874" MOVED="1377254563961" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Docear" ID="ID_92209979" CREATED="1344508512489" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="http://www.docear.org/" ID="ID_723244074" CREATED="1344508531889" MODIFIED="1411833109874" LINK="http://www.docear.org/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Zotero" ID="ID_1364979259" CREATED="1344508514120" MODIFIED="1411775201114" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="https://www.zotero.org/" ID="ID_316254824" CREATED="1344508547673" MODIFIED="1411775201114" LINK="https://www.zotero.org/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Zotero" ID="ID_1364979259" CREATED="1344508514120" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="https://www.zotero.org/" ID="ID_316254824" CREATED="1344508547673" MODIFIED="1411833109875" LINK="https://www.zotero.org/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Endnote" ID="ID_166045555" CREATED="1344508517563" MODIFIED="1411775201114" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="http://endnote.com/" ID="ID_1006685224" CREATED="1344508567781" MODIFIED="1411775201114" LINK="http://endnote.com/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Endnote" ID="ID_166045555" CREATED="1344508517563" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="http://endnote.com/" ID="ID_1006685224" CREATED="1344508567781" MODIFIED="1411833109875" LINK="http://endnote.com/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
 </node>
-<node TEXT="Sources for funding" FOLDED="true" ID="ID_184721027" CREATED="1377254143969" MODIFIED="1411775201114" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="USA" ID="ID_1912184932" CREATED="1377254213665" MODIFIED="1411775201114" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="NSF" ID="ID_1019872373" CREATED="1377254215727" MODIFIED="1411775201114" LINK="http://www.nsf.gov/funding/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Sources for funding" FOLDED="true" ID="ID_184721027" CREATED="1377254143969" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="USA" ID="ID_1912184932" CREATED="1377254213665" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="NSF" ID="ID_1019872373" CREATED="1377254215727" MODIFIED="1411833109875" LINK="http://www.nsf.gov/funding/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Germany" ID="ID_755160370" CREATED="1377254219000" MODIFIED="1411775201114" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="DAAD (for working abroad)" ID="ID_1423937593" CREATED="1377254227170" MODIFIED="1411775201115" LINK="https://www.daad.de/en/index.html" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="DFG" ID="ID_1592702018" CREATED="1377254252006" MODIFIED="1411775201115" LINK="http://www.dfg.de/" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Germany" ID="ID_755160370" CREATED="1377254219000" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="DAAD (for working abroad)" ID="ID_1423937593" CREATED="1377254227170" MODIFIED="1411833109875" LINK="https://www.daad.de/en/index.html" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="DFG" ID="ID_1592702018" CREATED="1377254252006" MODIFIED="1411833109875" LINK="http://www.dfg.de/" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
 </node>
 </node>
