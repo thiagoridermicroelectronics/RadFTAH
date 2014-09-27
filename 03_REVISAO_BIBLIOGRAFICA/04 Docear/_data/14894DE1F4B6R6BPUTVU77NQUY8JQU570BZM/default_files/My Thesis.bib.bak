@@ -39,6 +39,7 @@
 	Preliminary fault injection results performed on a PowerPC-based
 	system confirmed the efficiency of the approach.},
   doi = {10.1109/TNS.2008.2000839},
+  file = {:../../../../02_PDFs/Referencias4/04636948.pdf:PDF},
   issn = {0018-9499},
   keywords = {embedded systems;fault tolerance;integrated circuit design;integrated
 	circuit reliability;memory architecture;microprocessor chips;radiation
@@ -51,7 +52,53 @@
 	processors reliability;fault injection;single event effects}
 }
 
-@INCOLLECTION{raey,
+@MISC{Al-Yamani_algorithm-basedfault,
+  author = {Ahmad A. Al-Yamani and Nahmsuk Oh and Edward J. McCluskey},
+  title = {Algorithm-Based Fault Tolerance: A Performance Perspective Based
+	on Error Rate},
+  file = {:../../../../02_PDFs/Referencias2/alyamaniDSN01.pdf:PDF},
+  url = {http://crc.stanford.edu/crc_papers/alyamaniDSN01.pdf}
+}
+
+@ARTICLE{774911,
+  author = {Alkhalifa, Z. and Nair, V.S.S. and Krishnamurthy, N. and Abraham,
+	J.A},
+  title = {Design and evaluation of system-level checks for on-line control
+	flow error detection},
+  journal = {Parallel and Distributed Systems, IEEE Transactions on},
+  year = {1999},
+  volume = {10},
+  pages = {627-641},
+  number = {6},
+  month = {Jun},
+  abstract = {This paper evaluates the concurrent error detection capabilities of
+	system-level checks, using fault and error injection. The checks
+	comprise application and system level mechanisms to detect control
+	flow errors. We propose Enhanced Control-Flow Checking Using Assertions
+	(ECCA). In ECCA, branch-free intervals (BFI) in a given high or intermediate
+	level program are identified and the entry and exit points of the
+	intervals are determined. BFls are then grouped into blocks, the
+	size of which is determined through a performance/overhead analysis.
+	The blocks are then fortified with preinserted assertions. For the
+	high level ECCA, we describe an implementation of ECCA through a
+	preprocessor that will automatically insert the necessary assertions
+	into the program. Then, we describe the intermediate implementation
+	possible through modifications made on gee to make it ECCA capable.
+	The fault detection capabilities of the checks are evaluated both
+	analytically and experimentally. Fault injection experiments are
+	conducted using FERRARI to determine the fault coverage of the proposed
+	techniques},
+  doi = {10.1109/71.774911},
+  file = {:../../../../02_PDFs/Referencias1/00774911.pdf:PDF},
+  issn = {1045-9219},
+  keywords = {concurrency control;distributed processing;real-time systems;ECCA;Enhanced
+	Control-Flow Checking Using Assertions;concurrent error detection;control
+	flow errors;fault and error injection;fault coverage;system-level
+	checks;Application software;Computer aided instruction;Control systems;Delay;Error
+	correction;Fault detection;Hardware;Performance analysis;Runtime;Testing}
+}
+
+@INCOLLECTION{Anghel2007,
   author = {Anghel, L. and Rebaudengo, M. and Reorda, M.Sonza and Violante, M.},
   title = {Multi-level Fault Effects Evaluation},
   booktitle = {Radiation Effects on Embedded Systems},
@@ -63,6 +110,233 @@
   isbn = {978-1-4020-5645-1},
   language = {English},
   url = {http://dx.doi.org/10.1007/978-1-4020-5646-8_4}
+}
+
+@ARTICLE{689401,
+  author = {Arora, A and Kulkarni, S.S.},
+  title = {Designing masking fault-tolerance via nonmasking fault-tolerance},
+  journal = {Software Engineering, IEEE Transactions on},
+  year = {1998},
+  volume = {24},
+  pages = {435-450},
+  number = {6},
+  month = {Jun},
+  abstract = {Masking fault-tolerance guarantees that programs continually satisfy
+	their specification in the presence of faults. By way of contrast,
+	nonmasking fault-tolerance does not guarantee as much: it merely
+	guarantees that when faults stop occurring, program executions converge
+	to states from where programs continually (re)satisfy their specification.
+	We present in this paper a component based method for the design
+	of masking fault-tolerant programs. In this method, components are
+	added to a fault-intolerant program in a stepwise manner, first,
+	to transform the fault-intolerant program into a nonmasking fault-tolerant
+	one and, then, to enhance the fault-tolerance from nonmasking to
+	masking. We illustrate the method by designing programs for agreement
+	in the presence of Byzantine faults, data transfer in the presence
+	of message loss, triple modular redundancy in the presence of input
+	corruption, and mutual exclusion in the presence of process fail-stops.
+	These examples also serve to demonstrate that the method accommodates
+	a variety of fault-classes. It provides alternative designs for programs
+	usually designed with extant design methods, and it offers the potential
+	for improved masking fault-tolerant programs},
+  doi = {10.1109/32.689401},
+  file = {:../../../../02_PDFs/Referencias1/00689401.pdf:PDF},
+  issn = {0098-5589},
+  keywords = {formal specification;software fault tolerance;Byzantine faults;fault-intolerant
+	program;masking fault-tolerance;masking fault-tolerant programs;nonmasking
+	fault-tolerance;process fail-stops;program executions;specification;triple
+	modular redundancy;Costs;Design methodology;Detectors;Fault detection;Fault
+	tolerance;Fault tolerant systems;Interconnected systems;Redundancy}
+}
+
+@INPROCEEDINGS{5985914,
+  author = {Azambuja, J.R. and Lapolli, A and Altieri, M. and Kastensmidt, F.L.},
+  title = {Evaluating the efficiency of data-flow software-based techniques
+	to detect SEEs in microprocessors},
+  booktitle = {Test Workshop (LATW), 2011 12th Latin American},
+  year = {2011},
+  pages = {1-6},
+  month = {March},
+  abstract = {There is a large set of software-based techniques that can be used
+	to detect transient faults. This paper presents a detailed analysis
+	of the efficiency of dataflow software-based techniques to detect
+	SEU and SET in microprocessors. A set of well-known rules is presented
+	and implemented automatically to transform an unprotected program
+	into a hardened one. SEU and SET are injected in all sensitive areas
+	of MIPS-based microprocessor architecture. The efficiency of each
+	rule and a combination of them are tested. Experimental results are
+	used to analyze the overhead of data-flow techniques allowing us
+	to compare these techniques in the respect of time, resources and
+	efficiency in detecting this type of faults. This analysis allows
+	us to implement an efficient fault tolerance method that combines
+	the presented techniques in such way to minimize memory area and
+	performance overhead. The conclusions can lead designers in developing
+	more efficient techniques to detect these types of faults.},
+  doi = {10.1109/LATW.2011.5985914},
+  file = {:../../../../02_PDFs/Referencias1/05985914.pdf:PDF},
+  keywords = {data flow computing;electronic engineering computing;fault tolerance;microprocessor
+	chips;reduced instruction set computing;MlPS-based microprocessor
+	architecture;SEE detection;SEU detection;data flow software-based
+	technique;fault tolerance method;single event transients;single event
+	upsets;transient fault detection;Computer architecture;Fault tolerance;Fault
+	tolerant systems;Microprocessors;Registers;Software;Transient analysis;Fault
+	tolerance;SET;SEU;Soft errors;Software techniques}
+}
+
+@ARTICLE{5720529,
+  author = {Azambuja, J.R. and Lapolli, A and Rosa, L. and Kastensmidt, F.L.},
+  title = {Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid
+	Technique},
+  journal = {Nuclear Science, IEEE Transactions on},
+  year = {2011},
+  volume = {58},
+  pages = {993-1000},
+  number = {3},
+  month = {June},
+  abstract = {This paper presents a hybrid technique based on software signatures
+	and a hardware module with watchdog and decoder characteristics to
+	detect SEU and SET faults in microprocessors. These types of faults
+	have a major influence in the microprocessor's control-flow, affecting
+	the basic blocks and the transitions between them. In order to protect
+	the transitions between basic blocks a light hardware module is implemented
+	in order to spoof the data exchanged between the microprocessor and
+	its memory. Since the hardware alone is not capable of detecting
+	errors inside the basic blocks, it is enhanced to support the new
+	technique and then provide full control-flow protection. A fault
+	injection campaign is performed using a MIPS microprocessor. Simulation
+	results show high detection rates with a small amount of performance
+	degradation and area overhead.},
+  doi = {10.1109/TNS.2011.2109398},
+  file = {:../../../../02_PDFs/Referencias1/05720529.pdf:PDF},
+  issn = {0018-9499},
+  keywords = {fault tolerance;flow control;microprocessor chips;MIPS microprocessor;SEE
+	detection;SET fault;decoder characteristic;error detection;fault
+	injection;light hardware module;microprocessor control-flow;nonintrusive
+	hybrid technique;software signature;watchdog characteristic;Fault
+	tolerance;Fault tolerant systems;Hardware;Microprocessors;Program
+	processors;Registers;Fault tolerance;SEEs;hybrid fault tolerance
+	techniques;microprocessors}
+}
+
+@ARTICLE{6236246,
+  author = {Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt,
+	F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R.},
+  title = {A Fault Tolerant Approach to Detect Transient Faults in Microprocessors
+	Based on a Non-Intrusive Reconfigurable Hardware},
+  journal = {Nuclear Science, IEEE Transactions on},
+  year = {2012},
+  volume = {59},
+  pages = {1117-1124},
+  number = {4},
+  month = {Aug},
+  abstract = {This paper presents a non-intrusive hybrid fault detection approach
+	that combines hardware and software techniques to detect transient
+	faults in microprocessors. Such faults have a major influence in
+	microprocessor-based systems, affecting both data and control flow.
+	In order to protect the system, an application-oriented hardware
+	module is automatically generated and reconfigured on the system
+	during runtime. When combined with fault tolerance techniques based
+	on software, this solution offers full system protection against
+	transient faults. A fault injection campaign is performed using a
+	MIPS microprocessor executing a set of applications. HW/SW implementation
+	in a reprogrammable platform shows smaller memory area and execution
+	time overhead when compared to related works. Fault injection results
+	show the efficiency of this method by detecting 100% of faults.},
+  doi = {10.1109/TNS.2012.2201750},
+  file = {:../../../../02_PDFs/Referencias1/06236246.pdf:PDF},
+  issn = {0018-9499},
+  keywords = {Fault tolerance;Fault tolerant systems;Hardware;Microprocessors;Registers;Software;Transient
+	analysis;Fault tolerance;microprocessors;reconfigurable;single event
+	effects}
+}
+
+@INPROCEEDINGS{6131362,
+  author = {Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt,
+	F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R.},
+  title = {Non-intrusive reconfigurable HW/SW fault tolerance approach to detect
+	transient faults in microprocessor systems},
+  booktitle = {Radiation and Its Effects on Components and Systems (RADECS), 2011
+	12th European Conference on},
+  year = {2011},
+  pages = {643-648},
+  month = {Sept},
+  abstract = {This paper presents a non-intrusive hybrid fault detection approach
+	that combines hardware and software techniques to detect transient
+	faults in microprocessors. Such faults have a major influence in
+	microprocessor systems, affecting both data and control flow. In
+	order to protect the system, an application-oriented hardware module
+	is automatically generated and reconfigured on the system during
+	runtime. When combined with fault tolerance techniques based on software,
+	this solution offers full system protection against transient faults.
+	A fault injection campaign is performed using a MIPS microprocessor
+	executing a set of applications. HW/SW implementation in a reprogrammable
+	platform shows minimal memory area and execution time overhead. Fault
+	injection results show the efficiency of this method on detecting
+	100% of faults.},
+  doi = {10.1109/RADECS.2011.6131362},
+  file = {:../../../../02_PDFs/Referencias2/06131362.pdf:PDF},
+  issn = {0379-6566},
+  keywords = {fault tolerance;microprocessor chips;radiation hardening (electronics);MIPS
+	microprocessor systems;application-oriented hardware module;control
+	flow;data flow;hardware techniques;nonintrusive hybrid fault detection
+	approach;nonintrusive reconfigurable HW-SW fault tolerance approach;software
+	techniques;transient fault detection;Fault tolerance;Fault tolerant
+	systems;Field programmable gate arrays;Hardware;Microprocessors;Registers;Software;Fault
+	tolerance;Microprocessors;Reconfigurable;Single Event Effects}
+}
+
+@ARTICLE{Azambuja20112011,
+  author = {Azambuja, Jos{\'e} Rodrigo and Altieri, Mauricio and Kastensmidt,
+	Fernanda Lima and H{\"u}bner, Michael and Becker, J{\"u}rgen},
+  title = {Non-Intrusive Hybrid Signature-Based Technique to Detect SEEs in
+	Microprocessors},
+  journal = {I Workshop on Dependability Issues in Deep-submicron Technologies
+	(DDT)},
+  year = {2011
+	
+	2011},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/azambuja_1.pdf:PDF},
+  url = {http://www.cad.polito.it/~violante/DDT/DDT.htm}
+}
+
+@MASTERSTHESIS{Azambuja2010,
+  author = {Azambuja, José Rodrigo Furlanetto de },
+  title = {Análise de técnicas de tolerância a falhas baseadas em software para
+	a proteção de microprocessadores},
+  school = {Universidade Federal do Rio Grande do Sul},
+  year = {2010},
+  address = {Instituto de Informática},
+  abstract = {Da mesma maneira que novas tecnologias trouxeram avanços para a indústria
+	de semicondutores, diminuíram a confiabilidade dos transistores e
+	consequentemente dos sistemas digitais. Efeitos causados por partículas
+	energizadas antes só vistos em ambientes espaciais hoje se manifestam
+	a nível do mar, introduzindo novos desafios para a fabricação e projeto
+	de sistemas que requerem confiabilidade. Sistemas de alta confiabilidade
+	que utilizam circuitos integrados exigem a utilização de técnicas
+	de tolerância a falhas capazes de detectar ou mesmo corrigir os erros
+	causados por partículas energizadas. Esta proteção pode ser implementada
+	em diferentes níveis: hardware ou software. Enquanto o primeiro exige
+	a modificação interna de circuitos integrados desprotegidos e oferece
+	alto desempenho, o segundo altera somente o código de programa, porém
+	com perdas de desempenho que variam conforme o grau de proteção do
+	sistema. O objetivo deste trabalho é analisar a eficiência na detecção
+	de falhas em microprocessadores através de técnicas de tolerância
+	a falhas baseadas somente em software. Para isto, são propostas diferentes
+	técnicas de tolerância a falhas baseadas somente em software inspiradas
+	em técnicas apresentadas no estado da arte. Estas são implementadas
+	separadamente e combinadas, de maneira a encontrar suas vulnerabilidades
+	e descobrir como estas podem ser combinadas, a fim de apresentar
+	uma solução ideal para diferentes sistemas em termos de desempenho
+	e confiabilidade. A análise se dá através de uma campanha de injeção
+	de falhas direcionada para cada parte de um microprocessador e observando-se
+	os efeitos causados por cada falha no resultado do sistema.},
+  doi = {http://hdl.handle.net/10183/49076},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/000826746.pdf:PDF},
+  keywords = {Microeletronica, Fault injection, Microprocessors, Software-based
+	fault tolerant techniques, Tolerancia : Falhas},
+  owner = {thiago},
+  publisher = {Universidade Federal do Rio Grande do Sul},
+  url = {http://hdl.handle.net/10183/49076}
 }
 
 @INPROCEEDINGS{5510515,
@@ -86,6 +360,7 @@
 	validation. Modalities to alter the main testbench components are
 	presented, highlighting the effects on the testbench behavior.},
   doi = {10.1109/OPTIM.2010.5510515},
+  file = {:../../../../02_PDFs/Referencias4/05510515.pdf:PDF},
   issn = {1842-0133},
   keywords = {fault diagnosis;formal verification;hardware description languages;object-oriented
 	programming;program testing;SystemVerilog;design misbehavior;digital
@@ -131,6 +406,58 @@
 	transmission lines;Hardware;Microcomputers;Prototypes}
 }
 
+@INPROCEEDINGS{1175845,
+  author = {Baumann, R.},
+  title = {The impact of technology scaling on soft error rate performance and
+	limits to the efficacy of error correction},
+  booktitle = {Electron Devices Meeting, 2002. IEDM '02. International},
+  year = {2002},
+  pages = {329-332},
+  month = {Dec},
+  abstract = {The soft error rate (SER) of advanced CMOS devices is higher than
+	all other reliability mechanisms combined. Memories can be protected
+	with error correction circuitry but SER in logic may limit future
+	product reliability. Memory and logic scaling trends are discussed
+	along with a method for determining logic SER.},
+  doi = {10.1109/IEDM.2002.1175845},
+  keywords = {CMOS logic circuits;CMOS memory circuits;DRAM chips;SRAM chips;alpha-particle
+	effects;error correction;integrated circuit reliability;integrated
+	circuit testing;neutron effects;sequential circuits;space vehicle
+	electronics;DRAM product die;SER performance;SRAM test chips;accelerated
+	neutron experiments;advanced CMOS devices;alpha particle experiments;error
+	correction circuitry;logic scaling trends;memory scaling trends;radiation
+	effects;reliability mechanisms;sequential logic circuits;soft error
+	rate;spacecraft electronics;technology scaling;CMOS logic circuits;CMOS
+	technology;Circuit testing;Error analysis;Error correction;Latches;Logic
+	devices;Logic testing;Random access memory;Shift registers}
+}
+
+@BOOK{Beck2010,
+  title = {Dynamic Reconfigurable Architectures and Transparent Optimization
+	Techniques: Automatic Acceleration of Software Execution},
+  publisher = {Springer},
+  year = {2010},
+  author = {Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/bok%3A978-90-481-3913-2.pdf:PDF}
+}
+
+@BOOK{Bergeron2006,
+  title = {Writing testbenches using system Verilog},
+  publisher = {Springer},
+  year = {2006},
+  author = {Bergeron, Janick},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/bok%3A978-0-387-31275-0.pdf:PDF}
+}
+
+@BOOK{Bergeron2006a,
+  title = {Verification methodology manual for SystemVerilog},
+  publisher = {Springer},
+  year = {2006},
+  author = {Bergeron, Janick and Cerny, Eduard and Hunter, Alan and Nightingale,
+	Andy},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/bok%3A978-0-387-25556-9.pdf:PDF}
+}
+
 @ARTICLE{1566579,
   author = {Bernardi, P. and Bolzani, L.M.V. and Rebaudengo, M. and Reorda, M.S.
 	and Rodríguez-Andina, J.J. and Violante, M.},
@@ -155,6 +482,7 @@
 	characteristics of the method in terms of fault detection capabilities
 	and area, memory, and performance overheads.},
   doi = {10.1109/TC.2006.15},
+  file = {:../../../../02_PDFs/Referencias4/01566579.pdf:PDF},
   issn = {0018-9340},
   keywords = {fault location;hardware-software codesign;logic testing;system-on-chip;SoC;hybrid
 	fault detection technique;systems-on-a-chip;Automotive engineering;Circuit
@@ -184,6 +512,7 @@
 	can be added easily and it is independent on the application. Experimental
 	results are reported showing the effectiveness of the proposed approach.},
   doi = {10.1109/DSN.2005.74},
+  file = {:../../../../02_PDFs/Referencias4/01467779.pdf:PDF},
   keywords = {error detection;fault tolerant computing;industrial property;system-on-chip;SoC;control-flow
 	error detection;intellectual property core;system-on-chip;Application
 	software;Computer aided manufacturing;Computer architecture;Costs;Error
@@ -201,6 +530,7 @@
   pages = {35-44},
   number = {1-3},
   doi = {10.1007/s10836-007-5028-0},
+  file = {:../../../../02_PDFs/Referencias4/art%3A10.1007%2Fs10836-007-5028-0.pdf:PDF},
   issn = {0923-8174},
   keywords = {Reliability; Hardware/software techniques; Single-event upset faults;
 	Fault injection},
@@ -220,6 +550,7 @@
   pages = {79-84},
   month = {July},
   doi = {10.1109/OLT.2004.1319663},
+  file = {:../../../../02_PDFs/Referencias4/01319663.pdf:PDF},
   keywords = {error detection;fault diagnosis;fault tolerance;fault tolerant computing;industrial
 	property;integrated circuit reliability;redundancy;safety-critical
 	software;system-on-chip;dependability;fault correction;fault detection;fault
@@ -230,73 +561,606 @@
 	systems;Hardware;Redundancy;Software safety}
 }
 
-@ARTICLE{Beel2010,
-  author = {{J}oeran {B}eel and {B}ela {G}ipp},
-  title = {{A}cademic search engine spam and {G}oogle {S}cholar's resilience
-	against it},
-  journal = {Journal of Electronic Publishing},
-  year = {2010},
-  volume = {13},
+@ARTICLE{5640683,
+  author = {Bull, D. and Das, S. and Shivashankar, K. and Dasika, G.S. and Flautner,
+	K. and Blaauw, D.},
+  title = {A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection
+	and Correction for Transient-Error Tolerance and Adaptation to PVT
+	Variation},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2011},
+  volume = {46},
+  pages = {18-31},
+  number = {1},
+  month = {Jan},
+  abstract = {Razor is a hybrid technique for dynamic detection and correction of
+	timing errors. A combination of error detecting circuits and micro-architectural
+	recovery mechanisms creates a system that is robust in the face of
+	timing errors, and can be tuned to an efficient operating point by
+	dynamically eliminating unused timing margins. Savings from margin
+	reclamation can be realized as per device power-efficiency improvement,
+	or parametric yield improvement for a batch of devices. In this paper,
+	we apply Razor to a 32 bit ARM processor with a micro-architecture
+	design that has balanced pipeline stages with critical memory access
+	and clock-gating enable paths. The design is fabricated on a UMC
+	65 nm process, using industry standard EDA tools, with a worst-case
+	STA signoff of 724 MHz. Based on measurements on 87 samples from
+	split-lots, we obtain 52% power reduction for the overall distribution
+	at 1 GHz operation. We present error rate driven dynamic voltage
+	and frequency scaling schemes where runtime adaptation to PVT variations
+	and tolerance of fast transients is demonstrated. All Razor cells
+	are augmented with a sticky error history bit, allowing precise diagnosis
+	of timing errors over the execution of test vectors. We show potential
+	for parametric yield improvement through energy-efficient operation
+	using Razor.},
+  doi = {10.1109/JSSC.2010.2079410},
+  file = {:../../../../02_PDFs/Referencias2/05640683.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {error correction;error detection;microprocessor chips;EDA tools;PVT
+	variation;Razor technique;dynamic voltage;error detecting circuits;frequency
+	724 MHz;frequency scaling;micro-architectural recovery mechanisms;power-efficient
+	ARM processor;size 65 nm;timing-error correction;timing-error detection;transient-error
+	tolerance;word length 32 bit;Clocks;Delay;Monitoring;Pipelines;Random
+	access memory;Temperature measurement;Adaptive design;dynamic voltage
+	and frequency scaling;energy-efficient circuits;parametric yield;variation
+	tolerance}
+}
+
+@INPROCEEDINGS{6334568,
+  author = {Bustamante, L. and Al-Asaad, H.},
+  title = {Soft error detection via double execution with hardware assistance},
+  booktitle = {AUTOTESTCON, 2012 IEEE},
+  year = {2012},
+  pages = {291-293},
+  month = {Sept},
+  abstract = {As technology trends keep pushing cell dimensions in semiconductors
+	to smaller geometries and higher densities, modern digital systems
+	are increasingly becoming more vulnerable to reliability issues originated
+	by soft errors. Various techniques used to detect soft errors are
+	accomplished by incorporating redundancy into the hardware or software,
+	but the penalty associated with the added redundancy can be measured
+	by the high cost of the extra hardware or the degradation in performance
+	for software-added redundancy. We are proposing a technique that
+	compromise between hardware and software redundancy approaches. This
+	approach is based on a software time redundancy combined with some
+	hardware assistance. This hybrid technique has the potential to improve
+	performance by adding a limited amount of hardware assistance when
+	compared with a common time redundancy approach. It is also designed
+	to set a foundation for further investigation into variations of
+	this technique to improve soft error detection with better performance
+	and less hardware.},
+  doi = {10.1109/AUTEST.2012.6334568},
+  file = {:../../../../02_PDFs/Referencias2/06334568.pdf:PDF},
+  issn = {1088-7725},
+  keywords = {radiation hardening (electronics);redundancy;cell dimensions;double
+	execution;hardware assistance;modern digital systems;reliability
+	issues;soft error detection;software time redundancy;software-added
+	redundancy;Clocks;Hardware;Microprocessors;Redundancy;Software;Transistors;On-line
+	testing;built-in self-test;double execution;error detection;soft
+	errors}
+}
+
+@ARTICLE{6560441,
+  author = {Chielle, E. and Azambuja, J.R. and Barth, R.S. and Almeida, F. and
+	Kastensmidt, F.L.},
+  title = {Evaluating Selective Redundancy in Data-Flow Software-Based Techniques},
+  journal = {Nuclear Science, IEEE Transactions on},
+  year = {2013},
+  volume = {60},
+  pages = {2768-2775},
+  number = {4},
+  month = {Aug},
+  abstract = {This paper presents an analysis of the efficiency of using selective
+	redundancy applied to registers in software-based techniques. The
+	proposed selective redundancy chooses a set of allocated registers
+	to be duplicated in software in order to provide detection of upsets
+	that occur in the processor hardware and provokes data-flow errors.
+	The selective redundancy is implemented over miniMIPS microprocessor
+	software. A fault injection campaign is performed by injecting single
+	event effect upsets in the miniMIPS hardware. Results show error
+	detection capability, performance degradation and program memory
+	footprint for many case studies. With that, designers can find the
+	best trade-off in using selective redundancy in software.},
+  doi = {10.1109/TNS.2013.2266917},
+  file = {:../../../../02_PDFs/Referencias1/06560441.pdf:PDF},
+  issn = {0018-9499},
+  keywords = {data flow analysis;error detection;microprocessor chips;allocated
+	registers;data-flow errors;data-flow software-based techniques;error
+	detection capability;miniMIPS hardware;miniMIPS microprocessor software;processor
+	hardware;program memory footprint;selective redundancy;semiconductor
+	industry;single event effect upsets;Degradation;Encryption;Memory
+	management;Microprocessors;Redundancy;Registers;Software;Fault tolerance;microprocessors;selective
+	redundancy;soft errors;software-based techniques}
+}
+
+@INPROCEEDINGS{6562659,
+  author = {Chielle, E. and Azambuja, J.R. and Barth, R.S. and Kastensmidt, F.L.},
+  title = {Improving error detection with selective redundancy in software-based
+	techniques},
+  booktitle = {Test Workshop (LATW), 2013 14th Latin American},
+  year = {2013},
+  pages = {1-6},
+  month = {April},
+  abstract = {This paper presents an analysis of the impact of selective software-based
+	techniques to detect faults in microprocessor systems. A set of algorithms
+	is implemented, compiled to a microprocessor and selected variables
+	of the code are hardened with software-based techniques. Seven different
+	methods that choose which variables are hardened are introduced and
+	compared. The system is implemented over a miniMIPS microprocessor
+	and a fault injection campaign is performed in order to verify the
+	feasibility and effectiveness of each selective fault tolerance approach.
+	Results can lead designers to choose more wisely which variables
+	of the code should be hardened considering detection rates and hardening
+	overheads.},
+  doi = {10.1109/LATW.2013.6562659},
+  file = {:../../../../02_PDFs/Referencias1/06562659.pdf:PDF},
+  keywords = {error detection;fault diagnosis;fault tolerant computing;microprocessor
+	chips;redundancy;detection rates;fault injection campaign;fault tolerance
+	approach;hardening overheads;miniMIPS microprocessor;selective redundancy;selective
+	software based techniques;Cryptography;Registers}
+}
+
+@INPROCEEDINGS{6261259,
+  author = {Chielle, E. and Barth, Raul Sergio and Lapolli, Angelo Cardoso and
+	Kastensmidt, F.L.},
+  title = {Configurable tool to protect processors against SEE by software-based
+	detection techniques},
+  booktitle = {Test Workshop (LATW), 2012 13th Latin American},
+  year = {2012},
+  pages = {1-6},
+  month = {April},
+  abstract = {This paper presents a tool capable of automatically adding fault detection
+	capabilities in software to protect the processors against transient
+	faults. The tool implements a set of configurable software-based
+	detection techniques over the assembly code of an unprotected program.
+	The developed tool has been validated for two distinct processors:
+	MIPS and LEON3. But it can be extended to other architectures and
+	organizations by changing the configuration files. A fault injection
+	campaign was performed and simulation results show high detection
+	rates to both processors and a small increase in area and runtime.},
+  doi = {10.1109/LATW.2012.6261259},
+  keywords = {SET;SEU;fault tolerance;soft errors;software techniques}
+}
+
+@ARTICLE{5746555,
+  author = {Cuenca-Asensi, S. and Martinez-Alvarez, A and Restrepo-Calle, F.
+	and Palomo, F.R. and Guzman-Miranda, H. and Aguirre, M.A},
+  title = {A Novel Co-Design Approach for Soft Errors Mitigation in Embedded
+	Systems},
+  journal = {Nuclear Science, IEEE Transactions on},
+  year = {2011},
+  volume = {58},
+  pages = {1059-1065},
   number = {3},
-  month = {\#dec\#},
-  note = {Available at http://docear.org},
-  __markedentry = {[thiago:1]},
-  doi = {10.3998/3336451.0013.305},
-  file = {:../../../literature_repository/Example PDFs/Academic search engine spam and Google Scholars resilience against it.pdf:PDF},
-  owner = {Docear},
-  timestamp = {2012-08-20}
+  month = {June},
+  abstract = {There is an increasing concern about the mitigation of radiation effects
+	in embedded systems. This fact is demanding new flexible design methodologies
+	and tools that allow dealing with design constraints and dependability
+	requirements at the same time. This paper presents a novel proposal
+	to design radiation-tolerant embedded systems combining hardware
+	and software mitigation techniques. A hardening infrastructure, which
+	facilitates the design space exploration and the trade-offs analyses,
+	has been developed to support this fault tolerance co-design approach.
+	The advantages of our proposal are illustrated by means of a case
+	study.},
+  doi = {10.1109/TNS.2011.2112379},
+  file = {:../../../../02_PDFs/Referencias1/05746555.pdf:PDF},
+  issn = {0018-9499},
+  keywords = {embedded systems;fault tolerant computing;radiation hardening (electronics);dependability
+	requirements;design constraints;embedded systems;hardening infrastructure;hardware
+	and software mitigation techniques;radiation effects;soft errors
+	mitigation;Circuit faults;Hardware;Microprocessors;Registers;Software;Software
+	reliability;Fault tolerance;radiation effects;reliability}
 }
 
-@INPROCEEDINGS{Beel2011c,
-  author = {{B}eel, {J}oeran and {G}ipp, {B}ela and {L}anger, {S}tefan and {G}enzmehr,
-	{M}arcel},
-  title = {{D}ocear: {A}n {A}cademic {L}iterature {S}uite for {S}earching, {O}rganizing
-	and {C}reating {A}cademic {L}iterature},
-  booktitle = {{P}roceedings of the 11th annual international {ACM}/{IEEE} joint
-	conference on {D}igital libraries},
-  year = {2011},
-  series = {{JCDL} '11},
-  pages = {465--466},
-  publisher = {{ACM}},
-  note = {Available at http://docear.org},
-  __markedentry = {[thiago:1]},
-  doi = {10.1145/1998076.1998188},
-  file = {:../../../literature_repository/Example PDFs/Docear -- An Academic Literature Suite.pdf:PDF},
-  owner = {Docear},
-  timestamp = {2012-08-20}
+@INPROCEEDINGS{590366,
+  author = {Davidson, J.},
+  title = {FPGA implementation of a reconfigurable microprocessor},
+  booktitle = {Custom Integrated Circuits Conference, 1993., Proceedings of the
+	IEEE 1993},
+  year = {1993},
+  pages = {3.2.1-3.2.4},
+  month = {May},
+  abstract = {The implementation of an 8-b reconfigurable microprocessor (RM) in
+	a memory-based FPGA (field programmable gate array) device (XILINX)
+	is described. The RM is designed as an 8-b microprocessor with a
+	complete instruction set (41), hardware and software interrupts,
+	and a 2-Kb addressing range (11-b address bus). The author presents
+	the tradeoffs involved in designing the architecture, the design
+	for performance issues, and the possibilities for future development},
+  doi = {10.1109/CICC.1993.590366},
+  keywords = {field programmable gate arrays;8 bit;ASIC;FPGA implementation;XILINX;architecture;complete
+	instruction set;design for performance;hardware interrupts;memory-based
+	FPGA;reconfigurable microprocessor;software interrupts;Circuits;Computer
+	architecture;Costs;Field programmable gate arrays;Hardware;Logic
+	gates;Manufacturing;Microprocessors;Prototypes;Reconfigurable logic}
 }
 
-@INPROCEEDINGS{Beel2011b,
-  author = {{J}oeran {B}eel and {B}ela {G}ipp and {S}tefan {L}anger and {M}arcel
-	{G}enzmehr and {E}rik {W}ilde and {A}ndreas {N}ürnberger and {J}im
-	{P}itman},
-  title = {{I}ntroducing {M}r. {DL}ib, a {M}achine-readable {D}igital {L}ibrary},
-  booktitle = {{P}roceedings of the 11th {ACM}/{IEEE} {J}oint {C}onference on {D}igital
-	{L}ibraries ({JCDL}`11)},
-  year = {2011},
-  note = {Available at http://docear.org},
-  __markedentry = {[thiago:1]},
-  file = {:../../../literature_repository/Example PDFs/Mr. DLib -- A Machine Readable Digital Library.pdf:PDF},
-  owner = {Docear},
-  timestamp = {2012-08-20}
+@INPROCEEDINGS{DeLong1996,
+  author = {DeLong, Todd A and Smith, D Todd and Johnson, Barry W and Hanna,
+	James P},
+  title = {Simulator Independent Fault Simulation Using WAVES},
+  booktitle = {Proceedings Fall ‘96 VIUF Conference},
+  year = {1996},
+  pages = {129--138},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/DELONG96A.PDF:PDF}
 }
 
-@ARTICLE{Beel10,
-  author = {{J}oeran {B}eel and {B}ela {G}ipp and {E}rik {W}ilde},
-  title = {{A}cademic {S}earch {E}ngine {O}ptimization ({ASEO}): {O}ptimizing
-	{S}cholarly {L}iterature for {G}oogle {S}cholar and {C}o.},
-  journal = {Journal of Scholarly Publishing},
-  year = {2010},
-  volume = {41},
-  pages = {176-190},
-  number = {2},
-  month = {\#jan\#},
-  note = {University of Toronto Press. Available at http://docear.org},
-  __markedentry = {[thiago:1]},
-  doi = {10.3138/jsp.41.2.176},
-  file = {:../../../literature_repository/Example PDFs/Academic Search Engine Optimization (ASEO) -- Optimizing Scholarly Literature for Google Scholar and Co.pdf:PDF},
-  owner = {Docear},
-  timestamp = {2012-08-20}
+@ARTICLE{6204100,
+  author = {Estep, N.A and Petrosky, J.C. and McClory, J.W. and Kim, Y. and Terzuoli,
+	AJ.},
+  title = {Electromagnetic Interference and Ionizing Radiation Effects on CMOS
+	Devices},
+  journal = {Plasma Science, IEEE Transactions on},
+  year = {2012},
+  volume = {40},
+  pages = {1495-1501},
+  number = {6},
+  month = {June},
+  abstract = {Integrated circuits are inherently complicated and made more by increasing
+	transistor quantity and density. This trend potentially enhances
+	concomitant effects of high-energy ionizing radiation and local or
+	impressed electromagnetic interference (EMI). The reduced margin
+	for signal error may counter any gain in radiation hardness from
+	smaller device dimensions. Isolated EMI and ionizing radiation studies
+	on circuits have been extensively conducted over the past 30 years.
+	However, little focus has been placed on the combined effects. To
+	investigate the effect of combined EMI and ionizing radiation, two
+	complementary metal-oxide-semiconductor inverter technologies (CD4069
+	and SN74AUC1G04) were analyzed for their static performance in response
+	to both EMI and gamma radiation up to 132 krd(Si). The combined EMI
+	and gamma radiation environment, compared to the isolated effects
+	of each, produced the most severe degradation in inverter performance
+	for both device technologies.},
+  doi = {10.1109/TPS.2012.2193600},
+  file = {:../../../../02_PDFs/Referencias1/06204100.pdf:PDF},
+  issn = {0093-3813},
+  keywords = {CMOS integrated circuits;electromagnetic interference;radiation effects;CMOS
+	devices;complementary metal oxide semiconductor inverter technology;device
+	technology;electromagnetic interference;gamma radiation environment;high-energy
+	ionizing radiation;integrated circuit;inverter performance;ionizing
+	radiation effects;radiation hardness;signal error;transistor quantity;CMOS
+	integrated circuits;Electromagnetic interference;Inverters;Ionizing
+	radiation;Leakage current;MOSFETs;CMOS;electromagnetic compatibility;electromagnetic
+	coupling;electromagnetic interference;gamma irradiation effects}
+}
+
+@ARTICLE{6522833,
+  author = {Fleetwood, D.M.},
+  title = {Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar
+	Devices},
+  journal = {Nuclear Science, IEEE Transactions on},
+  year = {2013},
+  volume = {60},
+  pages = {1706-1730},
+  number = {3},
+  month = {June},
+  abstract = {An overview is presented of total ionizing dose (TID) effects in MOS
+	and bipolar devices from a historical perspective, focusing primarily
+	on work presented at the annual IEEE Nuclear and Space Radiation
+	Effects Conference (NSREC). From the founding of the IEEE NSREC in
+	1964 until ~1976, foundational work led to the discovery of TID effects
+	in MOS devices, the characterization of basic charge transport and
+	trapping processes in SiO2, and the development of the first generations
+	of metal-gate radiation-hardened MOS technologies. From ~1977 until
+	~1985, significant progress was made in the understanding of critical
+	defects and impurities that limit the radiation response of MOS devices.
+	These include O vacancies in SiO2, dangling Si bonds at the Si/SiO2
+	interface, and hydrogen. In addition, radiation-hardened Si-gate
+	CMOS technologies were developed. From ~1986 until ~1997, a significant
+	focus was placed on understanding postirradiation effects in MOS
+	devices and implementing hardness assurance test methods to qualify
+	devices for use in space systems. Enhanced low-dose-rate sensitivity
+	(ELDRS) was discovered and investigated in linear bipolar devices
+	and integrated circuits. From ~1998 until the present, an increasing
+	focus has been placed on theoretical studies enabled by rapidly advancing
+	computational capabilities, modeling and simulation, effects in ultra-thin
+	oxides and alternative dielectrics to SiO2, and in developing a comprehensive
+	model of ELDRS.},
+  doi = {10.1109/TNS.2013.2259260},
+  file = {:../../../../02_PDFs/Referencias1/06522833.pdf:PDF},
+  issn = {0018-9499},
+  keywords = {CMOS integrated circuits;MIS devices;dangling bonds;elemental semiconductors;hardness;ionisation;radiation
+	hardening (electronics);semiconductor-insulator boundaries;silicon;silicon
+	compounds;vacancies (crystal);IEEE Nuclear and Space Radiation Effects
+	Conference;MOS devices;Si-SiO2;charge transport;charge trapping;critical
+	defects;critical impurities;dangling bonds;effects space systems;enhanced
+	low-dose-rate sensitivity;hardness;integrated circuits;low-dose-rate-sensitive
+	linear-bipolar devices;metal-gate radiation-hardened MOS technology;postirradiation
+	effects;radiation-hardened Si-gate CMOS technology;total ionizing
+	dose effects;vacancies;Defects;ELDRS;MOS;hole traps;hydrogen;interface
+	traps;linear bipolar;total ionizing dose}
+}
+
+@ARTICLE{6482273,
+  author = {Galloway, K.F. and Primich, T.},
+  title = {Update on High-Impact Papers Presented at the IEEE Nuclear and Space
+	Radiation Effects Conference: The View in 2013},
+  journal = {Nuclear Science, IEEE Transactions on},
+  year = {2013},
+  volume = {60},
+  pages = {1674-1680},
+  number = {3},
+  month = {June},
+  abstract = {This paper, an update of a paper published in 2003 (1), identifies
+	a number of papers presented at the NSREC and published in the IEEE
+	Transactions on Nuclear Science that have had measurable impact on
+	radiation effects research and the radiation effects community. Criteria
+	include papers selected for the Outstanding Paper Award at the NSREC
+	or papers from the NSREC that have been highly cited by authors of
+	other journal publications. Observations on the successes and failures
+	of the methodology used for selecting high-impact papers are presented.},
+  doi = {10.1109/TNS.2013.2244614},
+  file = {:../../../../02_PDFs/Referencias1/06482273.pdf:PDF},
+  issn = {0018-9499},
+  keywords = {nuclear engineering;AD 2003;AD 2013;IEEE Transactions on Nuclear Science;IEEE
+	nuclear and space radiation effects conference;NSREC;high impact
+	papers;radiation effects research;Awards activities;CMOS integrated
+	circuits;Conferences;MOS capacitors;Radiation effects;Radiation hardening
+	(electronics);Transistors;IEEE Nuclear and Space Radiation Effects
+	Conference;IEEE Transactions on Nuclear Science;radiation effects;radiation
+	effects in microelectronics: radiation hardening}
+}
+
+@INPROCEEDINGS{1250857,
+  author = {Gawkowski, P. and Sosnowski, J.},
+  title = {Assessing software implemented fault detection and fault tolerance
+	mechanisms},
+  booktitle = {Test Symposium, 2003. ATS 2003. 12th Asian},
+  year = {2003},
+  pages = {462-467},
+  month = {Nov},
+  abstract = {The problems of hardware fault detection and correction using software
+	techniques are analysed. They relate to our experience with a large
+	class of applications. The effectiveness of these techniques is studied
+	using a special fault injector with various statistical tools. A
+	new error-handling scheme is proposed.},
+  doi = {10.1109/ATS.2003.1250857},
+  file = {:../../../../02_PDFs/Referencias1/01250857.pdf:PDF},
+  issn = {1081-7735},
+  keywords = {error detection;error handling;fault tolerant computing;hardware-software
+	codesign;redundancy;COTS error detection mechanisms;compiler specificity;error
+	handling scheme;fault hardening;fault injector;fault susceptibility;fault
+	tolerance mechanisms;hardware fault correction;hardware fault detection;software
+	implementation;statistical tools;Application software;Computer fault
+	tolerance;Computer science;Detectors;Error analysis;Error correction;Fault
+	detection;Fault tolerance;Hardware;Monitoring;Redundancy;Testing}
+}
+
+@BOOK{Glasser2009,
+  title = {Open verification methodology cookbook},
+  publisher = {Springer},
+  year = {2009},
+  author = {Glasser, Mark},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/bok%3A978-1-4419-0968-8.pdf:PDF}
+}
+
+@INPROCEEDINGS{1250158,
+  author = {Goloubeva, O. and Rebaudengo, M. and Reorda, M.S. and Violante, M.},
+  title = {Soft-error detection using control flow assertions},
+  booktitle = {Defect and Fault Tolerance in VLSI Systems, 2003. Proceedings. 18th
+	IEEE International Symposium on},
+  year = {2003},
+  pages = {581-588},
+  month = {Nov},
+  abstract = {Over the last few years, an increasing number of safety-critical tasks
+	have been demanded of computer systems. In this paper, a software-based
+	approach for developing safety-critical applications is analyzed.
+	The technique is based on the introduction of additional executable
+	assertions to check the correct execution of the program control
+	flow. By applying the proposed technique, several benchmark applications
+	have been hardened against transient errors. Fault injection campaigns
+	have been performed to evaluate the fault detection capability of
+	the proposed technique in comparison with state-of-the-art alternative
+	assertion-based methods. Experimental results show that the proposed
+	approach is far more effective than the other considered techniques
+	in terms of fault detection capability, at the cost of a limited
+	increase in memory requirements and in performance overhead.},
+  doi = {10.1109/DFTVS.2003.1250158},
+  issn = {1550-5774},
+  keywords = {embedded systems;error detection;program control structures;safety-critical
+	software;software fault tolerance;control flow assertions;embedded
+	systems;executable assertions;fault detection capability;fault injection;microprocessor-based
+	systems;program control flow checking;program graph representation;safety-critical
+	computer systems;soft-error detection;transient error hardening;Application
+	software;Automatic control;Biomedical computing;Costs;Electromagnetic
+	transients;Fault detection;Hardware;Redundancy;Single event transient;Space
+	technology}
+}
+
+@BOOK{Goloubeva2006,
+  title = {Software-implemented hardware fault tolerance},
+  publisher = {Springer},
+  year = {2006},
+  author = {Goloubeva, Olga and Rebaudengo, Maurizio and Reorda, Matteo Sonza
+	and Violante, Massimo},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/bok%3A978-0-387-32937-6.pdf:PDF}
+}
+
+@INPROCEEDINGS{4682244,
+  author = {Li Hao and Lixin Yu},
+  title = {A Study on the Hardware Implementation Of EDAC},
+  booktitle = {Convergence and Hybrid Information Technology, 2008. ICCIT '08. Third
+	International Conference on},
+  year = {2008},
+  volume = {2},
+  pages = {222-225},
+  month = {Nov},
+  abstract = {This article proposes a method which reduces delay and area in EDAC
+	circuits. A SEC-DED Hsiao code (39,32) and a DEC systematic (1 6,
+	8) code used for the hardware implementation of EDAC, are discussed
+	and compared. Two codes are all proposed by the authors in earlier
+	paper. In terms of parity-check matrix of these codes, this article
+	presents a low-cost generation method of check bits. Simulation results
+	show the delay and area of check bits generator based on 2-input
+	XOR gates structure in the smic 180 nm process case. EDAC for 32
+	bits data, SEC-DED Hsiao code(32,7) need less extra memory bits than
+	DEC systematic (1 6, 8) code ,but SEC-DED Hsiao code(32,7) take more
+	delay and area , Which show that different code and different implementation
+	can affect the cost of EDAC circuitry and be used as a guide for
+	selecting the proper Code for different application requirements.},
+  doi = {10.1109/ICCIT.2008.14},
+  file = {:../../../../02_PDFs/Referencias2/04682244.pdf:PDF},
+  keywords = {error correction codes;error detection codes;logic circuits;parity
+	check codes;radiation effects;2-input XOR gates structure;EDAC circuitry;EDAC
+	circuits;SEC-DED Hsiao code;check bits generator;hardware implementation;low-cost
+	generation method;parity check matrix;Circuits;Costs;Delay;Electrical
+	fault detection;Error correction;Error correction codes;Fault detection;Hardware;Parity
+	check codes;Single event upset;Error detection and correction (EDAC);Single
+	error correction and double error detection (SEC-DED) code;double
+	error correction (DEC) code;hardware-implemention;memory fault tolerance;single
+	error upset (SEU)}
+}
+
+@BOOK{Kastensmidt2007,
+  title = {Fault-tolerance techniques for SRAM-based FPGAs},
+  publisher = {Springer},
+  year = {2007},
+  author = {Kastensmidt, Fernanda Lima and Reis, Ricardo},
+  volume = {32},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/bok%3A978-0-387-31069-5.pdf:PDF}
+}
+
+@ARTICLE{6166873,
+  author = {Kaushal, G. and Rathod, S.S. and Maheshwaram, S. and Manhas, S. K.
+	and Saxena, A K. and Dasgupta, S.},
+  title = {Radiation Effects in Si-NW GAA FET and CMOS Inverter: A TCAD Simulation
+	Study},
+  journal = {Electron Devices, IEEE Transactions on},
+  year = {2012},
+  volume = {59},
+  pages = {1563-1566},
+  number = {5},
+  month = {May},
+  abstract = {In this brief, we have analyzed the response of silicon-nanowire (Si-NW)
+	gate-all-around (GAA) field-effect transistor to total ionizing dose
+	(TID) effects and assessed the impact of single-event effects (SEEs)
+	in simple inverter circuit built from such devices. The analysis
+	of radiation effects is carried out with 3-D technology computer-aided
+	design simulations. Reliability of n-channel and p-channel Si-NW
+	MOSFET is investigated for TID effects with gamma ray exposure. The
+	transient effects at the device level are studied for alpha particle
+	and heavy-ion strikes. It is found that Si-NW MOSFET is inherently
+	hardened to TID effects. This result is in concordance with the earlier
+	reported experimental results. However, we found that Si-NW CMOS
+	inverter is not as tolerant to SEE, as Si-NW MOSFET is to TID. This
+	study highlights the need for radiation-hardened Si-NW FET circuits
+	against SEE.},
+  doi = {10.1109/TED.2012.2187656},
+  file = {:../../../../02_PDFs/Referencias1/06166873.pdf:PDF},
+  issn = {0018-9383},
+  keywords = {CMOS integrated circuits;MOSFET;circuit simulation;elemental semiconductors;gamma-rays;invertors;nanowires;radiation
+	hardening (electronics);semiconductor device reliability;silicon;technology
+	CAD (electronics);transient analysis;3D technology computer-aided
+	design simulations;CMOS inverter;SEE;Si;TCAD simulation study;TID
+	effects;alpha particle;gamma ray exposure;heavy-ion strikes;n-channel
+	MOSFET reliability;p-channel MOSFET reliability;radiation effect
+	analysis;radiation-hardened Si-NW FET circuits;silicon-nanowire GAA
+	FET;silicon-nanowire gate-all-around field-effect transistor;single-event
+	effects;total ionizing dose effects;transient effects;Alpha particles;CMOS
+	integrated circuits;Integrated circuit modeling;Inverters;Logic gates;MOSFET
+	circuits;Semiconductor device modeling;CMOS;radiation effects;silicon-nanowire
+	(Si-NW) MOSFET;simulation;technology computer-aided design (TCAD)}
+}
+
+@INPROCEEDINGS{4459660,
+  author = {Hung-Chuan Lai and Shi-Jinn Horng and Yong-Yuan Chen and Pingzhi
+	Fan and Yi Pan},
+  title = {A New Concurrent Detection of Control Flow Errors Based on DCT Technique},
+  booktitle = {Dependable Computing, 2007. PRDC 2007. 13th Pacific Rim International
+	Symposium on},
+  year = {2007},
+  pages = {201-209},
+  month = {Dec},
+  abstract = {In this paper, a program is first divided into several data computing
+	blocks (DCBs) by the branch instruction; each DCB can then be recognized
+	as an image. We then use the one dimension discrete cosine transform
+	(1-D DCT) to compute each DCB to generate several signatures including
+	5-bits relay DCT signature (R-DCT-S) and 32-bits final DCT signature
+	(F-DCT-S). These generated signatures are embedded into the instruction
+	memory and then used to do the run time error checking. The watchdog
+	should not reduce the processor performance, not increase the fault
+	detection latency and not increase the memory overhead to store the
+	signatures; in this paper, the processor degradation can be improved
+	by doing the whole block error checking after the branch instruction,
+	the fault detection latency is improved by doing the intermediate
+	error checking at the R-type instruction, and the memory overhead
+	is reduced by storing the R-DCT-S to the R-type instruction. The
+	experimental results show that the proposed watchdog has very high
+	error detection coverage and shortest error detection latency to
+	detect either single fault or multi-faults, no matter what the fault
+	is transient or intermittent.},
+  doi = {10.1109/PRDC.2007.61},
+  file = {:../../../../02_PDFs/Referencias2/04459660.pdf:PDF},
+  keywords = {discrete wavelet transforms;error detection codes;image coding;control
+	flow error concurrent detection;data computing blocks;discrete cosine
+	transform;fault detection latency;final DCT signature;instruction
+	memory;processor degradation;run time error checking;Circuit faults;Computer
+	aided instruction;Computer science;Degradation;Delay;Discrete cosine
+	transforms;Error correction;Fault detection;Hardware;Relays}
+}
+
+@ARTICLE{6519952,
+  author = {Lalucaa, V. and Goiffon, V. and Magnan, P. and Rolland, G. and Petit,
+	S.},
+  title = {Single-Event Effects in CMOS Image Sensors},
+  journal = {Nuclear Science, IEEE Transactions on},
+  year = {2013},
+  volume = {60},
+  pages = {2494-2502},
+  number = {4},
+  month = {Aug},
+  abstract = {In this paper, 3T active pixel sensors (APS) are exposed to heavy
+	ions (N, Ar, Kr, Xe), and single-event effects (SEE) are studied.
+	Devices were fully functional during exposure, no single-event latch-up
+	(SEL) or single-event functional interrupt (SEFI) happened. However,
+	single-event transient (SET) effects happened on frames: line disturbances,
+	and half or full circular clusters of white pixels. The collection
+	of charges in cluster was investigated with arrays of two pixel width
+	(7 and 10 μm), with bulk and epitaxial substrates. This paper shows
+	technological and design parameters involved in the transient events.
+	It also shows that STARDUST simulation software can predict cluster
+	obtained for bulk substrate devices. However, the discrepancies in
+	epitaxial layer devices are large-which shows the need for an improved
+	model.},
+  doi = {10.1109/TNS.2013.2260355},
+  file = {:../../../../02_PDFs/Referencias1/06519952.pdf:PDF},
+  issn = {0018-9499},
+  keywords = {CMOS image sensors;electronic engineering computing;simulation;3T
+	active pixel sensors;APS;CMOS image sensors;SEE;SEFI;SEL;SET effects;STARDUST
+	simulation software;single-event effects;single-event functional
+	interrupt;single-event latch-up;single-event transient effects;APS;CIS;CMOS;SEE;image
+	sensor;radiation effects}
+}
+
+@INPROCEEDINGS{640142,
+  author = {Kab Joo Lee and Gwan Choi},
+  title = {Design of a fault-tolerant microprocessor: a simulation approach},
+  booktitle = {Fault-Tolerant Systems, 1997. Proceedings., Pacific Rim International
+	Symposium on},
+  year = {1997},
+  pages = {161-166},
+  month = {Dec},
+  abstract = {This paper presents an approach for assessing the merits and the cost
+	of incorporating processor-level error detection and recovery mechanisms.
+	The approach is exemplified by implementing several fault-tolerant
+	mechanisms into a 32-bit, MIPS R3000-compatible, RISC microprocessor
+	and conducting simulation-based fault injection experiments. The
+	mechanisms are triple modular redundancy (TMR), retry on duplication-comparison,
+	and retry on parity-checking codes. Reliability gains and performance/area
+	overheads are quantitatively evaluated for each error-detection/recovery
+	scheme. The fault injection analysis results indicate that the highest
+	fault coverage is achieved with the code-based retry technique},
+  doi = {10.1109/PRFTS.1997.640142},
+  file = {:../../../../02_PDFs/Referencias2/00640142.pdf:PDF},
+  keywords = {fault tolerant computing;microprocessor chips;redundancy;reliability;virtual
+	machines;MIPS R3000-compatible;RISC microprocessor;fault injection
+	analysis;fault-tolerant mechanisms;fault-tolerant microprocessor;performance/area
+	overheads;processor-level error detection;recovery mechanisms;reliability
+	gains;retry on duplication-comparison;retry on parity-checking;simulation;simulation-based
+	fault injection;triple modular redundancy;Analytical models;Circuit
+	faults;Circuit simulation;Fault tolerance;Fault tolerant systems;Hardware;Microprocessors;Performance
+	analysis;Pipelines;Reduced instruction set computing}
 }
 
 @INPROCEEDINGS{4030939,
@@ -321,6 +1185,7 @@
 	architecture. The method is suitable for hardening SoCs against transient
 	faults and also for detecting permanent faults},
   doi = {10.1109/DFT.2006.49},
+  file = {:../../../../02_PDFs/Referencias4/04030939.pdf:PDF},
   issn = {1550-5774},
   keywords = {embedded systems;fault tolerance;instruction sets;microprocessor chips;system-on-chip;SET;SEU;control
 	flow checking;hardware hardening;instruction hardening;memory overhead;online
@@ -328,6 +1193,144 @@
 	fault tolerance;systems-on-a-chip;transient faults;Application software;Computer
 	aided instruction;Costs;Fault detection;Fault tolerance;Hardware;Mission
 	critical systems;Safety;Single event transient;System-on-a-chip}
+}
+
+@INPROCEEDINGS{1035377,
+  author = {Lovellette, M.N. and Wood, K.S. and Wood, D. L. and Beall, J.H. and
+	Shirvani, P.P. and Oh, N. and McCluskey, E.J.},
+  title = {Strategies for fault-tolerant, space-based computing: Lessons learned
+	from the ARGOS testbed},
+  booktitle = {Aerospace Conference Proceedings, 2002. IEEE},
+  year = {2002},
+  volume = {5},
+  pages = {5-2109-5-2119 vol.5},
+  abstract = {The Advanced Space Computing and Autonomy Testbed on the ARGOS satellite
+	provides the first direct, on orbit comparison of a modem radiation
+	hardened 32 bit processor with a similar COTS processor. This investigation
+	was motivated by the need for higher capability computers for space
+	flight use than could be met with available radiation hardened components.
+	The use of COTS devices for space applications has been suggested
+	to accelerate the development cycle and produce cost effective systems.
+	Software-implemented corrections of radiation-induced SEUs (SIHFT)
+	can provide low-cost solutions for enhancing the reliability of these
+	systems. We have flown two 32-bit single board computers (SBCs) onboard
+	the ARGOS spacecraft. One is full COTS, while the other is RAD-hard.
+	The COTS board has an order of magnitude higher computational throughput
+	than the RAD-hard board, offsetting the performance overhead of the
+	SIHFT techniques used on the COTS board while consuming less power.},
+  doi = {10.1109/AERO.2002.1035377},
+  file = {:../../../../02_PDFs/Referencias2/01035377.pdf:PDF},
+  keywords = {aerospace computing;artificial satellites;circuit reliability;error
+	detection;fault tolerant computing;performance evaluation;radiation
+	hardening (electronics);space vehicle electronics;32 bit;ARGOS satellite;ARGOS
+	testbed;Advanced Space Computing/Autonomy Testbed;COTS IDT-3081 board;COTS
+	processor;RH-3000 Rad-hard board;SEU susceptibility;fault-tolerant
+	space-based computing;on orbit comparison;radiation hardened processor;radiation-induced
+	SEUs;reliability;single board computers;single event upset susceptibility;software-implemented
+	corrections;space flight;Acceleration;Application software;Costs;Fault
+	tolerance;Modems;Radiation hardening;Satellites;Single event transient;Space
+	vehicles;Testing}
+}
+
+@INPROCEEDINGS{162054,
+  author = {Madeira, H. and Camoes, J. and Silva, J.G.},
+  title = {Signature verification: a new concept for building simple and effective
+	watchdog processors},
+  booktitle = {Electrotechnical Conference, 1991. Proceedings., 6th Mediterranean},
+  year = {1991},
+  pages = {1188-1191 vol.2},
+  month = {May},
+  abstract = {A description is given of the architecture of Checker, which is a
+	watchdog processor that is able to detect transient, intermittent,
+	and permanent errors in multiple-processor systems using online signature
+	analysis. The signatures are stored in the local memory of Checker
+	and are verified according to a new approach called online signature
+	verification. In this approach, the storage requirements for control
+	flow information of the application programs are substantially reduced
+	and the design of the watchdog processor is greatly simplified},
+  doi = {10.1109/MELCON.1991.162054},
+  file = {:../../../../02_PDFs/Referencias2/00162054.pdf:PDF},
+  keywords = {computerised monitoring;error detection;multiprocessing systems;Checker;application
+	programs;architecture;control flow information;design;error detection;intermittent
+	errors;local memory;multiple-processor systems;online signature analysis;online
+	signature verification;permanent errors;storage;system monitoring;transient
+	errors;watchdog processors;Application software;Buildings;Control
+	systems;Error correction;Flow graphs;Handwriting recognition;Hardware;Monitoring;Runtime;Transient
+	analysis}
+}
+
+@ARTICLE{2145,
+  author = {Mahmood, A and McCluskey, E.J.},
+  title = {Concurrent error detection using watchdog processors-a survey},
+  journal = {Computers, IEEE Transactions on},
+  year = {1988},
+  volume = {37},
+  pages = {160-174},
+  number = {2},
+  month = {Feb},
+  abstract = {Concurrent system-level error detection techniques using a watchdog
+	processor are surveyed. A watchdog processor is a small and simple
+	coprocessor that detects errors by monitoring the behavior of a system.
+	Like replication, it does not depend on any fault model for error
+	detection. However, it requires less hardware than replication. It
+	is shown that a large number of errors can be detected by monitoring
+	the control flow and memory-access behavior. Two techniques for control-flow
+	checking are discussed and compared with current error-detection
+	techniques. A scheme for memory-access checking based on capability-based
+	addressing is described. The design of a watchdog for performing
+	reasonable checks on the output of a main processor by executing
+	assertions is discussed.},
+  doi = {10.1109/12.2145},
+  issn = {0018-9340},
+  keywords = {automatic testing;computer architecture;computer testing;computerised
+	monitoring;error detection;fault tolerant computing;reviews;satellite
+	computers;special purpose computers;assertion execution;capability-based
+	addressing;concurrent error detection;control-flow checking;coprocessor;fault
+	tolerant computing;memory-access checking;reasonable checks;system
+	behaviour monitoring;system-level error detection;watchdog processors;Circuit
+	faults;Circuit testing;Computer errors;Coprocessors;Error correction;Error
+	correction codes;Fault detection;Laboratories;Monitoring;Phase detection}
+}
+
+@INPROCEEDINGS{6241810,
+  author = {Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L.
+	and Loveless, T.D.},
+  title = {Technology scaling and soft error reliability},
+  booktitle = {Reliability Physics Symposium (IRPS), 2012 IEEE International},
+  year = {2012},
+  pages = {3C.1.1-3C.1.7},
+  month = {April},
+  abstract = {This paper discusses several attributes of integrated circuit scaling
+	in relation to radiation soft error failure modes and vulnerability.},
+  doi = {10.1109/IRPS.2012.6241810},
+  file = {:../../../../02_PDFs/Referencias1/06241810.pdf:PDF},
+  issn = {1541-7026},
+  keywords = {failure analysis;integrated circuit reliability;radiation hardening
+	(electronics);integrated circuit scaling;radiation soft error failure
+	modes;soft error reliability;technology scaling;CMOS integrated circuits;CMOS
+	technology;Inverters;Logic gates;MOS devices;Sensitivity;Switches;SER;radiation
+	effects;single event effect;soft error;soft error reliability;technology
+	scaling}
+}
+
+@ARTICLE{Nangia2014,
+  author = {Nangia, Rakhi and Shukla, Neeraj Kr},
+  title = {Functional verification of I2C core using SystemVerilog},
+  journal = {International Journal of Engineering, Science and Technology},
+  year = {2014},
+  volume = {6},
+  pages = {45--51},
+  number = {4},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/104552-282349-1-PB.pdf:PDF},
+  publisher = {MultiCraft Limited}
+}
+
+@BOOK{Navabi2010,
+  title = {Digital system test and testable design: using HDL models and architectures},
+  publisher = {Springer},
+  year = {2010},
+  author = {Navabi, Zainalabedin},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/bok%3A978-1-4419-7548-5.pdf:PDF}
 }
 
 @INPROCEEDINGS{937838,
@@ -353,7 +1356,339 @@
 	on insulator technology;Single event transient}
 }
 
-@ARTICLE{raey,
+@INPROCEEDINGS{4077277,
+  author = {O'Bryan, M.V. and Poivey, C. and Kniffin, S.D. and Buchner, S.P.
+	and Ladbury, R.L. and Oldham, T.R. and Howard, J.W. and LaBel, K.A
+	and Sanders, AB. and Berg, M. and Marshall, C.J. and Marshall, P.W.
+	and Kim, H.S. and Dung-Phan, AM. and Hawkins, D.K. and Carts, M.A
+	and Forney, J.D. and Irwin, T. and Seidleck, C.M. and Cox, S.R. and
+	Friendlich, M. and Flanigan, R.J. and Petrick, D. and Powell, W.
+	and Karsh, J. and Baze, M.P.},
+  title = {Compendium of Single Event Effects Results for Candidate Spacecraft
+	Electronics for NASA},
+  booktitle = {Radiation Effects Data Workshop, 2006 IEEE},
+  year = {2006},
+  pages = {19-25},
+  month = {July},
+  abstract = {Susceptibility of a variety of candidate spacecraft electronics to
+	proton and heavy ion induced single event effects is studied. Devices
+	tested include digital, linear bipolar, and hybrid devices},
+  doi = {10.1109/REDW.2006.295463},
+  file = {:../../../../02_PDFs/Referencias1/06353739.pdf:PDF},
+  keywords = {avionics;proton effects;radiation hardening (electronics);semiconductor
+	devices;NASA;digital device;heavy ion single event effects;hybrid
+	device;linear bipolar device;proton induced single event effects;spacecraft
+	electronics;Aerospace electronics;Cyclotrons;Electronic equipment
+	testing;NASA;Protons;Single event upset;Space technology;Space vehicles;Test
+	facilities;USA Councils;Single Event Effects;digital;hybrid devices;linear
+	bipolar;spacecraft electronics}
+}
+
+@INPROCEEDINGS{966768,
+  author = {Oh, N. and McCluskey, E.J.},
+  title = {Procedure call duplication: minimization of energy consumption with
+	constrained error detection latency},
+  booktitle = {Defect and Fault Tolerance in VLSI Systems, 2001. Proceedings. 2001
+	IEEE International Symposium on},
+  year = {2001},
+  pages = {182-187},
+  abstract = {This paper presents a new software technique for detecting transient
+	hardware errors. The objective is to guarantee data integrity in
+	the presence of transient errors and to minimize energy consumption
+	at the same time. Basically, we duplicate computations and compare
+	their results to detect errors. There are three choices for duplicate
+	computations: (1) duplicating every statement in the program and
+	comparing their results, (2) re-executing procedures with duplicated
+	procedure calls and comparing the results, (3) re-executing the whole
+	program and comparing the final results. Our technique is the combination
+	of (1) and (2): Given a program, our technique analyzes procedure
+	call behavior of the program and determines which procedures should
+	have duplicated statements (choice (1)) and which procedure calls
+	should be duplicated (choice (2)) to minimize energy consumption
+	while controlling error detection latency constraints. Then, our
+	technique transforms the original program into the program that is
+	able to detect errors with reduced energy consumption by re-executing
+	the statements or procedures. In benchmark program simulation, we
+	found that our technique saves over 25% of the required energy on
+	average compared to previous techniques that do not take energy consumption
+	into consideration},
+  doi = {10.1109/DFTVS.2001.966768},
+  file = {:../../../../02_PDFs/Referencias2/00966768.pdf:PDF},
+  issn = {1550-5774},
+  keywords = {data integrity;error detection;fault tolerant computing;power consumption;subroutines;COTS
+	components;benchmark program simulation;constrained error detection
+	latency;data integrity;duplicated statements;energy consumption minimization;fault
+	tolerance;low power software techniques;procedure call duplication;procedure
+	re-execution;reduced energy consumption;transient hardware error
+	detection;Application software;Computer applications;Delay;Electromagnetic
+	transients;Energy consumption;Error correction;Fault detection;Fault
+	tolerant systems;Hardware;Single event upset}
+}
+
+@ARTICLE{994913,
+  author = {Oh, N. and Shirvani, P.P. and McCluskey, E.J.},
+  title = {Error detection by duplicated instructions in super-scalar processors},
+  journal = {Reliability, IEEE Transactions on},
+  year = {2002},
+  volume = {51},
+  pages = {63-75},
+  number = {1},
+  month = {Mar},
+  abstract = {This paper proposes a pure software technique "error detection by
+	duplicated instructions" (EDDI), for detecting errors during usual
+	system operation. Compared to other error-detection techniques that
+	use hardware redundancy, EDDI does not require any hardware modifications
+	to add error detection capability to the original system. EDDI duplicates
+	instructions during compilation and uses different registers and
+	variables for the new instructions. Especially for the fault in the
+	code segment of memory, formulas are derived to estimate the error-detection
+	coverage of EDDI using probabilistic methods. These formulas use
+	statistics of the program, which are collected during compilation.
+	EDDI was applied to eight benchmark programs and the error-detection
+	coverage was estimated. Then, the estimates were verified by simulation,
+	in which a fault injector forced a bit-flip in the code segment of
+	executable machine codes. The simulation results validated the estimated
+	fault coverage and show that approximately 1.5% of injected faults
+	produced incorrect results in eight benchmark programs with EDDI,
+	while on average, 20% of injected faults produced undetected incorrect
+	results in the programs without EDDI. Based on the theoretical estimates
+	and actual fault-injection experiments, EDDI can provide over 98%
+	fault-coverage without any extra hardware for error detection. This
+	pure software technique is especially useful when designers cannot
+	change the hardware, but they need dependability in the computer
+	system. To reduce the performance overhead, EDDI schedules the instructions
+	that are added for detecting errors such that "instruction-level
+	parallelism" (ILP) is maximized. Performance overhead can be reduced
+	by increasing ILP within a single super-scalar processor. The execution
+	time overhead in a 4-way super-scalar processor is less than the
+	execution time overhead in the processors that can issue two instructions
+	in one cycle},
+  doi = {10.1109/24.994913},
+  issn = {0018-9529},
+  keywords = {error detection;instruction sets;parallel architectures;software fault
+	tolerance;software reliability;concurrent error detection;error detection
+	by duplicated instructions;error-detection coverage;error-detection
+	coverage estimation;execution time overhead;fault tolerance;fault-coverage;instruction-level
+	parallelism;instruction-scheduling;instructions duplication;memory
+	code segment fault;performance overhead reduction;probabilistic methods;registers;single
+	event upset;software technique;super-scalar processors;system operation;transient
+	fault;Computer architecture;Computer errors;Error correction;Event
+	detection;Fault detection;Hardware;Parallel processing;Redundancy;Registers;Single
+	event upset}
+}
+
+@ARTICLE{994926,
+  author = {Oh, N. and Shirvani, P.P. and McCluskey, E.J.},
+  title = {Control-flow checking by software signatures},
+  journal = {Reliability, IEEE Transactions on},
+  year = {2002},
+  volume = {51},
+  pages = {111-122},
+  number = {1},
+  month = {Mar},
+  abstract = {This paper presents a new signature monitoring technique, CFCSS (control
+	flow checking by software signatures); CFCSS is a pure software method
+	that checks the control flow of a program using assigned signatures.
+	An algorithm assigns a unique signature to each node in the program
+	graph and adds instructions for error detection. Signatures are embedded
+	in the program during compilation time using the constant field of
+	the instructions and compared with run-time signatures when the program
+	is executed. Another algorithm reduces the code size and execution
+	time overhead caused by checking instructions in CFCSS. A "branching
+	fault injection experiment" was performed with benchmark programs.
+	Without CFCSS, an average of 33.7 % of the injected branching faults
+	produced undetected incorrect outputs; however, with CFCSS, only
+	3.1 % of branching faults produced undetected incorrect outputs.
+	Thus it is possible to increase error detection coverage for control
+	flow errors by an order of magnitude using CFCSS. The distinctive
+	advantage of CFCSS over previous signature monitoring techniques
+	is that CFCSS is a pure software method, i.e., it needs no dedicated
+	hardware such as a watchdog processor for control flow checking.
+	A watchdog task in multitasking environment also needs no extra hardware,
+	but the advantage of CFCSS over a watchdog task is that CFCSS can
+	be used even when the operating system does not support multitasking},
+  doi = {10.1109/24.994926},
+  file = {:../../../../02_PDFs/Referencias1/00994926.pdf:PDF},
+  issn = {0018-9529},
+  keywords = {program diagnostics;program testing;software reliability;assigned
+	signatures;branching fault injection experiment;branching faults;code
+	size reduction;compilation time;control flow checking by software
+	signatures;error detection instructions;execution time overhead reduction;instructions
+	checking;multitasking environment;program graph;run-time signatures;signature
+	monitoring techniques;software method;undetected incorrect outputs;watchdog
+	task;Central Processing Unit;Error correction;Fault detection;Hardware;Monitoring;Multitasking;Operating
+	systems;Process control;Runtime;Satellites}
+}
+
+@INPROCEEDINGS{6393319,
+  author = {Seung-Chan Oh and Nam-Ho Lee and Heung-Ho Lee},
+  title = {The study of the transient radiation effects on electronic devices
+	caused by pulsed high energy gamma-ray},
+  booktitle = {Control, Automation and Systems (ICCAS), 2012 12th International
+	Conference on},
+  year = {2012},
+  pages = {1233-1236},
+  month = {Oct},
+  abstract = {In this study, we carried out SPICE simulation and transient radiation
+	tests for identify failure situation by a transient radiation effect
+	on electronic devices due to high energy ionizing radiation pulse
+	induced on electronic devices. This experiments were carried out
+	using a 60 MeV electron beam pulse of the LINAC(Linear Accelerator)
+	facility in the Pohang Accelerator Laboratory. In this experiment
+	test, we has found that a serious failure as a burn-out effect due
+	to overcurrent on the partial electronic devices. Also we has found
+	that a temporary error due to ionizing effect on the other electronic
+	devices. Similar to these experimental results, the result of SPICE
+	Simulation in NAND gate has found that the latch-up phenomena could
+	be checked in more than 7.0×1011W/cm2.},
+  file = {:../../../../02_PDFs/Referencias1/06393319.pdf:PDF},
+  keywords = {CMOS integrated circuits;SPICE;gamma-ray bursts;ionisation;linear
+	accelerators;logic gates;radiation effects;semiconductor device testing;CMOS
+	integrated circuit;LINAC;NAND gate;Pohang Accelerator Laboratory;SPICE
+	simulation;burn-out effect;electron beam pulse;electron volt energy
+	60 MeV;failure situation identification;gamma-ray burst;high energy
+	ionizing radiation pulse;ionizing effect;latch-up phenomena;linear
+	accelerator facility;partial electronic device;pulsed high energy
+	gamma-ray;transient radiation effect;transient radiation test;Integrated
+	circuit modeling;Logic gates;Photoconductivity;Radiation effects;Semiconductor
+	device modeling;Transient analysis;Tungsten;Burn-out;CMOS Integrated
+	circuits;Gamma-ray burst}
+}
+
+@INPROCEEDINGS{243569,
+  author = {Ohlsson, J. and Rimen, M. and Gunneflo, U.},
+  title = {A study of the effects of transient fault injection into a 32-bit
+	RISC with built-in watchdog},
+  booktitle = {Fault-Tolerant Computing, 1992. FTCS-22. Digest of Papers., Twenty-Second
+	International Symposium on},
+  year = {1992},
+  pages = {316-325},
+  month = {July},
+  abstract = {An error-detecting 32-b reduced instruction set computer (RISC) designed
+	in a 1.2- mu m CMOS technology with an on-chip watchdog using embedded
+	signature monitoring is presented. It was evaluated through simulation-based
+	fault injection, using a register level model written in VHDL (very
+	high-speed IC (VHSIC) description language). A chip area increase
+	of 4.7% was caused by the watchdog. Two application programs were
+	executed to study workload dependencies. The insertion of watchdog
+	instructions resulted in a memory overhead of between 13% and 25%
+	as well as a performance overhead of between 9% and 19%. A total
+	of 2779 faults were injected into the processor during execution
+	of the application programs. Only 23% of these resulted in effective
+	errors. A minimum detection coverage of 95% was reached for effective
+	errors classified as control flow errors with a median latency of
+	one clock cycle. Few effective data errors, between 22% and 50%,
+	were detected.<>},
+  doi = {10.1109/FTCS.1992.243569},
+  keywords = {CMOS integrated circuits;fault location;fault tolerant computing;reduced
+	instruction set computing;specification languages;1.2 micron;32 bit;32-bit
+	RISC;CMOS technology;VHDL;application programs;built-in watchdog;embedded
+	signature monitoring;median latency;memory overhead;minimum detection
+	coverage;performance overhead;register level model;transient fault
+	injection;very high-speed IC;CMOS technology;Computational modeling;Computer
+	aided instruction;Computer errors;Computerized monitoring;Embedded
+	computing;Error correction;Integrated circuit modeling;Reduced instruction
+	set computing;Registers}
+}
+
+@INPROCEEDINGS{6128570,
+  author = {Ortega-Sanchez, C.},
+  title = {MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes},
+  booktitle = {Reconfigurable Computing and FPGAs (ReConFig), 2011 International
+	Conference on},
+  year = {2011},
+  pages = {152-157},
+  month = {Nov},
+  abstract = {Expectations of Electrical Engineering students about their courses
+	have changed over the years. Even though the basic principles of
+	Digital Electronics remain the same, tools and laboratory activities
+	need to accommodate more demanding expectations. This paper presents
+	MiniMIPS: an 8-bit implementation of the MIPS's single-cycle architecture
+	for educational purposes. The MiniMIPS is targeted to the BASYS Spartan
+	3E development board. The user interface consists of DIP switches,
+	push-buttons, LEDs and four 7-segment displays. The instruction set
+	consists of 9 instructions and 3 instruction formats. Programs for
+	the MiniMIPS are developed in a custom-made assembler/simulator tool,
+	also presented in this paper. A MiniMIPS assembly program to generate
+	the Fibonacci series is presented as an example. A description of
+	laboratory tasks currently used is offered.},
+  doi = {10.1109/ReConFig.2011.62},
+  file = {:../../../../02_PDFs/Referencias1/06128570.pdf:PDF},
+  keywords = {computer aided instruction;display devices;electrical engineering
+	computing;electrical engineering education;field programmable gate
+	arrays;light emitting diodes;user interfaces;7-segment displays;8-bit
+	MIPS;BASYS Spartan 3E development board;DIP switches;FPGA;Fibonacci
+	series;LED;MiniMIPS;custom made assembler-simulator tool;digital
+	electronics;educational purposes;electrical engineering students;laboratory
+	tasks;push-buttons;single cycle architecture;user interface;Computer
+	architecture;Computers;Educational institutions;Field programmable
+	gate arrays;Laboratories;Light emitting diodes;Registers;FPGA applications;MIPS
+	architecture;Soft cores;embedded systems;engineering education}
+}
+
+@INPROCEEDINGS{1607502,
+  author = {Rajabzadeh, A and Miremadi, S.-G.},
+  title = {A hardware approach to concurrent error detection capability enhancement
+	in COTS processors},
+  booktitle = {Dependable Computing, 2005. Proceedings. 11th Pacific Rim International
+	Symposium on},
+  year = {2005},
+  pages = {8 pp.-},
+  month = {Dec},
+  abstract = {To enhance the error detection capability in COTS (commercial off-the-shelf)-based
+	design of safety-critical systems, a new hardware-based control flow
+	checking (CFC) technique is presented. This technique, control flow
+	checking by execution tracing (CFCET), employs the internal execution
+	tracing features available in COTS processors and an external watchdog
+	processor (WDP) to monitor the addresses of taken branches in a program.
+	This is done without any modification of application programs, therefore,
+	the program overhead is zero. The external hardware overhead is about
+	3.5% using an Altera Flex 10K30 FPGA. For different workload programs,
+	the execution time overhead and the error detection coverage of the
+	technique vary between 33.3 and 140.8% and between 79.7 and 84.6%
+	respectively. The errors are detected with about zero latency.},
+  doi = {10.1109/PRDC.2005.7},
+  keywords = {concurrency control;microprocessor chips;safety-critical software;systems
+	analysis;Altera Flex 10K30 FPGA;COTS processors;COTS-based design;commercial
+	off-the-shelf;concurrent error detection capability enhancement;execution
+	tracing;hardware-based control flow checking;safety-critical systems;watchdog
+	processor;Computer crashes;Control systems;Costs;Delay;Error correction;Field
+	programmable gate arrays;Hardware;Monitoring;Test equipment;Time
+	to market}
+}
+
+@INPROCEEDINGS{1276552,
+  author = {Rajabzadeh, A and Mohandespour, M. and Miremadi, G.},
+  title = {Error detection enhancement in COTS superscalar processors with event
+	monitoring features},
+  booktitle = {Dependable Computing, 2004. Proceedings. 10th IEEE Pacific Rim International
+	Symposium on},
+  year = {2004},
+  pages = {49-54},
+  month = {March},
+  abstract = {Increasing use of commercial off-the-shelf (COTS) superscalar processors
+	in industrial, embedded, and real-time systems necessitates the development
+	of error detection mechanisms for such systems. This shows an error
+	detection scheme called committed instructions counting (CIC) to
+	increase error detection in such systems. The scheme uses internal
+	performance monitoring features and an external watchdog processor
+	(WDP). The performance monitoring features enable counting the number
+	of committed instructions in a program. The scheme is experimentally
+	evaluated on a 32-bit Pentium® processor using software implemented
+	fault injection (SWIFI). A total of 8181 errors were injected into
+	the Pentium® processor. The results show that the error detection
+	coverage varies between to 90.92% and 98.41%, for different workloads.},
+  doi = {10.1109/PRDC.2004.1276552},
+  file = {:../../../../02_PDFs/Referencias2/01276552.pdf:PDF},
+  keywords = {fault tolerant computing;instruction sets;parallel architectures;performance
+	evaluation;32-bit Pentium processor;COTS superscalar processor;commercial
+	off-the-shelf;committed instructions counting;error detection enhancement;event
+	monitoring;performance monitoring;watchdog processor;Computer errors;Computer
+	industry;Computerized monitoring;Condition monitoring;Embedded computing;Error
+	correction;Event detection;Pins;Pipelines;Runtime}
+}
+
+@ARTICLE{Rebaudengo2004,
   author = {Rebaudengo, M. and Reorda, M.Sonza and Violante, M.},
   title = {A New Approach to Software-Implemented Fault Tolerance},
   journal = {Journal of Electronic Testing},
@@ -362,6 +1697,7 @@
   pages = {433-437},
   number = {4},
   doi = {10.1023/B:JETT.0000039610.30724.b2},
+  file = {:../../../../02_PDFs/Referencias4/art%3A10.1023%2FB%3AJETT.0000039610.30724.b2.pdf:PDF},
   issn = {0923-8174},
   keywords = {software-implemented fault tolerance; single event upsets; fault injection},
   language = {English},
@@ -369,7 +1705,7 @@
   url = {http://dx.doi.org/10.1023/B%3AJETT.0000039610.30724.b2}
 }
 
-@ARTICLE{raey,
+@ARTICLE{Rebaudengo2003,
   author = {Rebaudengo, M. and Reorda, M.Sonza and Violante, M.},
   title = {Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor},
   journal = {Journal of Electronic Testing},
@@ -378,6 +1714,7 @@
   pages = {577-584},
   number = {5},
   doi = {10.1023/A:1025130131636},
+  file = {:../../../../02_PDFs/Referencias4/art%3A10.1023%2FA%3A1025130131636.pdf:PDF},
   issn = {0923-8174},
   keywords = {dependability evaluation; single event upsets; fault injection},
   language = {English},
@@ -468,6 +1805,7 @@
 	architecture, and the experimental results gathered from the fault
 	injection analysis campaign},
   doi = {10.1109/DFT.2006.18},
+  file = {:../../../../02_PDFs/Referencias4/04030937.pdf:PDF},
   issn = {1550-5774},
   keywords = {fault location;hardware-software codesign;microprocessor chips;redundancy;SEU
 	faults;autonomous detection;fault coverage;fault detection;fault
@@ -478,10 +1816,417 @@
 	systems;Time to market}
 }
 
+@INPROCEEDINGS{1431553,
+  author = {Reis, G.A and Chang, J. and Vachharajani, N. and Mukherjee, S.S.
+	and Rangan, R. and August, D.I},
+  title = {Design and evaluation of hybrid fault-detection systems},
+  booktitle = {Computer Architecture, 2005. ISCA '05. Proceedings. 32nd International
+	Symposium on},
+  year = {2005},
+  pages = {148-159},
+  month = {June},
+  abstract = {As chip densities and clock rates increase, processors are becoming
+	more susceptible to transient faults that can affect program correctness.
+	Up to now, system designers have primarily considered hardware-only
+	and software-only fault-detection mechanisms to identify and mitigate
+	the deleterious effects of transient faults. These two fault-detection
+	systems, however, are extremes in the design space, representing
+	sharp trade-offs between hardware cost, reliability, and performance.
+	In this paper, we identify hybrid hardware/software fault-detection
+	mechanisms as promising alternatives to hardware-only and software-only
+	systems. These hybrid systems offer designers more options to fit
+	their reliability needs within their hardware and performance budgets.
+	We propose and evaluate CRAFT, a suite of three such hybrid techniques,
+	to illustrate the potential of the hybrid approach. For fair, quantitative
+	comparisons among hardware, software, and hybrid systems, we introduce
+	a new metric, mean work to failure, which is able to compare systems
+	for which machine instructions do not represent a constant unit of
+	work. Additionally, we present a new simulation framework which rapidly
+	assesses reliability and does not depend on manual identification
+	of failure modes. Our evaluation illustrates that CRAFT, and hybrid
+	techniques in general, offer attractive options in the fault-detection
+	design space.},
+  doi = {10.1109/ISCA.2005.21},
+  file = {:../../../../02_PDFs/Referencias2/01431553.pdf:PDF},
+  issn = {1063-6897},
+  keywords = {fault diagnosis;fault tolerant computing;hardware-software codesign;instruction
+	sets;performance evaluation;program processors;CRAFT;hardware cost;hardware
+	reliability;hardware-only system;hybrid hardware-software fault-detection
+	system;mean work to failure;software-only system;transient fault;Clocks;Costs;Error
+	correction codes;Fault diagnosis;Fault tolerance;Hardware;Microprocessors;Protection;Software
+	systems;Space technology}
+}
+
+@INPROCEEDINGS{1402092,
+  author = {Reis, G.A and Chang, J. and Vachharajani, N. and Rangan, R. and August,
+	D.I},
+  title = {SWIFT: software implemented fault tolerance},
+  booktitle = {Code Generation and Optimization, 2005. CGO 2005. International Symposium
+	on},
+  year = {2005},
+  pages = {243-254},
+  month = {March},
+  abstract = {To improve performance and reduce power, processor designers employ
+	advances that shrink feature sizes, lower voltage levels, reduce
+	noise margins, and increase clock rates. However, these advances
+	make processors more susceptible to transient faults that can affect
+	correctness. While reliable systems typically employ hardware techniques
+	to address soft-errors, software techniques can provide a lower-cost
+	and more flexible alternative. This paper presents a novel, software-only,
+	transient-fault-detection technique, called SWIFT. SWIFT efficiently
+	manages redundancy by reclaiming unused instruction-level resources
+	present during the execution of most programs. SWIFT also provides
+	a high level of protection and performance with an enhanced control-flow
+	checking mechanism. We evaluate an implementation of SWIFT on an
+	Itanium 2 which demonstrates exceptional fault coverage with a reasonable
+	performance cost. Compared to the best known single-threaded approach
+	utilizing an ECC memory system, SWIFT demonstrates a 51% average
+	speedup.},
+  doi = {10.1109/CGO.2005.34},
+  file = {:../../../../02_PDFs/Referencias1/01402092.pdf:PDF},
+  keywords = {error correction codes;fault diagnosis;program processors;redundancy;software
+	fault tolerance;storage management;SWIFT;control-flow checking mechanism;hardware
+	technique;instruction-level resource;memory system;program execution;redundancy;reliable
+	system;single-threaded approach;soft-errors;software implemented
+	fault tolerance;software technique;transient-fault-detection technique;Clocks;Fault
+	tolerance;Hardware;Noise level;Noise reduction;Power system reliability;Process
+	design;Redundancy;Resource management;Voltage}
+}
+
+@ARTICLE{SonzaReorda2004239,
+  author = {M. Sonza Reorda and M. Violante},
+  title = {Efficient analysis of single event transients },
+  journal = {Journal of Systems Architecture },
+  year = {2004},
+  volume = {50},
+  pages = {239 - 246},
+  number = {5},
+  note = {Design and Test of Systems on a Chip },
+  abstract = {The effects of charged particles striking \{VLSI\} circuits and producing
+	single event transients (SETs) are becoming an issue for designers
+	who exploit deep sub-micron technologies; efficient and accurate
+	techniques for assessing their impact on \{VLSI\} designs are thus
+	needed. This paper presents a new approach for generating the list
+	of faults to be addressed during fault injection experiments tackling
+	\{SET\} effects, which resorts to static timing analysis. Moreover,
+	it proposes a simplified \{SET\} fault model, which is suitable for
+	being adopted within a zero-delay fault simulation tool. Experimental
+	results are reported on both standard benchmarks and real-life circuits
+	assessing the effectiveness of the proposed techniques. },
+  doi = {http://dx.doi.org/10.1016/j.sysarc.2003.08.008},
+  issn = {1383-7621},
+  url = {http://www.sciencedirect.com/science/article/pii/S1383762103001449}
+}
+
+@BOOK{Robert2002,
+  title = {SOC Design Methodologies},
+  publisher = {Springer},
+  year = {2002},
+  author = {Robert, Michel},
+  volume = {90},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/bok%3A978-0-387-35597-9.pdf:PDF}
+}
+
+@INPROCEEDINGS{4030963,
+  author = {Rota, F. and Dutt, S. and Krishna, S.},
+  title = {Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction
+	Stream},
+  booktitle = {Defect and Fault Tolerance in VLSI Systems, 2006. DFT '06. 21st IEEE
+	International Symposium on},
+  year = {2006},
+  pages = {507-515},
+  month = {Oct},
+  abstract = {Control flow checking (CFC) is a well known concurrent checking technique
+	for ensuring that a program's instruction execution sequence follows
+	permissible paths. Almost all CFC techniques require direct access
+	to the CPU-cache bus, meaning that the checking hardware (generally
+	called a watchdog processor (WP)) has to be on-chip. However, an
+	on-chip WP directly accessing the CPU-cache bus has a few disadvantages
+	chief among them being that it will use up appreciable chip real
+	estate of a commodity processor, but may be unnecessary in most environments
+	that do not have significant transient error rates. On the other
+	hand, if an off-chip CFC technique can be developed that imposes
+	minor hardware overheads on the processor chip, then such a WP can
+	be plugged onto the external system bus when needed for concurrent
+	checking, and will have very little of the disadvantages of on-chip
+	WPs. Such an off-chip WP, however, is not generally be able to monitor
+	all instructions due to the bandwidth difference between the CPU
+	bus and the system or memory bus. The authors present techniques
+	that allow generally effective off-chip CFC using partial access
+	to the instruction execution stream that respects the CPU/system
+	bus bandwidth factor (ratio) K, and still achieve reasonable block-level
+	instruction error coverage ranging from 70-80% for K = 5 to about
+	94% for a K = 2. Furthermore, our experimental results show that
+	the program-level error coverage is almost 100% even for K = 5 (i.e.,
+	the authors almost always detect the presence of an instruction error
+	in a program sooner or later before it completes execution, which
+	is useful for fail-safe operation), underscoring the efficacy of
+	our methods},
+  doi = {10.1109/DFT.2006.47},
+  file = {:../../../../02_PDFs/Referencias2/04030963.pdf:PDF},
+  issn = {1550-5774},
+  keywords = {cache storage;error detection;instruction sets;microprocessor chips;program
+	processors;system buses;CPU-cache bus;block-level instruction error;concurrent
+	checking;control flow checking;fail-safe operation;hardware overheads;instruction
+	error detection;processor chip;processor-cache instruction stream;program
+	instruction execution sequence;program-level error coverage;watchdog
+	processor;Bandwidth;Central Processing Unit;Circuit faults;Computer
+	errors;Error correction;Hardware;Personal digital assistants;System
+	buses;System-on-a-chip;Voltage}
+}
+
+@INPROCEEDINGS{781037,
+  author = {Rotenberg, E.},
+  title = {AR-SMT: a microarchitectural approach to fault tolerance in microprocessors},
+  booktitle = {Fault-Tolerant Computing, 1999. Digest of Papers. Twenty-Ninth Annual
+	International Symposium on},
+  year = {1999},
+  pages = {84-91},
+  month = {June},
+  abstract = {This paper speculates that technology trends pose new challenges for
+	fault tolerance in microprocessors. Specifically, severely reduced
+	design tolerances implied by gigaherz clock rates may result in frequent
+	and arbitrary transient faults. We suggest that existing fault-tolerant
+	techniques-system-level, gate-level, or component-specific approaches-are
+	either too costly for general purpose computing, overly intrusive
+	to the design, or insufficient for covering arbitrary logic faults.
+	An approach in which the microarchitecture itself provides fault
+	tolerance is required. We propose a new time redundancy fault-tolerant
+	approach in which a program is duplicated and the two redundant programs
+	simultaneously run on the processor: The technique exploits several
+	significant microarchitectural trends to provide broad coverage of
+	transient faults and restricted coverage of permanent faults. These
+	trends are simultaneous multithreading, control flow and data flow
+	prediction, and hierarchical processors-all of which are intended
+	for higher performance, but which can be easily leveraged for the
+	specified fault tolerance goals. The overhead for achieving fault
+	tolerance is low, both in terms of performance and changes to the
+	existing microarchitecture. Detailed simulations of five of the SPEC95
+	benchmarks show that executing two redundant programs on the fault-tolerant
+	microarchitecture takes only 10% to 30% longer than running a single
+	version of the program.},
+  doi = {10.1109/FTCS.1999.781037},
+  file = {:../../../../02_PDFs/Referencias1/AR-SMT.pdf:PDF},
+  issn = {0731-3071},
+  keywords = {computer architecture;fault tolerant computing;redundancy;AR-SMT;fault
+	tolerance;microarchitecture;microprocessors;time redundancy fault-tolerant;Circuit
+	faults;Circuit synthesis;Clocks;Fault tolerance;Hardware;Logic design;Microarchitecture;Microprocessors;Multithreading;Redundancy}
+}
+
+@INPROCEEDINGS{105615,
+  author = {Saxena, N.R. and McCluskey, E.J.},
+  title = {Control-flow checking using watchdog assists and extended-precision
+	checksums},
+  booktitle = {Fault-Tolerant Computing, 1989. FTCS-19. Digest of Papers., Nineteenth
+	International Symposium on},
+  year = {1989},
+  pages = {428-435},
+  month = {June},
+  abstract = {A control-flow checking method is proposed. Extended-precision checksum-based
+	control-flow checking is shown to have low error detection latency
+	compared to previously proposed methods. Analytical measures are
+	derived to demonstrate the effectiveness of using extended-precision
+	checksums for control-flow checking. The error detection latency
+	in the extended-precision checksum-based control-flow checking remains
+	relatively constant for both single and multiple sequence errors.
+	In the case of signature-based methods, error detection latency increases
+	linearly with the number of sequence errors. A watchdog assist architecture
+	for control-flow checking in programs is defined. Unlike previously
+	proposed control-flow checking methods, this watchdog assist architecture
+	is well suited for multiprocessor, multiprogramming, and cache-based
+	environments. The Hewlett-Packard precision architecture is used
+	as an example to demonstrate the feasibility of watchdog assists.<>},
+  doi = {10.1109/FTCS.1989.105615},
+  file = {:../../../../02_PDFs/Referencias2/00054849.pdf:PDF},
+  keywords = {Hewlett Packard computers;buffer storage;computer architecture;error
+	detection;fault tolerant computing;multiprocessing systems;multiprogramming;Hewlett-Packard
+	precision architecture;analytical measures;cache-based environments;control-flow
+	checking method;error detection latency;extended-precision checksums;multiple
+	sequence errors;multiprocessor;multiprogramming;single sequence errors;watchdog
+	assist architecture;Computer errors;Control systems;Delay;Error correction;Fluid
+	flow measurement;Laboratories;Operating systems;Power system restoration;Process
+	control;Redundancy}
+}
+
+@ARTICLE{Sayil2012,
+  author = {Sayil, Selahattin and Wang, Juyu},
+  title = {Single-event soft errors in CMOS logic},
+  journal = {Potentials, IEEE},
+  year = {2012},
+  volume = {31},
+  pages = {15--22},
+  number = {2},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06169884.pdf:PDF},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{Shirvani2000,
+  author = {Shirvani, PP and Oh, N and McCluskey, EJ and Wood, DL and Lovellette,
+	MN and Wood, KS},
+  title = {Software-implemented hardware fault tolerance experiments: COTS in
+	space},
+  booktitle = {International Conference on Dependable Systems and Networks (FTCS-30
+	and DCCA-8), New York (NY)},
+  year = {2000},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/SIHFT_000512.pdf:PDF}
+}
+
+@INPROCEEDINGS{Shirvani1999,
+  author = {Shirvani, Philip P and Saxena, Nirmal and Oh, Nahmsuk and Mitra,
+	Subhasish and Yu, Shu-Yi and Huang, Wei-Je and Fernandez-Gomez, Santiago
+	and Touba, Nur A and McCluskey, Edward J},
+  title = {Fault-Tolerance Projects at Stanford CRC},
+  booktitle = {MAPLD 1999- Annual Military and Aerospace Applications of Programmable
+	Devices and Technologies Conference, 2 nd, Johns Hopkins Univ, APL,
+	Laurel, MD},
+  year = {1999},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/shirvanimapld99.pdf:PDF}
+}
+
+@INPROCEEDINGS{842342,
+  author = {Shokri, E. and Beltas, P.},
+  title = {An experiment with adaptive fault tolerance in highly-constrained
+	systems},
+  booktitle = {Object-Oriented Real-Time Dependable Systems, 1999. WORDS 1999 Fall.
+	Proceedings. Fifth International Workshop on},
+  year = {1999},
+  pages = {119-124},
+  abstract = {Highly resource-constrained dependable real-time systems have a very
+	limited number of resources which have to be managed dynamically
+	throughout their lives. These systems also require self-contained
+	fault tolerance capabilities while operating under dynamic environments.
+	Varying environmental conditions, a dynamic application profile and
+	severe constraints in resource availability necessitates a flexible
+	and adjustable resource allocation and fault management strategy.
+	In other words, the fault tolerance mechanism must be able to adapt
+	itself to changes in both available resources and environmental conditions.
+	A fault-tolerance mechanism that possesses such a characteristics
+	is known as an adaptive fault tolerance mechanism. This paper reports
+	an experimental investigation effort for application of adaptive
+	fault tolerance for autonomous spacecraft},
+  doi = {10.1109/WORDSF.1999.842342},
+  file = {:../../../../02_PDFs/Referencias1/00842342.pdf:PDF},
+  keywords = {adaptive systems;aerospace computing;fault tolerance;resource allocation;space
+	vehicles;adaptive fault tolerance;adjustable resource allocation
+	strategy;autonomous spacecraft;dynamic application profile;dynamic
+	environmental conditions;dynamic resource management;fault management
+	strategy;resource availability;resource-constrained dependable real-time
+	systems;self-contained fault tolerance capabilities;Availability;Communication
+	system control;Fault tolerance;Fault tolerant systems;Middleware;Resource
+	management;Software safety;Space missions;Space vehicles;Sun}
+}
+
+@PHDTHESIS{Sierawski,
+  author = {Brian Sierawski},
+  title = {The Role of Singly-Charged Particles in Microelectronics Reliability},
+  school = {Vanderbilt University},
+  year = {2011},
+  address = {Nashville, Tennessee},
+  month = {12},
+  abstract = {In this dissertation, I propose that the emergence of direct-ionization
+	induced single event upsets from singly-charged particles will signicantly
+	contribute to the error rate of deep-submicron microelectronics operating
+	in nearly all environments. The implication of this susceptibility
+	will be an additional source of errors in microelectronics along
+	with those currently anticipated by rate prediction methods. The
+	objective of this work is to advance the methods and models to address
+	this mechanism.},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/etd.pdf:PDF},
+  url = {http://etd.library.vanderbilt.edu/available/etd-12012011-134348/}
+}
+
+@CONFERENCE{SimondDavidmann2014,
+  author = {Simond Davidmann,
+	
+	Duncan Graham},
+  title = {Learning From Advanced Hardware Verification for Hardware Dependent
+	Software},
+  booktitle = {DVCon},
+  year = {2014},
+  address = {Santa Clara},
+  organization = {Imperas},
+  abstract = {We present a new perspective for embedded software verification for
+	generalized multicore processor platforms, somewhat analogous to
+	simulation-centric hardware verification solutions. A spatial, temporal,
+	and abstract multi-dimensional framework for software verification,
+	profiling, analysis, and debug is proposed that leverages a specialized
+	simulation core. The simulator enables key services for the verification
+	solution while providing a degree of separation from both the hardware
+	models and software under test, to ensure accurate behavioral representation,
+	as well as customization and performance advantages.
+	
+	
+	This paper discusses requirements for modern embedded software development
+	and solutions utilized to date, before discussing this simulation-based
+	solution and the dimensional framework layered above. We will also
+	discuss two real life scenarios where the solution is utilized to
+	affect.},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/DVCon_2014_Imperas_Paper_Learning_From_Advanced_Hardware_Verification_for_Hardware_Dependent_Software.pdf:PDF}
+}
+
+@INPROCEEDINGS{941435,
+  author = {Some, R.R. and Kim, W.S. and Khanoyan, G. and Callum, L. and Agrawal,
+	A and Beahan, J.J.},
+  title = {A software-implemented fault injection methodology for design and
+	validation of system fault tolerance},
+  booktitle = {Dependable Systems and Networks, 2001. DSN 2001. International Conference
+	on},
+  year = {2001},
+  pages = {501-506},
+  month = {July},
+  abstract = {Presents our experience in developing a methodology and tool at the
+	Jet Propulsion Laboratory (JPL) for software-implemented fault injection
+	(SWIFI) into a parallel-processing supercomputer which is being designed
+	for use in next-generation space exploration missions. The fault
+	injector uses software-based strategies to emulate the effects of
+	radiation-induced transients occurring in the system hardware components.
+	JPL's SWIFI tool set, which is called JIFI (JPL's Implementation
+	of a Fault Injector), is being used in conjunction with an appropriate
+	system fault model to evaluate candidate hardware and software fault
+	tolerance architectures, to determine the sensitivity of applications
+	to faults, and to measure the effectiveness of fault detection, isolation
+	and recovery strategies. JIFI has been validated to inject faults
+	into user-specified CPU registers and memory regions with a uniform
+	random distribution in location and time. Together with verifiers,
+	classifiers and run scripts, JIFI enables massive fault injection
+	campaigns and statistical data analysis.},
+  doi = {10.1109/DSN.2001.941435},
+  file = {:../../../../02_PDFs/Referencias3/00941435.pdf:PDF},
+  keywords = {aerospace computing;computer testing;fault tolerant computing;parallel
+	processing;program testing;JIFI;Jet Propulsion Laboratory;SWIFI;classifiers;fault
+	detection strategies;fault injection campaigns;fault isolation strategies;fault
+	recovery strategies;fault sensitivity;fault tolerance architecture
+	evaluation;memory regions;parallel-processing supercomputer;radiation-induced
+	transients;run scripts;software-based strategies;software-implemented
+	fault injection;space exploration missions;statistical data analysis;system
+	fault model;system fault tolerance design;system fault tolerance
+	validation;system hardware components;uniform random distribution;user-specified
+	CPU registers;verifiers;Application software;Computer architecture;Design
+	methodology;Fault tolerant systems;Hardware;Laboratories;Propulsion;Software
+	tools;Space exploration;Supercomputers}
+}
+
+@MISC{Spears2007,
+  author = {Spears, Chris},
+  title = {SystemVerilog for Verification: A Guide to Learning the Testbench
+	Language Features},
+  year = {2007},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/bok%3A978-1-4614-0715-7.pdf:PDF},
+  publisher = {Springer,}
+}
+
+@BOOK{Sterpone2008,
+  title = {Electronics system design techniques for safety critical applications},
+  publisher = {Springer},
+  year = {2008},
+  author = {Sterpone, Luca},
+  volume = {26},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/bok%3A978-1-4020-8979-4.pdf:PDF}
+}
+
 @ARTICLE{Straka2013155,
   author = {Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka},
-  title = {Fault tolerant system design and \{SEU\} injection based testing
-	},
+  title = {Fault tolerant system design and \{SEU\} injection based testing},
   journal = {Microprocessors and Microsystems },
   year = {2013},
   volume = {37},
@@ -512,9 +2257,51 @@
 	show the fault coverage and \{SEU\} occurrence causing faulty behavior
 	of verified architectures. },
   doi = {http://dx.doi.org/10.1016/j.micpro.2012.09.006},
+  file = {:../../../../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf:PDF},
   issn = {0141-9331},
   keywords = {Fault tolerant system},
   url = {http://www.sciencedirect.com/science/article/pii/S0141933112001688}
+}
+
+@INPROCEEDINGS{6653578,
+  author = {Lanfang Tan and Ying Tan and Jianjun Xu},
+  title = {CFEDR: Control-flow error detection and recovery using encoded signatures
+	monitoring},
+  booktitle = {Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT),
+	2013 IEEE International Symposium on},
+  year = {2013},
+  pages = {25-32},
+  month = {Oct},
+  abstract = {The incorporation of error detection and recovery mechanisms becomes
+	mandatory as the probability of the occurrence of transient faults
+	increases. The detection of control flow errors has been extensively
+	investigated in literature. However, only few works have been conducted
+	towards recovery from control-flow errors. Generally, a program is
+	re-executed after error detection. Although re-execution prevents
+	faults from corrupting data, it does not allow the application to
+	run to completion correctly in the presence of an error. Moreover,
+	the overhead of re-execution increases prominently. The current study
+	presents a pure-software method based on encoded signatures to recover
+	from control-flow errors. Unlike general signature monitoring techniques,
+	the proposed method targets not only interblock transitions, but
+	also intrablock and inter-function transitions. After detecting the
+	illegal transition, the program flow transfers back to the block
+	where the error occurred, and the data errors caused by the error
+	propagation are recovered. Fault injection and performance overhead
+	experiments are performed to evaluate the proposed method. The experimental
+	results show that most control flow errors can be recovered with
+	relatively low performance overhead.},
+  doi = {10.1109/DFT.2013.6653578},
+  file = {:../../../../02_PDFs/Referencias2/06653578.pdf:PDF},
+  issn = {1550-5774},
+  keywords = {digital signatures;fault diagnosis;program control structures;software
+	fault tolerance;system recovery;CFEDR;control-flow error detection
+	and recovery;data errors;encoded signatures monitoring;error propagation;fault
+	injection;general signature monitoring techniques;illegal transition
+	detection;inter-function transitions;interblock transitions;intrablock
+	transitions;probability;program flow;software method;transient faults
+	occurrence;Computers;Educational institutions;Fault tolerance;Fault
+	tolerant systems;Monitoring;Registers;Transient analysis}
 }
 
 @ARTICLE{MRS:7964131,
@@ -543,10 +2330,200 @@
 	regarding modeling, bulk complementary metal oxide semiconductor
 	technologies, and research on future, exploratory technologies. },
   doi = {10.1557/mrs2003.37},
+  file = {:../../../../02_PDFs/Referencias4/S0883769400017504a.pdf:PDF},
   issn = {1938-1425},
   issue = {02},
   numpages = {6},
   url = {http://journals.cambridge.org/article_S0883769400017504}
+}
+
+@MASTERSTHESIS{Toomey2010,
+  author = {Toomey, Corey Thomas},
+  title = {Statistical fault injection and analysis at the register transfer
+	level using the Verilog procedural interface},
+  school = {Vanderbilt University},
+  year = {2010},
+  month = {05},
+  abstract = {Soft errors are becoming an increasingly important issue in today’s
+	microelectronics industry. With decreasing transistor sizes and increasing
+	transistor counts, it is simply not efficient to harden every circuit
+	module against soft errors. Thus a designer must selectively harden
+	the most vulnerable modules of a design. This thesis addresses the
+	need for a non-invasive, portable, and easy to use software tool
+	for determining the architectural-vulnerability factor (AVF) of a
+	given design and its sub-modules. Fault injection and analysis is
+	carried out at the register-transfer level to cut down on simulation
+	time and simulation space. The Verilog-procedural interface (VPI)
+	is used to implement the fault injection and error detection. Testing
+	has been carried out on an ASIC design with 1.1 million flip-flops
+	and an eight-bit microprocessor. Simulation results for 1,500 runs
+	of the ASIC and 50,000 runs of the microprocessor are used to estimate
+	AVF for the designs and their sub-modules. Other relevant results
+	to help determine the vulnerability of a circuit module, such as
+	error latency, benign errors, and silent errors, are also evaluated.
+	A designer can then use this data to select the most vulnerable sub-modules
+	or architectural structures of a design for hardening against soft
+	errors.},
+  doi = {http://etd.library.vanderbilt.edu/available/etd-04082011-122234/},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/ToomeyCT_Thesis_Final.pdf:PDF},
+  keywords = {Verilog Procedural Interface, Statistical Fault Injection, Soft Errors,
+	Single Event, Register Transfer Level, Fault injection, Architectural
+	Vulnerability Factor}
+}
+
+@INPROCEEDINGS{4197508,
+  author = {Vahdatpour, A and Fazeli, M. and Miremadi, S.G.},
+  title = {Transient Error Detection in Embedded Systems Using Reconfigurable
+	Components},
+  booktitle = {Industrial Embedded Systems, 2006. IES '06. International Symposium
+	on},
+  year = {2006},
+  pages = {1-6},
+  month = {Oct},
+  abstract = {In this paper, a hardware control flow checking technique is presented
+	and evaluated. This technique uses re configurable of the shelf FPGA
+	in order to concurrently check the execution flow of the target micro
+	processor. The technique assigns signatures to the main program in
+	the compile time and verifies the signatures using a FPGA as a watchdog
+	processor to detect possible violation caused by the transient faults.
+	The main characteristic of this technique is its ability to be applied
+	to any kind of processor architecture and platforms. The low imposed
+	hardware and performance overhead by this technique makes it suitable
+	for those applications in which cost is a major concern, such as
+	industrial applications. The proposed technique is experimentally
+	evaluated on an 8051 microcontroller using software implemented fault
+	injection (SWIFI). The results show that this technique detects about
+	90% of the injected control flow errors. The watchdog processor occupied
+	26% of an Altera Max-7000 FPGA chip logic cells. The performance
+	overhead varies between 42% and 82% depending on the workload used.},
+  doi = {10.1109/IES.2006.357485},
+  file = {:../../../../02_PDFs/Referencias1/04197508.pdf:PDF},
+  keywords = {embedded systems;error detection;field programmable gate arrays;microcontrollers;reconfigurable
+	architectures;transient analysis;8051 microcontroller;Altera Max-7000
+	FPGA chip logic cells;compile time;embedded systems;hardware control
+	flow checking technique;industrial applications;injected control
+	flow errors;processor architecture;processor platforms;reconfigurable
+	components;shelf FPGA;software implemented fault injection;target
+	microprocessor;transient error detection;transient faults;watchdog
+	processor;Application software;Computer architecture;Costs;Embedded
+	system;Error correction;Fault detection;Field programmable gate arrays;Hardware;Logic;Microcontrollers}
+}
+
+@INPROCEEDINGS{6378204,
+  author = {Valadimas, S. and Tsiatouhas, Y. and Arapoyanni, A and Evans, A},
+  title = {Single event upset tolerance in flip-flop based microprocessor cores},
+  booktitle = {Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT),
+	2012 IEEE International Symposium on},
+  year = {2012},
+  pages = {79-84},
+  month = {Oct},
+  abstract = {Soft errors due to single event upsets (SEUs) in the flip-flops of
+	a design are of increasing importance in nanometer technology microprocessor
+	cores. In this work, we present a flip-flop oriented soft error detection
+	and correction technique. It exploits a transition detector at the
+	output of the flip-flop for error detection along with an asynchronous
+	local error correction scheme to provide soft error tolerance. Alternatively,
+	a low cost soft error detection scheme is introduced, which shares
+	a transition detector among multiple flip-flops, while error recovery
+	relies on architectural replay. To validate the proposed approach,
+	it has been applied in the design of a 32-bit MIPS microprocessor
+	core using a 90nm CMOS technology.},
+  doi = {10.1109/DFT.2012.6378204},
+  file = {:../../../../02_PDFs/Referencias2/06378204.pdf:PDF},
+  keywords = {CMOS digital integrated circuits;flip-flops;microprocessor chips;CMOS
+	technology;MIPS;SEU;architectural replay;asynchronous local error
+	correction scheme;error recovery;flip-flop oriented soft error detection;nanometer
+	technology microprocessor cores;single event upset tolerance;size
+	90 nm;soft error correction technique;soft error tolerance;transition
+	detector;word length 32 bit;Discrete Fourier transforms;Fault tolerance;Fault
+	tolerant systems;Flip-flops;Nanotechnology;Single event upset;Very
+	large scale integration;SEUs;Soft error detection and correction;Soft
+	error tolerance}
+}
+
+@BOOK{Velazco2007,
+  title = {Radiation effects on embedded systems},
+  publisher = {Springer},
+  year = {2007},
+  author = {Velazco, Raoul and Fouillat, Pascal and da Luz Reis, Ricardo Augusto},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/bok%3A978-1-4020-5646-8.pdf:PDF}
+}
+
+@INPROCEEDINGS{812294,
+  author = {Veneris, A and Hajj, IN.},
+  title = {A hybrid approach to design error detection and correction [VLSI
+	digital circuits]},
+  booktitle = {Electronics, Circuits and Systems, 1999. Proceedings of ICECS '99.
+	The 6th IEEE International Conference on},
+  year = {1999},
+  volume = {1},
+  pages = {347-350 vol.1},
+  abstract = {With the increase in the complexity of VLSI circuit design, logic
+	design errors can occur during synthesis. In this work, we present
+	a method for multiple design error diagnosis and correction. Our
+	approach uses the results of test vector simulation for diagnosis
+	and employs BDDs during correction so that it remains both computational
+	efficient and accurate. Experimental results on ISCAS'85 benchmark
+	circuits show that our approach can typically detect and correct
+	2 and 3 errors within seconds of CPU time},
+  doi = {10.1109/ICECS.1999.812294},
+  file = {:../../../../02_PDFs/Referencias2/00812294.pdf:PDF},
+  keywords = {VLSI;circuit CAD;digital integrated circuits;error correction;error
+	detection;integrated circuit design;logic CAD;BDD;VLSI circuit design;hybrid
+	approach;logic design errors;logic error correction;logic error detection;multiple
+	error correction;multiple error diagnosis;test vector simulation;Boolean
+	functions;Circuit simulation;Circuit synthesis;Circuit testing;Computational
+	modeling;Data structures;Design methodology;Error correction;Logic
+	design;Very large scale integration}
+}
+
+@INPROCEEDINGS{1194806,
+  author = {Whisnant, K. and Kalbarczyk, Z. and Iyer, R.K.},
+  title = {A foundation for adaptive fault tolerance in software},
+  booktitle = {Engineering of Computer-Based Systems, 2003. Proceedings. 10th IEEE
+	International Conference and Workshop on the},
+  year = {2003},
+  pages = {252-260},
+  month = {April},
+  abstract = {Software requirements often change during the operational lifetime
+	of deployed systems. To accommodate requirements not conceived during
+	design time, the system must be able to adapt its functionality and
+	behavior. The paper examines a formal model for reconfigurable software
+	processes that permits adaptive fault tolerance by adding or removing
+	specific fault tolerance techniques during runtime. A distributed
+	software-implemented fault tolerance (SIFT) environment for managing
+	user applications has been implemented using ARMOR processes that
+	conform to the formal model of reconfigurability. Because ARMOR processes
+	are reconfigurable, they can tailor the fault tolerance services
+	that they provide to themselves and to the user applications. We
+	describe two fault tolerance techniques: microcheckpointing and assertion
+	checking, that have been incorporated into ARMOR process via reconfigurations
+	to the original ARMOR design. Experimental evaluations of the SIFT
+	environment on a testbed cluster at the Jet Propulsion Laboratory
+	demonstrate the effectiveness of these two fault tolerance techniques
+	in limiting data error propagation among the ARMOR processes. These
+	experiments validate the concept of using an underlying reconfigurable
+	process architecture as the basis for implementing replaceable error
+	detection and recovery services.},
+  doi = {10.1109/ECBS.2003.1194806},
+  file = {:../../../../02_PDFs/Referencias1/01194806.pdf:PDF},
+  keywords = {configuration management;distributed programming;formal specification;software
+	fault tolerance;system recovery;ARMOR processes;SIFT;adaptive software
+	fault tolerance;assertion checking;data error propagation;distributed
+	software-implemented fault tolerance environment;fault tolerance
+	services;formal model;microcheckpointing;reconfigurable process architecture;reconfigurable
+	software processes;recovery services;replaceable error detection;software
+	requirements;user applications;Application software;Computer architecture;Computer
+	errors;Electronic mail;Environmental management;Fault tolerance;Pervasive
+	computing;Propulsion;Runtime;Testing}
+}
+
+@BOOK{Yuan2006,
+  title = {Constraint-based verification},
+  publisher = {Springer},
+  year = {2006},
+  author = {Yuan, Jun and Pixley, Carl and Aziz, Adnan},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/bok%3A978-0-387-30784-8.pdf:PDF}
 }
 
 @INPROCEEDINGS{5355715,
@@ -585,13 +2562,56 @@
 	event upset;System testing}
 }
 
+@ARTICLE{Ziade2004,
+  author = {Ziade, Haissam and Ayoubi, Rafic A and Velazco, Raoul and others},
+  title = {A survey on fault injection techniques},
+  journal = {Int. Arab J. Inf. Technol.},
+  year = {2004},
+  volume = {1},
+  pages = {171--186},
+  number = {2},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/04-Hissam.pdf:PDF}
+}
+
+@BOOK{F.Sabath2010,
+  title = {Ultra-Wideband, Short Pulse Electromagnetics 9},
+  publisher = {Springer},
+  year = {2010},
+  editor = {F. Sabath, D.V. Giri, F. Rachidi-Haeri, A. Kaelin},
+  volume = {VI},
+  number = {9},
+  pages = {522},
+  abstract = {Ultra-wideband (UWB), short-pulse (SP) electromagnetics are now being
+	used for an increasingly wide variety of applications, including
+	collision avoidance radar, concealed object detection, and communications.
+	Notable progress in UWB and SP technologies has been achieved by
+	investigations of their theoretical bases and improvements in solid-state
+	manufacturing, computers, and digitizers. UWB radar systems are also
+	being used for mine clearing, oil pipeline inspections, archeology,
+	geology, and electronic effects testing. Ultra-wideband Short-Pulse
+	Electromagnetics 9 presents selected papers of deep technical content
+	and high scientific quality from the UWB-SP9 Conference, which was
+	held from July 21-25, 2008, in Lausanne, Switzerland. The wide-ranging
+	coverage includes contributions on electromagnetic theory, time-domain
+	computational techniques, modeling, antennas, pulsed-power, UWB interactions,
+	radar systems, UWB communications, and broadband systems and components.
+	This book serves as a state-of-the-art reference for scientists and
+	engineers working in these applications areas.},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/bok%3A978-0-387-77845-7.pdf:PDF},
+  url = {http://link.springer.com/978-0-387-77845-7}
+}
+
 @comment{jabref-meta: selector_publisher:}
 
-@comment{jabref-meta: selector_author:}
+@comment{jabref-meta: selector_author:Toomey, Corey Thomas;}
 
 @comment{jabref-meta: selector_journal:}
 
-@comment{jabref-meta: selector_keywords:}
+@comment{jabref-meta: selector_keywords:Architectural Vulnerability Fa
+ctor;Fault injection;Microeletronica;Microprocessors;Register Transfer
+ Level;Single Event;Soft Errors;Software-based fault tolerant techniqu
+es;Statistical Fault Injection;Tolerancia : Falhas;Verilog Procedural 
+Interface;}
 
 @comment{jabref-meta: groupsversion:3;}
 
@@ -601,7 +2621,7 @@
 1 ExplicitGroup:content spam\;0\;;
 1 ExplicitGroup:competiror click fraud\;0\;;
 1 KeywordGroup:Norman\;0\;owner\;Norman\;1\;0\;;
-1 ExplicitGroup:ourpublications\;0\;Beel10\;Beel2010\;;
-1 ExplicitGroup:test\;0\;Beel2010\;;
+1 ExplicitGroup:ourpublications\;0\;;
+1 ExplicitGroup:test\;0\;;
 }
 
