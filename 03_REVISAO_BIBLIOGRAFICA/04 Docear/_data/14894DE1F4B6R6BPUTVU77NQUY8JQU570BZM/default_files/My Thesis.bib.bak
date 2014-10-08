@@ -106,6 +106,7 @@
   year = {2007},
   editor = {VELAZCO, RAOUL and FOUILLAT, PASCAL and REIS, RICARDO},
   pages = {69-88},
+  __markedentry = {[thiago:3]},
   doi = {10.1007/978-1-4020-5646-8_4},
   isbn = {978-1-4020-5645-1},
   language = {English},
@@ -450,6 +451,7 @@
 	product reliability. Memory and logic scaling trends are discussed
 	along with a method for determining logic SER.},
   doi = {10.1109/IEDM.2002.1175845},
+  file = {:../../../../02_PDFs/Referencias5/01175845.pdf:PDF},
   keywords = {CMOS logic circuits;CMOS memory circuits;DRAM chips;SRAM chips;alpha-particle
 	effects;error correction;integrated circuit reliability;integrated
 	circuit testing;neutron effects;sequential circuits;space vehicle
@@ -587,7 +589,7 @@
 	safety}
 }
 
-@ARTICLE{raey,
+@ARTICLE{Bolchini2008,
   author = {Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and
 	Sciuto, D. and Sterpone, L. and Violante, M.},
   title = {Software and Hardware Techniques for SEU Detection in IP Processors},
@@ -870,6 +872,7 @@
 	the tradeoffs involved in designing the architecture, the design
 	for performance issues, and the possibilities for future development},
   doi = {10.1109/CICC.1993.590366},
+  file = {:../../../../02_PDFs/Referencias5/00590366.pdf:PDF},
   keywords = {field programmable gate arrays;8 bit;ASIC;FPGA implementation;XILINX;architecture;complete
 	instruction set;design for performance;hardware interrupts;memory-based
 	FPGA;reconfigurable microprocessor;software interrupts;Circuits;Computer
@@ -1817,6 +1820,7 @@
 	one clock cycle. Few effective data errors, between 22% and 50%,
 	were detected.<>},
   doi = {10.1109/FTCS.1992.243569},
+  file = {:../../../../02_PDFs/Referencias5/00243569.pdf:PDF},
   keywords = {CMOS integrated circuits;fault location;fault tolerant computing;reduced
 	instruction set computing;specification languages;1.2 micron;32 bit;32-bit
 	RISC;CMOS technology;VHDL;application programs;built-in watchdog;embedded
@@ -2182,6 +2186,7 @@
 	results are reported on both standard benchmarks and real-life circuits
 	assessing the effectiveness of the proposed techniques. },
   doi = {http://dx.doi.org/10.1016/j.sysarc.2003.08.008},
+  file = {:../../../../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf:PDF},
   issn = {1383-7621},
   url = {http://www.sciencedirect.com/science/article/pii/S1383762103001449}
 }
@@ -2963,6 +2968,7 @@
 	selected ISCAS and OpenCore benchmarks, as well as for an industrial
 	circuit.},
   doi = {10.1109/TEST.2009.5355715},
+  file = {:../../../../02_PDFs/Referencias5/05355715.pdf:PDF},
   keywords = {application specific integrated circuits;fault diagnosis;integrated
 	circuit reliability;integrated circuit testing;modelling;optimisation;simulation;ASIC;diagnosis
 	coverage measurement;hardware architectural solution;hardware fault-insertion

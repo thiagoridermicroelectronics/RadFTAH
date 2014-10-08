@@ -1,7 +1,7 @@
-<map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
+<map version="docear 1.1" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1411833109055" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1412048521966" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16,8 +16,9 @@
     </p>
   </body>
 </html>
+
 </richcontent>
-<hook NAME="MapStyle" zoom="0.494">
+<hook NAME="MapStyle" zoom="0.795">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -67,7 +68,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="1"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="2"/>
 <attribute NAME="mon_incoming_folder" VALUE="@@literature_repository@@"/>
 <attribute NAME="mon_mindmap_folder" VALUE="@@library_mindmaps@@"/>
 <attribute NAME="mon_auto" VALUE="2" OBJECT="java.lang.Integer|2"/>
@@ -75,353 +76,40 @@
 <attribute NAME="mon_flatten_dirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_add_extra_incoming_node" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Incoming" POSITION="right" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1411833109058" MOVED="1377252717488" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="235" VSHIFT="-44">
-<font NAME="Courier New" BOLD="true"/>
-<edge COLOR="#006699"/>
-<node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1411706245314" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D4D852F99AB0D925364677F4A756C5A8FAB3037A8D28642BF5470F141F1E13E">
-    <pdf_title>Radiation Effects in Si-NW GAA FET and CMOS Inverter: A TCAD Simulation Study</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6166873"/>
-<attribute NAME="journal" VALUE="Electron Devices, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Kaushal, G. and Rathod, S.S. and Maheshwaram, S. and Manhas, S. K. and Saxena, A K. and Dasgupta, S."/>
-<attribute NAME="title" VALUE="Radiation Effects in Si-NW GAA FET and CMOS Inverter: A TCAD Simulation Study"/>
-<attribute NAME="year" VALUE="2012"/>
-</node>
-<node TEXT="The Study of the Transient Radiation Effects on Electronic Devices caused by Pulsed High Energy Gama-Ray" FOLDED="true" ID="ID_1402581234" CREATED="1411247614643" MODIFIED="1411706419560" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06393319.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E4F37017881C199A537B67BBDDA677836036D7278486FF19B4F794A4728E9C">
-    <pdf_title>The Study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6393319"/>
-<attribute NAME="authors" VALUE="Seung-Chan Oh and Nam-Ho Lee and Heung-Ho Lee"/>
-<attribute NAME="title" VALUE="The study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray"/>
-<attribute NAME="year" VALUE="2012"/>
-<node TEXT="978-89-93215-04-5 95560/12/$15 &#x24d2;ICROS" ID="ID_1620288450" CREATED="1411247614636" MODIFIED="1411247614637" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06393319.pdf">
-<pdf_annotation type="COMMENT" page="1" object_id="3169292198200091131" object_number="5390" document_hash="E4F37017881C199A537B67BBDDA677836036D7278486FF19B4F794A4728E9C">
-    <pdf_title>The Study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Seung-Chan Oh and Nam-Ho Lee and Heung-Ho Lee"/>
-<attribute NAME="title" VALUE="The study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray"/>
-<attribute NAME="year" VALUE="2012"/>
-</node>
-</node>
-<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_1346855554" CREATED="1411247614659" MODIFIED="1411706461924" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05720529.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="17CA6DE573D6F4EEF27B7D76810A85EEE1417D224FEBB053E59524E5D45EEB">
-    <pdf_title>Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="5720529"/>
-<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Rosa, L. and Kastensmidt, F.L."/>
-<attribute NAME="title" VALUE="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="Improving Error Detection with S elective Redundancy in Software-based Techniques" ID="ID_384380627" CREATED="1411247614698" MODIFIED="1411706487917" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06562659.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="EF9C252EA4816D3ACF3B773190119620F64A2B59BE76FAB47C23C7A169B7FC">
-    <pdf_title>Improving Error Detection with Selective Redundancy in Software-based Techniques</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6562659"/>
-<attribute NAME="authors" VALUE="Chielle, E. and Azambuja, J.R. and Barth, R.S. and Kastensmidt, F.L."/>
-<attribute NAME="title" VALUE="Improving error detection with selective redundancy in software-based techniques"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="Evaluating Selective Redundancy in Data-Flow Software-Based Techniques" ID="ID_162567518" CREATED="1411247614711" MODIFIED="1411706529891" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06560441.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="47631311DE21C49FF9483C5D3465208388655B4CFDB03B4A9F2622D24B0528">
-    <pdf_title>Evaluating Selective Redundancy in Data-Flow Software-Based Techniques</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6560441"/>
-<attribute NAME="authors" VALUE="Chielle, E. and Azambuja, J.R. and Barth, R.S. and Almeida, F. and Kastensmidt, F.L."/>
-<attribute NAME="title" VALUE="Evaluating Selective Redundancy in Data-Flow Software-Based Techniques"/>
-<attribute NAME="year" VALUE="2013"/>
-<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
-</node>
-<node TEXT="AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors" ID="ID_836763964" CREATED="1411247618509" MODIFIED="1411706550668" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/AR-SMT.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3E8C555745A4B79315CE07BFF9FC1D8BA6BE684E40BA3419EBFB3998157AD6">
-    <pdf_title>AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="781037"/>
-<attribute NAME="authors" VALUE="Rotenberg, E."/>
-<attribute NAME="title" VALUE="AR-SMT: a microarchitectural approach to fault tolerance in microprocessors"/>
-<attribute NAME="year" VALUE="1999"/>
-</node>
-<node TEXT="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems" ID="ID_347948509" CREATED="1411247618530" MODIFIED="1411706565727" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05746555.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="424FAF394A9AB9418466BDCFDC250684522B2BBF855E9B09A71FDB518E8B247">
-    <pdf_title>A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="5746555"/>
-<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Cuenca-Asensi, S. and Martinez-Alvarez, A and Restrepo-Calle, F. and Palomo, F.R. and Guzman-Miranda, H. and Aguirre, M.A"/>
-<attribute NAME="title" VALUE="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices" ID="ID_865575048" CREATED="1411247618572" MODIFIED="1411706586700" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06204100.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="40F3BD4CA8D111EFF4AB1117A09042324658F5F35C155EAF4E1AE4551AF14AF4">
-    <pdf_title>Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6204100"/>
-<attribute NAME="journal" VALUE="Plasma Science, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Estep, N.A and Petrosky, J.C. and McClory, J.W. and Kim, Y. and Terzuoli, AJ."/>
-<attribute NAME="title" VALUE="Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices"/>
-<attribute NAME="year" VALUE="2012"/>
-</node>
-<node TEXT="Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices" ID="ID_1948641765" CREATED="1411247618578" MODIFIED="1411706608484" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06522833.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="2EFE6BA933F61650DD8C392DAD8143B6AFB371DC3FCE47529B5238B5F1B5B">
-    <pdf_title>Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6522833"/>
-<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Fleetwood, D.M."/>
-<attribute NAME="title" VALUE="Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="SWIFT: Software Implemented Fault Tolerance" ID="ID_652368858" CREATED="1411247618585" MODIFIED="1411706632753" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01402092.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8147595D213C833218CFECE5CE779C6397293DA426122F2EF673E54BB0D2">
-    <pdf_title>SWIFT: Software Implemented Fault Tolerance</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1402092"/>
-<attribute NAME="authors" VALUE="Reis, G.A and Chang, J. and Vachharajani, N. and Rangan, R. and August, D.I"/>
-<attribute NAME="title" VALUE="SWIFT: software implemented fault tolerance"/>
-<attribute NAME="year" VALUE="2005"/>
-</node>
-<node TEXT="Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA" ID="ID_1248100795" CREATED="1411247618646" MODIFIED="1411706656551" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06353739.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DE7C9C241BD457CFC82765F1AF62AFB313D27BC5D56B2ADF87D75170717BFF">
-    <pdf_title>Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="4077277"/>
-<attribute NAME="authors" VALUE="O&apos;Bryan, M.V. and Poivey, C. and Kniffin, S.D. and Buchner, S.P. and Ladbury, R.L. and Oldham, T.R. and Howard, J.W. and LaBel, K.A and Sanders, AB. and Berg, M. and Marshall, C.J. and Marshall, P.W. and Kim, H.S. and Dung-Phan, AM. and Hawkins, D.K. and Carts, M.A and Forney, J.D. and Irwin, T. and Seidleck, C.M. and Cox, S.R. and Friendlich, M. and Flanigan, R.J. and Petrick, D. and Powell, W. and Karsh, J. and Baze, M.P."/>
-<attribute NAME="title" VALUE="Compendium of Single Event Effects Results for Candidate Spacecraft Electronics for NASA"/>
-<attribute NAME="year" VALUE="2006"/>
-</node>
-<node TEXT="Assessing Software Implemented Fault Detection and Fault Tolerance Mechanisms" ID="ID_1574436401" CREATED="1411247618662" MODIFIED="1411706674008" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01250857.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3EFF7CDA527E4103B5A1842F7ECF281E653F6582AA8819B270BC3A93262979">
-    <pdf_title>Assessing Software Implemented Fault Detection and Fault Tolerance Mechanisms</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1250857"/>
-<attribute NAME="authors" VALUE="Gawkowski, P. and Sosnowski, J."/>
-<attribute NAME="title" VALUE="Assessing software implemented fault detection and fault tolerance mechanisms"/>
-<attribute NAME="year" VALUE="2003"/>
-</node>
-<node TEXT="Designing Masking Fault-Tolerance via Nonmasking Fault-Tolerance" ID="ID_918319161" CREATED="1411247618670" MODIFIED="1411706691589" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00689401.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C219F4B5942887F5E8EF58B852BD34A9A442B6752C1F8B3BE7BBE61C8EF1371">
-    <pdf_title>Designing Masking Fault-Tolerance via Nonmasking Fault-Tolerance</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="689401"/>
-<attribute NAME="journal" VALUE="Software Engineering, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Arora, A and Kulkarni, S.S."/>
-<attribute NAME="title" VALUE="Designing masking fault-tolerance via nonmasking fault-tolerance"/>
-<attribute NAME="year" VALUE="1998"/>
-</node>
-<node TEXT="An Experiment with Adaptive Fault Tolerance in Highly-Constrained Systems" ID="ID_1525179419" CREATED="1411247618702" MODIFIED="1411706746882" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00842342.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4A36585F92C581F88732BD9E8A6237CC22BAC3BA531499D4ED4B7B5BE1B5CE">
-    <pdf_title>An Experiment with Adaptive Fault Tolerance in Highly-Constraint Systems</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="842342"/>
-<attribute NAME="authors" VALUE="Shokri, E. and Beltas, P."/>
-<attribute NAME="title" VALUE="An experiment with adaptive fault tolerance in highly-constrained systems"/>
-<attribute NAME="year" VALUE="1999"/>
-</node>
-<node TEXT="Non-Intrusive Hybrid Signature-Based Technique to Detect SEEs in Microprocessors" ID="ID_795448803" CREATED="1411247618734" MODIFIED="1411706135486" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/azambuja_1.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F335AFB3A22593BDB7C14EC2A3AC946BA7EBF195A75EBD5C2F911CD6FDE9">
-    <pdf_title>Non-Intrusive Hybrid Signature-Based Technique to Detect SEEs in Microprocessors</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Azambuja20112011"/>
-<attribute NAME="authors" VALUE="Azambuja, Jos{\&apos;e} Rodrigo and Altieri, Mauricio and Kastensmidt, Fernanda Lima and H{\&quot;u}bner, Michael and Becker, J{\&quot;u}rgen"/>
-<attribute NAME="title" VALUE="Non-Intrusive Hybrid Signature-Based Technique to Detect SEEs in Microprocessors"/>
-<attribute NAME="journal" VALUE="I Workshop on Dependability Issues in Deep-submicron Technologies (DDT)"/>
-<attribute NAME="year" VALUE="2011&#xa;2011"/>
-</node>
-<node TEXT="An&#xe1;lise de T&#xe9;cnicas de Toler&#xe2;ncia a Falhas Baseadas em Software para a Prote&#xe7;&#xe3;o de Microprocessadores" ID="ID_278016786" CREATED="1411247618744" MODIFIED="1411702405646" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/000826746.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA584EA9D2B745F59431FF745986A71D7CE625BE4FCAB566C487EE154DC630">
-    <pdf_title>Software</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Azambuja2010"/>
-<attribute NAME="authors" VALUE="Azambuja, Jos&#xe9; Rodrigo Furlanetto de "/>
-<attribute NAME="title" VALUE="An&#xe1;lise de t&#xe9;cnicas de toler&#xe2;ncia a falhas baseadas em software para a prote&#xe7;&#xe3;o de microprocessadores"/>
-<attribute NAME="year" VALUE="2010"/>
-</node>
-<node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1411706977632" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5FF56780A5BCACE023A24384365ADABF1FDF4C93E721EC53591F1571F2BE5A">
-    <pdf_title>An 8-Bit MIPS in an FPGA for Educational Purposes</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6128570"/>
-<attribute NAME="authors" VALUE="Ortega-Sanchez, C."/>
-<attribute NAME="title" VALUE="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="A Software-Implemented Fault Injection Methodology for Design and Validation of System Fault Tolerance" ID="ID_404114006" CREATED="1411247618805" MODIFIED="1411707022905" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias3/00941435.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="10EF84E043A5796FCB483B5FF7CE279B7608975955EEA114D82A073A74042DE">
-    <pdf_title>for</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="941435"/>
-<attribute NAME="authors" VALUE="Some, R.R. and Kim, W.S. and Khanoyan, G. and Callum, L. and Agrawal, A and Beahan, J.J."/>
-<attribute NAME="title" VALUE="A software-implemented fault injection methodology for design and validation of system fault tolerance"/>
-<attribute NAME="year" VALUE="2001"/>
-</node>
-<node TEXT="A Survey on Fault Injection Techniques" ID="ID_14728378" CREATED="1411247618811" MODIFIED="1411622814940" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04-Hissam.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE777E67E88F91841A4464E68F81892CCEE0305ADE88CC2D7EE3DC351CC48">
-    <pdf_title>A Survey on Fault Injection Techniques</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Ziade2004"/>
-<attribute NAME="journal" VALUE="Int. Arab J. Inf. Technol."/>
-<attribute NAME="authors" VALUE="Ziade, Haissam and Ayoubi, Rafic A and Velazco, Raoul and others"/>
-<attribute NAME="title" VALUE="A survey on fault injection techniques"/>
-<attribute NAME="year" VALUE="2004"/>
-</node>
-<node TEXT="Design and Evaluation of System-Level Checks for On-Line Control Flow Error Detection" ID="ID_591459584" CREATED="1411247618818" MODIFIED="1411707076889" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00774911.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="60B3C9FE54EA11D86CE2F51D393BA8580BFAC2A445D70A445FBB386B7BD44">
-    <pdf_title>1045-9219/99/$10.00 &#xdf; 1999 IEEE</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="774911"/>
-<attribute NAME="journal" VALUE="Parallel and Distributed Systems, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Alkhalifa, Z. and Nair, V.S.S. and Krishnamurthy, N. and Abraham, J.A"/>
-<attribute NAME="title" VALUE="Design and evaluation of system-level checks for on-line control flow error detection"/>
-<attribute NAME="year" VALUE="1999"/>
-</node>
-<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_1076407100" CREATED="1411247618829" MODIFIED="1411707101087" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00994926.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA4D594D38C7FD3721EE38EDA210BC8D265245B855D8F937D5CBDD8DF22CC3">
-    <pdf_title>Control-Flow Checking by Software Signatures</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="994926"/>
-<attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
-<attribute NAME="title" VALUE="Control-flow checking by software signatures"/>
-<attribute NAME="year" VALUE="2002"/>
-</node>
-<node TEXT="Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors" ID="ID_1355615074" CREATED="1411247618843" MODIFIED="1411707121066" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05985914.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8A863A897D3B768F9852AEAE6AD4C87BA1A2F6EC252144C1068BE521D141F81">
-    <pdf_title>Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="5985914"/>
-<attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Altieri, M. and Kastensmidt, F.L."/>
-<attribute NAME="title" VALUE="Evaluating the efficiency of data-flow software-based techniques to detect SEEs in microprocessors"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware" ID="ID_352644806" CREATED="1411247618850" MODIFIED="1411707155820" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06236246.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="43C7E5F33622657FB22FD1EF41726939F21C040BC55D5B0BEDE7CD6BB802E">
-    <pdf_title>A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6236246"/>
-<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R."/>
-<attribute NAME="title" VALUE="A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware"/>
-<attribute NAME="year" VALUE="2012"/>
-</node>
-<node TEXT="Transient Error Detection in Embedded Systems Using Reconfigurable Components" ID="ID_262750164" CREATED="1411247622113" MODIFIED="1411707262572" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04197508.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A16329FFD21CEE2F3EC97B965EC8BE31695A3648A7131A24D4E9904DAC22A6">
-    <pdf_title>Using</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="4197508"/>
-<attribute NAME="authors" VALUE="Vahdatpour, A and Fazeli, M. and Miremadi, S.G."/>
-<attribute NAME="title" VALUE="Transient Error Detection in Embedded Systems Using Reconfigurable Components"/>
-<attribute NAME="year" VALUE="2006"/>
-</node>
-<node TEXT="Single-event soft errors in CMOS logic" ID="ID_578028470" CREATED="1411247622123" MODIFIED="1411622917972" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
-    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Sayil2012"/>
-<attribute NAME="journal" VALUE="Potentials, IEEE"/>
-<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
-<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
-<attribute NAME="year" VALUE="2012"/>
-</node>
-<node TEXT="Technology Scaling and Soft Error Reliability" ID="ID_347099177" CREATED="1411247622128" MODIFIED="1411707455072" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
-    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6241810"/>
-<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
-<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
-<attribute NAME="year" VALUE="2012"/>
-</node>
-<node TEXT="Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013" ID="ID_123087803" CREATED="1411247622135" MODIFIED="1411707486574" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06482273.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A369AAFC35D92B86E2B555596ABA443526F83AFC955B40BCA4DE412583992E">
-    <pdf_title>Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6482273"/>
-<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Galloway, K.F. and Primich, T."/>
-<attribute NAME="title" VALUE="Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="Single-Event Effects in CMOS Image Sensors" ID="ID_429554744" CREATED="1411247622170" MODIFIED="1411707504504" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06519952.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="18285461374C9FBBAB3CD4AD4279A11E1B47A22C581CEECA8BA72F718C43152">
-    <pdf_title>Single-Event Effects in CMOS Image Sensors</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6519952"/>
-<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Lalucaa, V. and Goiffon, V. and Magnan, P. and Rolland, G. and Petit, S."/>
-<attribute NAME="title" VALUE="Single-Event Effects in CMOS Image Sensors"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_1271063957" CREATED="1411247622189" MODIFIED="1411783335375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06131362.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="458A25552E5BFEBB0EF8999DE056919B317C612CE62983B5387A2FDBAEE086">
-    <pdf_title>Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6131362"/>
-<attribute NAME="authors" VALUE="Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R."/>
-<attribute NAME="title" VALUE="Non-intrusive reconfigurable HW/SW fault tolerance approach to detect transient faults in microprocessor systems"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="A Prototype of a VHDL-based Fault Injection Tool" ID="ID_603625913" CREATED="1411538427043" MODIFIED="1411538587316" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/00887180.pdf" MOVED="1411538444370">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A944C981B5489B57C2D5A658031F83F5BF8E569A4ECCE06DC284C172B63">
-    <pdf_title>A Tool</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="887180"/>
-<attribute NAME="authors" VALUE="Baraza, J.-C. and Gracia, J. and Gil, D. and Gil, P."/>
-<attribute NAME="title" VALUE="A prototype of a VHDL-based fault injection tool"/>
-<attribute NAME="year" VALUE="2000"/>
-</node>
-<node TEXT="Effectiveness And Limitations Of Various Software Techniques For &quot;soft Error&quot; Detection: A Comparative Study" ID="ID_975296772" CREATED="1411538599856" MODIFIED="1411538806368" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/00937838.pdf" MOVED="1411538638200">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F695CF81FFCA501D92EEF01DDBD5F7A36452C774D962FF6AB48A0A6CD57AB">
-    <pdf_title>of</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="937838"/>
-<attribute NAME="authors" VALUE="Nicolescu, B. and Velazco, R. and Reorda, M.S."/>
-<attribute NAME="title" VALUE="Effectiveness and limitations of various software techniques for &quot;soft error&quot; detection: a comparative study"/>
-<attribute NAME="year" VALUE="2001"/>
-</node>
-<node TEXT="Analysis Of SEU Effects In A Pipelined Processor" ID="ID_10454439" CREATED="1411538861208" MODIFIED="1411538985950" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01030193.pdf" MOVED="1411538880043">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="0B12550C88151CB3BEE0CB2369EAFE7A6B92DA7ACDCBE1808D67D02975BA53">
-    <pdf_title>Analysis of SEU effects in a pipelined processor</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1030193"/>
-<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.S. and Violante, M."/>
-<attribute NAME="title" VALUE="Analysis of SEU effects in a pipelined processor"/>
-<attribute NAME="year" VALUE="2002"/>
-</node>
-<node TEXT="Coping With SEUs/SETs In Microprocessors By Means Of Low-cost Solutions: A Comparison Study" ID="ID_1932792216" CREATED="1411539078080" MODIFIED="1411539193463" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01039689.pdf" MOVED="1411539085113">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C8925053177B2937F43893C17783318A640C37C894162BD34EA33734661AAC2">
-    <pdf_title>Coping With SEUs/SETs in Microprocessors by Means of Low-Cost Solutions: A Comparison Study</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1159312"/>
-<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.S. and Violante, M. and Nicolescu, B. and Velano, R."/>
-<attribute NAME="title" VALUE="Coping with SEUs/SETs in microprocessors by means of low-cost solutions: a comparison study"/>
-<attribute NAME="year" VALUE="2001"/>
-</node>
-<node TEXT="A Foundation for Adaptive Fault Tolerance in Software" ID="ID_187448554" CREATED="1411247622196" MODIFIED="1411707643628" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01194806.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C2BF5025B536A393C5577B7C34CACE1E6E9F436CE5FEE7CDF3AAB5BC463B7">
-    <pdf_title>A Foundation for Adaptive Fault Tolerance in Software</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1194806"/>
-<attribute NAME="authors" VALUE="Whisnant, K. and Kalbarczyk, Z. and Iyer, R.K."/>
-<attribute NAME="title" VALUE="A foundation for adaptive fault tolerance in software"/>
-<attribute NAME="year" VALUE="2003"/>
-</node>
-<node TEXT="Learning From Advanced Hardware Verification for Hardware Dependent Software" ID="ID_1653689851" CREATED="1411539417630" MODIFIED="1411708263634" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/DVCon_2014_Imperas_Paper_Learning_From_Advanced_Hardware_Verification_for_Hardware_Dependent_Software.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="ED267DF7E81AC9AB7A852AFA4E44346C6275B22A497144B76EF72C1B49AEDA0">
-    <pdf_title>Learning From Advanced Hardware Verification for Hardware Dependent Software</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="SimondDavidmann2014"/>
-<attribute NAME="authors" VALUE="Simond Davidmann,&#xa;Duncan Graham"/>
-<attribute NAME="title" VALUE="Learning From Advanced Hardware Verification for Hardware Dependent Software"/>
-<attribute NAME="year" VALUE="2014"/>
-</node>
-<node TEXT="Radiation Effects on Embedded Systems" ID="ID_1149820032" CREATED="1411539417733" MODIFIED="1411609865160" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4020-5646-8.pdf">
+<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1412048479480" DCR_PRIVACY_LEVEL="DEMO">
+<edge COLOR="#007c7c"/>
+<node TEXT="Verification Methodology Manual for SystemVerilog" ID="ID_1296405716" CREATED="1411539431435" MODIFIED="1411778002623" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-25556-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
-<attribute NAME="key" VALUE="Velazco2007"/>
-<attribute NAME="authors" VALUE="Velazco, Raoul and Fouillat, Pascal and da Luz Reis, Ricardo Augusto"/>
-<attribute NAME="title" VALUE="Radiation effects on embedded systems"/>
-<attribute NAME="year" VALUE="2007"/>
+<attribute NAME="key" VALUE="Bergeron2006a"/>
+<attribute NAME="authors" VALUE="Bergeron, Janick and Cerny, Eduard and Hunter, Alan and Nightingale, Andy"/>
+<attribute NAME="title" VALUE="Verification methodology manual for SystemVerilog"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="Writing Testbenches using SystemVerilog" ID="ID_1636028183" CREATED="1411539430620" MODIFIED="1411776750063" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-31275-0.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="64DF63DDE24975E11A9534E8DAC791DFE23AE5C4D24A0C01C5DD25D9D2E78CF">
+    <pdf_title>Almost a hundred years later, after two collapses, the Quebec Bridge is still the longest cantilever bridge in the world. The cantilever technology has been replaced by the better, faster, cheaper suspension technology. SystemVerilog can similarly replace HDLs for better, faster, cheaper verification.</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bergeron2006"/>
+<attribute NAME="authors" VALUE="Bergeron, Janick"/>
+<attribute NAME="title" VALUE="Writing testbenches using system Verilog"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="CONSTRAINT-BASED VERIFICATION" ID="ID_1867973933" CREATED="1411539430632" MODIFIED="1411777280778" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-30784-8.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0"/>
+<attribute NAME="key" VALUE="Yuan2006"/>
+<attribute NAME="authors" VALUE="Yuan, Jun and Pixley, Carl and Aziz, Adnan"/>
+<attribute NAME="title" VALUE="Constraint-based verification"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="Functional verification of I2C core using SystemVerilog" ID="ID_883802629" CREATED="1411539430012" MODIFIED="1411610111837" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/104552-282349-1-PB.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C6A9E063413F62EE83CC31D61E5322309496B8E1917A9ACA78D85816A656C51">
+    <pdf_title>Functional verification of I2C core using SystemVerilog</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Nangia2014"/>
+<attribute NAME="journal" VALUE="International Journal of Engineering, Science and Technology"/>
+<attribute NAME="authors" VALUE="Nangia, Rakhi and Shukla, Neeraj Kr"/>
+<attribute NAME="title" VALUE="Functional verification of I2C core using SystemVerilog"/>
+<attribute NAME="year" VALUE="2014"/>
 </node>
 <node TEXT="Open Verification Methodology Cookbook" ID="ID_1338387301" CREATED="1411539417750" MODIFIED="1411609893220" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
@@ -1449,23 +1137,23 @@
 </node>
 </node>
 </node>
-<node TEXT="Electronics System Design Techniques for Safety Critical Applications" ID="ID_1682169673" CREATED="1411539420342" MODIFIED="1411609919431" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4020-8979-4.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="9B671AE6AAD67EBB9C64457625B74958F840D08384CF7BEA6EB1B748784154">
-    <pdf_title>Electronics System Design Techniques for Safety Critical Applications</pdf_title>
+<node TEXT="Testbench Components Verification Using Fault Injection Techniques" ID="ID_1526681197" CREATED="1411539430626" MODIFIED="1411776967308" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/05510515.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C7125C0EA367CFE412CB9C0FE538EC04233D0759A6556031A86F249CA9E68">
+    <pdf_title>Testbench Components Verification Using Fault Injection Techniques</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Sterpone2008"/>
-<attribute NAME="authors" VALUE="Sterpone, Luca"/>
-<attribute NAME="title" VALUE="Electronics system design techniques for safety critical applications"/>
-<attribute NAME="year" VALUE="2008"/>
+<attribute NAME="key" VALUE="5510515"/>
+<attribute NAME="authors" VALUE="Banciu, N. A and Toacse, G."/>
+<attribute NAME="title" VALUE="Testbench components verification using fault injection techniques"/>
+<attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Online hardening of programs against SEUs and SETs" ID="ID_1675312566" CREATED="1411539420348" MODIFIED="1411708695931" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04030939.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="624DECE5868A49CD4E676E589DA9B913BB49749DC4BACCB69A6FF93CA1DE115">
-    <pdf_title>Online hardening of programs against SEUs and SETs</pdf_title>
+<node TEXT="STATISTICAL FAULT INJECTION AND ANALYSIS AT THE REGISTER TRANSFER LEVEL USING THE VERILOG PROCEDURAL INTERFACE" ID="ID_1442497964" CREATED="1411539430019" MODIFIED="1411776122414" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/ToomeyCT_Thesis_Final.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="76AE476322DF8FC739FD4FD341643FF7FEBF8BBDBAF08A55F53D646D9437B5">
+    <pdf_title>STATISTICAL FAULT INJECTION AND ANALYSIS AT THE REGISTER</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4030939"/>
-<attribute NAME="authors" VALUE="Lisboa, C. A L and Carro, L. and Reorda, M.S. and Violante, M."/>
-<attribute NAME="title" VALUE="Online hardening of programs against SEUs and SETs"/>
-<attribute NAME="year" VALUE="2006"/>
+<attribute NAME="key" VALUE="Toomey2010"/>
+<attribute NAME="authors" VALUE="Toomey, Corey Thomas"/>
+<attribute NAME="title" VALUE="Statistical fault injection and analysis at the register transfer level using the Verilog procedural interface"/>
+<attribute NAME="year" VALUE="2010"/>
 </node>
 <node TEXT="Digital System Test and Testable Design" ID="ID_1462454356" CREATED="1411539420365" MODIFIED="1411609958721" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
@@ -5525,13 +5213,6 @@
 </node>
 </node>
 </node>
-<node TEXT="SOFTWARE-IMPLEMENTED HARDWARE FAULT TOLERANCE" ID="ID_1229663338" CREATED="1411539429759" MODIFIED="1411709055417" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-32937-6.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0"/>
-<attribute NAME="key" VALUE="Goloubeva2006"/>
-<attribute NAME="authors" VALUE="Goloubeva, Olga and Rebaudengo, Maurizio and Reorda, Matteo Sonza and Violante, Massimo"/>
-<attribute NAME="title" VALUE="Software-implemented hardware fault tolerance"/>
-<attribute NAME="year" VALUE="2006"/>
-</node>
 <node TEXT="SystemVerilog for Verifi cation: A Guide to Learning the Testbench Language Features" FOLDED="true" ID="ID_446203613" CREATED="1411539429765" MODIFIED="1411709160736" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4614-0715-7.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 <attribute NAME="key" VALUE="Spears2007"/>
@@ -5665,1372 +5346,30 @@
 <attribute NAME="year" VALUE="2007"/>
 </node>
 </node>
-<node TEXT="Combined software and hardware techniques for the design of reliable IP processors" ID="ID_1726711939" CREATED="1411539429979" MODIFIED="1411709190635" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04030937.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4F5C8B37547F6DA9EAE2A51CEC8AE34B2ADB5EA41235B74369B0C078992FB">
-    <pdf_title>Combined software and hardware techniques for the design of reliable IP processors</pdf_title>
+<node TEXT="A Software-Implemented Fault Injection Methodology for Design and Validation of System Fault Tolerance" ID="ID_404114006" CREATED="1411247618805" MODIFIED="1411707022905" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias3/00941435.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="10EF84E043A5796FCB483B5FF7CE279B7608975955EEA114D82A073A74042DE">
+    <pdf_title>for</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4030937"/>
-<attribute NAME="authors" VALUE="Rebaudengo, M. and Sterpone, L. and Violante, M. and Bolchini, C. and Miele, A and Sciuto, D."/>
-<attribute NAME="title" VALUE="Combined software and hardware techniques for the design of reliable IP processors"/>
-<attribute NAME="year" VALUE="2006"/>
+<attribute NAME="key" VALUE="941435"/>
+<attribute NAME="authors" VALUE="Some, R.R. and Kim, W.S. and Khanoyan, G. and Callum, L. and Agrawal, A and Beahan, J.J."/>
+<attribute NAME="title" VALUE="A software-implemented fault injection methodology for design and validation of system fault tolerance"/>
+<attribute NAME="year" VALUE="2001"/>
 </node>
-<node TEXT="High Speed Fault Injection Tool Implemented With Verilog HDL on FPGA for Testing Fault Tolerance Designs" ID="ID_1279092183" CREATED="1411539429989" MODIFIED="1411610056945" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/Q369699-libre.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1D93784065D93E4A61DDB8D5CFACADD83F51CE6C37DE892D76A6BBBA24">
-    <pdf_title>High Speed Fault Injection Tool Implemented With Verilog HDL on FPGA for Testing Fault Tolerance Designs</pdf_title>
-</pdf_annotation>
-</node>
-<node TEXT="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues" ID="ID_1111008332" CREATED="1411539429997" MODIFIED="1411709433801" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
-    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
-<attribute NAME="journal" VALUE="MRS Bulletin"/>
-<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
-<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
-<attribute NAME="year" VALUE="2003"/>
-</node>
-<node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1469915905" CREATED="1411539430005" MODIFIED="1411709456479" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01319663.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E668D0EFFDC85F14458CACAC84F0BC471EBC34AD395A35259AFF3E68366862">
-    <pdf_title>Hybrid Soft Error Detection by means of Infrastructure IP cores</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1319663"/>
-<attribute NAME="authors" VALUE="Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
-<attribute NAME="title" VALUE="Hybrid soft error detection by means of infrastructure IP cores [SoC implementation]"/>
-<attribute NAME="year" VALUE="2004"/>
-</node>
-<node TEXT="Functional verification of I2C core using SystemVerilog" ID="ID_883802629" CREATED="1411539430012" MODIFIED="1411610111837" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/104552-282349-1-PB.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C6A9E063413F62EE83CC31D61E5322309496B8E1917A9ACA78D85816A656C51">
-    <pdf_title>Functional verification of I2C core using SystemVerilog</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Nangia2014"/>
-<attribute NAME="journal" VALUE="International Journal of Engineering, Science and Technology"/>
-<attribute NAME="authors" VALUE="Nangia, Rakhi and Shukla, Neeraj Kr"/>
-<attribute NAME="title" VALUE="Functional verification of I2C core using SystemVerilog"/>
-<attribute NAME="year" VALUE="2014"/>
-</node>
-<node TEXT="STATISTICAL FAULT INJECTION AND ANALYSIS AT THE REGISTER TRANSFER LEVEL USING THE VERILOG PROCEDURAL INTERFACE" ID="ID_1442497964" CREATED="1411539430019" MODIFIED="1411776122414" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/ToomeyCT_Thesis_Final.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="76AE476322DF8FC739FD4FD341643FF7FEBF8BBDBAF08A55F53D646D9437B5">
-    <pdf_title>STATISTICAL FAULT INJECTION AND ANALYSIS AT THE REGISTER</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Toomey2010"/>
-<attribute NAME="authors" VALUE="Toomey, Corey Thomas"/>
-<attribute NAME="title" VALUE="Statistical fault injection and analysis at the register transfer level using the Verilog procedural interface"/>
-<attribute NAME="year" VALUE="2010"/>
-</node>
-<node TEXT="A New Hybrid Fault Detection Technique&#xa;for Systems-on-a-Chip" ID="ID_217945067" CREATED="1411539430027" MODIFIED="1411776208772" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01566579.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1A70A5D5EAAAF379FB56FE7432A683B755498C8C867B2BF89EDA6D55D3CEDB">
-    <pdf_title>A New Hybrid Fault Detection Technique for Systems-on-a-Chip</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1566579"/>
-<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani, L.M.V. and Rebaudengo, M. and Reorda, M.S. and Rodri&#x301;guez-Andina, J.J. and Violante, M."/>
-<attribute NAME="title" VALUE="A new hybrid fault detection technique for systems-on-a-chip"/>
-<attribute NAME="year" VALUE="2006"/>
-</node>
-<node TEXT="On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core" ID="ID_1566727605" CREATED="1411539430035" MODIFIED="1411776259123" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01467779.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B8AED7A81D228BBC8E0B0E6891E360DE5F8D5F9D287A953422B3A0EA9E584">
-    <pdf_title>On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1467779"/>
-<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
-<attribute NAME="title" VALUE="On-line detection of control-flow errors in SoCs by means of an infrastructure IP core"/>
-<attribute NAME="year" VALUE="2005"/>
-</node>
-<node TEXT="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor" ID="ID_1961672831" CREATED="1411539430056" MODIFIED="1411776294998" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1023%252FA%253A1025130131636.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E2ED74595EF085E2E8CBC753AFD35BB6DAA984EA882723479AAA86E7B4E2C923">
-    <pdf_title>Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Rebaudengo2003"/>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.Sonza and Violante, M."/>
-<attribute NAME="title" VALUE="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor"/>
-<attribute NAME="year" VALUE="2003"/>
-</node>
-<node TEXT="Fault tolerant system design and SEU injection based testing" ID="ID_143909533" CREATED="1411539430068" MODIFIED="1411776347900" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Straka2013155"/>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-<node TEXT="Fault tolerant system design and SEU injection based testing" FOLDED="true" ID="ID_1369877333" CREATED="1411539430065" MODIFIED="1411539430065" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="422231591419846001" object_number="552" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Straka2013155"/>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-<node TEXT="1 Introduction" ID="ID_647856713" CREATED="1411539430465" MODIFIED="1411539430465" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="6881972343143052388" object_number="553" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-<node TEXT="1.1 On-line testing and fault tolerance of systems" ID="ID_89757678" CREATED="1411539430569" MODIFIED="1411539430569" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="3982118940914954054" object_number="587" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="1.2 Field Programmable Gate Arrays" ID="ID_1046433578" CREATED="1411539430553" MODIFIED="1411539430553" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="1268334707415058176" object_number="594" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="1.3 Granularity of system replication in FPGA" ID="ID_1674294692" CREATED="1411539430540" MODIFIED="1411539430540" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="2" object_id="207030701242867231" object_number="593" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="1.4 FT methodologies for FPGA-based designs" ID="ID_368141246" CREATED="1411539430525" MODIFIED="1411539430525" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="2" object_id="2074404814804871734" object_number="592" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="1.5 Principles of partial dynamic reconfiguration in FPGA" ID="ID_1993490107" CREATED="1411539430513" MODIFIED="1411539430513" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="4" object_id="3506216482639233071" object_number="591" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="1.6 Partially Reconfigurable Modules" ID="ID_728849892" CREATED="1411539430498" MODIFIED="1411539430498" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="4" object_id="3366148651374948901" object_number="590" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="1.7 Reconfigurable interfaces" ID="ID_1634841793" CREATED="1411539430479" MODIFIED="1411539430480" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="4" object_id="1094457645716621320" object_number="589" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="1.8 FPGA bitstream readback vs. bitstream scrubbing" ID="ID_1529901461" CREATED="1411539430463" MODIFIED="1411539430463" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="4" object_id="4248312557302695931" object_number="588" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-</node>
-<node TEXT="2 Motivation for the research and problem definition" ID="ID_16371157" CREATED="1411539430450" MODIFIED="1411539430450" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="5" object_id="224599960714946530" object_number="572" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="3 Detection of errors in FPGA-based designs" ID="ID_1217169040" CREATED="1411539430441" MODIFIED="1411539430441" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="6" object_id="2604070674332927824" object_number="571" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="4 Highly dependable systems design into FPGA based on partial dynamic reconfiguration" ID="ID_1990764067" CREATED="1411539430409" MODIFIED="1411539430409" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="7" object_id="8152968833358290828" object_number="568" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-<node TEXT="4.1 Detection of faulty modules in FT architectures" ID="ID_1907331981" CREATED="1411539430422" MODIFIED="1411539430422" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="7" object_id="4431313094590322464" object_number="569" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="4.2 Main structure of FT design based on PRMs" ID="ID_817527336" CREATED="1411539430407" MODIFIED="1411539430407" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="7" object_id="3667610765969981164" object_number="570" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-</node>
-<node TEXT="5 Error correction and recovery of faulty modules" ID="ID_1479227891" CREATED="1411539430359" MODIFIED="1411539430359" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="8" object_id="968811449485383779" object_number="565" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-<node TEXT="5.1 Partial reconfiguration controller" ID="ID_1079272494" CREATED="1411539430397" MODIFIED="1411539430397" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="8" object_id="3661685660137899828" object_number="566" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="5.2 Architecture and features of GPDRC" ID="ID_810281162" CREATED="1411539430386" MODIFIED="1411539430387" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="10" object_id="2805597214086833227" object_number="574" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="5.3 GPDRC implemented as TMR architecture with PDR" ID="ID_309638975" CREATED="1411539430372" MODIFIED="1411539430372" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="10" object_id="3497533573898794148" object_number="573" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="5.4 Synchronization problem and safety window" ID="ID_1219156540" CREATED="1411539430358" MODIFIED="1411539430358" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="10" object_id="4229454433711043609" object_number="567" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-</node>
-<node TEXT="6 SEU simulation framework for testing fault tolerant systems based on FPGA" ID="ID_1774937775" CREATED="1411539430276" MODIFIED="1411539430276" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="11" object_id="3995713560517384949" object_number="562" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-<node TEXT="6.1 SEU simulation techniques" ID="ID_935226563" CREATED="1411539430343" MODIFIED="1411539430343" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="11" object_id="5246308184189775005" object_number="563" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="6.2 Requirements on testing platform and SEU generator" ID="ID_1249606053" CREATED="1411539430327" MODIFIED="1411539430327" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="11" object_id="1672465152986488425" object_number="578" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="6.3 Xilinx&#x2019;s solution" ID="ID_188463194" CREATED="1411539430314" MODIFIED="1411539430314" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="11" object_id="9134072049644693320" object_number="577" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="6.4 Proposed solution: external SEU generator" ID="ID_1973826111" CREATED="1411539430301" MODIFIED="1411539430302" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="12" object_id="6862259303046247277" object_number="576" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="6.5 SEU generator implementation" ID="ID_1633074961" CREATED="1411539430290" MODIFIED="1411539430290" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="12" object_id="1163517439280853743" object_number="575" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="6.6 SEU simulation framework" ID="ID_645087975" CREATED="1411539430272" MODIFIED="1411539430272" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="13" object_id="6456892155083255527" object_number="564" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-</node>
-<node TEXT="7 Experimental results" ID="ID_1439828062" CREATED="1411539430131" MODIFIED="1411539430131" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="13" object_id="8985962939412129311" object_number="559" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-<node TEXT="7.1 Digital circuit for testing purposes" ID="ID_1856124800" CREATED="1411539430261" MODIFIED="1411539430261" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="13" object_id="8685035984533098786" object_number="560" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="7.2 Properties and experiments with FT architectures" ID="ID_876388155" CREATED="1411539430246" MODIFIED="1411539430247" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="13" object_id="2566705270982835479" object_number="583" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="7.3 Experiments with GPDRC and MicroBlaze" ID="ID_1721254932" CREATED="1411539430230" MODIFIED="1411539430231" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="14" object_id="4510232496331052371" object_number="582" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="7.4 Experiments with SEU simulation framework and FT architectures" ID="ID_1988252838" CREATED="1411539430147" MODIFIED="1411539430147" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="15" object_id="7054613299908779366" object_number="579" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-<node TEXT="7.4.1 Parameters of tested FT architectures" ID="ID_857400286" CREATED="1411539430215" MODIFIED="1411539430215" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="15" object_id="1367186759329722312" object_number="580" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="7.4.2 SEU simulation framework settings" ID="ID_1372994268" CREATED="1411539430199" MODIFIED="1411539430199" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="15" object_id="5945152589403978018" object_number="586" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="7.4.3 The first experiment &#x2013; how many SEUs will affect the correct function of the architecture" ID="ID_1245667740" CREATED="1411539430183" MODIFIED="1411539430183" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="15" object_id="1584981451134829740" object_number="585" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="7.4.4 The second experiment &#x2013; how many SEUs destroy the correct function of the architecture" ID="ID_541405464" CREATED="1411539430168" MODIFIED="1411539430168" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="15" object_id="2785910351341562818" object_number="584" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="7.4.5 The third experiment &#x2013; experiments with sequential component" ID="ID_348976243" CREATED="1411539430144" MODIFIED="1411539430144" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="16" object_id="2435671788619399545" object_number="581" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-</node>
-<node TEXT="7.5 Evaluation of correct working of FT structure" ID="ID_1735436283" CREATED="1411539430127" MODIFIED="1411539430127" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="17" object_id="2441566141648325273" object_number="561" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-</node>
-<node TEXT="8 The comparison of presented methodology with other techniques" ID="ID_1569990388" CREATED="1411539430111" MODIFIED="1411539430111" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="17" object_id="6418501525434393338" object_number="558" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="9 Conclusions and suggestions for future research" ID="ID_1994099911" CREATED="1411539430095" MODIFIED="1411539430095" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="17" object_id="9171785327800419055" object_number="556" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-<node TEXT="9.1 Future research" ID="ID_1171948181" CREATED="1411539430092" MODIFIED="1411539430092" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="18" object_id="4036357896414876156" object_number="557" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-</node>
-<node TEXT="Acknowledgements" ID="ID_547707505" CREATED="1411539430080" MODIFIED="1411539430080" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="18" object_id="3999136010774003646" object_number="555" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="References" ID="ID_1903866217" CREATED="1411539430062" MODIFIED="1411539430063" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
-<pdf_annotation type="BOOKMARK" page="18" object_id="8736435020772909201" object_number="554" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
-    <pdf_title>Microprocessors and Microsystems</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
-<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
-<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-</node>
-</node>
-<node TEXT="A New Approach to Software-Implemented Fault Tolerance" ID="ID_957692149" CREATED="1411539430599" MODIFIED="1411776396275" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1023%252FB%253AJETT.0000039610.30724.b2.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CD59C517A8D968B180E7BC7EAE9871C42E79E17FFE3D0E22BC6E38074A18CE">
-    <pdf_title>A New Approach to Software-Implemented Fault Tolerance</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Rebaudengo2004"/>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.Sonza and Violante, M."/>
-<attribute NAME="title" VALUE="A New Approach to Software-Implemented Fault Tolerance"/>
-<attribute NAME="year" VALUE="2004"/>
-</node>
-<node TEXT="A New Mitigation Approach for Soft Errors in Embedded Processors" ID="ID_27158660" CREATED="1411539430606" MODIFIED="1411776424628" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04636948.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FF49748F533AA0846ED05975387B3961CFF9D4021473A699C86557A65336CA3">
-    <pdf_title>A New Mitigation Approach for Soft Errors in Embedded Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="4636948"/>
-<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Abate, F. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="A New Mitigation Approach for Soft Errors in Embedded Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-<node TEXT="Simulator Independent Fault Simulation using WAVES" ID="ID_80508796" CREATED="1411539430613" MODIFIED="1411776491724" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/DELONG96A.PDF">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="83427726B2FA205ED3195836611B732622303F677054D07B90F16E8650A8D0D9">
-    <pdf_title>vfp9244.PDF</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="DeLong1996"/>
-<attribute NAME="authors" VALUE="DeLong, Todd A and Smith, D Todd and Johnson, Barry W and Hanna, James P"/>
-<attribute NAME="title" VALUE="Simulator Independent Fault Simulation Using WAVES"/>
-<attribute NAME="year" VALUE="1996"/>
-</node>
-<node TEXT="Writing Testbenches using SystemVerilog" ID="ID_1636028183" CREATED="1411539430620" MODIFIED="1411776750063" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-31275-0.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="64DF63DDE24975E11A9534E8DAC791DFE23AE5C4D24A0C01C5DD25D9D2E78CF">
-    <pdf_title>Almost a hundred years later, after two collapses, the Quebec Bridge is still the longest cantilever bridge in the world. The cantilever technology has been replaced by the better, faster, cheaper suspension technology. SystemVerilog can similarly replace HDLs for better, faster, cheaper verification.</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Bergeron2006"/>
-<attribute NAME="authors" VALUE="Bergeron, Janick"/>
-<attribute NAME="title" VALUE="Writing testbenches using system Verilog"/>
-<attribute NAME="year" VALUE="2006"/>
-</node>
-<node TEXT="Testbench Components Verification Using Fault Injection Techniques" ID="ID_1526681197" CREATED="1411539430626" MODIFIED="1411776967308" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/05510515.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C7125C0EA367CFE412CB9C0FE538EC04233D0759A6556031A86F249CA9E68">
-    <pdf_title>Testbench Components Verification Using Fault Injection Techniques</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="5510515"/>
-<attribute NAME="authors" VALUE="Banciu, N. A and Toacse, G."/>
-<attribute NAME="title" VALUE="Testbench components verification using fault injection techniques"/>
-<attribute NAME="year" VALUE="2010"/>
-</node>
-<node TEXT="CONSTRAINT-BASED VERIFICATION" ID="ID_1867973933" CREATED="1411539430632" MODIFIED="1411777280778" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-30784-8.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0"/>
-<attribute NAME="key" VALUE="Yuan2006"/>
-<attribute NAME="authors" VALUE="Yuan, Jun and Pixley, Carl and Aziz, Adnan"/>
-<attribute NAME="title" VALUE="Constraint-based verification"/>
-<attribute NAME="year" VALUE="2006"/>
-</node>
-<node TEXT="THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS RELIABILITY" FOLDED="true" ID="ID_1065110152" CREATED="1411539430641" MODIFIED="1411610359767" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Sierawski"/>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT="DEDICATION" ID="ID_548237897" CREATED="1411539431419" MODIFIED="1411539431419" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="3" object_id="1986454600388620550" object_number="7" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="ACKNOWLEDGEMENTS" ID="ID_1560809412" CREATED="1411539431410" MODIFIED="1411539431410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="4" object_id="725433042852303360" object_number="11" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="TABLE OF CONTENTS" ID="ID_36163837" CREATED="1411539431400" MODIFIED="1411539431400" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="5" object_id="8639638169784856269" object_number="15" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="LIST OF TABLES" ID="ID_806793567" CREATED="1411539431391" MODIFIED="1411539431391" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="8" object_id="8275505594006140748" object_number="19" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="LIST OF FIGURES" ID="ID_1762462215" CREATED="1411539431380" MODIFIED="1411539431381" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="9" object_id="3094408252241416631" object_number="23" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="I.  Introduction" ID="ID_951652527" CREATED="1411539431276" MODIFIED="1411539431276" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="13" object_id="5035175155978832479" object_number="27" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" High-Reliability Applications" ID="ID_60359850" CREATED="1411539431368" MODIFIED="1411539431368" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="14" object_id="7462611339188845373" object_number="31" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Quantitative Assessment of Reliability" ID="ID_1370225415" CREATED="1411539431354" MODIFIED="1411539431354" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="16" object_id="5825854461227274707" object_number="35" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Requirements on Reliability" ID="ID_678335889" CREATED="1411539431342" MODIFIED="1411539431342" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="17" object_id="6305668395750336397" object_number="39" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" SEU Mechanisms" ID="ID_1297850538" CREATED="1411539431332" MODIFIED="1411539431333" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="18" object_id="4260647317643884382" object_number="43" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Mitigation" ID="ID_553781714" CREATED="1411539431321" MODIFIED="1411539431321" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="21" object_id="4387477731586638590" object_number="47" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Background Work" ID="ID_107736457" CREATED="1411539431288" MODIFIED="1411539431289" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="22" object_id="2986513693136853719" object_number="51" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Trend in Single Event Sensitivity" ID="ID_1582948086" CREATED="1411539431308" MODIFIED="1411539431308" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="29" object_id="747639698743975215" object_number="55" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" The Onset of Proton Direct Ionization Upsets" ID="ID_704268703" CREATED="1411539431286" MODIFIED="1411539431286" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="31" object_id="4244617227023141865" object_number="59" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Conclusions" ID="ID_198233441" CREATED="1411539431274" MODIFIED="1411539431275" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="32" object_id="1366855802230453179" object_number="63" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT="II.  Physical Processes" ID="ID_589766435" CREATED="1411539431083" MODIFIED="1411539431083" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="34" object_id="4230179365090260051" object_number="67" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Electronic Interactions" ID="ID_1879701809" CREATED="1411539431247" MODIFIED="1411539431247" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="35" object_id="5755347021521399450" object_number="71" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Electronic Stopping" ID="ID_343527903" CREATED="1411539431260" MODIFIED="1411539431260" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="35" object_id="494864746297875673" object_number="75" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Electron Stripping" ID="ID_1709683802" CREATED="1411539431245" MODIFIED="1411539431245" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="36" object_id="6003601012608075799" object_number="79" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Range" ID="ID_1903736105" CREATED="1411539431233" MODIFIED="1411539431233" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="38" object_id="3569412358948656843" object_number="83" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Nuclear Interactions" ID="ID_833373290" CREATED="1411539431128" MODIFIED="1411539431128" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="38" object_id="1891363686176373353" object_number="87" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Coulomb Scattering" ID="ID_1513524490" CREATED="1411539431221" MODIFIED="1411539431222" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="40" object_id="2108948252530750511" object_number="91" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Nuclear Elastic Scattering" ID="ID_1718255336" CREATED="1411539431205" MODIFIED="1411539431205" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="40" object_id="3941543586449960177" object_number="95" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Nuclear Inelastic Scattering" ID="ID_1748372295" CREATED="1411539431171" MODIFIED="1411539431171" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="41" object_id="5499252083565664397" object_number="99" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Spallation" ID="ID_721940751" CREATED="1411539431155" MODIFIED="1411539431155" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="41" object_id="7903627866358594319" object_number="103" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Pion Production" ID="ID_1930988071" CREATED="1411539431139" MODIFIED="1411539431139" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="41" object_id="2901803657965194328" object_number="107" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Capture" ID="ID_1195527394" CREATED="1411539431126" MODIFIED="1411539431126" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="42" object_id="3132559176184762017" object_number="111" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Decay" ID="ID_1857837709" CREATED="1411539431096" MODIFIED="1411539431096" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="42" object_id="8483189838095604980" object_number="115" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Pion Decay" ID="ID_471552212" CREATED="1411539431112" MODIFIED="1411539431112" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="42" object_id="3494793929526962202" object_number="119" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Muon Decay" ID="ID_1665855931" CREATED="1411539431093" MODIFIED="1411539431093" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="43" object_id="6061941058383639400" object_number="123" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Conclusions" ID="ID_1633616541" CREATED="1411539431081" MODIFIED="1411539431081" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="43" object_id="134235385235607098" object_number="127" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT="III.  Radiation Environments" ID="ID_386405291" CREATED="1411539430985" MODIFIED="1411539430985" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="45" object_id="2548998950685207458" object_number="131" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Extraterrestrial Environments" ID="ID_1008664471" CREATED="1411539431044" MODIFIED="1411539431044" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="46" object_id="7969479227871706991" object_number="135" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Interplanetary Space" ID="ID_1670698533" CREATED="1411539431060" MODIFIED="1411539431060" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="46" object_id="5828884193149277793" object_number="139" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Near Earth" ID="ID_669038072" CREATED="1411539431041" MODIFIED="1411539431041" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="47" object_id="8417047383770046152" object_number="143" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Terrestrial Environments" ID="ID_1645092483" CREATED="1411539430996" MODIFIED="1411539430996" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="52" object_id="3963061269768761283" object_number="147" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Neutron Component" ID="ID_69451090" CREATED="1411539431030" MODIFIED="1411539431030" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="55" object_id="6292386660997183122" object_number="151" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Proton Component" ID="ID_39216351" CREATED="1411539431011" MODIFIED="1411539431011" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="55" object_id="5297861583118513259" object_number="155" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Muon Component" ID="ID_1748954386" CREATED="1411539430994" MODIFIED="1411539430994" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="56" object_id="6241416672070289" object_number="159" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Conclusions" ID="ID_388786719" CREATED="1411539430983" MODIFIED="1411539430983" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="58" object_id="6350051938668044110" object_number="163" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT="IV.  Accelerated Testing" ID="ID_535662549" CREATED="1411539430817" MODIFIED="1411539430817" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="60" object_id="1801027664858960861" object_number="167" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Devices Under Test" ID="ID_1170127168" CREATED="1411539430975" MODIFIED="1411539430975" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="61" object_id="2541331209914071579" object_number="171" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Heavy Ion Accelerated Tests" ID="ID_1147723919" CREATED="1411539430956" MODIFIED="1411539430956" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="63" object_id="8253514585346285654" object_number="175" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Accelerated Test Setup" ID="ID_114184108" CREATED="1411539430963" MODIFIED="1411539430963" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="63" object_id="3974724524234394180" object_number="179" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Accelerated Test Results" ID="ID_469697825" CREATED="1411539430954" MODIFIED="1411539430954" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="64" object_id="9045489439377371077" object_number="183" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Proton Accelerated Testing" ID="ID_1891397012" CREATED="1411539430928" MODIFIED="1411539430928" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="66" object_id="7309885148738389166" object_number="187" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Accelerated Test Setup" ID="ID_534210909" CREATED="1411539430942" MODIFIED="1411539430942" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="67" object_id="5579874118255937680" object_number="191" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Accelerated Test Results" ID="ID_19947611" CREATED="1411539430925" MODIFIED="1411539430926" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="68" object_id="7643501466018435569" object_number="195" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Muon Accelerated Testing" ID="ID_708916291" CREATED="1411539430865" MODIFIED="1411539430865" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="71" object_id="5744955799232667162" object_number="199" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Accelerated Test Setup" ID="ID_1156496607" CREATED="1411539430911" MODIFIED="1411539430911" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="73" object_id="4235114071297314124" object_number="203" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Experimental Validation" ID="ID_1545510784" CREATED="1411539430898" MODIFIED="1411539430898" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="76" object_id="5187581450841916085" object_number="207" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Accelerated Test Results" ID="ID_1843731547" CREATED="1411539430879" MODIFIED="1411539430879" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="78" object_id="1578870726490703912" object_number="211" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Effect of technology" ID="ID_1655668820" CREATED="1411539430864" MODIFIED="1411539430864" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="81" object_id="1786739415219879748" object_number="215" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Hardness Assurance Methods" ID="ID_1580716916" CREATED="1411539430832" MODIFIED="1411539430832" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="84" object_id="1340157309769038919" object_number="219" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Recommendations" ID="ID_516802228" CREATED="1411539430850" MODIFIED="1411539430850" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="84" object_id="4059343261570550386" object_number="223" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Low-Energy Proton Testing with a Cyclotron" ID="ID_236741569" CREATED="1411539430829" MODIFIED="1411539430829" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="89" object_id="6882242862552708745" object_number="227" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Conclusions" ID="ID_1955941059" CREATED="1411539430813" MODIFIED="1411539430813" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="91" object_id="3603185063029225865" object_number="231" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT="V.  Rate Prediction Analyses" ID="ID_1896282543" CREATED="1411539430731" MODIFIED="1411539430731" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="94" object_id="102833849757819995" object_number="235" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Traditional Approaches" ID="ID_1376208982" CREATED="1411539430803" MODIFIED="1411539430803" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="94" object_id="3546651579868407024" object_number="239" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" TCAD and SPICE Analysis" ID="ID_1293281457" CREATED="1411539430792" MODIFIED="1411539430792" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="95" object_id="2950821689174330812" object_number="243" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Radiation Transport Modeling" ID="ID_1661378821" CREATED="1411539430781" MODIFIED="1411539430782" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="98" object_id="8523555637839026756" object_number="247" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Single Event Upset Predictions" ID="ID_7831755" CREATED="1411539430748" MODIFIED="1411539430748" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="102" object_id="2116088210800043501" object_number="251" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Proton Response" ID="ID_1604417725" CREATED="1411539430768" MODIFIED="1411539430768" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="103" object_id="6196296645392897553" object_number="255" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Rate Predictions" ID="ID_1307317051" CREATED="1411539430746" MODIFIED="1411539430747" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="105" object_id="8094549216724237493" object_number="259" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Conclusions" ID="ID_382617940" CREATED="1411539430724" MODIFIED="1411539430724" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="109" object_id="1433318075758272301" object_number="263" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT="VI.  Implications for Future Devices" ID="ID_1260288935" CREATED="1411539430673" MODIFIED="1411539430673" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="111" object_id="3756696354433219150" object_number="267" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Charge Collection Models" ID="ID_1876598956" CREATED="1411539430687" MODIFIED="1411539430687" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="113" object_id="4350500864242498993" object_number="271" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-<node TEXT=" On-Orbit Single Event Upsets" ID="ID_68557773" CREATED="1411539430702" MODIFIED="1411539430702" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="116" object_id="4011360246273503216" object_number="275" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT=" Terrestrial Single Event Upsets" ID="ID_462584090" CREATED="1411539430684" MODIFIED="1411539430684" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="119" object_id="1598612117203232661" object_number="279" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT=" Conclusions" ID="ID_1761743202" CREATED="1411539430671" MODIFIED="1411539430671" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="120" object_id="6735291104731113207" object_number="283" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT="VII.  Conclusions" ID="ID_299205861" CREATED="1411539430663" MODIFIED="1411539430663" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="125" object_id="3302900070333455591" object_number="287" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="Appendix A: EXPACS Generated Flux Spectra" ID="ID_1758654555" CREATED="1411539430652" MODIFIED="1411539430652" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="128" object_id="3799554695271332019" object_number="291" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
-</pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
-<attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="References " ID="ID_385098706" CREATED="1411539430638" MODIFIED="1411539430638" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
-<pdf_annotation type="BOOKMARK" page="138" object_id="4320276829955624360" object_number="295" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
-    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1412048480240" DCR_PRIVACY_LEVEL="DEMO">
+<edge COLOR="#7c7c00"/>
+<node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1411706977632" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5FF56780A5BCACE023A24384365ADABF1FDF4C93E721EC53591F1571F2BE5A">
+    <pdf_title>An 8-Bit MIPS in an FPGA for Educational Purposes</pdf_title>
 </pdf_annotation>
-<attribute NAME="authors" VALUE="Brian Sierawski"/>
-<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="key" VALUE="6128570"/>
+<attribute NAME="authors" VALUE="Ortega-Sanchez, C."/>
+<attribute NAME="title" VALUE="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes"/>
 <attribute NAME="year" VALUE="2011"/>
-</node>
-</node>
-<node TEXT="Physical Defect Modeling for Fault Insertion in System Reliability Test" ID="ID_1495605135" CREATED="1411539431428" MODIFIED="1411702921654" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/05355715.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="217F55669AC270293B499EA8316AD97C77EC713D7F925ADBBD4CD386ABB653C9">
-    <pdf_title>Physical Defect Modeling for Fault Insertion in System Reliability Test</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Zhang2009"/>
-<attribute NAME="authors" VALUE="Zhang, Zhaobo and Wang, Zhanglei and Gu, Xinli and Chakrabarty, Krishnendu"/>
-<attribute NAME="title" VALUE="Physical defect modeling for fault insertion in system reliability test"/>
-<attribute NAME="year" VALUE="2009"/>
-</node>
-<node TEXT="Verification Methodology Manual for SystemVerilog" ID="ID_1296405716" CREATED="1411539431435" MODIFIED="1411778002623" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-25556-9.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0"/>
-<attribute NAME="key" VALUE="Bergeron2006a"/>
-<attribute NAME="authors" VALUE="Bergeron, Janick and Cerny, Eduard and Hunter, Alan and Nightingale, Andy"/>
-<attribute NAME="title" VALUE="Verification methodology manual for SystemVerilog"/>
-<attribute NAME="year" VALUE="2006"/>
-</node>
-<node TEXT="Efficient analysis of single event transients" FOLDED="true" ID="ID_461701672" CREATED="1411539431452" MODIFIED="1411610422377" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="a"/>
-<node TEXT="Efficient analysis of single event transients" FOLDED="true" ID="ID_1824593419" CREATED="1411539431448" MODIFIED="1411539431448" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="8803120973621422668" object_number="78" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-<node TEXT="Introduction" ID="ID_284722709" CREATED="1411539431567" MODIFIED="1411539431567" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="7725824199498947122" object_number="79" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-</node>
-<node TEXT="Previous works" ID="ID_1575020084" CREATED="1411539431557" MODIFIED="1411539431558" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="2" object_id="2623995487548066913" object_number="88" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-</node>
-<node TEXT="Single event transients" ID="ID_1353023115" CREATED="1411539431543" MODIFIED="1411539431543" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="3" object_id="6054207711806189477" object_number="87" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-</node>
-<node TEXT="Fault list reduction algorithm" ID="ID_1837045414" CREATED="1411539431534" MODIFIED="1411539431534" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="3" object_id="737706297467092965" object_number="86" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-</node>
-<node TEXT="Simplified SET fault model" ID="ID_1071293712" CREATED="1411539431518" MODIFIED="1411539431518" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="4" object_id="2628088110659418890" object_number="83" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-</node>
-<node TEXT="Experimental results" ID="ID_884058000" CREATED="1411539431480" MODIFIED="1411539431480" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="5" object_id="6182227308386250943" object_number="82" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-<node TEXT="Analysis of the fault list reduction algorithm" ID="ID_1803993562" CREATED="1411539431493" MODIFIED="1411539431493" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="5" object_id="983022851621652594" object_number="84" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-</node>
-<node TEXT="Analysis of the vector-bounded fault model" ID="ID_295496103" CREATED="1411539431473" MODIFIED="1411539431474" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="6" object_id="48874168808399267" object_number="85" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-</node>
-</node>
-<node TEXT="Conclusions" ID="ID_959553669" CREATED="1411539431463" MODIFIED="1411539431463" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="7" object_id="3125541092747721751" object_number="81" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-</node>
-<node TEXT="References" ID="ID_1163051570" CREATED="1411539431445" MODIFIED="1411539431445" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S1383762103001449-main.pdf">
-<pdf_annotation type="BOOKMARK" page="7" object_id="646649584880044092" object_number="80" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
-    <pdf_title>Efficient analysis of single event transients</pdf_title>
-</pdf_annotation>
-</node>
-</node>
-</node>
-<node TEXT="Software and Hardware Techniques for SEU Detection in IP Processors" FOLDED="true" ID="ID_1906916327" CREATED="1411539431587" MODIFIED="1411778498732" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-<node TEXT="Software and Hardware Techniques for SEU Detection in IP Processors" ID="ID_1587655122" CREATED="1411539431586" MODIFIED="1411539431586" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="4310668087726885420" object_number="128" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-<node TEXT="Abstract" FOLDED="true" ID="ID_1589158886" CREATED="1411539431584" MODIFIED="1411539431584" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="8377569900832510307" object_number="129" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-<node TEXT="Introduction" ID="ID_1030746879" CREATED="1411539431738" MODIFIED="1411539431738" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="3836657834506765161" object_number="130" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-<node TEXT="The Proposed Approach" ID="ID_125944890" CREATED="1411539431660" MODIFIED="1411539431660" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="2" object_id="2836301608078365508" object_number="136" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-<node TEXT="Fault Model" ID="ID_1889548021" CREATED="1411539431717" MODIFIED="1411539431717" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="2" object_id="3970173899349112169" object_number="137" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-<node TEXT="Software Techniques" ID="ID_1603896857" CREATED="1411539431702" MODIFIED="1411539431702" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="2" object_id="3770916454980934529" object_number="140" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
 </node>
-<node TEXT="Hardware Techniques" ID="ID_681234758" CREATED="1411539431683" MODIFIED="1411539431683" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="5" object_id="3811612192476631252" object_number="139" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-<node TEXT="Software Tuning after Hardware Redundancy Introduction" ID="ID_213716994" CREATED="1411539431658" MODIFIED="1411539431658" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="5" object_id="2346918226577155494" object_number="138" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-</node>
-<node TEXT="Methodology Evaluation" ID="ID_1899663209" CREATED="1411539431623" MODIFIED="1411539431624" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="6" object_id="4783012943391935335" object_number="133" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-<node TEXT="Case Study" ID="ID_1511342083" CREATED="1411539431643" MODIFIED="1411539431643" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="6" object_id="5416522020144869427" object_number="134" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-<node TEXT="Experimental Results" ID="ID_298247279" CREATED="1411539431621" MODIFIED="1411539431622" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="7" object_id="2706032146595968469" object_number="135" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-</node>
-<node TEXT="Conclusion" ID="ID_1715234140" CREATED="1411539431600" MODIFIED="1411539431600" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="9" object_id="3959866534873462529" object_number="132" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-<node TEXT="References" ID="ID_1854734421" CREATED="1411539431581" MODIFIED="1411539431581" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
-<pdf_annotation type="BOOKMARK" page="9" object_id="7036775002617156920" object_number="131" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
-    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
-</pdf_annotation>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
-<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Design of A Fault-Tolerant Microprocessor: A Simulation Approach" ID="ID_1834577424" CREATED="1411611272086" MODIFIED="1411778711570" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00640142.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="827EC564DE4D81DFCD9F8B3BD7A5953CEA8B125AF25088BE2C85F1EE9A1977CF">
-    <pdf_title>of</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="640142"/>
-<attribute NAME="authors" VALUE="Kab Joo Lee and Gwan Choi"/>
-<attribute NAME="title" VALUE="Design of a fault-tolerant microprocessor: a simulation approach"/>
-<attribute NAME="year" VALUE="1997"/>
-</node>
-<node TEXT="Ultra-Wideband, Short Pulse Electromagnetics 9" ID="ID_949771980" CREATED="1411611272152" MODIFIED="1411779490904" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-77845-7.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F0EFC45435515DCCC3A19562C3CCC565FD7FA26FE3D29E921E2E1E5CE51D3E">
-    <pdf_title>Ultra-Wideband, Short Pulse Electromagnetics 9</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="F.Sabath2010"/>
-<attribute NAME="title" VALUE="Ultra-Wideband, Short Pulse Electromagnetics 9"/>
-<attribute NAME="year" VALUE="2010"/>
-</node>
-<node TEXT="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor" ID="ID_960035522" CREATED="1411611272159" MODIFIED="1411706043921" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1023%252FA%253A1025130131636.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E2ED74595EF085E2E8CBC753AFD35BB6DAA984EA882723479AAA86E7B4E2C923">
-    <pdf_title>Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Rebaudengo2003"/>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.Sonza and Violante, M."/>
-<attribute NAME="title" VALUE="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor"/>
-<attribute NAME="year" VALUE="2003"/>
-</node>
-<node TEXT="Fault-Tolerance Techniques for SRAM-based FPGAs" ID="ID_1677333206" CREATED="1411611272164" MODIFIED="1411779620974" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-31069-5.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AD1A81AB5C7271B73E3E394F6380BC79F2CF52488B8719F1A82F8739B2DEB560">
-    <pdf_title>Fault-Tolerance Techniques for SRAM-based FPGAs</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Kastensmidt2007"/>
-<attribute NAME="authors" VALUE="Kastensmidt, Fernanda Lima and Reis, Ricardo"/>
-<attribute NAME="title" VALUE="Fault-tolerance techniques for SRAM-based FPGAs"/>
-<attribute NAME="year" VALUE="2007"/>
 </node>
+<node TEXT="Arquiteturas Reconfigur&#xe1;veis" POSITION="right" ID="ID_313614411" CREATED="1411878828276" MODIFIED="1411926013482">
+<edge COLOR="#0000ff"/>
 <node TEXT="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques" FOLDED="true" ID="ID_1561346221" CREATED="1411611272174" MODIFIED="1411779669605" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 <attribute NAME="key" VALUE="Beck2010"/>
@@ -8226,209 +6565,44 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors" ID="ID_1474275653" CREATED="1411611275125" MODIFIED="1411707121255" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05985914.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8A863A897D3B768F9852AEAE6AD4C87BA1A2F6EC252144C1068BE521D141F81">
-    <pdf_title>Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors</pdf_title>
+<node TEXT="FPGA IMPLEMENTATION OF A RECONFIGURABLE MICROPROCESSOR" ID="ID_235941726" CREATED="1411836923941" MODIFIED="1411878484837" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/00590366.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="7F23218AB04D38EBB9DBC8D1609E319238B639365EFA83D746F2F3D44A83">
+    <pdf_title>- -</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5985914"/>
-<attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Altieri, M. and Kastensmidt, F.L."/>
-<attribute NAME="title" VALUE="Evaluating the efficiency of data-flow software-based techniques to detect SEEs in microprocessors"/>
-<attribute NAME="year" VALUE="2011"/>
+<attribute NAME="key" VALUE="590366"/>
+<attribute NAME="authors" VALUE="Davidson, J."/>
+<attribute NAME="title" VALUE="FPGA implementation of a reconfigurable microprocessor"/>
+<attribute NAME="year" VALUE="1993"/>
 </node>
-<node TEXT="A Study of the Effects of Transient Fault Injection into a 32-bit RISC with Built-in Watchdog" ID="ID_465301120" CREATED="1411611275131" MODIFIED="1411612213281" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00243569.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4E865C5163FDBC223F479D37AB8FF3CDCE4D2802271CE7F9BFC79CF99EC">
-    <pdf_title>A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog - Fault-Tolerant Computing, FTCS-22. Digest of Papers., Twenty-Second International Symposium on</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Ohlsson1992"/>
-<attribute NAME="authors" VALUE="Ohlsson, Joakim and Rimen, Marcus and Gunneflo, Ulf"/>
-<attribute NAME="title" VALUE="A Study of the Effects of Transient Fault Injection into a 32-bit RISC with Built-in Watchdog"/>
-<attribute NAME="year" VALUE="1992"/>
 </node>
-<node TEXT="On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core" ID="ID_616251369" CREATED="1411611275136" MODIFIED="1411776259503" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01467779.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B8AED7A81D228BBC8E0B0E6891E360DE5F8D5F9D287A953422B3A0EA9E584">
-    <pdf_title>On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core</pdf_title>
+<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1412048480353" DCR_PRIVACY_LEVEL="DEMO">
+<edge COLOR="#7c0000"/>
+<node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1411706245314" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf" MOVED="1411878920151">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D4D852F99AB0D925364677F4A756C5A8FAB3037A8D28642BF5470F141F1E13E">
+    <pdf_title>Radiation Effects in Si-NW GAA FET and CMOS Inverter: A TCAD Simulation Study</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1467779"/>
-<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
-<attribute NAME="title" VALUE="On-line detection of control-flow errors in SoCs by means of an infrastructure IP core"/>
-<attribute NAME="year" VALUE="2005"/>
-</node>
-<node TEXT="CFEDR: Control-Flow Error Detection and&#xa;Recovery Using Encoded Signatures Monitoring" ID="ID_1193988716" CREATED="1411611275143" MODIFIED="1411779922019" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06653578.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="49945B883679842CDD1839E5CB191F69ED01657328EBAC579F8ABD52C38AA9D">
-    <pdf_title>CFEDR: Control-Flow Error Detection and Recovery Using Encoded Signatures Monitoring</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6653578"/>
-<attribute NAME="authors" VALUE="Lanfang Tan and Ying Tan and Jianjun Xu"/>
-<attribute NAME="title" VALUE="CFEDR: Control-flow error detection and recovery using encoded signatures monitoring"/>
-<attribute NAME="year" VALUE="2013"/>
-</node>
-<node TEXT="Single Event Upset Tolerance in Flip-Flop Based Microprocessor Cores" ID="ID_1139968544" CREATED="1411611275149" MODIFIED="1411780041718" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06378204.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1797D527E212DF49487635C35246635E59EC78CB538FE83C9A58EF4837E85CE7">
-    <pdf_title>Single Event Upset Tolerance in Flip-Flop Based Microprocessor Cores</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6378204"/>
-<attribute NAME="authors" VALUE="Valadimas, S. and Tsiatouhas, Y. and Arapoyanni, A and Evans, A"/>
-<attribute NAME="title" VALUE="Single event upset tolerance in flip-flop based microprocessor cores"/>
+<attribute NAME="key" VALUE="6166873"/>
+<attribute NAME="journal" VALUE="Electron Devices, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Kaushal, G. and Rathod, S.S. and Maheshwaram, S. and Manhas, S. K. and Saxena, A K. and Dasgupta, S."/>
+<attribute NAME="title" VALUE="Radiation Effects in Si-NW GAA FET and CMOS Inverter: A TCAD Simulation Study"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_1150015022" CREATED="1411611275156" MODIFIED="1411707101374" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994926.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA4D594D38C7FD3721EE38EDA210BC8D265245B855D8F937D5CBDD8DF22CC3">
-    <pdf_title>Control-Flow Checking by Software Signatures</pdf_title>
+<node TEXT="The Study of the Transient Radiation Effects on Electronic Devices caused by Pulsed High Energy Gama-Ray" FOLDED="true" ID="ID_1402581234" CREATED="1411247614643" MODIFIED="1411706419560" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06393319.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E4F37017881C199A537B67BBDDA677836036D7278486FF19B4F794A4728E9C">
+    <pdf_title>The Study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="994926"/>
-<attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
-<attribute NAME="title" VALUE="Control-flow checking by software signatures"/>
-<attribute NAME="year" VALUE="2002"/>
-</node>
-<node TEXT="Error Detection Enhancement in COTS Superscalar Processors with Event Monitoring Features" ID="ID_814842855" CREATED="1411611275162" MODIFIED="1411780230853" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01276552.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AB2DDC84ABCC66B2CA14FE6F778FDE5E93D1C49D377B4ADC9F0C6804C6447AA">
-    <pdf_title>Error Detection Enhancement in COTS Superscalar Processors with Event Monitoring Features</pdf_title>
+<attribute NAME="key" VALUE="6393319"/>
+<attribute NAME="authors" VALUE="Seung-Chan Oh and Nam-Ho Lee and Heung-Ho Lee"/>
+<attribute NAME="title" VALUE="The study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray"/>
+<attribute NAME="year" VALUE="2012"/>
+<node TEXT="978-89-93215-04-5 95560/12/$15 &#x24d2;ICROS" ID="ID_1620288450" CREATED="1411247614636" MODIFIED="1411247614637" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06393319.pdf">
+<pdf_annotation type="COMMENT" page="1" object_id="3169292198200091131" object_number="5390" document_hash="E4F37017881C199A537B67BBDDA677836036D7278486FF19B4F794A4728E9C">
+    <pdf_title>The Study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1276552"/>
-<attribute NAME="authors" VALUE="Rajabzadeh, A and Mohandespour, M. and Miremadi, G."/>
-<attribute NAME="title" VALUE="Error detection enhancement in COTS superscalar processors with event monitoring features"/>
-<attribute NAME="year" VALUE="2004"/>
-</node>
-<node TEXT="Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency" ID="ID_1444775608" CREATED="1411611275168" MODIFIED="1411781352775" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00966768.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CCD3BCA35AB4FB5C5CB26E18143CD7E9EA80ABE74CACB6C44B6FE378657F4">
-    <pdf_title>Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="966768"/>
-<attribute NAME="authors" VALUE="Oh, N. and McCluskey, E.J."/>
-<attribute NAME="title" VALUE="Procedure call duplication: minimization of energy consumption with constrained error detection latency"/>
-<attribute NAME="year" VALUE="2001"/>
-</node>
-<node TEXT="A New Concurrent Detection of Control Flow Errors Based on DCT Technique" ID="ID_336936749" CREATED="1411611275174" MODIFIED="1411781504250" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04459660.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FC19AD4ADFFAB5B34F5695A74B925D951B168E2E608146B48F1EDFC6884">
-    <pdf_title>A New Concurrent Detection of Control Flow Errors Based on DCT Technique</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="4459660"/>
-<attribute NAME="authors" VALUE="Hung-Chuan Lai and Shi-Jinn Horng and Yong-Yuan Chen and Pingzhi Fan and Yi Pan"/>
-<attribute NAME="title" VALUE="A New Concurrent Detection of Control Flow Errors Based on DCT Technique"/>
-<attribute NAME="year" VALUE="2007"/>
-</node>
-<node TEXT="SOC DESIGN METHODOLOGIES" ID="ID_732369618" CREATED="1411611275180" MODIFIED="1411781699989" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-35597-9.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0"/>
-<attribute NAME="key" VALUE="Robert2002"/>
-<attribute NAME="authors" VALUE="Robert, Michel"/>
-<attribute NAME="title" VALUE="SOC Design Methodologies"/>
-<attribute NAME="year" VALUE="2002"/>
-</node>
-<node TEXT="SIGNATURE VERIFICATION: A NEW CONCEPT FOR BUILDING SIMPLE AND EFFECTIVE WATCHDOG PROCESSORS" ID="ID_1334838232" CREATED="1411611275187" MODIFIED="1411781877991" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00162054.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="9C9AC09069738F4E4D41242B207E9B13F9E24CE339457B79B39FA9379F1D9F7">
-    <pdf_title>Joao</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="162054"/>
-<attribute NAME="authors" VALUE="Madeira, H. and Camoes, J. and Silva, J.G."/>
-<attribute NAME="title" VALUE="Signature verification: a new concept for building simple and effective watchdog processors"/>
-<attribute NAME="year" VALUE="1991"/>
-</node>
-<node TEXT="SOFTWARE-IMPLEMENTED HARDWARE FAULT TOLERANCE" ID="ID_1948858788" CREATED="1411611275193" MODIFIED="1411709055568" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-32937-6.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0"/>
-<attribute NAME="key" VALUE="Goloubeva2006"/>
-<attribute NAME="authors" VALUE="Goloubeva, Olga and Rebaudengo, Maurizio and Reorda, Matteo Sonza and Violante, Massimo"/>
-<attribute NAME="title" VALUE="Software-implemented hardware fault tolerance"/>
-<attribute NAME="year" VALUE="2006"/>
-</node>
-<node TEXT="Strategies for Fault-Tolerant, Space-Based Computing: Lessons Learned from the ARGOS Testbed" ID="ID_903914617" CREATED="1411611275199" MODIFIED="1411781977154" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01035377.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="80CC2DDEFCD475FA10351BF58310D903346FB56581E19E7974D784DF965C1">
-    <pdf_title>ARGOS</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1035377"/>
-<attribute NAME="authors" VALUE="Lovellette, M.N. and Wood, K.S. and Wood, D. L. and Beall, J.H. and Shirvani, P.P. and Oh, N. and McCluskey, E.J."/>
-<attribute NAME="title" VALUE="Strategies for fault-tolerant, space-based computing: Lessons learned from the ARGOS testbed"/>
-<attribute NAME="year" VALUE="2002"/>
-</node>
-<node TEXT="A Study On The Hardware Implementation Of EDAC" ID="ID_441008017" CREATED="1411611275208" MODIFIED="1411782243254" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04682244.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="14E12F1FF2EFD056FB1235299DA2DE7C227B380E8D632581CF12F638EC3">
-    <pdf_title>A Study On The Hardware Implementation Of EDAC</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="4682244"/>
-<attribute NAME="authors" VALUE="Li Hao and Lixin Yu"/>
-<attribute NAME="title" VALUE="A Study on the Hardware Implementation Of EDAC"/>
-<attribute NAME="year" VALUE="2008"/>
-</node>
-<node TEXT="ALGORITHM-BASED FAULT TOLERANCE: A PERFORMANCE PERSPECTIVE BASED ON ERROR RATE" ID="ID_148624973" CREATED="1411611275215" MODIFIED="1411782493128" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/alyamaniDSN01.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3F661BE05843B14158F46D23A291859F46529F891B84AC9BCD782BE5588A55">
-    <pdf_title>w w</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Al-Yamani_algorithm-basedfault"/>
-<attribute NAME="authors" VALUE="Ahmad A. Al-Yamani and Nahmsuk Oh and Edward J. McCluskey"/>
-<attribute NAME="title" VALUE="Algorithm-Based Fault Tolerance: A Performance Perspective Based on Error Rate"/>
-</node>
-<node TEXT="A Hybrid Approach to Design Error Detection and Correction" ID="ID_1834435057" CREATED="1411611275221" MODIFIED="1411782922716" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00812294.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A8357883C38DAA41BA2BE08FE685BBCB5A329968A7F11076F8FEEA649E4CB62">
-    <pdf_title>Hybrid to Design Error Correctioii</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="812294"/>
-<attribute NAME="authors" VALUE="Veneris, A and Hajj, IN."/>
-<attribute NAME="title" VALUE="A hybrid approach to design error detection and correction [VLSI digital circuits]"/>
-<attribute NAME="year" VALUE="1999"/>
-</node>
-<node TEXT="A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation" ID="ID_1904488928" CREATED="1411611275226" MODIFIED="1411783003051" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05640683.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3C665B397D6E623C9CAED7FDA3CC6CF25A0DF95CDBF0F35C41274AB2F55">
-    <pdf_title>A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="5640683"/>
-<attribute NAME="journal" VALUE="Solid-State Circuits, IEEE Journal of"/>
-<attribute NAME="authors" VALUE="Bull, D. and Das, S. and Shivashankar, K. and Dasika, G.S. and Flautner, K. and Blaauw, D."/>
-<attribute NAME="title" VALUE="A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream" ID="ID_538573899" CREATED="1411611275232" MODIFIED="1411783054014" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04030963.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="96C898D7FF3C0748894CB6A165513798A7F576D75BD7FB17262F69B6F49D0">
-    <pdf_title>Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="4030963"/>
-<attribute NAME="authors" VALUE="Rota, F. and Dutt, S. and Krishna, S."/>
-<attribute NAME="title" VALUE="Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream"/>
-<attribute NAME="year" VALUE="2006"/>
-</node>
-<node TEXT="Soft Error Detection via Double Execution with Hardware Assistance" ID="ID_150472735" CREATED="1411611275237" MODIFIED="1411783107044" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06334568.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3C13F3858D4A3798C32266CAFFE364494B830A1A427A2F675961DDE5E6A6583">
-    <pdf_title>Soft Error Detection via Double Execution with Hardware Assistance</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6334568"/>
-<attribute NAME="authors" VALUE="Bustamante, L. and Al-Asaad, H."/>
-<attribute NAME="title" VALUE="Soft error detection via double execution with hardware assistance"/>
+<attribute NAME="authors" VALUE="Seung-Chan Oh and Nam-Ho Lee and Heung-Ho Lee"/>
+<attribute NAME="title" VALUE="The study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="Control-Flow Checking Using Watchdog Assists and Extended-Precision Checksums" ID="ID_1195631821" CREATED="1411611275243" MODIFIED="1411783230513" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00054849.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="58B0B4ACAC7377702AA28ABA29D3A8BC9BBC43827DD48B2A2665187C09190">
-    <pdf_title>micro rollback,</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="105615"/>
-<attribute NAME="authors" VALUE="Saxena, N.R. and McCluskey, E.J."/>
-<attribute NAME="title" VALUE="Control-flow checking using watchdog assists and extended-precision checksums"/>
-<attribute NAME="year" VALUE="1989"/>
-</node>
-<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault&#xa;Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_297030936" CREATED="1411611275250" MODIFIED="1411783335124" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06131362.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="458A25552E5BFEBB0EF8999DE056919B317C612CE62983B5387A2FDBAEE086">
-    <pdf_title>Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6131362"/>
-<attribute NAME="authors" VALUE="Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R."/>
-<attribute NAME="title" VALUE="Non-intrusive reconfigurable HW/SW fault tolerance approach to detect transient faults in microprocessor systems"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="Design and Evaluation of Hybrid Fault-Detection Systems" ID="ID_15784652" CREATED="1411611275256" MODIFIED="1411783584539" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01431553.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="37CD057959DB5A875DDB22DD476CAC374EF987DF5FFE2EA30C827D63E9D35">
-    <pdf_title>Design and Evaluation of Hybrid Fault-Detection Systems</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1431553"/>
-<attribute NAME="authors" VALUE="Reis, G.A and Chang, J. and Vachharajani, N. and Mukherjee, S.S. and Rangan, R. and August, D.I"/>
-<attribute NAME="title" VALUE="Design and evaluation of hybrid fault-detection systems"/>
-<attribute NAME="year" VALUE="2005"/>
-</node>
-<node TEXT="Fault-Tolerance Projects at Stanford CRC" ID="ID_1890067867" CREATED="1411611275262" MODIFIED="1411612683184" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/shirvanimapld99.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F07FE3B2732353CA4E5066D947998E472CF361BC34BE9E5CFAB8EC212858726">
-    <pdf_title>Fault-Tolerance Projects at Stanford CRC</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Shirvani1999"/>
-<attribute NAME="authors" VALUE="Shirvani, Philip P and Saxena, Nirmal and Oh, Nahmsuk and Mitra, Subhasish and Yu, Shu-Yi and Huang, Wei-Je and Fernandez-Gomez, Santiago and Touba, Nur A and McCluskey, Edward J"/>
-<attribute NAME="title" VALUE="Fault-Tolerance Projects at Stanford CRC"/>
-<attribute NAME="year" VALUE="1999"/>
 </node>
 <node TEXT="Effects of Space Weather on Technology Infrastructure" ID="ID_1478385227" CREATED="1411611275269" MODIFIED="1411787563738" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4020-2754-3.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
@@ -8438,34 +6612,652 @@
 <attribute NAME="title" VALUE="Effects of space weather on technology infrastructure"/>
 <attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs" ID="ID_980490496" CREATED="1411611275274" MODIFIED="1411787863375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05551155.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DC7AAA26B788E5BF257DE72FAEEE6EE7DE35F495C890FC7269EA3DD36212D690">
-    <pdf_title>Short Papers</pdf_title>
+<node TEXT="THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS RELIABILITY" FOLDED="true" ID="ID_1065110152" CREATED="1411539430641" MODIFIED="1411610359767" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5551155"/>
-<attribute NAME="journal" VALUE="Dependable and Secure Computing, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani Poehls, L.M. and Grosso, M. and Reorda, M.S."/>
-<attribute NAME="title" VALUE="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs"/>
-<attribute NAME="year" VALUE="2010"/>
+<attribute NAME="key" VALUE="Sierawski"/>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT="DEDICATION" ID="ID_548237897" CREATED="1411539431419" MODIFIED="1411539431419" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="3" object_id="1986454600388620550" object_number="7" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="Software-implemented hardening against soft errors" ID="ID_588392281" CREATED="1411611275281" MODIFIED="1411789801772" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/SlidesMassimoViolante.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5F1F8548C7C25DC2447EB6ED5B904F2C450881A689D6F445D30EED66426871C">
-    <pdf_title>Software-implemented hardening against soft errors</pdf_title>
+<node TEXT="ACKNOWLEDGEMENTS" ID="ID_1560809412" CREATED="1411539431410" MODIFIED="1411539431410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="725433042852303360" object_number="11" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Violante"/>
-<attribute NAME="authors" VALUE="Massimo Violante"/>
-<attribute NAME="title" VALUE="Software-implemented hardening against soft errors (slides)"/>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="TABLE OF CONTENTS" ID="ID_36163837" CREATED="1411539431400" MODIFIED="1411539431400" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="5" object_id="8639638169784856269" object_number="15" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="LIST OF TABLES" ID="ID_806793567" CREATED="1411539431391" MODIFIED="1411539431391" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="8" object_id="8275505594006140748" object_number="19" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="LIST OF FIGURES" ID="ID_1762462215" CREATED="1411539431380" MODIFIED="1411539431381" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="9" object_id="3094408252241416631" object_number="23" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="I.  Introduction" ID="ID_951652527" CREATED="1411539431276" MODIFIED="1411539431276" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="13" object_id="5035175155978832479" object_number="27" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" High-Reliability Applications" ID="ID_60359850" CREATED="1411539431368" MODIFIED="1411539431368" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="14" object_id="7462611339188845373" object_number="31" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Quantitative Assessment of Reliability" ID="ID_1370225415" CREATED="1411539431354" MODIFIED="1411539431354" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="16" object_id="5825854461227274707" object_number="35" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Requirements on Reliability" ID="ID_678335889" CREATED="1411539431342" MODIFIED="1411539431342" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="17" object_id="6305668395750336397" object_number="39" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" SEU Mechanisms" ID="ID_1297850538" CREATED="1411539431332" MODIFIED="1411539431333" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="18" object_id="4260647317643884382" object_number="43" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Mitigation" ID="ID_553781714" CREATED="1411539431321" MODIFIED="1411539431321" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="21" object_id="4387477731586638590" object_number="47" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Background Work" ID="ID_107736457" CREATED="1411539431288" MODIFIED="1411539431289" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="22" object_id="2986513693136853719" object_number="51" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Trend in Single Event Sensitivity" ID="ID_1582948086" CREATED="1411539431308" MODIFIED="1411539431308" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="29" object_id="747639698743975215" object_number="55" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" The Onset of Proton Direct Ionization Upsets" ID="ID_704268703" CREATED="1411539431286" MODIFIED="1411539431286" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="31" object_id="4244617227023141865" object_number="59" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Conclusions" ID="ID_198233441" CREATED="1411539431274" MODIFIED="1411539431275" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="32" object_id="1366855802230453179" object_number="63" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT="II.  Physical Processes" ID="ID_589766435" CREATED="1411539431083" MODIFIED="1411539431083" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="34" object_id="4230179365090260051" object_number="67" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Electronic Interactions" ID="ID_1879701809" CREATED="1411539431247" MODIFIED="1411539431247" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="35" object_id="5755347021521399450" object_number="71" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Electronic Stopping" ID="ID_343527903" CREATED="1411539431260" MODIFIED="1411539431260" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="35" object_id="494864746297875673" object_number="75" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Electron Stripping" ID="ID_1709683802" CREATED="1411539431245" MODIFIED="1411539431245" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="36" object_id="6003601012608075799" object_number="79" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Range" ID="ID_1903736105" CREATED="1411539431233" MODIFIED="1411539431233" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="38" object_id="3569412358948656843" object_number="83" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Nuclear Interactions" ID="ID_833373290" CREATED="1411539431128" MODIFIED="1411539431128" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="38" object_id="1891363686176373353" object_number="87" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Coulomb Scattering" ID="ID_1513524490" CREATED="1411539431221" MODIFIED="1411539431222" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="40" object_id="2108948252530750511" object_number="91" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Nuclear Elastic Scattering" ID="ID_1718255336" CREATED="1411539431205" MODIFIED="1411539431205" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="40" object_id="3941543586449960177" object_number="95" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Nuclear Inelastic Scattering" ID="ID_1748372295" CREATED="1411539431171" MODIFIED="1411539431171" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="41" object_id="5499252083565664397" object_number="99" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Spallation" ID="ID_721940751" CREATED="1411539431155" MODIFIED="1411539431155" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="41" object_id="7903627866358594319" object_number="103" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Pion Production" ID="ID_1930988071" CREATED="1411539431139" MODIFIED="1411539431139" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="41" object_id="2901803657965194328" object_number="107" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Capture" ID="ID_1195527394" CREATED="1411539431126" MODIFIED="1411539431126" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="42" object_id="3132559176184762017" object_number="111" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Decay" ID="ID_1857837709" CREATED="1411539431096" MODIFIED="1411539431096" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="42" object_id="8483189838095604980" object_number="115" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Pion Decay" ID="ID_471552212" CREATED="1411539431112" MODIFIED="1411539431112" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="42" object_id="3494793929526962202" object_number="119" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Muon Decay" ID="ID_1665855931" CREATED="1411539431093" MODIFIED="1411539431093" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="43" object_id="6061941058383639400" object_number="123" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Conclusions" ID="ID_1633616541" CREATED="1411539431081" MODIFIED="1411539431081" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="43" object_id="134235385235607098" object_number="127" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT="III.  Radiation Environments" ID="ID_386405291" CREATED="1411539430985" MODIFIED="1411539430985" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="45" object_id="2548998950685207458" object_number="131" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Extraterrestrial Environments" ID="ID_1008664471" CREATED="1411539431044" MODIFIED="1411539431044" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="46" object_id="7969479227871706991" object_number="135" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Interplanetary Space" ID="ID_1670698533" CREATED="1411539431060" MODIFIED="1411539431060" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="46" object_id="5828884193149277793" object_number="139" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Near Earth" ID="ID_669038072" CREATED="1411539431041" MODIFIED="1411539431041" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="47" object_id="8417047383770046152" object_number="143" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Terrestrial Environments" ID="ID_1645092483" CREATED="1411539430996" MODIFIED="1411539430996" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="52" object_id="3963061269768761283" object_number="147" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Neutron Component" ID="ID_69451090" CREATED="1411539431030" MODIFIED="1411539431030" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="55" object_id="6292386660997183122" object_number="151" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Proton Component" ID="ID_39216351" CREATED="1411539431011" MODIFIED="1411539431011" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="55" object_id="5297861583118513259" object_number="155" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Muon Component" ID="ID_1748954386" CREATED="1411539430994" MODIFIED="1411539430994" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="56" object_id="6241416672070289" object_number="159" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Conclusions" ID="ID_388786719" CREATED="1411539430983" MODIFIED="1411539430983" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="58" object_id="6350051938668044110" object_number="163" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT="IV.  Accelerated Testing" ID="ID_535662549" CREATED="1411539430817" MODIFIED="1411539430817" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="60" object_id="1801027664858960861" object_number="167" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Devices Under Test" ID="ID_1170127168" CREATED="1411539430975" MODIFIED="1411539430975" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="61" object_id="2541331209914071579" object_number="171" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Heavy Ion Accelerated Tests" ID="ID_1147723919" CREATED="1411539430956" MODIFIED="1411539430956" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="63" object_id="8253514585346285654" object_number="175" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Accelerated Test Setup" ID="ID_114184108" CREATED="1411539430963" MODIFIED="1411539430963" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="63" object_id="3974724524234394180" object_number="179" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Accelerated Test Results" ID="ID_469697825" CREATED="1411539430954" MODIFIED="1411539430954" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="64" object_id="9045489439377371077" object_number="183" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Proton Accelerated Testing" ID="ID_1891397012" CREATED="1411539430928" MODIFIED="1411539430928" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="66" object_id="7309885148738389166" object_number="187" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Accelerated Test Setup" ID="ID_534210909" CREATED="1411539430942" MODIFIED="1411539430942" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="67" object_id="5579874118255937680" object_number="191" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Accelerated Test Results" ID="ID_19947611" CREATED="1411539430925" MODIFIED="1411539430926" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="68" object_id="7643501466018435569" object_number="195" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Muon Accelerated Testing" ID="ID_708916291" CREATED="1411539430865" MODIFIED="1411539430865" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="71" object_id="5744955799232667162" object_number="199" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Accelerated Test Setup" ID="ID_1156496607" CREATED="1411539430911" MODIFIED="1411539430911" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="73" object_id="4235114071297314124" object_number="203" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Experimental Validation" ID="ID_1545510784" CREATED="1411539430898" MODIFIED="1411539430898" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="76" object_id="5187581450841916085" object_number="207" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Accelerated Test Results" ID="ID_1843731547" CREATED="1411539430879" MODIFIED="1411539430879" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="78" object_id="1578870726490703912" object_number="211" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Effect of technology" ID="ID_1655668820" CREATED="1411539430864" MODIFIED="1411539430864" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="81" object_id="1786739415219879748" object_number="215" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Hardness Assurance Methods" ID="ID_1580716916" CREATED="1411539430832" MODIFIED="1411539430832" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="84" object_id="1340157309769038919" object_number="219" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Recommendations" ID="ID_516802228" CREATED="1411539430850" MODIFIED="1411539430850" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="84" object_id="4059343261570550386" object_number="223" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Low-Energy Proton Testing with a Cyclotron" ID="ID_236741569" CREATED="1411539430829" MODIFIED="1411539430829" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="89" object_id="6882242862552708745" object_number="227" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Conclusions" ID="ID_1955941059" CREATED="1411539430813" MODIFIED="1411539430813" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="91" object_id="3603185063029225865" object_number="231" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT="V.  Rate Prediction Analyses" ID="ID_1896282543" CREATED="1411539430731" MODIFIED="1411539430731" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="94" object_id="102833849757819995" object_number="235" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Traditional Approaches" ID="ID_1376208982" CREATED="1411539430803" MODIFIED="1411539430803" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="94" object_id="3546651579868407024" object_number="239" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" TCAD and SPICE Analysis" ID="ID_1293281457" CREATED="1411539430792" MODIFIED="1411539430792" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="95" object_id="2950821689174330812" object_number="243" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Radiation Transport Modeling" ID="ID_1661378821" CREATED="1411539430781" MODIFIED="1411539430782" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="98" object_id="8523555637839026756" object_number="247" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Single Event Upset Predictions" ID="ID_7831755" CREATED="1411539430748" MODIFIED="1411539430748" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="102" object_id="2116088210800043501" object_number="251" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Proton Response" ID="ID_1604417725" CREATED="1411539430768" MODIFIED="1411539430768" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="103" object_id="6196296645392897553" object_number="255" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Rate Predictions" ID="ID_1307317051" CREATED="1411539430746" MODIFIED="1411539430747" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="105" object_id="8094549216724237493" object_number="259" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Conclusions" ID="ID_382617940" CREATED="1411539430724" MODIFIED="1411539430724" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="109" object_id="1433318075758272301" object_number="263" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT="VI.  Implications for Future Devices" ID="ID_1260288935" CREATED="1411539430673" MODIFIED="1411539430673" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="111" object_id="3756696354433219150" object_number="267" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" Charge Collection Models" ID="ID_1876598956" CREATED="1411539430687" MODIFIED="1411539430687" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="113" object_id="4350500864242498993" object_number="271" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+<node TEXT=" On-Orbit Single Event Upsets" ID="ID_68557773" CREATED="1411539430702" MODIFIED="1411539430702" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="116" object_id="4011360246273503216" object_number="275" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT=" Terrestrial Single Event Upsets" ID="ID_462584090" CREATED="1411539430684" MODIFIED="1411539430684" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="119" object_id="1598612117203232661" object_number="279" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT=" Conclusions" ID="ID_1761743202" CREATED="1411539430671" MODIFIED="1411539430671" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="120" object_id="6735291104731113207" object_number="283" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT="VII.  Conclusions" ID="ID_299205861" CREATED="1411539430663" MODIFIED="1411539430663" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="125" object_id="3302900070333455591" object_number="287" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="Appendix A: EXPACS Generated Flux Spectra" ID="ID_1758654555" CREATED="1411539430652" MODIFIED="1411539430652" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="128" object_id="3799554695271332019" object_number="291" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="References " ID="ID_385098706" CREATED="1411539430638" MODIFIED="1411539430638" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<pdf_annotation type="BOOKMARK" page="138" object_id="4320276829955624360" object_number="295" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
+    <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
+</pdf_annotation>
+<attribute NAME="authors" VALUE="Brian Sierawski"/>
+<attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+</node>
+<node TEXT="Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA" ID="ID_1248100795" CREATED="1411247618646" MODIFIED="1411706656551" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06353739.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DE7C9C241BD457CFC82765F1AF62AFB313D27BC5D56B2ADF87D75170717BFF">
+    <pdf_title>Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="4077277"/>
+<attribute NAME="authors" VALUE="O&apos;Bryan, M.V. and Poivey, C. and Kniffin, S.D. and Buchner, S.P. and Ladbury, R.L. and Oldham, T.R. and Howard, J.W. and LaBel, K.A and Sanders, AB. and Berg, M. and Marshall, C.J. and Marshall, P.W. and Kim, H.S. and Dung-Phan, AM. and Hawkins, D.K. and Carts, M.A and Forney, J.D. and Irwin, T. and Seidleck, C.M. and Cox, S.R. and Friendlich, M. and Flanigan, R.J. and Petrick, D. and Powell, W. and Karsh, J. and Baze, M.P."/>
+<attribute NAME="title" VALUE="Compendium of Single Event Effects Results for Candidate Spacecraft Electronics for NASA"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices" ID="ID_865575048" CREATED="1411247618572" MODIFIED="1411706586700" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06204100.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="40F3BD4CA8D111EFF4AB1117A09042324658F5F35C155EAF4E1AE4551AF14AF4">
+    <pdf_title>Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6204100"/>
+<attribute NAME="journal" VALUE="Plasma Science, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Estep, N.A and Petrosky, J.C. and McClory, J.W. and Kim, Y. and Terzuoli, AJ."/>
+<attribute NAME="title" VALUE="Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices" ID="ID_1948641765" CREATED="1411247618578" MODIFIED="1411706608484" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06522833.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="2EFE6BA933F61650DD8C392DAD8143B6AFB371DC3FCE47529B5238B5F1B5B">
+    <pdf_title>Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6522833"/>
+<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Fleetwood, D.M."/>
+<attribute NAME="title" VALUE="Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices"/>
 <attribute NAME="year" VALUE="2013"/>
 </node>
-<node TEXT="Error Detection by Duplicated Instructions in Super-Scalar Processors" ID="ID_948503780" CREATED="1411611275304" MODIFIED="1411789966993" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994913.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="9B7D52B8685D26C9D8A66D9ACC4B14C9EA2C9625E3AFE997335D3D9CAFC563E3">
-    <pdf_title>Error Detection by Duplicated Instructions in Super-Scalar Processors</pdf_title>
+<node TEXT="Radiation Effects on Embedded Systems" ID="ID_1149820032" CREATED="1411539417733" MODIFIED="1411609865160" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4020-5646-8.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0"/>
+<attribute NAME="key" VALUE="Velazco2007"/>
+<attribute NAME="authors" VALUE="Velazco, Raoul and Fouillat, Pascal and da Luz Reis, Ricardo Augusto"/>
+<attribute NAME="title" VALUE="Radiation effects on embedded systems"/>
+<attribute NAME="year" VALUE="2007"/>
+</node>
+<node TEXT="Ultra-Wideband, Short Pulse Electromagnetics 9" ID="ID_949771980" CREATED="1411611272152" MODIFIED="1411779490904" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-77845-7.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F0EFC45435515DCCC3A19562C3CCC565FD7FA26FE3D29E921E2E1E5CE51D3E">
+    <pdf_title>Ultra-Wideband, Short Pulse Electromagnetics 9</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="994913"/>
-<attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
-<attribute NAME="title" VALUE="Error detection by duplicated instructions in super-scalar processors"/>
-<attribute NAME="year" VALUE="2002"/>
+<attribute NAME="key" VALUE="F.Sabath2010"/>
+<attribute NAME="title" VALUE="Ultra-Wideband, Short Pulse Electromagnetics 9"/>
+<attribute NAME="year" VALUE="2010"/>
+</node>
+<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1411834087201" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
 </node>
 <node TEXT="Soft Errors in Modern Electronic Systems" FOLDED="true" ID="ID_930099762" CREATED="1411611275312" MODIFIED="1411790564881" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
@@ -8564,17 +7356,80 @@
 </node>
 <node TEXT="Soft Errors in Modern Electronic Systems" ID="ID_500119958" CREATED="1411790448879" MODIFIED="1411790448879"/>
 </node>
-<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_605248550" CREATED="1411611275513" MODIFIED="1411706462262" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05720529.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="17CA6DE573D6F4EEF27B7D76810A85EEE1417D224FEBB053E59524E5D45EEB">
-    <pdf_title>Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique</pdf_title>
+<node TEXT="The Impact of Technology Scaling on Soft Error Rate Performance and Limits to the Efficacy of Error Correction" ID="ID_1453219291" CREATED="1411836924014" MODIFIED="1411878528100" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/01175845.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A57525C42BE3AA58C97B1DB66717E7EA259863229BDE4A3B368EB3A892B4">
+    <pdf_title>- -</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5720529"/>
-<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Rosa, L. and Kastensmidt, F.L."/>
-<attribute NAME="title" VALUE="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique"/>
-<attribute NAME="year" VALUE="2011"/>
+<attribute NAME="key" VALUE="1175845"/>
+<attribute NAME="authors" VALUE="Baumann, R."/>
+<attribute NAME="title" VALUE="The impact of technology scaling on soft error rate performance and limits to the efficacy of error correction"/>
+<attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="Dependability in Electronic Systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances" FOLDED="true" ID="ID_1912538657" CREATED="1411611275522" MODIFIED="1411791245379" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues" ID="ID_1111008332" CREATED="1411539429997" MODIFIED="1411709433801" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="year" VALUE="2003"/>
+</node>
+<node TEXT="Single-Event Effects in CMOS Image Sensors" ID="ID_429554744" CREATED="1411247622170" MODIFIED="1411707504504" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06519952.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="18285461374C9FBBAB3CD4AD4279A11E1B47A22C581CEECA8BA72F718C43152">
+    <pdf_title>Single-Event Effects in CMOS Image Sensors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6519952"/>
+<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Lalucaa, V. and Goiffon, V. and Magnan, P. and Rolland, G. and Petit, S."/>
+<attribute NAME="title" VALUE="Single-Event Effects in CMOS Image Sensors"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013" ID="ID_123087803" CREATED="1411247622135" MODIFIED="1411707486574" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06482273.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A369AAFC35D92B86E2B555596ABA443526F83AFC955B40BCA4DE412583992E">
+    <pdf_title>Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6482273"/>
+<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Galloway, K.F. and Primich, T."/>
+<attribute NAME="title" VALUE="Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="Single-event soft errors in CMOS logic" ID="ID_578028470" CREATED="1411247622123" MODIFIED="1411622917972" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Technology Scaling and Soft Error Reliability" ID="ID_347099177" CREATED="1411247622128" MODIFIED="1411707455072" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+</node>
+<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1412048480432" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Dependabilidade(Dependability)
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#7c0000"/>
+<node TEXT="Dependability in Electronic Systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances" FOLDED="true" ID="ID_1912538657" CREATED="1411611275522" MODIFIED="1411791245379" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf" MOVED="1411880090316">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 <attribute NAME="key" VALUE="Kanekawa2011"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
@@ -9715,61 +8570,47 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="Fault-Tolerant Computing for Radiation Environments" ID="ID_339415893" CREATED="1411611277958" MODIFIED="1411705936754" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/CRC-TR-01-6.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="EB18B62F98D7CCDCF39A2932EADF5E38C2F343E444233DFDA99B429FA3B5">
-    <pdf_title>TECHNICAL REPORT</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Shirvani2001"/>
-<attribute NAME="authors" VALUE="Shirvani, Philip Payman and Adviser-Mccluskey, Edward J"/>
-<attribute NAME="title" VALUE="Fault-tolerant computing for radiation environments"/>
-<attribute NAME="year" VALUE="2001"/>
+<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1412048480535" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="confiabilidade (reliability)" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1412048480535" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
+<font BOLD="false"/>
+<node TEXT="medida do tempo de funcionamento de um sistema at&#xe9; falhar, ou da probabilidade de n&#xe3;o falhar durante o tempo de miss&#xe3;o (ex.:MTTF, MTBF, 10-5 falhas/hora, 99.9%)" ID="ID_1611290074" CREATED="1411860915945" MODIFIED="1411860919478" MOVED="1411860922539"/>
 </node>
-<node TEXT="Concurrent Detection of Software and Hardware Data-Access Faults" ID="ID_1306654622" CREATED="1411611277965" MODIFIED="1411833801248" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00588046.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E0F7374BD26FEB0489284A8798DE276D9E260D033868AC77B03DABCE12630">
-    <pdf_title>Concurrent Detection of Software and Hardware Data-Access Faults</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="588046"/>
-<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Wilken, K.D. and Kong, T."/>
-<attribute NAME="title" VALUE="Concurrent detection of software and hardware data-access faults"/>
-<attribute NAME="year" VALUE="1997"/>
+<node TEXT="disponibilidade (availability)" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1412048480535" DCR_PRIVACY_LEVEL="DEMO">
+<hook NAME="FirstGroupNode"/>
+<node TEXT="medida do tempo (ou %) em que o sistema est&#xe1; operacional (ex.: MTBF/(MTBF+MTTR), 5000h/ano)" ID="ID_1771869519" CREATED="1411860934455" MODIFIED="1411860936807" MOVED="1411860939275"/>
 </node>
-<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1411834087201" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<node TEXT="reparabilidade (maintainability)" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1412048480536" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1412048480536" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1409436893" CREATED="1411611277983" MODIFIED="1411705874517" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01319663.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E668D0EFFDC85F14458CACAC84F0BC471EBC34AD395A35259AFF3E68366862">
-    <pdf_title>Hybrid Soft Error Detection by means of Infrastructure IP cores</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1319663"/>
-<attribute NAME="authors" VALUE="Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
-<attribute NAME="title" VALUE="Hybrid soft error detection by means of infrastructure IP cores [SoC implementation]"/>
-<attribute NAME="year" VALUE="2004"/>
+<node TEXT="seguran&#xe7;a contra acidentes (safety)" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1412048480536" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="medida da fiabilidade do sistema relativa a faltas que ocasionem efeitos catastr&#xf3;ficos" ID="ID_938916906" CREATED="1411860999742" MODIFIED="1411861002690" MOVED="1411861005203"/>
 </node>
-<node TEXT="Soft-error detection using control flow assertions" ID="ID_544471556" CREATED="1411611277990" MODIFIED="1411834164716" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01250158.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1388EE1C7B7C77B799506F97E75C116A55DB6AAC4A2288E28C33396727EEA8">
-    <pdf_title>Soft-error Detection Using Control Flow Assertions</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1250158"/>
-<attribute NAME="authors" VALUE="Goloubeva, O. and Rebaudengo, M. and Reorda, M.S. and Violante, M."/>
-<attribute NAME="title" VALUE="Soft-error detection using control flow assertions"/>
-<attribute NAME="year" VALUE="2003"/>
+<node TEXT="seguran&#xe7;a contra acesso n&#xe3;o autorizado (security)" ID="ID_1077168734" CREATED="1411860750229" MODIFIED="1411860764146">
+<node TEXT="idem, relativo a faltas contra integridade, confidencialidade e autenticidade" ID="ID_1580126393" CREATED="1411861015289" MODIFIED="1411861017812" MOVED="1411861019923"/>
 </node>
-<node TEXT="Configurable tool to protect processors against SEE by software-based detection techniques" ID="ID_1423242595" CREATED="1411611277995" MODIFIED="1411834201097" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06261259.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="497B313F646267BE4DFA15638C1C46AF7FE2979D62B24467C42A19B3448A">
-    <pdf_title>Configurable Tool to Protect Processors against SEE by Software-based Detection Techniques</pdf_title>
+</node>
+<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1412048480536" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Falha(fault)" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1412048480536" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="define-se como a causa f&#xed;sica ou algor&#xed;tmica do erro" ID="ID_1619338102" CREATED="1411863391820" MODIFIED="1411863408032" MOVED="1411863413368"/>
+</node>
+<node TEXT="Erro(error)" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1412048480536" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT=" Define-se que um sistema est&#xe1; em estado err&#xf4;neo, ou em erro, se o processamento posterior a partir desse estado pode levar a um defeito" ID="ID_575761268" CREATED="1411863458582" MODIFIED="1411863484409" MOVED="1411863489937"/>
+</node>
+<node TEXT="Defeito(failure)" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1412048480536" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
+<font BOLD="false"/>
+<node TEXT="&#xe9; definido como um desvio da especifica&#xe7;&#xe3;o" ID="ID_618166955" CREATED="1411863351666" MODIFIED="1411863425108" MOVED="1411863358800"/>
+</node>
+</node>
+<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1412048480537" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1412048480537" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1411834765848" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
+    <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6261259"/>
-<attribute NAME="authors" VALUE="Chielle, E. and Barth, Raul Sergio and Lapolli, Angelo Cardoso and Kastensmidt, F.L."/>
-<attribute NAME="title" VALUE="Configurable tool to protect processors against SEE by software-based detection techniques"/>
-<attribute NAME="year" VALUE="2012"/>
+<attribute NAME="key" VALUE="6114526"/>
+<attribute NAME="authors" VALUE="Tran, D. A and Virazel, A and Bosio, A and Dilillo, L. and Girard, P. and Pravossoudovitch, S. and Wunderlich, H. -J"/>
+<attribute NAME="title" VALUE="A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits"/>
+<attribute NAME="year" VALUE="2011"/>
 </node>
 <node TEXT="Software-Implemented Hardware Fault Tolerance Experiments COTS in Space" ID="ID_1828303689" CREATED="1411611278001" MODIFIED="1411705820979" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/SIHFT_000512.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="73B057B7848ACA3A0417480136E8CF71F5254FF9484FB77451E28AB1674B">
@@ -9780,23 +8621,802 @@
 <attribute NAME="title" VALUE="Software-implemented hardware fault tolerance experiments: COTS in space"/>
 <attribute NAME="year" VALUE="2000"/>
 </node>
-<node TEXT="An Hybrid Architecture to Detect Transient Faults in Microprocessors" ID="ID_1887115306" CREATED="1411611278009" MODIFIED="1411834374627" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06176590.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="25E992F7A2715694BC4A9929EB5ED384262CEDE3BD7D689051E82EFCCC97C48">
-    <pdf_title>An Hybrid Architecture to Detect Transient Faults in Microprocessors</pdf_title>
+<node TEXT="Fault-Tolerant Computing for Radiation Environments" ID="ID_339415893" CREATED="1411611277958" MODIFIED="1411705936754" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/CRC-TR-01-6.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="EB18B62F98D7CCDCF39A2932EADF5E38C2F343E444233DFDA99B429FA3B5">
+    <pdf_title>TECHNICAL REPORT</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6176590"/>
-<attribute NAME="authors" VALUE="Campagna, S. and Violante, M."/>
-<attribute NAME="title" VALUE="An hybrid architecture to detect transient faults in microprocessors: An experimental validation"/>
+<attribute NAME="key" VALUE="Shirvani2001"/>
+<attribute NAME="authors" VALUE="Shirvani, Philip Payman and Adviser-Mccluskey, Edward J"/>
+<attribute NAME="title" VALUE="Fault-tolerant computing for radiation environments"/>
+<attribute NAME="year" VALUE="2001"/>
+</node>
+<node TEXT="Fault-Tolerance Projects at Stanford CRC" ID="ID_1890067867" CREATED="1411611275262" MODIFIED="1411612683184" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/shirvanimapld99.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F07FE3B2732353CA4E5066D947998E472CF361BC34BE9E5CFAB8EC212858726">
+    <pdf_title>Fault-Tolerance Projects at Stanford CRC</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Shirvani1999"/>
+<attribute NAME="authors" VALUE="Shirvani, Philip P and Saxena, Nirmal and Oh, Nahmsuk and Mitra, Subhasish and Yu, Shu-Yi and Huang, Wei-Je and Fernandez-Gomez, Santiago and Touba, Nur A and McCluskey, Edward J"/>
+<attribute NAME="title" VALUE="Fault-Tolerance Projects at Stanford CRC"/>
+<attribute NAME="year" VALUE="1999"/>
+</node>
+<node TEXT="AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors" ID="ID_836763964" CREATED="1411247618509" MODIFIED="1411706550668" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/AR-SMT.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3E8C555745A4B79315CE07BFF9FC1D8BA6BE684E40BA3419EBFB3998157AD6">
+    <pdf_title>AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="781037"/>
+<attribute NAME="authors" VALUE="Rotenberg, E."/>
+<attribute NAME="title" VALUE="AR-SMT: a microarchitectural approach to fault tolerance in microprocessors"/>
+<attribute NAME="year" VALUE="1999"/>
+</node>
+<node TEXT="Single Event Upset Tolerance in Flip-Flop Based Microprocessor Cores" ID="ID_1139968544" CREATED="1411611275149" MODIFIED="1411780041718" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06378204.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1797D527E212DF49487635C35246635E59EC78CB538FE83C9A58EF4837E85CE7">
+    <pdf_title>Single Event Upset Tolerance in Flip-Flop Based Microprocessor Cores</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6378204"/>
+<attribute NAME="authors" VALUE="Valadimas, S. and Tsiatouhas, Y. and Arapoyanni, A and Evans, A"/>
+<attribute NAME="title" VALUE="Single event upset tolerance in flip-flop based microprocessor cores"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="Experimental Evaluation of Three Concurrent Error Detection Mechanisms" ID="ID_165605468" CREATED="1411611278030" MODIFIED="1411834505304" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04243649.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E954FD21BC57B26DDE104D5A83BF77B3FAC4E4AE2D8FCE445B88085F0C344CB">
-    <pdf_title>Experimental</pdf_title>
+<node TEXT="SWIFT: Software Implemented Fault Tolerance" ID="ID_652368858" CREATED="1411247618585" MODIFIED="1411706632753" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01402092.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8147595D213C833218CFECE5CE779C6397293DA426122F2EF673E54BB0D2">
+    <pdf_title>SWIFT: Software Implemented Fault Tolerance</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4243649"/>
-<attribute NAME="authors" VALUE="Vahdatpour, A and Fazeli, M. and Miremadi, S.G."/>
-<attribute NAME="title" VALUE="Experimental Evaluation of Three Concurrent Error Detection Mechanisms"/>
+<attribute NAME="key" VALUE="1402092"/>
+<attribute NAME="authors" VALUE="Reis, G.A and Chang, J. and Vachharajani, N. and Rangan, R. and August, D.I"/>
+<attribute NAME="title" VALUE="SWIFT: software implemented fault tolerance"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="ALGORITHM-BASED FAULT TOLERANCE: A PERFORMANCE PERSPECTIVE BASED ON ERROR RATE" ID="ID_148624973" CREATED="1411611275215" MODIFIED="1411782493128" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/alyamaniDSN01.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3F661BE05843B14158F46D23A291859F46529F891B84AC9BCD782BE5588A55">
+    <pdf_title>w w</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Al-Yamani_algorithm-basedfault"/>
+<attribute NAME="authors" VALUE="Ahmad A. Al-Yamani and Nahmsuk Oh and Edward J. McCluskey"/>
+<attribute NAME="title" VALUE="Algorithm-Based Fault Tolerance: A Performance Perspective Based on Error Rate"/>
+</node>
+<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault&#xa;Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_297030936" CREATED="1411611275250" MODIFIED="1411783335124" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06131362.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="458A25552E5BFEBB0EF8999DE056919B317C612CE62983B5387A2FDBAEE086">
+    <pdf_title>Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6131362"/>
+<attribute NAME="authors" VALUE="Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R."/>
+<attribute NAME="title" VALUE="Non-intrusive reconfigurable HW/SW fault tolerance approach to detect transient faults in microprocessor systems"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="Fault tolerant system design and SEU injection based testing" ID="ID_143909533" CREATED="1411539430068" MODIFIED="1411776347900" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Straka2013155"/>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+<node TEXT="Fault tolerant system design and SEU injection based testing" FOLDED="true" ID="ID_1369877333" CREATED="1411539430065" MODIFIED="1411539430065" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="422231591419846001" object_number="552" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Straka2013155"/>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+<node TEXT="1 Introduction" ID="ID_647856713" CREATED="1411539430465" MODIFIED="1411539430465" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="6881972343143052388" object_number="553" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+<node TEXT="1.1 On-line testing and fault tolerance of systems" ID="ID_89757678" CREATED="1411539430569" MODIFIED="1411539430569" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="3982118940914954054" object_number="587" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="1.2 Field Programmable Gate Arrays" ID="ID_1046433578" CREATED="1411539430553" MODIFIED="1411539430553" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="1268334707415058176" object_number="594" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="1.3 Granularity of system replication in FPGA" ID="ID_1674294692" CREATED="1411539430540" MODIFIED="1411539430540" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="2" object_id="207030701242867231" object_number="593" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="1.4 FT methodologies for FPGA-based designs" ID="ID_368141246" CREATED="1411539430525" MODIFIED="1411539430525" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="2" object_id="2074404814804871734" object_number="592" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="1.5 Principles of partial dynamic reconfiguration in FPGA" ID="ID_1993490107" CREATED="1411539430513" MODIFIED="1411539430513" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="3506216482639233071" object_number="591" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="1.6 Partially Reconfigurable Modules" ID="ID_728849892" CREATED="1411539430498" MODIFIED="1411539430498" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="3366148651374948901" object_number="590" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="1.7 Reconfigurable interfaces" ID="ID_1634841793" CREATED="1411539430479" MODIFIED="1411539430480" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="1094457645716621320" object_number="589" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="1.8 FPGA bitstream readback vs. bitstream scrubbing" ID="ID_1529901461" CREATED="1411539430463" MODIFIED="1411539430463" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="4248312557302695931" object_number="588" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+</node>
+<node TEXT="2 Motivation for the research and problem definition" ID="ID_16371157" CREATED="1411539430450" MODIFIED="1411539430450" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="5" object_id="224599960714946530" object_number="572" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="3 Detection of errors in FPGA-based designs" ID="ID_1217169040" CREATED="1411539430441" MODIFIED="1411539430441" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="2604070674332927824" object_number="571" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="4 Highly dependable systems design into FPGA based on partial dynamic reconfiguration" ID="ID_1990764067" CREATED="1411539430409" MODIFIED="1411539430409" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="7" object_id="8152968833358290828" object_number="568" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+<node TEXT="4.1 Detection of faulty modules in FT architectures" ID="ID_1907331981" CREATED="1411539430422" MODIFIED="1411539430422" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="7" object_id="4431313094590322464" object_number="569" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="4.2 Main structure of FT design based on PRMs" ID="ID_817527336" CREATED="1411539430407" MODIFIED="1411539430407" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="7" object_id="3667610765969981164" object_number="570" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+</node>
+<node TEXT="5 Error correction and recovery of faulty modules" ID="ID_1479227891" CREATED="1411539430359" MODIFIED="1411539430359" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="8" object_id="968811449485383779" object_number="565" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+<node TEXT="5.1 Partial reconfiguration controller" ID="ID_1079272494" CREATED="1411539430397" MODIFIED="1411539430397" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="8" object_id="3661685660137899828" object_number="566" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="5.2 Architecture and features of GPDRC" ID="ID_810281162" CREATED="1411539430386" MODIFIED="1411539430387" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="10" object_id="2805597214086833227" object_number="574" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="5.3 GPDRC implemented as TMR architecture with PDR" ID="ID_309638975" CREATED="1411539430372" MODIFIED="1411539430372" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="10" object_id="3497533573898794148" object_number="573" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="5.4 Synchronization problem and safety window" ID="ID_1219156540" CREATED="1411539430358" MODIFIED="1411539430358" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="10" object_id="4229454433711043609" object_number="567" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+</node>
+<node TEXT="6 SEU simulation framework for testing fault tolerant systems based on FPGA" ID="ID_1774937775" CREATED="1411539430276" MODIFIED="1411539430276" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="11" object_id="3995713560517384949" object_number="562" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+<node TEXT="6.1 SEU simulation techniques" ID="ID_935226563" CREATED="1411539430343" MODIFIED="1411539430343" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="11" object_id="5246308184189775005" object_number="563" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="6.2 Requirements on testing platform and SEU generator" ID="ID_1249606053" CREATED="1411539430327" MODIFIED="1411539430327" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="11" object_id="1672465152986488425" object_number="578" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="6.3 Xilinx&#x2019;s solution" ID="ID_188463194" CREATED="1411539430314" MODIFIED="1411539430314" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="11" object_id="9134072049644693320" object_number="577" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="6.4 Proposed solution: external SEU generator" ID="ID_1973826111" CREATED="1411539430301" MODIFIED="1411539430302" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="12" object_id="6862259303046247277" object_number="576" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="6.5 SEU generator implementation" ID="ID_1633074961" CREATED="1411539430290" MODIFIED="1411539430290" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="12" object_id="1163517439280853743" object_number="575" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="6.6 SEU simulation framework" ID="ID_645087975" CREATED="1411539430272" MODIFIED="1411539430272" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="13" object_id="6456892155083255527" object_number="564" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+</node>
+<node TEXT="7 Experimental results" ID="ID_1439828062" CREATED="1411539430131" MODIFIED="1411539430131" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="13" object_id="8985962939412129311" object_number="559" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+<node TEXT="7.1 Digital circuit for testing purposes" ID="ID_1856124800" CREATED="1411539430261" MODIFIED="1411539430261" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="13" object_id="8685035984533098786" object_number="560" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="7.2 Properties and experiments with FT architectures" ID="ID_876388155" CREATED="1411539430246" MODIFIED="1411539430247" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="13" object_id="2566705270982835479" object_number="583" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="7.3 Experiments with GPDRC and MicroBlaze" ID="ID_1721254932" CREATED="1411539430230" MODIFIED="1411539430231" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="14" object_id="4510232496331052371" object_number="582" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="7.4 Experiments with SEU simulation framework and FT architectures" ID="ID_1988252838" CREATED="1411539430147" MODIFIED="1411539430147" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="15" object_id="7054613299908779366" object_number="579" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+<node TEXT="7.4.1 Parameters of tested FT architectures" ID="ID_857400286" CREATED="1411539430215" MODIFIED="1411539430215" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="15" object_id="1367186759329722312" object_number="580" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="7.4.2 SEU simulation framework settings" ID="ID_1372994268" CREATED="1411539430199" MODIFIED="1411539430199" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="15" object_id="5945152589403978018" object_number="586" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="7.4.3 The first experiment &#x2013; how many SEUs will affect the correct function of the architecture" ID="ID_1245667740" CREATED="1411539430183" MODIFIED="1411539430183" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="15" object_id="1584981451134829740" object_number="585" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="7.4.4 The second experiment &#x2013; how many SEUs destroy the correct function of the architecture" ID="ID_541405464" CREATED="1411539430168" MODIFIED="1411539430168" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="15" object_id="2785910351341562818" object_number="584" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="7.4.5 The third experiment &#x2013; experiments with sequential component" ID="ID_348976243" CREATED="1411539430144" MODIFIED="1411539430144" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="16" object_id="2435671788619399545" object_number="581" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+</node>
+<node TEXT="7.5 Evaluation of correct working of FT structure" ID="ID_1735436283" CREATED="1411539430127" MODIFIED="1411539430127" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="17" object_id="2441566141648325273" object_number="561" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+</node>
+<node TEXT="8 The comparison of presented methodology with other techniques" ID="ID_1569990388" CREATED="1411539430111" MODIFIED="1411539430111" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="17" object_id="6418501525434393338" object_number="558" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="9 Conclusions and suggestions for future research" ID="ID_1994099911" CREATED="1411539430095" MODIFIED="1411539430095" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="17" object_id="9171785327800419055" object_number="556" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+<node TEXT="9.1 Future research" ID="ID_1171948181" CREATED="1411539430092" MODIFIED="1411539430092" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="18" object_id="4036357896414876156" object_number="557" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+</node>
+<node TEXT="Acknowledgements" ID="ID_547707505" CREATED="1411539430080" MODIFIED="1411539430080" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="18" object_id="3999136010774003646" object_number="555" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="References" ID="ID_1903866217" CREATED="1411539430062" MODIFIED="1411539430063" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<pdf_annotation type="BOOKMARK" page="18" object_id="8736435020772909201" object_number="554" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
+    <pdf_title>Microprocessors and Microsystems</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
+<attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
+<attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+</node>
+</node>
+<node TEXT="A Foundation for Adaptive Fault Tolerance in Software" ID="ID_187448554" CREATED="1411247622196" MODIFIED="1411707643628" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01194806.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C2BF5025B536A393C5577B7C34CACE1E6E9F436CE5FEE7CDF3AAB5BC463B7">
+    <pdf_title>A Foundation for Adaptive Fault Tolerance in Software</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1194806"/>
+<attribute NAME="authors" VALUE="Whisnant, K. and Kalbarczyk, Z. and Iyer, R.K."/>
+<attribute NAME="title" VALUE="A foundation for adaptive fault tolerance in software"/>
+<attribute NAME="year" VALUE="2003"/>
+</node>
+<node TEXT="Assessing Software Implemented Fault Detection and Fault Tolerance Mechanisms" ID="ID_1574436401" CREATED="1411247618662" MODIFIED="1411706674008" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01250857.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3EFF7CDA527E4103B5A1842F7ECF281E653F6582AA8819B270BC3A93262979">
+    <pdf_title>Assessing Software Implemented Fault Detection and Fault Tolerance Mechanisms</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1250857"/>
+<attribute NAME="authors" VALUE="Gawkowski, P. and Sosnowski, J."/>
+<attribute NAME="title" VALUE="Assessing software implemented fault detection and fault tolerance mechanisms"/>
+<attribute NAME="year" VALUE="2003"/>
+</node>
+<node TEXT="Learning From Advanced Hardware Verification for Hardware Dependent Software" ID="ID_1653689851" CREATED="1411539417630" MODIFIED="1411708263634" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/DVCon_2014_Imperas_Paper_Learning_From_Advanced_Hardware_Verification_for_Hardware_Dependent_Software.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="ED267DF7E81AC9AB7A852AFA4E44346C6275B22A497144B76EF72C1B49AEDA0">
+    <pdf_title>Learning From Advanced Hardware Verification for Hardware Dependent Software</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SimondDavidmann2014"/>
+<attribute NAME="authors" VALUE="Simond Davidmann,&#xa;Duncan Graham"/>
+<attribute NAME="title" VALUE="Learning From Advanced Hardware Verification for Hardware Dependent Software"/>
+<attribute NAME="year" VALUE="2014"/>
+</node>
+<node TEXT="Designing Masking Fault-Tolerance via Nonmasking Fault-Tolerance" ID="ID_918319161" CREATED="1411247618670" MODIFIED="1411706691589" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00689401.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C219F4B5942887F5E8EF58B852BD34A9A442B6752C1F8B3BE7BBE61C8EF1371">
+    <pdf_title>Designing Masking Fault-Tolerance via Nonmasking Fault-Tolerance</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="689401"/>
+<attribute NAME="journal" VALUE="Software Engineering, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Arora, A and Kulkarni, S.S."/>
+<attribute NAME="title" VALUE="Designing masking fault-tolerance via nonmasking fault-tolerance"/>
+<attribute NAME="year" VALUE="1998"/>
+</node>
+<node TEXT="A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation" ID="ID_1904488928" CREATED="1411611275226" MODIFIED="1411783003051" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05640683.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3C665B397D6E623C9CAED7FDA3CC6CF25A0DF95CDBF0F35C41274AB2F55">
+    <pdf_title>A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5640683"/>
+<attribute NAME="journal" VALUE="Solid-State Circuits, IEEE Journal of"/>
+<attribute NAME="authors" VALUE="Bull, D. and Das, S. and Shivashankar, K. and Dasika, G.S. and Flautner, K. and Blaauw, D."/>
+<attribute NAME="title" VALUE="A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="Fault-Tolerance Techniques for SRAM-based FPGAs" ID="ID_1677333206" CREATED="1411611272164" MODIFIED="1411779620974" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-31069-5.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AD1A81AB5C7271B73E3E394F6380BC79F2CF52488B8719F1A82F8739B2DEB560">
+    <pdf_title>Fault-Tolerance Techniques for SRAM-based FPGAs</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Kastensmidt2007"/>
+<attribute NAME="authors" VALUE="Kastensmidt, Fernanda Lima and Reis, Ricardo"/>
+<attribute NAME="title" VALUE="Fault-tolerance techniques for SRAM-based FPGAs"/>
+<attribute NAME="year" VALUE="2007"/>
+</node>
+<node TEXT="Software-implemented hardening against soft errors" ID="ID_588392281" CREATED="1411611275281" MODIFIED="1411789801772" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/SlidesMassimoViolante.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5F1F8548C7C25DC2447EB6ED5B904F2C450881A689D6F445D30EED66426871C">
+    <pdf_title>Software-implemented hardening against soft errors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Violante"/>
+<attribute NAME="authors" VALUE="Massimo Violante"/>
+<attribute NAME="title" VALUE="Software-implemented hardening against soft errors (slides)"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="SOFTWARE-IMPLEMENTED HARDWARE FAULT TOLERANCE" ID="ID_1948858788" CREATED="1411611275193" MODIFIED="1411709055568" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-32937-6.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0"/>
+<attribute NAME="key" VALUE="Goloubeva2006"/>
+<attribute NAME="authors" VALUE="Goloubeva, Olga and Rebaudengo, Maurizio and Reorda, Matteo Sonza and Violante, Massimo"/>
+<attribute NAME="title" VALUE="Software-implemented hardware fault tolerance"/>
 <attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="CFEDR: Control-Flow Error Detection and&#xa;Recovery Using Encoded Signatures Monitoring" ID="ID_1193988716" CREATED="1411611275143" MODIFIED="1411779922019" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06653578.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="49945B883679842CDD1839E5CB191F69ED01657328EBAC579F8ABD52C38AA9D">
+    <pdf_title>CFEDR: Control-Flow Error Detection and Recovery Using Encoded Signatures Monitoring</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6653578"/>
+<attribute NAME="authors" VALUE="Lanfang Tan and Ying Tan and Jianjun Xu"/>
+<attribute NAME="title" VALUE="CFEDR: Control-flow error detection and recovery using encoded signatures monitoring"/>
+<attribute NAME="year" VALUE="2013"/>
+</node>
+<node TEXT="A New Approach to Software-Implemented Fault Tolerance" ID="ID_957692149" CREATED="1411539430599" MODIFIED="1411776396275" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1023%252FB%253AJETT.0000039610.30724.b2.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CD59C517A8D968B180E7BC7EAE9871C42E79E17FFE3D0E22BC6E38074A18CE">
+    <pdf_title>A New Approach to Software-Implemented Fault Tolerance</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Rebaudengo2004"/>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.Sonza and Violante, M."/>
+<attribute NAME="title" VALUE="A New Approach to Software-Implemented Fault Tolerance"/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="Design of A Fault-Tolerant Microprocessor: A Simulation Approach" ID="ID_1834577424" CREATED="1411611272086" MODIFIED="1411778711570" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00640142.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="827EC564DE4D81DFCD9F8B3BD7A5953CEA8B125AF25088BE2C85F1EE9A1977CF">
+    <pdf_title>of</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="640142"/>
+<attribute NAME="authors" VALUE="Kab Joo Lee and Gwan Choi"/>
+<attribute NAME="title" VALUE="Design of a fault-tolerant microprocessor: a simulation approach"/>
+<attribute NAME="year" VALUE="1997"/>
+</node>
+<node TEXT="Strategies for Fault-Tolerant, Space-Based Computing: Lessons Learned from the ARGOS Testbed" ID="ID_903914617" CREATED="1411611275199" MODIFIED="1411781977154" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01035377.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="80CC2DDEFCD475FA10351BF58310D903346FB56581E19E7974D784DF965C1">
+    <pdf_title>ARGOS</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1035377"/>
+<attribute NAME="authors" VALUE="Lovellette, M.N. and Wood, K.S. and Wood, D. L. and Beall, J.H. and Shirvani, P.P. and Oh, N. and McCluskey, E.J."/>
+<attribute NAME="title" VALUE="Strategies for fault-tolerant, space-based computing: Lessons learned from the ARGOS testbed"/>
+<attribute NAME="year" VALUE="2002"/>
+</node>
+<node TEXT="An Experiment with Adaptive Fault Tolerance in Highly-Constrained Systems" ID="ID_1525179419" CREATED="1411247618702" MODIFIED="1411706746882" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00842342.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4A36585F92C581F88732BD9E8A6237CC22BAC3BA531499D4ED4B7B5BE1B5CE">
+    <pdf_title>An Experiment with Adaptive Fault Tolerance in Highly-Constraint Systems</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="842342"/>
+<attribute NAME="authors" VALUE="Shokri, E. and Beltas, P."/>
+<attribute NAME="title" VALUE="An experiment with adaptive fault tolerance in highly-constrained systems"/>
+<attribute NAME="year" VALUE="1999"/>
+</node>
+<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_1271063957" CREATED="1411247622189" MODIFIED="1411783335375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06131362.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="458A25552E5BFEBB0EF8999DE056919B317C612CE62983B5387A2FDBAEE086">
+    <pdf_title>Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6131362"/>
+<attribute NAME="authors" VALUE="Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R."/>
+<attribute NAME="title" VALUE="Non-intrusive reconfigurable HW/SW fault tolerance approach to detect transient faults in microprocessor systems"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="SOFTWARE-IMPLEMENTED HARDWARE FAULT TOLERANCE" ID="ID_1229663338" CREATED="1411539429759" MODIFIED="1411709055417" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-32937-6.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0"/>
+<attribute NAME="key" VALUE="Goloubeva2006"/>
+<attribute NAME="authors" VALUE="Goloubeva, Olga and Rebaudengo, Maurizio and Reorda, Matteo Sonza and Violante, Massimo"/>
+<attribute NAME="title" VALUE="Software-implemented hardware fault tolerance"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="Electronics System Design Techniques for Safety Critical Applications" ID="ID_1682169673" CREATED="1411539420342" MODIFIED="1411609919431" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4020-8979-4.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="9B671AE6AAD67EBB9C64457625B74958F840D08384CF7BEA6EB1B748784154">
+    <pdf_title>Electronics System Design Techniques for Safety Critical Applications</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sterpone2008"/>
+<attribute NAME="authors" VALUE="Sterpone, Luca"/>
+<attribute NAME="title" VALUE="Electronics system design techniques for safety critical applications"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+</node>
+<node TEXT="Modelagem e Inje&#xe7;&#xe3;o de Falhas" ID="ID_165684907" CREATED="1411926028455" MODIFIED="1411937098140">
+<node TEXT="Physical Defect Modeling for Fault Insertion in System Reliability Test" ID="ID_1861870009" CREATED="1411836924270" MODIFIED="1411878771530" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/05355715.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="217F55669AC270293B499EA8316AD97C77EC713D7F925ADBBD4CD386ABB653C9">
+    <pdf_title>Physical Defect Modeling for Fault Insertion in System Reliability Test</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5355715"/>
+<attribute NAME="authors" VALUE="Zhaobo Zhang and Zhanglei Wang and Xinli Gu and Chakrabarty, K."/>
+<attribute NAME="title" VALUE="Physical defect modeling for fault insertion in system reliability test"/>
+<attribute NAME="year" VALUE="2009"/>
+</node>
+<node TEXT="A Study of the Effects of Transient Fault Injection into a 32-bit RISC with Built-in Watchdog" ID="ID_636165393" CREATED="1411836924285" MODIFIED="1411878795239" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/00243569.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4E865C5163FDBC223F479D37AB8FF3CDCE4D2802271CE7F9BFC79CF99EC">
+    <pdf_title>A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog - Fault-Tolerant Computing, FTCS-22. Digest of Papers., Twenty-Second International Symposium on</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="243569"/>
+<attribute NAME="authors" VALUE="Ohlsson, J. and Rimen, M. and Gunneflo, U."/>
+<attribute NAME="title" VALUE="A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog"/>
+<attribute NAME="year" VALUE="1992"/>
+</node>
+<node TEXT="Simulator Independent Fault Simulation using WAVES" ID="ID_80508796" CREATED="1411539430613" MODIFIED="1411776491724" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/DELONG96A.PDF">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="83427726B2FA205ED3195836611B732622303F677054D07B90F16E8650A8D0D9">
+    <pdf_title>vfp9244.PDF</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="DeLong1996"/>
+<attribute NAME="authors" VALUE="DeLong, Todd A and Smith, D Todd and Johnson, Barry W and Hanna, James P"/>
+<attribute NAME="title" VALUE="Simulator Independent Fault Simulation Using WAVES"/>
+<attribute NAME="year" VALUE="1996"/>
+</node>
+<node TEXT="Efficient analysis of single event transients" FOLDED="true" ID="ID_1458998057" CREATED="1411836924034" MODIFIED="1411878603415" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+<node TEXT="Efficient analysis of single event transients" ID="ID_1640460744" CREATED="1411836924028" MODIFIED="1411836924028" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="4907391926913859186" object_number="78" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+<node TEXT="Introduction" ID="ID_550410791" CREATED="1411836924247" MODIFIED="1411836924247" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="4180770027444454321" object_number="79" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="Previous works" ID="ID_249322342" CREATED="1411836924219" MODIFIED="1411836924219" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="2" object_id="3573153056738487544" object_number="88" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="Single event transients" ID="ID_1281796804" CREATED="1411836924199" MODIFIED="1411836924199" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="3" object_id="6080536715286635230" object_number="87" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="Fault list reduction algorithm" ID="ID_1009641858" CREATED="1411836924174" MODIFIED="1411836924174" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="3" object_id="4867504166803318281" object_number="86" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="Simplified SET fault model" ID="ID_1818145431" CREATED="1411836924154" MODIFIED="1411836924154" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="271026279812559491" object_number="83" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="Experimental results" ID="ID_207790086" CREATED="1411836924094" MODIFIED="1411836924095" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="5" object_id="1984578537220786289" object_number="82" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+<node TEXT="Analysis of the fault list reduction algorithm" ID="ID_888253136" CREATED="1411836924124" MODIFIED="1411836924124" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="5" object_id="7698034048352325207" object_number="84" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="Analysis of the vector-bounded fault model" ID="ID_1881031171" CREATED="1411836924088" MODIFIED="1411836924089" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="5638387622217530958" object_number="85" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+</node>
+<node TEXT="Conclusions" ID="ID_1702805704" CREATED="1411836924068" MODIFIED="1411836924069" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="7" object_id="1001310632534794643" object_number="81" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="References" ID="ID_1505471845" CREATED="1411836924025" MODIFIED="1411836924025" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<pdf_annotation type="BOOKMARK" page="7" object_id="4566675062950120705" object_number="80" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
+    <pdf_title>Efficient analysis of single event transients</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
+<attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
+<attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+</node>
+</node>
+<node TEXT="A Survey on Fault Injection Techniques" ID="ID_14728378" CREATED="1411247618811" MODIFIED="1411622814940" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04-Hissam.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE777E67E88F91841A4464E68F81892CCEE0305ADE88CC2D7EE3DC351CC48">
+    <pdf_title>A Survey on Fault Injection Techniques</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Ziade2004"/>
+<attribute NAME="journal" VALUE="Int. Arab J. Inf. Technol."/>
+<attribute NAME="authors" VALUE="Ziade, Haissam and Ayoubi, Rafic A and Velazco, Raoul and others"/>
+<attribute NAME="title" VALUE="A survey on fault injection techniques"/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="High Speed Fault Injection Tool Implemented With Verilog HDL on FPGA for Testing Fault Tolerance Designs" ID="ID_1279092183" CREATED="1411539429989" MODIFIED="1411610056945" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/Q369699-libre.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1D93784065D93E4A61DDB8D5CFACADD83F51CE6C37DE892D76A6BBBA24">
+    <pdf_title>High Speed Fault Injection Tool Implemented With Verilog HDL on FPGA for Testing Fault Tolerance Designs</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Physical Defect Modeling for Fault Insertion in System Reliability Test" ID="ID_1495605135" CREATED="1411539431428" MODIFIED="1411878771876" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/05355715.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="217F55669AC270293B499EA8316AD97C77EC713D7F925ADBBD4CD386ABB653C9">
+    <pdf_title>Physical Defect Modeling for Fault Insertion in System Reliability Test</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5355715"/>
+<attribute NAME="authors" VALUE="Zhaobo Zhang and Zhanglei Wang and Xinli Gu and Chakrabarty, K."/>
+<attribute NAME="title" VALUE="Physical defect modeling for fault insertion in system reliability test"/>
+<attribute NAME="year" VALUE="2009"/>
+</node>
+<node TEXT="A Prototype of a VHDL-based Fault Injection Tool" ID="ID_603625913" CREATED="1411538427043" MODIFIED="1411538587316" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/00887180.pdf" MOVED="1411538444370">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A944C981B5489B57C2D5A658031F83F5BF8E569A4ECCE06DC284C172B63">
+    <pdf_title>A Tool</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="887180"/>
+<attribute NAME="authors" VALUE="Baraza, J.-C. and Gracia, J. and Gil, D. and Gil, P."/>
+<attribute NAME="title" VALUE="A prototype of a VHDL-based fault injection tool"/>
+<attribute NAME="year" VALUE="2000"/>
+</node>
+</node>
+<node TEXT="Detec&#xe7;&#xe3;o de Erros" ID="ID_1238543771" CREATED="1411880005892" MODIFIED="1411880040114">
+<node TEXT="Reliability Analysis of Systems with Concurrent Error Detection" ID="ID_543376500" CREATED="1411611278059" MODIFIED="1411834879884" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01672925.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8C67D3D91FB9BAEE5CC875A6844E6991B7C7EB6BC66E4F7AFD58AAFBDFDB67">
+    <pdf_title>Error Detection</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1672925"/>
+<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Ramamoorthy, C.V. and Yih-Wu Han"/>
+<attribute NAME="title" VALUE="Reliability Analysis of Systems with Concurrent Error Detection"/>
+<attribute NAME="year" VALUE="1975"/>
 </node>
 <node TEXT="Concurrent Error Detection Using Watchdog Processors - A Survey" ID="ID_1745161832" CREATED="1411611278044" MODIFIED="1411834538931" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00002145.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C4DFA6B670D417D74165A0E9AB4CDA9B7AEC6583AD8791BDB8EB32C9896096">
@@ -9808,35 +9428,6 @@
 <attribute NAME="title" VALUE="Concurrent error detection using watchdog processors-a survey"/>
 <attribute NAME="year" VALUE="1988"/>
 </node>
-<node TEXT="Watchdog Processors and Structural Integrity Checking" ID="ID_487780065" CREATED="1411611278052" MODIFIED="1411834629643" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01676066.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="2B32F32C5296F18345FAC346F5116B4125E773599FE164929A7673D52F4E7A1">
-    <pdf_title>CONCLUSION</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1676066"/>
-<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Lu, D.J."/>
-<attribute NAME="title" VALUE="Watchdog Processors and Structural Integrity Checking"/>
-<attribute NAME="year" VALUE="1982"/>
-</node>
-<node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1411834765848" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
-    <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="6114526"/>
-<attribute NAME="authors" VALUE="Tran, D. A and Virazel, A and Bosio, A and Dilillo, L. and Girard, P. and Pravossoudovitch, S. and Wunderlich, H. -J"/>
-<attribute NAME="title" VALUE="A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits"/>
-<attribute NAME="year" VALUE="2011"/>
-</node>
-<node TEXT="Reliability Analysis of Systems with Concurrent Error Detection" ID="ID_543376500" CREATED="1411611278059" MODIFIED="1411834879884" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01672925.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="8C67D3D91FB9BAEE5CC875A6844E6991B7C7EB6BC66E4F7AFD58AAFBDFDB67">
-    <pdf_title>Error Detection</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="1672925"/>
-<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Ramamoorthy, C.V. and Yih-Wu Han"/>
-<attribute NAME="title" VALUE="Reliability Analysis of Systems with Concurrent Error Detection"/>
-<attribute NAME="year" VALUE="1975"/>
-</node>
 <node TEXT="ED4I: Error Detection by Diverse Data and Duplicated Instructions" ID="ID_173818103" CREATED="1411611278065" MODIFIED="1411835009723" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00980007.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="84A75D9D67169CF8FCBA212EC3658E035B71343E086BDAED346DAFC35D147">
     <pdf_title>5534.&gt;?@5A5;AB3C55 ;55;</pdf_title>
@@ -9847,6 +9438,118 @@
 <attribute NAME="title" VALUE="ED4I: error detection by diverse data and duplicated instructions"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
+<node TEXT="Experimental Evaluation of Three Concurrent Error Detection Mechanisms" ID="ID_165605468" CREATED="1411611278030" MODIFIED="1411834505304" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04243649.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E954FD21BC57B26DDE104D5A83BF77B3FAC4E4AE2D8FCE445B88085F0C344CB">
+    <pdf_title>Experimental</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="4243649"/>
+<attribute NAME="authors" VALUE="Vahdatpour, A and Fazeli, M. and Miremadi, S.G."/>
+<attribute NAME="title" VALUE="Experimental Evaluation of Three Concurrent Error Detection Mechanisms"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="Error Detection by Duplicated Instructions in Super-Scalar Processors" ID="ID_948503780" CREATED="1411611275304" MODIFIED="1411789966993" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994913.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="9B7D52B8685D26C9D8A66D9ACC4B14C9EA2C9625E3AFE997335D3D9CAFC563E3">
+    <pdf_title>Error Detection by Duplicated Instructions in Super-Scalar Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="994913"/>
+<attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
+<attribute NAME="title" VALUE="Error detection by duplicated instructions in super-scalar processors"/>
+<attribute NAME="year" VALUE="2002"/>
+</node>
+<node TEXT="Design and Evaluation of Hybrid Fault-Detection Systems" ID="ID_15784652" CREATED="1411611275256" MODIFIED="1411783584539" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01431553.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="37CD057959DB5A875DDB22DD476CAC374EF987DF5FFE2EA30C827D63E9D35">
+    <pdf_title>Design and Evaluation of Hybrid Fault-Detection Systems</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1431553"/>
+<attribute NAME="authors" VALUE="Reis, G.A and Chang, J. and Vachharajani, N. and Mukherjee, S.S. and Rangan, R. and August, D.I"/>
+<attribute NAME="title" VALUE="Design and evaluation of hybrid fault-detection systems"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="Soft-error detection using control flow assertions" ID="ID_544471556" CREATED="1411611277990" MODIFIED="1411834164716" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01250158.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1388EE1C7B7C77B799506F97E75C116A55DB6AAC4A2288E28C33396727EEA8">
+    <pdf_title>Soft-error Detection Using Control Flow Assertions</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1250158"/>
+<attribute NAME="authors" VALUE="Goloubeva, O. and Rebaudengo, M. and Reorda, M.S. and Violante, M."/>
+<attribute NAME="title" VALUE="Soft-error detection using control flow assertions"/>
+<attribute NAME="year" VALUE="2003"/>
+</node>
+<node TEXT="Concurrent Detection of Software and Hardware Data-Access Faults" ID="ID_1306654622" CREATED="1411611277965" MODIFIED="1411833801248" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00588046.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E0F7374BD26FEB0489284A8798DE276D9E260D033868AC77B03DABCE12630">
+    <pdf_title>Concurrent Detection of Software and Hardware Data-Access Faults</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="588046"/>
+<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Wilken, K.D. and Kong, T."/>
+<attribute NAME="title" VALUE="Concurrent detection of software and hardware data-access faults"/>
+<attribute NAME="year" VALUE="1997"/>
+</node>
+<node TEXT="A Study On The Hardware Implementation Of EDAC" ID="ID_441008017" CREATED="1411611275208" MODIFIED="1411782243254" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04682244.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="14E12F1FF2EFD056FB1235299DA2DE7C227B380E8D632581CF12F638EC3">
+    <pdf_title>A Study On The Hardware Implementation Of EDAC</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="4682244"/>
+<attribute NAME="authors" VALUE="Li Hao and Lixin Yu"/>
+<attribute NAME="title" VALUE="A Study on the Hardware Implementation Of EDAC"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_1346855554" CREATED="1411247614659" MODIFIED="1411706461924" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05720529.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="17CA6DE573D6F4EEF27B7D76810A85EEE1417D224FEBB053E59524E5D45EEB">
+    <pdf_title>Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5720529"/>
+<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Rosa, L. and Kastensmidt, F.L."/>
+<attribute NAME="title" VALUE="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core" ID="ID_616251369" CREATED="1411611275136" MODIFIED="1411776259503" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01467779.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B8AED7A81D228BBC8E0B0E6891E360DE5F8D5F9D287A953422B3A0EA9E584">
+    <pdf_title>On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1467779"/>
+<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
+<attribute NAME="title" VALUE="On-line detection of control-flow errors in SoCs by means of an infrastructure IP core"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency" ID="ID_1444775608" CREATED="1411611275168" MODIFIED="1411781352775" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00966768.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CCD3BCA35AB4FB5C5CB26E18143CD7E9EA80ABE74CACB6C44B6FE378657F4">
+    <pdf_title>Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="966768"/>
+<attribute NAME="authors" VALUE="Oh, N. and McCluskey, E.J."/>
+<attribute NAME="title" VALUE="Procedure call duplication: minimization of energy consumption with constrained error detection latency"/>
+<attribute NAME="year" VALUE="2001"/>
+</node>
+<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_605248550" CREATED="1411611275513" MODIFIED="1411706462262" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05720529.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="17CA6DE573D6F4EEF27B7D76810A85EEE1417D224FEBB053E59524E5D45EEB">
+    <pdf_title>Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5720529"/>
+<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Rosa, L. and Kastensmidt, F.L."/>
+<attribute NAME="title" VALUE="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="Soft Error Detection via Double Execution with Hardware Assistance" ID="ID_150472735" CREATED="1411611275237" MODIFIED="1411783107044" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06334568.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3C13F3858D4A3798C32266CAFFE364494B830A1A427A2F675961DDE5E6A6583">
+    <pdf_title>Soft Error Detection via Double Execution with Hardware Assistance</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6334568"/>
+<attribute NAME="authors" VALUE="Bustamante, L. and Al-Asaad, H."/>
+<attribute NAME="title" VALUE="Soft error detection via double execution with hardware assistance"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="A New Concurrent Detection of Control Flow Errors Based on DCT Technique" ID="ID_336936749" CREATED="1411611275174" MODIFIED="1411781504250" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04459660.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FC19AD4ADFFAB5B34F5695A74B925D951B168E2E608146B48F1EDFC6884">
+    <pdf_title>A New Concurrent Detection of Control Flow Errors Based on DCT Technique</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="4459660"/>
+<attribute NAME="authors" VALUE="Hung-Chuan Lai and Shi-Jinn Horng and Yong-Yuan Chen and Pingzhi Fan and Yi Pan"/>
+<attribute NAME="title" VALUE="A New Concurrent Detection of Control Flow Errors Based on DCT Technique"/>
+<attribute NAME="year" VALUE="2007"/>
+</node>
 <node TEXT="A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors" ID="ID_1089741212" CREATED="1411611278073" MODIFIED="1411835052977" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01607502.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="EB7E4C34D186DE81967448C7FCE41392D195E603AC12B19FDB32C49D45">
     <pdf_title>A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors</pdf_title>
@@ -9856,20 +9559,458 @@
 <attribute NAME="title" VALUE="A hardware approach to concurrent error detection capability enhancement in COTS processors"/>
 <attribute NAME="year" VALUE="2005"/>
 </node>
+<node TEXT="Improving Error Detection with S elective Redundancy in Software-based Techniques" ID="ID_384380627" CREATED="1411247614698" MODIFIED="1411706487917" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06562659.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="EF9C252EA4816D3ACF3B773190119620F64A2B59BE76FAB47C23C7A169B7FC">
+    <pdf_title>Improving Error Detection with Selective Redundancy in Software-based Techniques</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6562659"/>
+<attribute NAME="authors" VALUE="Chielle, E. and Azambuja, J.R. and Barth, R.S. and Kastensmidt, F.L."/>
+<attribute NAME="title" VALUE="Improving error detection with selective redundancy in software-based techniques"/>
+<attribute NAME="year" VALUE="2013"/>
 </node>
-<node TEXT="&lt;research category 1&gt;" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO">
-<edge COLOR="#007c7c"/>
+<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_1076407100" CREATED="1411247618829" MODIFIED="1411707101087" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00994926.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA4D594D38C7FD3721EE38EDA210BC8D265245B855D8F937D5CBDD8DF22CC3">
+    <pdf_title>Control-Flow Checking by Software Signatures</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="994926"/>
+<attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
+<attribute NAME="title" VALUE="Control-flow checking by software signatures"/>
+<attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="&lt;research category 2&gt;" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO">
-<edge COLOR="#7c7c00"/>
+<node TEXT="Error Detection Enhancement in COTS Superscalar Processors with Event Monitoring Features" ID="ID_814842855" CREATED="1411611275162" MODIFIED="1411780230853" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01276552.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AB2DDC84ABCC66B2CA14FE6F778FDE5E93D1C49D377B4ADC9F0C6804C6447AA">
+    <pdf_title>Error Detection Enhancement in COTS Superscalar Processors with Event Monitoring Features</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1276552"/>
+<attribute NAME="authors" VALUE="Rajabzadeh, A and Mohandespour, M. and Miremadi, G."/>
+<attribute NAME="title" VALUE="Error detection enhancement in COTS superscalar processors with event monitoring features"/>
+<attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="&lt;research category 3&gt;" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO">
-<edge COLOR="#7c0000"/>
-<node TEXT="&lt;research category 3.1&gt;" ID="ID_322863121" CREATED="1377254985251" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="&lt;research category 3.2&gt;" ID="ID_1951434641" CREATED="1377254985251" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="&lt;research category 3.3&gt;" ID="ID_444536474" CREATED="1377254985251" MODIFIED="1411833109870" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream" ID="ID_538573899" CREATED="1411611275232" MODIFIED="1411783054014" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04030963.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="96C898D7FF3C0748894CB6A165513798A7F576D75BD7FB17262F69B6F49D0">
+    <pdf_title>Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="4030963"/>
+<attribute NAME="authors" VALUE="Rota, F. and Dutt, S. and Krishna, S."/>
+<attribute NAME="title" VALUE="Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream"/>
+<attribute NAME="year" VALUE="2006"/>
 </node>
-<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1411833109871" HGAP="-411" VSHIFT="-225" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node TEXT="Transient Error Detection in Embedded Systems Using Reconfigurable Components" ID="ID_262750164" CREATED="1411247622113" MODIFIED="1411707262572" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04197508.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A16329FFD21CEE2F3EC97B965EC8BE31695A3648A7131A24D4E9904DAC22A6">
+    <pdf_title>Using</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="4197508"/>
+<attribute NAME="authors" VALUE="Vahdatpour, A and Fazeli, M. and Miremadi, S.G."/>
+<attribute NAME="title" VALUE="Transient Error Detection in Embedded Systems Using Reconfigurable Components"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="A New Hybrid Fault Detection Technique&#xa;for Systems-on-a-Chip" ID="ID_217945067" CREATED="1411539430027" MODIFIED="1411776208772" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01566579.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="1A70A5D5EAAAF379FB56FE7432A683B755498C8C867B2BF89EDA6D55D3CEDB">
+    <pdf_title>A New Hybrid Fault Detection Technique for Systems-on-a-Chip</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1566579"/>
+<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani, L.M.V. and Rebaudengo, M. and Reorda, M.S. and Rodri&#x301;guez-Andina, J.J. and Violante, M."/>
+<attribute NAME="title" VALUE="A new hybrid fault detection technique for systems-on-a-chip"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="Software and Hardware Techniques for SEU Detection in IP Processors" FOLDED="true" ID="ID_1906916327" CREATED="1411539431587" MODIFIED="1411878455116" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bolchini2008"/>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+<node TEXT="Software and Hardware Techniques for SEU Detection in IP Processors" ID="ID_1587655122" CREATED="1411539431586" MODIFIED="1411539431586" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="4310668087726885420" object_number="128" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+<node TEXT="Abstract" FOLDED="true" ID="ID_1589158886" CREATED="1411539431584" MODIFIED="1411539431584" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="8377569900832510307" object_number="129" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+<node TEXT="Introduction" ID="ID_1030746879" CREATED="1411539431738" MODIFIED="1411539431738" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="3836657834506765161" object_number="130" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+<node TEXT="The Proposed Approach" ID="ID_125944890" CREATED="1411539431660" MODIFIED="1411539431660" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="2" object_id="2836301608078365508" object_number="136" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+<node TEXT="Fault Model" ID="ID_1889548021" CREATED="1411539431717" MODIFIED="1411539431717" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="2" object_id="3970173899349112169" object_number="137" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+<node TEXT="Software Techniques" ID="ID_1603896857" CREATED="1411539431702" MODIFIED="1411539431702" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="2" object_id="3770916454980934529" object_number="140" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+<node TEXT="Hardware Techniques" ID="ID_681234758" CREATED="1411539431683" MODIFIED="1411539431683" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="5" object_id="3811612192476631252" object_number="139" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+<node TEXT="Software Tuning after Hardware Redundancy Introduction" ID="ID_213716994" CREATED="1411539431658" MODIFIED="1411539431658" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="5" object_id="2346918226577155494" object_number="138" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+</node>
+<node TEXT="Methodology Evaluation" ID="ID_1899663209" CREATED="1411539431623" MODIFIED="1411539431624" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="4783012943391935335" object_number="133" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+<node TEXT="Case Study" ID="ID_1511342083" CREATED="1411539431643" MODIFIED="1411539431643" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="5416522020144869427" object_number="134" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+<node TEXT="Experimental Results" ID="ID_298247279" CREATED="1411539431621" MODIFIED="1411539431622" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="7" object_id="2706032146595968469" object_number="135" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+</node>
+<node TEXT="Conclusion" ID="ID_1715234140" CREATED="1411539431600" MODIFIED="1411539431600" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="9" object_id="3959866534873462529" object_number="132" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+<node TEXT="References" ID="ID_1854734421" CREATED="1411539431581" MODIFIED="1411539431581" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<pdf_annotation type="BOOKMARK" page="9" object_id="7036775002617156920" object_number="131" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
+    <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core" ID="ID_1566727605" CREATED="1411539430035" MODIFIED="1411776259123" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01467779.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="B8AED7A81D228BBC8E0B0E6891E360DE5F8D5F9D287A953422B3A0EA9E584">
+    <pdf_title>On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1467779"/>
+<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
+<attribute NAME="title" VALUE="On-line detection of control-flow errors in SoCs by means of an infrastructure IP core"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_1150015022" CREATED="1411611275156" MODIFIED="1411707101374" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994926.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA4D594D38C7FD3721EE38EDA210BC8D265245B855D8F937D5CBDD8DF22CC3">
+    <pdf_title>Control-Flow Checking by Software Signatures</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="994926"/>
+<attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
+<attribute NAME="title" VALUE="Control-flow checking by software signatures"/>
+<attribute NAME="year" VALUE="2002"/>
+</node>
+<node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1409436893" CREATED="1411611277983" MODIFIED="1411705874517" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01319663.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E668D0EFFDC85F14458CACAC84F0BC471EBC34AD395A35259AFF3E68366862">
+    <pdf_title>Hybrid Soft Error Detection by means of Infrastructure IP cores</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1319663"/>
+<attribute NAME="authors" VALUE="Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
+<attribute NAME="title" VALUE="Hybrid soft error detection by means of infrastructure IP cores [SoC implementation]"/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="Evaluating Selective Redundancy in Data-Flow Software-Based Techniques" ID="ID_162567518" CREATED="1411247614711" MODIFIED="1411706529891" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06560441.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="47631311DE21C49FF9483C5D3465208388655B4CFDB03B4A9F2622D24B0528">
+    <pdf_title>Evaluating Selective Redundancy in Data-Flow Software-Based Techniques</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6560441"/>
+<attribute NAME="authors" VALUE="Chielle, E. and Azambuja, J.R. and Barth, R.S. and Almeida, F. and Kastensmidt, F.L."/>
+<attribute NAME="title" VALUE="Evaluating Selective Redundancy in Data-Flow Software-Based Techniques"/>
+<attribute NAME="year" VALUE="2013"/>
+<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
+</node>
+<node TEXT="Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors" ID="ID_1355615074" CREATED="1411247618843" MODIFIED="1411707121066" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05985914.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8A863A897D3B768F9852AEAE6AD4C87BA1A2F6EC252144C1068BE521D141F81">
+    <pdf_title>Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5985914"/>
+<attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Altieri, M. and Kastensmidt, F.L."/>
+<attribute NAME="title" VALUE="Evaluating the efficiency of data-flow software-based techniques to detect SEEs in microprocessors"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1469915905" CREATED="1411539430005" MODIFIED="1411709456479" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01319663.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E668D0EFFDC85F14458CACAC84F0BC471EBC34AD395A35259AFF3E68366862">
+    <pdf_title>Hybrid Soft Error Detection by means of Infrastructure IP cores</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1319663"/>
+<attribute NAME="authors" VALUE="Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
+<attribute NAME="title" VALUE="Hybrid soft error detection by means of infrastructure IP cores [SoC implementation]"/>
+<attribute NAME="year" VALUE="2004"/>
+</node>
+<node TEXT="SIGNATURE VERIFICATION: A NEW CONCEPT FOR BUILDING SIMPLE AND EFFECTIVE WATCHDOG PROCESSORS" ID="ID_1334838232" CREATED="1411611275187" MODIFIED="1411781877991" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00162054.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="9C9AC09069738F4E4D41242B207E9B13F9E24CE339457B79B39FA9379F1D9F7">
+    <pdf_title>Joao</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="162054"/>
+<attribute NAME="authors" VALUE="Madeira, H. and Camoes, J. and Silva, J.G."/>
+<attribute NAME="title" VALUE="Signature verification: a new concept for building simple and effective watchdog processors"/>
+<attribute NAME="year" VALUE="1991"/>
+</node>
+<node TEXT="Watchdog Processors and Structural Integrity Checking" ID="ID_487780065" CREATED="1411611278052" MODIFIED="1411834629643" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01676066.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="2B32F32C5296F18345FAC346F5116B4125E773599FE164929A7673D52F4E7A1">
+    <pdf_title>CONCLUSION</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1676066"/>
+<attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Lu, D.J."/>
+<attribute NAME="title" VALUE="Watchdog Processors and Structural Integrity Checking"/>
+<attribute NAME="year" VALUE="1982"/>
+</node>
+<node TEXT="An Hybrid Architecture to Detect Transient Faults in Microprocessors" ID="ID_1887115306" CREATED="1411611278009" MODIFIED="1411834374627" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06176590.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="25E992F7A2715694BC4A9929EB5ED384262CEDE3BD7D689051E82EFCCC97C48">
+    <pdf_title>An Hybrid Architecture to Detect Transient Faults in Microprocessors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6176590"/>
+<attribute NAME="authors" VALUE="Campagna, S. and Violante, M."/>
+<attribute NAME="title" VALUE="An hybrid architecture to detect transient faults in microprocessors: An experimental validation"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Effectiveness And Limitations Of Various Software Techniques For &quot;soft Error&quot; Detection: A Comparative Study" ID="ID_975296772" CREATED="1411538599856" MODIFIED="1411538806368" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/00937838.pdf" MOVED="1411538638200">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F695CF81FFCA501D92EEF01DDBD5F7A36452C774D962FF6AB48A0A6CD57AB">
+    <pdf_title>of</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="937838"/>
+<attribute NAME="authors" VALUE="Nicolescu, B. and Velazco, R. and Reorda, M.S."/>
+<attribute NAME="title" VALUE="Effectiveness and limitations of various software techniques for &quot;soft error&quot; detection: a comparative study"/>
+<attribute NAME="year" VALUE="2001"/>
+</node>
+<node TEXT="Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors" ID="ID_1474275653" CREATED="1411611275125" MODIFIED="1411707121255" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05985914.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8A863A897D3B768F9852AEAE6AD4C87BA1A2F6EC252144C1068BE521D141F81">
+    <pdf_title>Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5985914"/>
+<attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Altieri, M. and Kastensmidt, F.L."/>
+<attribute NAME="title" VALUE="Evaluating the efficiency of data-flow software-based techniques to detect SEEs in microprocessors"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="Control-Flow Checking Using Watchdog Assists and Extended-Precision Checksums" ID="ID_1195631821" CREATED="1411611275243" MODIFIED="1411783230513" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00054849.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="58B0B4ACAC7377702AA28ABA29D3A8BC9BBC43827DD48B2A2665187C09190">
+    <pdf_title>micro rollback,</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="105615"/>
+<attribute NAME="authors" VALUE="Saxena, N.R. and McCluskey, E.J."/>
+<attribute NAME="title" VALUE="Control-flow checking using watchdog assists and extended-precision checksums"/>
+<attribute NAME="year" VALUE="1989"/>
+</node>
+<node TEXT="Non-Intrusive Hybrid Signature-Based Technique to Detect SEEs in Microprocessors" ID="ID_795448803" CREATED="1411247618734" MODIFIED="1411706135486" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/azambuja_1.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="F335AFB3A22593BDB7C14EC2A3AC946BA7EBF195A75EBD5C2F911CD6FDE9">
+    <pdf_title>Non-Intrusive Hybrid Signature-Based Technique to Detect SEEs in Microprocessors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Azambuja20112011"/>
+<attribute NAME="authors" VALUE="Azambuja, Jos{\&apos;e} Rodrigo and Altieri, Mauricio and Kastensmidt, Fernanda Lima and H{\&quot;u}bner, Michael and Becker, J{\&quot;u}rgen"/>
+<attribute NAME="title" VALUE="Non-Intrusive Hybrid Signature-Based Technique to Detect SEEs in Microprocessors"/>
+<attribute NAME="journal" VALUE="I Workshop on Dependability Issues in Deep-submicron Technologies (DDT)"/>
+<attribute NAME="year" VALUE="2011&#xa;2011"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1412048480650" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="235" VSHIFT="-44">
+<font NAME="Courier New" BOLD="true"/>
+<edge COLOR="#006699"/>
+<node TEXT="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems" ID="ID_347948509" CREATED="1411247618530" MODIFIED="1411706565727" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05746555.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="424FAF394A9AB9418466BDCFDC250684522B2BBF855E9B09A71FDB518E8B247">
+    <pdf_title>A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5746555"/>
+<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Cuenca-Asensi, S. and Martinez-Alvarez, A and Restrepo-Calle, F. and Palomo, F.R. and Guzman-Miranda, H. and Aguirre, M.A"/>
+<attribute NAME="title" VALUE="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems"/>
+<attribute NAME="year" VALUE="2011"/>
+</node>
+<node TEXT="An&#xe1;lise de T&#xe9;cnicas de Toler&#xe2;ncia a Falhas Baseadas em Software para a Prote&#xe7;&#xe3;o de Microprocessadores" ID="ID_278016786" CREATED="1411247618744" MODIFIED="1411702405646" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/000826746.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA584EA9D2B745F59431FF745986A71D7CE625BE4FCAB566C487EE154DC630">
+    <pdf_title>Software</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Azambuja2010"/>
+<attribute NAME="authors" VALUE="Azambuja, Jos&#xe9; Rodrigo Furlanetto de "/>
+<attribute NAME="title" VALUE="An&#xe1;lise de t&#xe9;cnicas de toler&#xe2;ncia a falhas baseadas em software para a prote&#xe7;&#xe3;o de microprocessadores"/>
+<attribute NAME="year" VALUE="2010"/>
+</node>
+<node TEXT="Design and Evaluation of System-Level Checks for On-Line Control Flow Error Detection" ID="ID_591459584" CREATED="1411247618818" MODIFIED="1411707076889" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00774911.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="60B3C9FE54EA11D86CE2F51D393BA8580BFAC2A445D70A445FBB386B7BD44">
+    <pdf_title>1045-9219/99/$10.00 &#xdf; 1999 IEEE</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="774911"/>
+<attribute NAME="journal" VALUE="Parallel and Distributed Systems, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Alkhalifa, Z. and Nair, V.S.S. and Krishnamurthy, N. and Abraham, J.A"/>
+<attribute NAME="title" VALUE="Design and evaluation of system-level checks for on-line control flow error detection"/>
+<attribute NAME="year" VALUE="1999"/>
+</node>
+<node TEXT="A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware" ID="ID_352644806" CREATED="1411247618850" MODIFIED="1411707155820" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06236246.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="43C7E5F33622657FB22FD1EF41726939F21C040BC55D5B0BEDE7CD6BB802E">
+    <pdf_title>A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6236246"/>
+<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R."/>
+<attribute NAME="title" VALUE="A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Analysis Of SEU Effects In A Pipelined Processor" ID="ID_10454439" CREATED="1411538861208" MODIFIED="1411538985950" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01030193.pdf" MOVED="1411538880043">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="0B12550C88151CB3BEE0CB2369EAFE7A6B92DA7ACDCBE1808D67D02975BA53">
+    <pdf_title>Analysis of SEU effects in a pipelined processor</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1030193"/>
+<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.S. and Violante, M."/>
+<attribute NAME="title" VALUE="Analysis of SEU effects in a pipelined processor"/>
+<attribute NAME="year" VALUE="2002"/>
+</node>
+<node TEXT="Coping With SEUs/SETs In Microprocessors By Means Of Low-cost Solutions: A Comparison Study" ID="ID_1932792216" CREATED="1411539078080" MODIFIED="1411539193463" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01039689.pdf" MOVED="1411539085113">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C8925053177B2937F43893C17783318A640C37C894162BD34EA33734661AAC2">
+    <pdf_title>Coping With SEUs/SETs in Microprocessors by Means of Low-Cost Solutions: A Comparison Study</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="1159312"/>
+<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.S. and Violante, M. and Nicolescu, B. and Velano, R."/>
+<attribute NAME="title" VALUE="Coping with SEUs/SETs in microprocessors by means of low-cost solutions: a comparison study"/>
+<attribute NAME="year" VALUE="2001"/>
+</node>
+<node TEXT="Online hardening of programs against SEUs and SETs" ID="ID_1675312566" CREATED="1411539420348" MODIFIED="1411708695931" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04030939.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="624DECE5868A49CD4E676E589DA9B913BB49749DC4BACCB69A6FF93CA1DE115">
+    <pdf_title>Online hardening of programs against SEUs and SETs</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="4030939"/>
+<attribute NAME="authors" VALUE="Lisboa, C. A L and Carro, L. and Reorda, M.S. and Violante, M."/>
+<attribute NAME="title" VALUE="Online hardening of programs against SEUs and SETs"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="Combined software and hardware techniques for the design of reliable IP processors" ID="ID_1726711939" CREATED="1411539429979" MODIFIED="1411709190635" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04030937.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4F5C8B37547F6DA9EAE2A51CEC8AE34B2ADB5EA41235B74369B0C078992FB">
+    <pdf_title>Combined software and hardware techniques for the design of reliable IP processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="4030937"/>
+<attribute NAME="authors" VALUE="Rebaudengo, M. and Sterpone, L. and Violante, M. and Bolchini, C. and Miele, A and Sciuto, D."/>
+<attribute NAME="title" VALUE="Combined software and hardware techniques for the design of reliable IP processors"/>
+<attribute NAME="year" VALUE="2006"/>
+</node>
+<node TEXT="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor" ID="ID_1961672831" CREATED="1411539430056" MODIFIED="1411776294998" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1023%252FA%253A1025130131636.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E2ED74595EF085E2E8CBC753AFD35BB6DAA984EA882723479AAA86E7B4E2C923">
+    <pdf_title>Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Rebaudengo2003"/>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.Sonza and Violante, M."/>
+<attribute NAME="title" VALUE="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor"/>
+<attribute NAME="year" VALUE="2003"/>
+</node>
+<node TEXT="A New Mitigation Approach for Soft Errors in Embedded Processors" ID="ID_27158660" CREATED="1411539430606" MODIFIED="1411776424628" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04636948.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="FF49748F533AA0846ED05975387B3961CFF9D4021473A699C86557A65336CA3">
+    <pdf_title>A New Mitigation Approach for Soft Errors in Embedded Processors</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="4636948"/>
+<attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Abate, F. and Sterpone, L. and Violante, M."/>
+<attribute NAME="title" VALUE="A New Mitigation Approach for Soft Errors in Embedded Processors"/>
+<attribute NAME="year" VALUE="2008"/>
+</node>
+<node TEXT="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor" ID="ID_960035522" CREATED="1411611272159" MODIFIED="1411706043921" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1023%252FA%253A1025130131636.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E2ED74595EF085E2E8CBC753AFD35BB6DAA984EA882723479AAA86E7B4E2C923">
+    <pdf_title>Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Rebaudengo2003"/>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.Sonza and Violante, M."/>
+<attribute NAME="title" VALUE="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor"/>
+<attribute NAME="year" VALUE="2003"/>
+</node>
+<node TEXT="SOC DESIGN METHODOLOGIES" ID="ID_732369618" CREATED="1411611275180" MODIFIED="1411781699989" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-35597-9.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0"/>
+<attribute NAME="key" VALUE="Robert2002"/>
+<attribute NAME="authors" VALUE="Robert, Michel"/>
+<attribute NAME="title" VALUE="SOC Design Methodologies"/>
+<attribute NAME="year" VALUE="2002"/>
+</node>
+<node TEXT="A Hybrid Approach to Design Error Detection and Correction" ID="ID_1834435057" CREATED="1411611275221" MODIFIED="1411782922716" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00812294.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A8357883C38DAA41BA2BE08FE685BBCB5A329968A7F11076F8FEEA649E4CB62">
+    <pdf_title>Hybrid to Design Error Correctioii</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="812294"/>
+<attribute NAME="authors" VALUE="Veneris, A and Hajj, IN."/>
+<attribute NAME="title" VALUE="A hybrid approach to design error detection and correction [VLSI digital circuits]"/>
+<attribute NAME="year" VALUE="1999"/>
+</node>
+<node TEXT="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs" ID="ID_980490496" CREATED="1411611275274" MODIFIED="1411787863375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05551155.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DC7AAA26B788E5BF257DE72FAEEE6EE7DE35F495C890FC7269EA3DD36212D690">
+    <pdf_title>Short Papers</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5551155"/>
+<attribute NAME="journal" VALUE="Dependable and Secure Computing, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani Poehls, L.M. and Grosso, M. and Reorda, M.S."/>
+<attribute NAME="title" VALUE="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs"/>
+<attribute NAME="year" VALUE="2010"/>
+</node>
+<node TEXT="Configurable tool to protect processors against SEE by software-based detection techniques" ID="ID_1423242595" CREATED="1411611277995" MODIFIED="1411834201097" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06261259.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="497B313F646267BE4DFA15638C1C46AF7FE2979D62B24467C42A19B3448A">
+    <pdf_title>Configurable Tool to Protect Processors against SEE by Software-based Detection Techniques</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6261259"/>
+<attribute NAME="authors" VALUE="Chielle, E. and Barth, Raul Sergio and Lapolli, Angelo Cardoso and Kastensmidt, F.L."/>
+<attribute NAME="title" VALUE="Configurable tool to protect processors against SEE by software-based detection techniques"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+</node>
+<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1412048480680" HGAP="-411" VSHIFT="-225" DCR_PRIVACY_LEVEL="DEMO" MOVED="1411937015572"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9894,153 +10035,6 @@
   </body>
 </html>
 </richcontent>
-</node>
-<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1411833109871" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p style="text-align: center">
-      Example
-    </p>
-    <p style="text-align: center">
-      <font size="1">Click on the little circle, or select this </font><br/><font size="1">node and press SPACE, to unfold it</font>
-    </p>
-  </body>
-</html>
-</richcontent>
-<edge COLOR="#7c0000"/>
-<node TEXT="Example 1: Sort your PDFs (each PDF&#xa;will have its annotations as child node)" FOLDED="true" ID="ID_1397770501" CREATED="1377253207728" MODIFIED="1411833109871" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Category 1: Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_975521723" CREATED="1344508592622" MODIFIED="1411833109871" DCR_PRIVACY_LEVEL="DEMO">
-<hook NAME="FirstGroupNode"/>
-</node>
-<node TEXT="Category 2: Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1447634729" CREATED="1344508911688" MODIFIED="1411833109871" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Category 3: Search Engine Spam" FOLDED="true" ID="ID_606982085" CREATED="1344509076356" MODIFIED="1411833109871" DCR_PRIVACY_LEVEL="DEMO"/>
-<node ID="ID_141894498" CREATED="1377254593942" MODIFIED="1411833109872" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#660000">Create a new category for each of your interests, and move the PDFs from the Incoming node to the category. Unfold a PDF (select it and press SPACE) to see the annotations you made in it.</font>
-    </p>
-  </body>
-</html>
-</richcontent>
-<font BOLD="false"/>
-</node>
-</node>
-<node TEXT="Example 2: Sort your annotations only" FOLDED="true" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
-<node ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1411833109872" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#660000">Sometimes it is really handy to move annotation from a PDF to category other than the PDF. This is particularly useful if a PDF has important information about several of your research categories, and you don't want the non-relevant annotations disturbing your information management</font>
-    </p>
-  </body>
-</html>
-</richcontent>
-<font BOLD="false"/>
-</node>
-<node TEXT=" Academic Software&#xa;&amp; Services" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
-<hook NAME="FirstGroupNode"/>
-</node>
-<node TEXT="Academic Search Engine&#xa;Optimization (ASEO)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Definition &amp; Origin" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Guidelines" FOLDED="true" ID="ID_194005043" CREATED="1344508982673" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Opinions" FOLDED="true" ID="ID_1930051329" CREATED="1344509152237" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Pro" ID="ID_1392476056" CREATED="1344509155557" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Con" ID="ID_1940856338" CREATED="1344509156803" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="These annotations already have&#xa;bibliographic data assigned (move&#xa;the mouse over the nodes to see it)" ID="ID_373642256" CREATED="1345720620556" MODIFIED="1411833109872" DCR_PRIVACY_LEVEL="DEMO">
-<hook NAME="SummaryNode"/>
-<font BOLD="true"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Search Engine Spam" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Classic Search Engine Spam" ID="ID_331289321" CREATED="1344509216406" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Academic Search Engine Spam" FOLDED="true" ID="ID_142245057" CREATED="1344509218390" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Origin" ID="ID_1454640722" CREATED="1344509131751" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Current problems of..." ID="ID_1759697893" CREATED="1344509232404" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Google Scholar" ID="ID_1671464522" CREATED="1344509399579" MODIFIED="1411833109873" MOVED="1377255679985" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Microsoft &amp; CiteSeer" ID="ID_625521591" CREATED="1344509385586" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO"/>
-</node>
-</node>
-</node>
-</node>
-<node ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Example 3: Do &quot;normal&quot; mind mapping
-    </p>
-    <p>
-      (manage ideas, todos, etc.)
-    </p>
-    <p>
-      <font size="1" color="#999999">Of course, you could also create a new mind map </font>
-    </p>
-    <p>
-      <font size="1" color="#999999">to manage your ideas etc.</font>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Todos" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Ask John to send me his new paper" ID="ID_1718393569" CREATED="1377253395047" MODIFIED="1411833109873" DCR_PRIVACY_LEVEL="DEMO">
-<icon BUILTIN="button_ok"/>
-</node>
-<node TEXT="Submit article to journal" ID="ID_1884899473" CREATED="1377253406567" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
-<icon BUILTIN="25%"/>
-</node>
-<node TEXT="Find interns to help with Docear development" FOLDED="true" ID="ID_387032517" CREATED="1377253444350" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Ask at university" ID="ID_873534185" CREATED="1377253462110" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
-<icon BUILTIN="messagebox_warning"/>
-</node>
-<node TEXT="Place note on Docear homepage" ID="ID_102199314" CREATED="1377253471334" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Send newsletter" ID="ID_914479173" CREATED="1377253483862" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
-</node>
-<node TEXT="Read later" FOLDED="true" ID="ID_101014227" CREATED="1377254821613" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
-</node>
-<node TEXT="Project ideas" FOLDED="true" ID="ID_778803683" CREATED="1377253508454" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Machine for making water from sand (would&#xa;solve the problem of thirst in the world)" ID="ID_1844285982" CREATED="1377253593429" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="Robot to clean my dishes, make my bed, ..." ID="ID_1780949524" CREATED="1377254395207" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="..." ID="ID_110121390" CREATED="1377254415687" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO"/>
-</node>
-<node TEXT="Tools for Literature Management" FOLDED="true" ID="ID_1289068930" CREATED="1344508500160" MODIFIED="1411833109874" MOVED="1377254563961" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Docear" ID="ID_92209979" CREATED="1344508512489" MODIFIED="1411833109874" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="http://www.docear.org/" ID="ID_723244074" CREATED="1344508531889" MODIFIED="1411833109874" LINK="http://www.docear.org/" DCR_PRIVACY_LEVEL="DEMO"/>
-</node>
-<node TEXT="Zotero" ID="ID_1364979259" CREATED="1344508514120" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="https://www.zotero.org/" ID="ID_316254824" CREATED="1344508547673" MODIFIED="1411833109875" LINK="https://www.zotero.org/" DCR_PRIVACY_LEVEL="DEMO"/>
-</node>
-<node TEXT="Endnote" ID="ID_166045555" CREATED="1344508517563" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="http://endnote.com/" ID="ID_1006685224" CREATED="1344508567781" MODIFIED="1411833109875" LINK="http://endnote.com/" DCR_PRIVACY_LEVEL="DEMO"/>
-</node>
-</node>
-<node TEXT="Sources for funding" FOLDED="true" ID="ID_184721027" CREATED="1377254143969" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="USA" ID="ID_1912184932" CREATED="1377254213665" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="NSF" ID="ID_1019872373" CREATED="1377254215727" MODIFIED="1411833109875" LINK="http://www.nsf.gov/funding/" DCR_PRIVACY_LEVEL="DEMO"/>
-</node>
-<node TEXT="Germany" ID="ID_755160370" CREATED="1377254219000" MODIFIED="1411833109875" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="DAAD (for working abroad)" ID="ID_1423937593" CREATED="1377254227170" MODIFIED="1411833109875" LINK="https://www.daad.de/en/index.html" DCR_PRIVACY_LEVEL="DEMO"/>
-<node TEXT="DFG" ID="ID_1592702018" CREATED="1377254252006" MODIFIED="1411833109875" LINK="http://www.dfg.de/" DCR_PRIVACY_LEVEL="DEMO"/>
-</node>
-</node>
-</node>
 </node>
 </node>
 </map>
