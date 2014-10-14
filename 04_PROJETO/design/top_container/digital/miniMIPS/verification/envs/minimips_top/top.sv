@@ -40,8 +40,8 @@ module top();
     
     initial
       begin
-          #20;
-          forever #10 Clock = ~Clock;
+          #20;                              //wait 20 for beginning to oscilate
+          forever #10 Clock = ~Clock;      //clock is high 10, low 10
       end
 
 //////////////////////////////////////////////////////

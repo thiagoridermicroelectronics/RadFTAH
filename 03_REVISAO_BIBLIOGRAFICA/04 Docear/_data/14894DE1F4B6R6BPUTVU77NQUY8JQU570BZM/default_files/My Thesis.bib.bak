@@ -1649,7 +1649,7 @@
 	It maximizes the fault detection probability under the condition
 	that the data integrity is highest},
   doi = {10.1109/12.980007},
-  file = {:../../../../02_PDFs/Referencias2/00980007.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/00980007.pdf:PDF},
   issn = {0018-9340},
   keywords = {data integrity;embedded systems;error detection;fault tolerant computing;ED4I;SIHFT;VLSI
 	technologies;abnormal behavior;benchmark programs;commercial off-the-shelf
