@@ -1,7 +1,7 @@
-<map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
+<map version="docear 1.1" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1413321727273" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1413680315933" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17,7 +17,7 @@
   </body>
 </html>
 </richcontent>
-<hook NAME="MapStyle" zoom="0.783">
+<hook NAME="MapStyle" zoom="0.794">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -75,7 +75,7 @@
 <attribute NAME="mon_flatten_dirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_add_extra_incoming_node" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1413321620801" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1413680315936" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#007c7c"/>
 <node TEXT="Verification Methodology Manual for SystemVerilog" ID="ID_1296405716" CREATED="1411539431435" MODIFIED="1413321727263" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-25556-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
@@ -110,7 +110,7 @@
 <attribute NAME="title" VALUE="Functional verification of I2C core using SystemVerilog"/>
 <attribute NAME="year" VALUE="2014"/>
 </node>
-<node TEXT="Open Verification Methodology Cookbook" ID="ID_1338387301" CREATED="1411539417750" MODIFIED="1413321727229" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Open Verification Methodology Cookbook" FOLDED="true" ID="ID_1338387301" CREATED="1411539417750" MODIFIED="1413321727229" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -158,14 +158,14 @@
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="Verification Principles" ID="ID_766340183" CREATED="1411539418340" MODIFIED="1411539418340" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Verification Principles" FOLDED="true" ID="ID_766340183" CREATED="1411539418340" MODIFIED="1411539418340" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="21" object_id="9007529383116801109" object_number="2684" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Glasser, Mark"/>
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
-<node TEXT="1.1 Verification Basics" ID="ID_924014960" CREATED="1411539418351" MODIFIED="1411539418351" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="1.1 Verification Basics" FOLDED="true" ID="ID_924014960" CREATED="1411539418351" MODIFIED="1411539418351" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="21" object_id="161024229514751542" object_number="2685" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -205,7 +205,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="1.2 First Testbench" ID="ID_1426083395" CREATED="1411539418477" MODIFIED="1411539418477" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="1.2 First Testbench" FOLDED="true" ID="ID_1426083395" CREATED="1411539418477" MODIFIED="1411539418477" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="27" object_id="6068107432592185465" object_number="2704" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -229,7 +229,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="1.3 Second Testbench" ID="ID_196225307" CREATED="1411539418553" MODIFIED="1411539418553" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="1.3 Second Testbench" FOLDED="true" ID="ID_196225307" CREATED="1411539418553" MODIFIED="1411539418553" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="31" object_id="7566737959189740001" object_number="2701" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -245,7 +245,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="1.4 Layered Organization of Testbenches" ID="ID_231685321" CREATED="1411539418585" MODIFIED="1411539418585" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="1.4 Layered Organization of Testbenches" FOLDED="true" ID="ID_231685321" CREATED="1411539418585" MODIFIED="1411539418585" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="37" object_id="863429464820942802" object_number="2697" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -302,7 +302,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="Fundamentals of Object-Oriented Programming" ID="ID_386757580" CREATED="1411539418710" MODIFIED="1411539418710" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Fundamentals of Object-Oriented Programming" FOLDED="true" ID="ID_386757580" CREATED="1411539418710" MODIFIED="1411539418710" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="44" object_id="6515588954641757138" object_number="2680" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -325,7 +325,7 @@
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="2.3 Object Relationships" ID="ID_1937355140" CREATED="1411539418762" MODIFIED="1411539418762" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="2.3 Object Relationships" FOLDED="true" ID="ID_1937355140" CREATED="1411539418762" MODIFIED="1411539418762" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="50" object_id="559638769971473876" object_number="2730" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -357,7 +357,7 @@
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="2.5 Generic Programming" ID="ID_570433358" CREATED="1411539419100" MODIFIED="1411539419100" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="2.5 Generic Programming" FOLDED="true" ID="ID_570433358" CREATED="1411539419100" MODIFIED="1411539419100" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="57" object_id="2728865863673432901" object_number="2725" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -390,7 +390,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="Transaction-Level Modeling" ID="ID_289730658" CREATED="1411539419156" MODIFIED="1411539419156" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Transaction-Level Modeling" FOLDED="true" ID="ID_289730658" CREATED="1411539419156" MODIFIED="1411539419156" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="66" object_id="1477747137981336000" object_number="2676" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -421,7 +421,7 @@
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="3.4 TLM Idioms" ID="ID_1038699292" CREATED="1411539419224" MODIFIED="1411539419224" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="3.4 TLM Idioms" FOLDED="true" ID="ID_1038699292" CREATED="1411539419224" MODIFIED="1411539419224" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="71" object_id="6388060660198794178" object_number="2743" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -486,14 +486,14 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="OVM Mechanics" ID="ID_1894833093" CREATED="1411539419386" MODIFIED="1411539419387" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="OVM Mechanics" FOLDED="true" ID="ID_1894833093" CREATED="1411539419386" MODIFIED="1411539419387" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="86" object_id="1621886119612795734" object_number="2672" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Glasser, Mark"/>
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
-<node TEXT="4.1 Components and Hierarchy" ID="ID_1614148979" CREATED="1411539419403" MODIFIED="1411539419403" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="4.1 Components and Hierarchy" FOLDED="true" ID="ID_1614148979" CREATED="1411539419403" MODIFIED="1411539419403" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="86" object_id="8076600304495654583" object_number="2673" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -517,7 +517,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="4.2 Connectivity" ID="ID_1265512765" CREATED="1411539419467" MODIFIED="1411539419468" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="4.2 Connectivity" FOLDED="true" ID="ID_1265512765" CREATED="1411539419467" MODIFIED="1411539419468" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="90" object_id="7087077570149466276" object_number="2777" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -549,7 +549,7 @@
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="4.4 Config" ID="ID_240761071" CREATED="1411539419549" MODIFIED="1411539419550" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="4.4 Config" FOLDED="true" ID="ID_240761071" CREATED="1411539419549" MODIFIED="1411539419550" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="100" object_id="7005625461420997490" object_number="2772" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -565,7 +565,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="4.5 Factory" ID="ID_980175375" CREATED="1411539419595" MODIFIED="1411539419595" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="4.5 Factory" FOLDED="true" ID="ID_980175375" CREATED="1411539419595" MODIFIED="1411539419595" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="106" object_id="4127069935311457926" object_number="2768" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -597,7 +597,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="4.6 Shutting Down the Testbench" ID="ID_467344744" CREATED="1411539419679" MODIFIED="1411539419679" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="4.6 Shutting Down the Testbench" FOLDED="true" ID="ID_467344744" CREATED="1411539419679" MODIFIED="1411539419679" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="117" object_id="7169658668005644168" object_number="2765" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -629,7 +629,7 @@
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="4.9 Reporting" ID="ID_1876292032" CREATED="1411539419748" MODIFIED="1411539419748" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="4.9 Reporting" FOLDED="true" ID="ID_1876292032" CREATED="1411539419748" MODIFIED="1411539419748" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="128" object_id="4624014374653898142" object_number="2757" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -686,7 +686,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="Testbench Fundamentals" ID="ID_235047033" CREATED="1411539419879" MODIFIED="1411539419879" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Testbench Fundamentals" FOLDED="true" ID="ID_235047033" CREATED="1411539419879" MODIFIED="1411539419879" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="137" object_id="733463265783264266" object_number="2668" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -701,7 +701,7 @@
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="5.2 Introducing the HFPB Protocol" ID="ID_198053142" CREATED="1411539419904" MODIFIED="1411539419904" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="5.2 Introducing the HFPB Protocol" FOLDED="true" ID="ID_198053142" CREATED="1411539419904" MODIFIED="1411539419904" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="141" object_id="7134113637074894638" object_number="2802" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -750,7 +750,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="Reuse" ID="ID_1494321291" CREATED="1411539420041" MODIFIED="1411539420041" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Reuse" FOLDED="true" ID="ID_1494321291" CREATED="1411539420041" MODIFIED="1411539420041" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="151" object_id="2335300976311013120" object_number="2664" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -806,7 +806,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="Complete Testbenches" ID="ID_648050049" CREATED="1411539420165" MODIFIED="1411539420166" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Complete Testbenches" FOLDED="true" ID="ID_648050049" CREATED="1411539420165" MODIFIED="1411539420166" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="167" object_id="1182159396109192970" object_number="2660" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -862,7 +862,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="Sequences" ID="ID_1729344366" CREATED="1411539418210" MODIFIED="1411539418210" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Sequences" FOLDED="true" ID="ID_1729344366" CREATED="1411539418210" MODIFIED="1411539418210" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="181" object_id="5899224593025229721" object_number="2656" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -934,7 +934,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="Block-to-System" ID="ID_650591942" CREATED="1411539418145" MODIFIED="1411539418145" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Block-to-System" FOLDED="true" ID="ID_650591942" CREATED="1411539418145" MODIFIED="1411539418145" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="201" object_id="3808319095697153306" object_number="2652" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -974,7 +974,7 @@
 <attribute NAME="year" VALUE="2009"/>
 </node>
 </node>
-<node TEXT="Coding Conventions" ID="ID_1168739535" CREATED="1411539417963" MODIFIED="1411539417963" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Coding Conventions" FOLDED="true" ID="ID_1168739535" CREATED="1411539417963" MODIFIED="1411539417963" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="212" object_id="669123756887069028" object_number="2648" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -997,7 +997,7 @@
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="10.3 Objects" ID="ID_969719620" CREATED="1411539418038" MODIFIED="1411539418038" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="10.3 Objects" FOLDED="true" ID="ID_969719620" CREATED="1411539418038" MODIFIED="1411539418038" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="219" object_id="2053434838431222263" object_number="2848" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -1062,7 +1062,7 @@
 <attribute NAME="title" VALUE="Open verification methodology cookbook"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="Graphic Notation" ID="ID_1240953154" CREATED="1411539417788" MODIFIED="1411539417788" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
+<node TEXT="Graphic Notation" FOLDED="true" ID="ID_1240953154" CREATED="1411539417788" MODIFIED="1411539417788" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-0968-8.pdf">
 <pdf_annotation type="BOOKMARK" page="228" object_id="2226160260898334065" object_number="2642" document_hash="F8336E70573DD332663D7F35240662FE00C02EE52A4586C3EF8B8314EF84">
     <pdf_title>Open Verification Methodology Cookbook</pdf_title>
 </pdf_annotation>
@@ -1154,7 +1154,7 @@
 <attribute NAME="title" VALUE="Statistical fault injection and analysis at the register transfer level using the Verilog procedural interface"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Digital System Test and Testable Design" ID="ID_1462454356" CREATED="1411539420365" MODIFIED="1413321727196" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Digital System Test and Testable Design" FOLDED="true" ID="ID_1462454356" CREATED="1411539420365" MODIFIED="1413321727196" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1194,7 +1194,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Introduction" ID="ID_4896267" CREATED="1411539422182" MODIFIED="1411539422182" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Introduction" FOLDED="true" ID="ID_4896267" CREATED="1411539422182" MODIFIED="1411539422182" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="20" object_id="4238695830445598555" object_number="6925" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1226,21 +1226,21 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Chapter 1: Basics of Test and Role of HDLs" ID="ID_85465179" CREATED="1411539421783" MODIFIED="1411539421783" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 1: Basics of Test and Role of HDLs" FOLDED="true" ID="ID_85465179" CREATED="1411539421783" MODIFIED="1411539421783" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="26" object_id="8243308243115442204" object_number="6920" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="1.1 Design and Test" ID="ID_243626622" CREATED="1411539422006" MODIFIED="1411539422006" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="1.1 Design and Test" FOLDED="true" ID="ID_243626622" CREATED="1411539422006" MODIFIED="1411539422006" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="26" object_id="3249313665876480912" object_number="6922" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="1.1.1 RTL Design Process" ID="ID_1196934981" CREATED="1411539422078" MODIFIED="1411539422078" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="1.1.1 RTL Design Process" FOLDED="true" ID="ID_1196934981" CREATED="1411539422078" MODIFIED="1411539422078" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="26" object_id="2396910588816769293" object_number="6962" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1280,7 +1280,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="1.1.2 Postmanufacturing Test" ID="ID_1188362930" CREATED="1411539422003" MODIFIED="1411539422003" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="1.1.2 Postmanufacturing Test" FOLDED="true" ID="ID_1188362930" CREATED="1411539422003" MODIFIED="1411539422003" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="29" object_id="1093429121337183182" object_number="6963" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1321,14 +1321,14 @@
 </node>
 </node>
 </node>
-<node TEXT="1.2 Test Concerns" ID="ID_30382737" CREATED="1411539421781" MODIFIED="1411539421781" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="1.2 Test Concerns" FOLDED="true" ID="ID_30382737" CREATED="1411539421781" MODIFIED="1411539421781" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="33" object_id="9033743089805263659" object_number="6939" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="1.2.1 Test Methods" ID="ID_719908715" CREATED="1411539421886" MODIFIED="1411539421886" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="1.2.1 Test Methods" FOLDED="true" ID="ID_719908715" CREATED="1411539421886" MODIFIED="1411539421886" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="34" object_id="7246713927647222240" object_number="6940" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1384,7 +1384,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="1.2.2 Testability Methods" ID="ID_1169239401" CREATED="1411539421810" MODIFIED="1411539421810" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="1.2.2 Testability Methods" FOLDED="true" ID="ID_1169239401" CREATED="1411539421810" MODIFIED="1411539421810" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="36" object_id="6179467395286688676" object_number="6945" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1432,7 +1432,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="1.2.4 Cost of Test" ID="ID_1689081394" CREATED="1411539421778" MODIFIED="1411539421779" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="1.2.4 Cost of Test" FOLDED="true" ID="ID_1689081394" CREATED="1411539421778" MODIFIED="1411539421779" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="38" object_id="4377408047417008282" object_number="6941" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1457,7 +1457,7 @@
 </node>
 </node>
 </node>
-<node TEXT="1.3 HDLs in Digital System Test" ID="ID_1157912154" CREATED="1411539422295" MODIFIED="1411539422295" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="1.3 HDLs in Digital System Test" FOLDED="true" ID="ID_1157912154" CREATED="1411539422295" MODIFIED="1411539422295" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="40" object_id="4273421416650250456" object_number="6936" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1505,7 +1505,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="1.4 ATE Architecture and Instrumentation1" ID="ID_1363420236" CREATED="1411539422393" MODIFIED="1411539422393" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="1.4 ATE Architecture and Instrumentation1" FOLDED="true" ID="ID_1363420236" CREATED="1411539422393" MODIFIED="1411539422393" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="42" object_id="3607461286843671297" object_number="6933" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1570,7 +1570,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 2: Verilog HDL for Design and Test" ID="ID_1944736598" CREATED="1411539422536" MODIFIED="1411539422536" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 2: Verilog HDL for Design and Test" FOLDED="true" ID="ID_1944736598" CREATED="1411539422536" MODIFIED="1411539422536" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="46" object_id="8643861936437192726" object_number="6916" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1585,7 +1585,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="2.2 Using Verilog in Design" ID="ID_720009536" CREATED="1411539422562" MODIFIED="1411539422562" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.2 Using Verilog in Design" FOLDED="true" ID="ID_720009536" CREATED="1411539422562" MODIFIED="1411539422562" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="47" object_id="1019482971189640266" object_number="6994" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1600,7 +1600,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="2.2.2 Using Verilog for Synthesis" ID="ID_1311477468" CREATED="1411539422594" MODIFIED="1411539422594" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.2.2 Using Verilog for Synthesis" FOLDED="true" ID="ID_1311477468" CREATED="1411539422594" MODIFIED="1411539422594" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="48" object_id="398076460405826850" object_number="6996" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1617,7 +1617,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2.3 Using Verilog in Test" ID="ID_1137596772" CREATED="1411539422630" MODIFIED="1411539422630" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.3 Using Verilog in Test" FOLDED="true" ID="ID_1137596772" CREATED="1411539422630" MODIFIED="1411539422630" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="49" object_id="1664063381717975755" object_number="6991" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1665,7 +1665,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="2.4 Basic Structures of Verilog" ID="ID_1590189208" CREATED="1411539422744" MODIFIED="1411539422744" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.4 Basic Structures of Verilog" FOLDED="true" ID="ID_1590189208" CREATED="1411539422744" MODIFIED="1411539422744" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="52" object_id="1769445020508396593" object_number="6988" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1697,7 +1697,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="2.5 Combinational Circuits" ID="ID_282916240" CREATED="1411539422817" MODIFIED="1411539422817" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.5 Combinational Circuits" FOLDED="true" ID="ID_282916240" CREATED="1411539422817" MODIFIED="1411539422817" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="55" object_id="4549044727917496805" object_number="6985" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1728,7 +1728,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="2.5.4 Procedural Level Description" ID="ID_582479247" CREATED="1411539422893" MODIFIED="1411539422893" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.5.4 Procedural Level Description" FOLDED="true" ID="ID_582479247" CREATED="1411539422893" MODIFIED="1411539422893" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="57" object_id="5516687068853884141" object_number="7004" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1752,7 +1752,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="2.5.5 Instantiating Other Modules" ID="ID_1959648231" CREATED="1411539423467" MODIFIED="1411539423467" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.5.5 Instantiating Other Modules" FOLDED="true" ID="ID_1959648231" CREATED="1411539423467" MODIFIED="1411539423467" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="59" object_id="5404242355398051817" object_number="6987" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1777,7 +1777,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2.6 Sequential Circuits" ID="ID_1357720383" CREATED="1411539423530" MODIFIED="1411539423531" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.6 Sequential Circuits" FOLDED="true" ID="ID_1357720383" CREATED="1411539423530" MODIFIED="1411539423531" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="61" object_id="6881830858221078366" object_number="6982" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1792,7 +1792,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="2.6.2 State Machine Coding" ID="ID_414576623" CREATED="1411539423568" MODIFIED="1411539423568" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.6.2 State Machine Coding" FOLDED="true" ID="ID_414576623" CREATED="1411539423568" MODIFIED="1411539423568" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="61" object_id="5918030800577224250" object_number="6984" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1825,7 +1825,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2.7 A Complete Example (Adding Machine)" ID="ID_1346071279" CREATED="1411539423658" MODIFIED="1411539423658" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.7 A Complete Example (Adding Machine)" FOLDED="true" ID="ID_1346071279" CREATED="1411539423658" MODIFIED="1411539423658" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="67" object_id="9204621725847557375" object_number="6979" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1848,7 +1848,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="2.7.3 CPU Implementation" ID="ID_409374965" CREATED="1411539423715" MODIFIED="1411539423715" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.7.3 CPU Implementation" FOLDED="true" ID="ID_409374965" CREATED="1411539423715" MODIFIED="1411539423715" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="68" object_id="4727603235513514047" object_number="6981" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1897,7 +1897,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2.8 Testbench Techniques" ID="ID_671179827" CREATED="1411539423848" MODIFIED="1411539423848" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.8 Testbench Techniques" FOLDED="true" ID="ID_671179827" CREATED="1411539423848" MODIFIED="1411539423848" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="73" object_id="995810265545859552" object_number="6976" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -1969,7 +1969,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="2.9 PLI Basics" ID="ID_1928045846" CREATED="1411539424013" MODIFIED="1411539424014" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="2.9 PLI Basics" FOLDED="true" ID="ID_1928045846" CREATED="1411539424013" MODIFIED="1411539424014" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="81" object_id="8038242006208903366" object_number="6973" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2018,14 +2018,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 3: Fault and Defect Modeling" ID="ID_1929855136" CREATED="1411539424125" MODIFIED="1411539424125" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 3: Fault and Defect Modeling" FOLDED="true" ID="ID_1929855136" CREATED="1411539424125" MODIFIED="1411539424125" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="88" object_id="5557020944618687901" object_number="6912" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="3.1 Fault Modeling" ID="ID_365617972" CREATED="1411539424134" MODIFIED="1411539424134" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="3.1 Fault Modeling" FOLDED="true" ID="ID_365617972" CREATED="1411539424134" MODIFIED="1411539424134" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="88" object_id="8931866103998104077" object_number="6914" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2057,7 +2057,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="3.2 Structural Gate Level Faults" ID="ID_1243894128" CREATED="1411539424222" MODIFIED="1411539424222" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="3.2 Structural Gate Level Faults" FOLDED="true" ID="ID_1243894128" CREATED="1411539424222" MODIFIED="1411539424222" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="96" object_id="6193471746256509014" object_number="7035" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2096,7 +2096,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="3.2.5 Bridging Faults" ID="ID_369712443" CREATED="1411539424324" MODIFIED="1411539424324" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="3.2.5 Bridging Faults" FOLDED="true" ID="ID_369712443" CREATED="1411539424324" MODIFIED="1411539424324" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="98" object_id="7394167533459769194" object_number="7043" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2136,7 +2136,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="3.2.8 Single Stuck-at Structural Faults" ID="ID_1306044781" CREATED="1411539424416" MODIFIED="1411539424416" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="3.2.8 Single Stuck-at Structural Faults" FOLDED="true" ID="ID_1306044781" CREATED="1411539424416" MODIFIED="1411539424416" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="102" object_id="3658428456751216198" object_number="7038" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2169,7 +2169,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="3.3 Issues Related to Gate Level Faults" ID="ID_1606956676" CREATED="1411539424476" MODIFIED="1411539424476" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="3.3 Issues Related to Gate Level Faults" FOLDED="true" ID="ID_1606956676" CREATED="1411539424476" MODIFIED="1411539424476" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="109" object_id="3141468397997825522" object_number="7032" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2201,7 +2201,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="3.4 Fault Collapsing" ID="ID_305914673" CREATED="1411539424536" MODIFIED="1411539424536" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="3.4 Fault Collapsing" FOLDED="true" ID="ID_305914673" CREATED="1411539424536" MODIFIED="1411539424536" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="111" object_id="2971171617141561137" object_number="7029" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2224,7 +2224,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="3.4.3 Gate-oriented Fault Collapsing" ID="ID_514620063" CREATED="1411539424584" MODIFIED="1411539424584" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="3.4.3 Gate-oriented Fault Collapsing" FOLDED="true" ID="ID_514620063" CREATED="1411539424584" MODIFIED="1411539424584" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="112" object_id="1374489140025125164" object_number="7054" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2264,7 +2264,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="3.4.6 Dominance Fault Collapsing" ID="ID_399315327" CREATED="1411539424682" MODIFIED="1411539424682" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="3.4.6 Dominance Fault Collapsing" FOLDED="true" ID="ID_399315327" CREATED="1411539424682" MODIFIED="1411539424682" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="117" object_id="3785200231945021536" object_number="7031" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2289,7 +2289,7 @@
 </node>
 </node>
 </node>
-<node TEXT="3.5 Fault Collapsing in Verilog" ID="ID_1764804752" CREATED="1411539424744" MODIFIED="1411539424744" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="3.5 Fault Collapsing in Verilog" FOLDED="true" ID="ID_1764804752" CREATED="1411539424744" MODIFIED="1411539424744" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="120" object_id="3818699288434021182" object_number="7026" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2330,14 +2330,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 4: Fault Simulation Applications and Methods" ID="ID_1880277271" CREATED="1411539424830" MODIFIED="1411539424831" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 4: Fault Simulation Applications and Methods" FOLDED="true" ID="ID_1880277271" CREATED="1411539424830" MODIFIED="1411539424831" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="127" object_id="5103042806467791522" object_number="6908" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="4.1 Fault Simulation" ID="ID_1797157918" CREATED="1411539424846" MODIFIED="1411539424846" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.1 Fault Simulation" FOLDED="true" ID="ID_1797157918" CREATED="1411539424846" MODIFIED="1411539424846" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="127" object_id="6477914171979339248" object_number="6910" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2352,7 +2352,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="4.1.2 Fault Simulation Requirements" ID="ID_335843685" CREATED="1411539424876" MODIFIED="1411539424876" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.1.2 Fault Simulation Requirements" FOLDED="true" ID="ID_335843685" CREATED="1411539424876" MODIFIED="1411539424876" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="128" object_id="1878579212777313632" object_number="7106" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2400,7 +2400,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="4.1.3 An HDL Environment" ID="ID_542955605" CREATED="1411539425005" MODIFIED="1411539425005" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.1.3 An HDL Environment" FOLDED="true" ID="ID_542955605" CREATED="1411539425005" MODIFIED="1411539425005" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="129" object_id="3025230236933343445" object_number="7103" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2448,7 +2448,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="4.1.6 Related Terminologies" ID="ID_1375137620" CREATED="1411539425125" MODIFIED="1411539425125" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.1.6 Related Terminologies" FOLDED="true" ID="ID_1375137620" CREATED="1411539425125" MODIFIED="1411539425125" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="135" object_id="6490641890999211401" object_number="7098" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2489,14 +2489,14 @@
 </node>
 </node>
 </node>
-<node TEXT="4.2 Fault Simulation Applications" ID="ID_1783827013" CREATED="1411539425217" MODIFIED="1411539425218" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.2 Fault Simulation Applications" FOLDED="true" ID="ID_1783827013" CREATED="1411539425217" MODIFIED="1411539425218" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="136" object_id="2818228712632797901" object_number="7065" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="4.2.1 Fault Coverage" ID="ID_1802228357" CREATED="1411539425235" MODIFIED="1411539425235" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.2.1 Fault Coverage" FOLDED="true" ID="ID_1802228357" CREATED="1411539425235" MODIFIED="1411539425235" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="137" object_id="2435638940911513954" object_number="7066" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2528,7 +2528,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="4.2.2 Fault Simulation in Test Generation" ID="ID_1884142814" CREATED="1411539425319" MODIFIED="1411539425319" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.2.2 Fault Simulation in Test Generation" FOLDED="true" ID="ID_1884142814" CREATED="1411539425319" MODIFIED="1411539425319" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="138" object_id="2063332049256956951" object_number="7070" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2560,7 +2560,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="4.2.3 Fault Dictionary Creation" ID="ID_971780607" CREATED="1411539425401" MODIFIED="1411539425401" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.2.3 Fault Dictionary Creation" FOLDED="true" ID="ID_971780607" CREATED="1411539425401" MODIFIED="1411539425401" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="141" object_id="1100567014834082292" object_number="7067" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2601,7 +2601,7 @@
 </node>
 </node>
 </node>
-<node TEXT="4.3 Fault Simulation Technologies" ID="ID_930316032" CREATED="1411539425502" MODIFIED="1411539425502" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.3 Fault Simulation Technologies" FOLDED="true" ID="ID_930316032" CREATED="1411539425502" MODIFIED="1411539425502" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="146" object_id="5235433331963336465" object_number="7062" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2616,7 +2616,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="4.3.2 Parallel Fault Simulation" ID="ID_1363702185" CREATED="1411539425551" MODIFIED="1411539425551" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.3.2 Parallel Fault Simulation" FOLDED="true" ID="ID_1363702185" CREATED="1411539425551" MODIFIED="1411539425551" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="151" object_id="7373020695986089057" object_number="7089" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2648,7 +2648,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="4.3.3 Concurrent Fault Simulation" ID="ID_891714656" CREATED="1411539425633" MODIFIED="1411539425633" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.3.3 Concurrent Fault Simulation" FOLDED="true" ID="ID_891714656" CREATED="1411539425633" MODIFIED="1411539425633" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="155" object_id="7807525756032744953" object_number="7086" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2680,7 +2680,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="4.3.4 Deductive Fault Simulation" ID="ID_1832610299" CREATED="1411539425710" MODIFIED="1411539425710" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.3.4 Deductive Fault Simulation" FOLDED="true" ID="ID_1832610299" CREATED="1411539425710" MODIFIED="1411539425710" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="157" object_id="9053640170067727953" object_number="7083" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2720,7 +2720,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="4.3.6 Critical Path Tracing Fault Simulation" ID="ID_723772290" CREATED="1411539425805" MODIFIED="1411539425805" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="4.3.6 Critical Path Tracing Fault Simulation" FOLDED="true" ID="ID_723772290" CREATED="1411539425805" MODIFIED="1411539425805" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="161" object_id="1714372218861693333" object_number="7079" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2786,14 +2786,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 5: Test Pattern Generation Methods and Algorithms" ID="ID_805703749" CREATED="1411539425922" MODIFIED="1411539425923" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 5: Test Pattern Generation Methods and Algorithms" FOLDED="true" ID="ID_805703749" CREATED="1411539425922" MODIFIED="1411539425923" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="167" object_id="6703133571793940823" object_number="6904" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="5.1 Test Generation Basics" ID="ID_934475076" CREATED="1411539425932" MODIFIED="1411539425932" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="5.1 Test Generation Basics" FOLDED="true" ID="ID_934475076" CREATED="1411539425932" MODIFIED="1411539425932" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="167" object_id="1141184317533349056" object_number="6906" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2808,7 +2808,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="5.1.2 Test Generation Process" ID="ID_1801648348" CREATED="1411539425963" MODIFIED="1411539425963" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="5.1.2 Test Generation Process" FOLDED="true" ID="ID_1801648348" CREATED="1411539425963" MODIFIED="1411539425963" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="169" object_id="7744414575296000981" object_number="7144" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2840,7 +2840,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="5.1.3 Fault and Tests" ID="ID_14660419" CREATED="1411539426052" MODIFIED="1411539426052" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="5.1.3 Fault and Tests" FOLDED="true" ID="ID_14660419" CREATED="1411539426052" MODIFIED="1411539426052" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="170" object_id="1340706675357942353" object_number="7141" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2889,7 +2889,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="5.2 Controllability and Observability" ID="ID_789461041" CREATED="1411539426149" MODIFIED="1411539426149" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="5.2 Controllability and Observability" FOLDED="true" ID="ID_789461041" CREATED="1411539426149" MODIFIED="1411539426149" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="171" object_id="2278197843063579054" object_number="7119" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2912,7 +2912,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="5.2.3 Probability-based Controllability and Observability" ID="ID_1004448247" CREATED="1411539426191" MODIFIED="1411539426192" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="5.2.3 Probability-based Controllability and Observability" FOLDED="true" ID="ID_1004448247" CREATED="1411539426191" MODIFIED="1411539426192" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="172" object_id="3709849487835236222" object_number="7125" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -2952,7 +2952,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="5.2.4 SCOAP Controllability and Observability" ID="ID_1604005920" CREATED="1411539426285" MODIFIED="1411539426285" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="5.2.4 SCOAP Controllability and Observability" FOLDED="true" ID="ID_1604005920" CREATED="1411539426285" MODIFIED="1411539426285" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="179" object_id="2766279546160649961" object_number="7122" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3001,14 +3001,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="5.3 Random Test Generation" ID="ID_584996923" CREATED="1411539426392" MODIFIED="1411539426392" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="5.3 Random Test Generation" FOLDED="true" ID="ID_584996923" CREATED="1411539426392" MODIFIED="1411539426392" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="184" object_id="8967775752010144001" object_number="7116" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="5.3.1 Limiting Number of Random Tests" ID="ID_492734189" CREATED="1411539426409" MODIFIED="1411539426410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="5.3.1 Limiting Number of Random Tests" FOLDED="true" ID="ID_492734189" CREATED="1411539426409" MODIFIED="1411539426410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="184" object_id="3629794390022685079" object_number="7117" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3032,7 +3032,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="5.3.2 Combinational Circuit RTG" ID="ID_1980216411" CREATED="1411539426483" MODIFIED="1411539426483" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="5.3.2 Combinational Circuit RTG" FOLDED="true" ID="ID_1980216411" CREATED="1411539426483" MODIFIED="1411539426483" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="187" object_id="1495045668488438405" object_number="7133" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3090,14 +3090,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 6: Deterministic Test Generation Algorithms" ID="ID_1524799065" CREATED="1411539426600" MODIFIED="1411539426601" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 6: Deterministic Test Generation Algorithms" FOLDED="true" ID="ID_1524799065" CREATED="1411539426600" MODIFIED="1411539426601" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="199" object_id="3808962257558553644" object_number="6900" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="6.1 Deterministic Test Generation Methods" ID="ID_1006141740" CREATED="1411539426617" MODIFIED="1411539426617" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="6.1 Deterministic Test Generation Methods" FOLDED="true" ID="ID_1006141740" CREATED="1411539426617" MODIFIED="1411539426617" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="199" object_id="31966936138865678" object_number="6902" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3112,7 +3112,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="6.1.2 Fault-oriented TG Basics" ID="ID_1707016881" CREATED="1411539426651" MODIFIED="1411539426652" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="6.1.2 Fault-oriented TG Basics" FOLDED="true" ID="ID_1707016881" CREATED="1411539426651" MODIFIED="1411539426652" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="201" object_id="6089294643118679181" object_number="7173" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3144,7 +3144,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="6.1.3 The D-Algorithm" ID="ID_1142782831" CREATED="1411539426727" MODIFIED="1411539426727" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="6.1.3 The D-Algorithm" FOLDED="true" ID="ID_1142782831" CREATED="1411539426727" MODIFIED="1411539426727" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="206" object_id="3975267086497901696" object_number="7170" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3200,7 +3200,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="6.1.4 PODEM (Path-oriented Test Generation)" ID="ID_1739865729" CREATED="1411539426860" MODIFIED="1411539426860" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="6.1.4 PODEM (Path-oriented Test Generation)" FOLDED="true" ID="ID_1739865729" CREATED="1411539426860" MODIFIED="1411539426860" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="215" object_id="3960380858568060003" object_number="7167" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3224,7 +3224,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="6.1.5 Other Deterministic Fault-oriented TG Methods" ID="ID_1983525524" CREATED="1411539426918" MODIFIED="1411539426918" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="6.1.5 Other Deterministic Fault-oriented TG Methods" FOLDED="true" ID="ID_1983525524" CREATED="1411539426918" MODIFIED="1411539426918" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="220" object_id="9057602119141580284" object_number="7164" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3265,7 +3265,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="6.3Test Data Compaction" ID="ID_1338842092" CREATED="1411539427032" MODIFIED="1411539427032" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="6.3Test Data Compaction" FOLDED="true" ID="ID_1338842092" CREATED="1411539427032" MODIFIED="1411539427032" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="224" object_id="8238838955855099991" object_number="7151" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3280,7 +3280,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="6.3.2 Test Compatibility" ID="ID_1392837846" CREATED="1411539427063" MODIFIED="1411539427063" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="6.3.2 Test Compatibility" FOLDED="true" ID="ID_1392837846" CREATED="1411539427063" MODIFIED="1411539427063" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="225" object_id="7544357399151302167" object_number="7158" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3312,7 +3312,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="6.3.3 Static Compaction" ID="ID_1615689295" CREATED="1411539427143" MODIFIED="1411539427143" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="6.3.3 Static Compaction" FOLDED="true" ID="ID_1615689295" CREATED="1411539427143" MODIFIED="1411539427143" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="228" object_id="1529170373773381970" object_number="7155" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3362,14 +3362,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 7: Design for Test by Means of Scan" ID="ID_1734523150" CREATED="1411539427237" MODIFIED="1411539427237" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 7: Design for Test by Means of Scan" FOLDED="true" ID="ID_1734523150" CREATED="1411539427237" MODIFIED="1411539427237" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="237" object_id="7943803500324406732" object_number="6896" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="7.1 Making Circuits Testable" ID="ID_1941243938" CREATED="1411539427246" MODIFIED="1411539427246" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.1 Making Circuits Testable" FOLDED="true" ID="ID_1941243938" CREATED="1411539427246" MODIFIED="1411539427246" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="237" object_id="62735823026303504" object_number="6898" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3384,7 +3384,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="7.1.2 Testing Sequential Circuits" ID="ID_430275309" CREATED="1411539427284" MODIFIED="1411539427284" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.1.2 Testing Sequential Circuits" FOLDED="true" ID="ID_430275309" CREATED="1411539427284" MODIFIED="1411539427284" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="238" object_id="5192551961521408762" object_number="7230" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3417,7 +3417,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="7.2 Testability Insertion" ID="ID_146974209" CREATED="1411539427357" MODIFIED="1411539427357" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.2 Testability Insertion" FOLDED="true" ID="ID_146974209" CREATED="1411539427357" MODIFIED="1411539427357" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="239" object_id="7370259701858014911" object_number="7191" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3464,7 +3464,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="7.2.6 Simultaneous Control and Observation" ID="ID_127693359" CREATED="1411539427460" MODIFIED="1411539427460" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.2.6 Simultaneous Control and Observation" FOLDED="true" ID="ID_127693359" CREATED="1411539427460" MODIFIED="1411539427460" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="246" object_id="2046931433003206443" object_number="7193" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3497,14 +3497,14 @@
 </node>
 </node>
 </node>
-<node TEXT="7.3 Full Scan DFT Technique" ID="ID_1539320009" CREATED="1411539427561" MODIFIED="1411539427561" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.3 Full Scan DFT Technique" FOLDED="true" ID="ID_1539320009" CREATED="1411539427561" MODIFIED="1411539427561" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="249" object_id="6300896159637475704" object_number="7188" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="7.3.1 Full Scan Insertion" ID="ID_98839889" CREATED="1411539427575" MODIFIED="1411539427575" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.3.1 Full Scan Insertion" FOLDED="true" ID="ID_98839889" CREATED="1411539427575" MODIFIED="1411539427575" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="250" object_id="3010967282665343096" object_number="7189" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3528,7 +3528,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="7.3.2 Flip-flop Structures" ID="ID_206950240" CREATED="1411539427631" MODIFIED="1411539427631" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.3.2 Flip-flop Structures" FOLDED="true" ID="ID_206950240" CREATED="1411539427631" MODIFIED="1411539427631" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="251" object_id="4307267421635242962" object_number="7203" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3568,7 +3568,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="7.3.3 Full Scan Design and Test" ID="ID_1488334866" CREATED="1411539427727" MODIFIED="1411539427727" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.3.3 Full Scan Design and Test" FOLDED="true" ID="ID_1488334866" CREATED="1411539427727" MODIFIED="1411539427727" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="258" object_id="369796484423477283" object_number="7190" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3633,7 +3633,7 @@
 </node>
 </node>
 </node>
-<node TEXT="7.4 Scan Architectures" ID="ID_1371433712" CREATED="1411539427876" MODIFIED="1411539427876" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.4 Scan Architectures" FOLDED="true" ID="ID_1371433712" CREATED="1411539427876" MODIFIED="1411539427876" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="268" object_id="616006153563297840" object_number="7185" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3648,7 +3648,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="7.4.2 Shadow Register DFT" ID="ID_1017216138" CREATED="1411539427911" MODIFIED="1411539427911" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.4.2 Shadow Register DFT" FOLDED="true" ID="ID_1017216138" CREATED="1411539427911" MODIFIED="1411539427911" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="269" object_id="3020711455447387911" object_number="7221" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3680,7 +3680,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="7.4.3 Partial Scan Methods" ID="ID_1850303925" CREATED="1411539427986" MODIFIED="1411539427986" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.4.3 Partial Scan Methods" FOLDED="true" ID="ID_1850303925" CREATED="1411539427986" MODIFIED="1411539427986" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="272" object_id="1166724719414564789" object_number="7218" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3712,7 +3712,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="7.4.4 Multiple Scan Design" ID="ID_891097986" CREATED="1411539428075" MODIFIED="1411539428075" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.4.4 Multiple Scan Design" FOLDED="true" ID="ID_891097986" CREATED="1411539428075" MODIFIED="1411539428075" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="275" object_id="2911101921620676261" object_number="7215" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3753,7 +3753,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="7.5 RT Level Scan Design" ID="ID_1524897722" CREATED="1411539428166" MODIFIED="1411539428166" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="7.5 RT Level Scan Design" FOLDED="true" ID="ID_1524897722" CREATED="1411539428166" MODIFIED="1411539428166" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="277" object_id="9094864044776155292" object_number="7182" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3802,7 +3802,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 8: Standard IEEE Test Access Methods" ID="ID_1110194841" CREATED="1411539428259" MODIFIED="1411539428259" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 8: Standard IEEE Test Access Methods" FOLDED="true" ID="ID_1110194841" CREATED="1411539428259" MODIFIED="1411539428259" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="284" object_id="1295158259262096741" object_number="6892" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3817,7 +3817,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="8.2 Boundary Scan Architecture" ID="ID_1009723507" CREATED="1411539428281" MODIFIED="1411539428281" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="8.2 Boundary Scan Architecture" FOLDED="true" ID="ID_1009723507" CREATED="1411539428281" MODIFIED="1411539428281" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="285" object_id="4222712255006136728" object_number="7243" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3832,7 +3832,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="8.2.2 BS-1149.1 Registers" ID="ID_346463366" CREATED="1411539428308" MODIFIED="1411539428308" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="8.2.2 BS-1149.1 Registers" FOLDED="true" ID="ID_346463366" CREATED="1411539428308" MODIFIED="1411539428308" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="286" object_id="6431583179300812792" object_number="7248" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3881,14 +3881,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="8.3 Boundary Scan Test Instructions" ID="ID_1100563764" CREATED="1411539428410" MODIFIED="1411539428410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="8.3 Boundary Scan Test Instructions" FOLDED="true" ID="ID_1100563764" CREATED="1411539428410" MODIFIED="1411539428410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="294" object_id="1530690507093916351" object_number="7241" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="8.3.1 Mandatory Instructions" ID="ID_1777019638" CREATED="1411539428425" MODIFIED="1411539428425" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="8.3.1 Mandatory Instructions" FOLDED="true" ID="ID_1777019638" CREATED="1411539428425" MODIFIED="1411539428425" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="295" object_id="3103557121466270752" object_number="7242" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3937,7 +3937,7 @@
 </node>
 </node>
 </node>
-<node TEXT="8.4 Board Level Scan Chain Structure" ID="ID_753057713" CREATED="1411539428536" MODIFIED="1411539428536" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="8.4 Board Level Scan Chain Structure" FOLDED="true" ID="ID_753057713" CREATED="1411539428536" MODIFIED="1411539428536" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="300" object_id="577136638669109163" object_number="7238" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -3977,14 +3977,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="8.5 RT Level Boundary Scan" ID="ID_101759812" CREATED="1411539428619" MODIFIED="1411539428619" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="8.5 RT Level Boundary Scan" FOLDED="true" ID="ID_101759812" CREATED="1411539428619" MODIFIED="1411539428619" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="304" object_id="8304541554871756863" object_number="7235" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="8.5.1 Inserting Boundary Scan Test Hardware for CUT" ID="ID_811982065" CREATED="1411539428632" MODIFIED="1411539428632" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="8.5.1 Inserting Boundary Scan Test Hardware for CUT" FOLDED="true" ID="ID_811982065" CREATED="1411539428632" MODIFIED="1411539428632" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="304" object_id="2134553036501273286" object_number="7236" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4032,7 +4032,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="8.5.3 Virtual Boundary Scan Tester" ID="ID_1304606140" CREATED="1411539428746" MODIFIED="1411539428747" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="8.5.3 Virtual Boundary Scan Tester" FOLDED="true" ID="ID_1304606140" CREATED="1411539428746" MODIFIED="1411539428747" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="308" object_id="1289987776768528044" object_number="7237" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4082,21 +4082,21 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 9: Logic Built-in Self-test" ID="ID_739389892" CREATED="1411539421315" MODIFIED="1411539421315" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 9: Logic Built-in Self-test" FOLDED="true" ID="ID_739389892" CREATED="1411539421315" MODIFIED="1411539421315" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="318" object_id="4053832559324421146" object_number="6888" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="9.1 BIST Basics" ID="ID_1725945656" CREATED="1411539428842" MODIFIED="1411539428842" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.1 BIST Basics" FOLDED="true" ID="ID_1725945656" CREATED="1411539428842" MODIFIED="1411539428842" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="318" object_id="3516603125744310772" object_number="6890" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="9.1.1 Memory-based BIST" ID="ID_1627952286" CREATED="1411539428856" MODIFIED="1411539428856" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.1.1 Memory-based BIST" FOLDED="true" ID="ID_1627952286" CREATED="1411539428856" MODIFIED="1411539428856" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="318" object_id="7672274074659469826" object_number="7330" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4128,7 +4128,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="9.1.3 BIST Types" ID="ID_1500989419" CREATED="1411539428928" MODIFIED="1411539428928" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.1.3 BIST Types" FOLDED="true" ID="ID_1500989419" CREATED="1411539428928" MODIFIED="1411539428928" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="320" object_id="7252442962560437662" object_number="7334" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4168,7 +4168,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="9.1.4 Designing a BIST" ID="ID_649716110" CREATED="1411539429033" MODIFIED="1411539429033" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.1.4 Designing a BIST" FOLDED="true" ID="ID_649716110" CREATED="1411539429033" MODIFIED="1411539429033" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="321" object_id="680692652083807688" object_number="7331" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4209,7 +4209,7 @@
 </node>
 </node>
 </node>
-<node TEXT="9.2 Test Pattern Generation" ID="ID_658938861" CREATED="1411539429125" MODIFIED="1411539429125" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.2 Test Pattern Generation" FOLDED="true" ID="ID_658938861" CREATED="1411539429125" MODIFIED="1411539429125" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="323" object_id="8373012846129782505" object_number="7275" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4248,7 +4248,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="9.2.5 Linear Feedback Shift Register" ID="ID_1563684348" CREATED="1411539429202" MODIFIED="1411539429202" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.2.5 Linear Feedback Shift Register" FOLDED="true" ID="ID_1563684348" CREATED="1411539429202" MODIFIED="1411539429202" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="326" object_id="3662414688402675889" object_number="7277" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4313,7 +4313,7 @@
 </node>
 </node>
 </node>
-<node TEXT="9.3 Output Response Analysis" ID="ID_1042386441" CREATED="1411539429347" MODIFIED="1411539429347" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.3 Output Response Analysis" FOLDED="true" ID="ID_1042386441" CREATED="1411539429347" MODIFIED="1411539429347" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="335" object_id="6592501473408380486" object_number="7272" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4369,14 +4369,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="9.4 BIST Architectures" ID="ID_1579051445" CREATED="1411539421651" MODIFIED="1411539421651" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.4 BIST Architectures" FOLDED="true" ID="ID_1579051445" CREATED="1411539421651" MODIFIED="1411539421651" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="342" object_id="7689035490099340297" object_number="7269" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="9.4.1 BIST-related Terminologies" ID="ID_1271881010" CREATED="1411539429467" MODIFIED="1411539429468" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.4.1 BIST-related Terminologies" FOLDED="true" ID="ID_1271881010" CREATED="1411539429467" MODIFIED="1411539429468" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="342" object_id="5969873983533906109" object_number="7270" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4400,7 +4400,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="9.4.2 A Centralized and Separate Board-level BIST Architecture (CSBL)" ID="ID_635466727" CREATED="1411539429526" MODIFIED="1411539429527" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.4.2 A Centralized and Separate Board-level BIST Architecture (CSBL)" FOLDED="true" ID="ID_635466727" CREATED="1411539429526" MODIFIED="1411539429527" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="343" object_id="7473882950732163373" object_number="7307" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4440,7 +4440,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="9.4.4 Random Test Socket (RTS)" ID="ID_1220560195" CREATED="1411539429616" MODIFIED="1411539429616" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.4.4 Random Test Socket (RTS)" FOLDED="true" ID="ID_1220560195" CREATED="1411539429616" MODIFIED="1411539429616" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="345" object_id="7438624585727327620" object_number="7303" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4472,7 +4472,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="9.4.5 LSSD On-chip Self Test" ID="ID_1223486482" CREATED="1411539429693" MODIFIED="1411539429693" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.4.5 LSSD On-chip Self Test" FOLDED="true" ID="ID_1223486482" CREATED="1411539429693" MODIFIED="1411539429693" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="347" object_id="1581969046543784093" object_number="7300" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4504,7 +4504,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="9.4.6 Self-testing Using MISR and SRSG" ID="ID_1518620304" CREATED="1411539421722" MODIFIED="1411539421722" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.4.6 Self-testing Using MISR and SRSG" FOLDED="true" ID="ID_1518620304" CREATED="1411539421722" MODIFIED="1411539421722" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="348" object_id="4519216048283581099" object_number="7297" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4536,7 +4536,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="9.4.7 Concurrent BIST" ID="ID_1135396224" CREATED="1411539421703" MODIFIED="1411539421703" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.4.7 Concurrent BIST" FOLDED="true" ID="ID_1135396224" CREATED="1411539421703" MODIFIED="1411539421703" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="349" object_id="8332619450665241435" object_number="7295" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4552,7 +4552,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="9.4.8 BILBO" ID="ID_878924490" CREATED="1411539421667" MODIFIED="1411539421667" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.4.8 BILBO" FOLDED="true" ID="ID_878924490" CREATED="1411539421667" MODIFIED="1411539421667" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="351" object_id="6089172198385570549" object_number="7292" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4585,7 +4585,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="9.5 RT Level BIST Design" ID="ID_1377370640" CREATED="1411539421360" MODIFIED="1411539421360" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.5 RT Level BIST Design" FOLDED="true" ID="ID_1377370640" CREATED="1411539421360" MODIFIED="1411539421360" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="352" object_id="8851759764670988040" object_number="7266" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4600,7 +4600,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="9.5.2 RTS BIST Insertion" ID="ID_1821191453" CREATED="1411539421529" MODIFIED="1411539421529" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.5.2 RTS BIST Insertion" FOLDED="true" ID="ID_1821191453" CREATED="1411539421529" MODIFIED="1411539421529" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="353" object_id="7135362319043161402" object_number="7323" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4640,7 +4640,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="9.5.3 Configuring the RTS BIST" ID="ID_571703903" CREATED="1411539421459" MODIFIED="1411539421459" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.5.3 Configuring the RTS BIST" FOLDED="true" ID="ID_571703903" CREATED="1411539421459" MODIFIED="1411539421459" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="359" object_id="629454839058975591" object_number="7320" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4680,7 +4680,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="9.5.5 Design of STUMPS" ID="ID_1029713219" CREATED="1411539421379" MODIFIED="1411539421379" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="9.5.5 Design of STUMPS" FOLDED="true" ID="ID_1029713219" CREATED="1411539421379" MODIFIED="1411539421379" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="363" object_id="9129287648521826296" object_number="7316" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4738,7 +4738,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 10: Test Compression" ID="ID_1025497191" CREATED="1411539420931" MODIFIED="1411539420931" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 10: Test Compression" FOLDED="true" ID="ID_1025497191" CREATED="1411539420931" MODIFIED="1411539420931" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="368" object_id="3498102622315142263" object_number="6884" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4753,14 +4753,14 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="10.2 Compression Methods" ID="ID_1141797163" CREATED="1411539421123" MODIFIED="1411539421123" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="10.2 Compression Methods" FOLDED="true" ID="ID_1141797163" CREATED="1411539421123" MODIFIED="1411539421123" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="370" object_id="9148472330315330713" object_number="7348" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="10.2.1 Code-based Schemes" ID="ID_1541256141" CREATED="1411539421203" MODIFIED="1411539421203" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="10.2.1 Code-based Schemes" FOLDED="true" ID="ID_1541256141" CREATED="1411539421203" MODIFIED="1411539421203" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="370" object_id="405305885912463876" object_number="7349" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4800,7 +4800,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="10.2.2 Scan-based Schemes" ID="ID_1862503737" CREATED="1411539421121" MODIFIED="1411539421121" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="10.2.2 Scan-based Schemes" FOLDED="true" ID="ID_1862503737" CREATED="1411539421121" MODIFIED="1411539421121" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="380" object_id="753744998640679234" object_number="7350" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4841,7 +4841,7 @@
 </node>
 </node>
 </node>
-<node TEXT="10.3 Decompression Methods" ID="ID_422046682" CREATED="1411539420964" MODIFIED="1411539420964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="10.3 Decompression Methods" FOLDED="true" ID="ID_422046682" CREATED="1411539420964" MODIFIED="1411539420964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="385" object_id="1947385397308047737" object_number="7345" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4864,7 +4864,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="10.3.3 Code-based Decompression" ID="ID_61873469" CREATED="1411539420985" MODIFIED="1411539420985" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="10.3.3 Code-based Decompression" FOLDED="true" ID="ID_61873469" CREATED="1411539420985" MODIFIED="1411539420985" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="389" object_id="8064403130138986518" object_number="7359" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4930,7 +4930,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chapter 11: Memory Testing by Means of Memory BIST" ID="ID_1358144212" CREATED="1411539420478" MODIFIED="1411539420478" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="Chapter 11: Memory Testing by Means of Memory BIST" FOLDED="true" ID="ID_1358144212" CREATED="1411539420478" MODIFIED="1411539420478" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="397" object_id="2113645392817349493" object_number="6880" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4953,7 +4953,7 @@
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="11.3 Memory Fault Model" ID="ID_606954560" CREATED="1411539420817" MODIFIED="1411539420817" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="11.3 Memory Fault Model" FOLDED="true" ID="ID_606954560" CREATED="1411539420817" MODIFIED="1411539420817" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="399" object_id="9118924984150217006" object_number="7372" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -4993,7 +4993,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="11.4 Functional Test Procedures" ID="ID_1615901840" CREATED="1411539420716" MODIFIED="1411539420716" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="11.4 Functional Test Procedures" FOLDED="true" ID="ID_1615901840" CREATED="1411539420716" MODIFIED="1411539420716" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="400" object_id="3688008626457873280" object_number="7369" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -5033,14 +5033,14 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="11.5 MBIST Methods" ID="ID_969108137" CREATED="1411539420518" MODIFIED="1411539420518" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="11.5 MBIST Methods" FOLDED="true" ID="ID_969108137" CREATED="1411539420518" MODIFIED="1411539420518" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="403" object_id="607891968176317840" object_number="7366" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Navabi, Zainalabedin"/>
 <attribute NAME="title" VALUE="Digital system test and testable design: using HDL models and architectures"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="11.5.1 Simple March MBIST" ID="ID_1670247339" CREATED="1411539420607" MODIFIED="1411539420607" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="11.5.1 Simple March MBIST" FOLDED="true" ID="ID_1670247339" CREATED="1411539420607" MODIFIED="1411539420607" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="403" object_id="5396984457903102212" object_number="7367" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -5088,7 +5088,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="11.5.2 March C- MBIST" ID="ID_470353163" CREATED="1411539420564" MODIFIED="1411539420564" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="11.5.2 March C- MBIST" FOLDED="true" ID="ID_470353163" CREATED="1411539420564" MODIFIED="1411539420564" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="407" object_id="2786190094786999682" object_number="7382" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -5112,7 +5112,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="11.5.3 Disturb MBIST" ID="ID_1550459415" CREATED="1411539420514" MODIFIED="1411539420514" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
+<node TEXT="11.5.3 Disturb MBIST" FOLDED="true" ID="ID_1550459415" CREATED="1411539420514" MODIFIED="1411539420514" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-1-4419-7548-5.pdf">
 <pdf_annotation type="BOOKMARK" page="409" object_id="262749800010924651" object_number="7368" document_hash="6665BC2721B8602830CE8237A1F214BCB4AEC0D89524F1B44ECC04DA94C91D3">
     <pdf_title>Digital System Test and Testable Design</pdf_title>
 </pdf_annotation>
@@ -5355,7 +5355,7 @@
 <attribute NAME="year" VALUE="2001"/>
 </node>
 </node>
-<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1413321621261" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Arquiteturas" FOLDED="true" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1413680316455" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c7c00"/>
 <node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1413321727169" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5FF56780A5BCACE023A24384365ADABF1FDF4C93E721EC53591F1571F2BE5A">
@@ -5399,7 +5399,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Introduction" ID="ID_1398329462" CREATED="1411611274981" MODIFIED="1411611274981" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Introduction" FOLDED="true" ID="ID_1398329462" CREATED="1411611274981" MODIFIED="1411611274981" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="16" object_id="6457273387474264728" object_number="3646"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5410,7 +5410,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Main Motivations" ID="ID_254690811" CREATED="1411611275009" MODIFIED="1411611275009" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Main Motivations" FOLDED="true" ID="ID_254690811" CREATED="1411611275009" MODIFIED="1411611275009" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="19" object_id="6381347966779455991" object_number="3648"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5453,7 +5453,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Reconfigurable Systems" ID="ID_1260101989" CREATED="1411611274745" MODIFIED="1411611274745" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Reconfigurable Systems" FOLDED="true" ID="ID_1260101989" CREATED="1411611274745" MODIFIED="1411611274745" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="27" object_id="8553529049280560905" object_number="3655"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5464,7 +5464,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Basic Principles" ID="ID_1300148958" CREATED="1411611274947" MODIFIED="1411611274947" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Basic Principles" FOLDED="true" ID="ID_1300148958" CREATED="1411611274947" MODIFIED="1411611274947" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="29" object_id="7894612485056715951" object_number="3657"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5482,7 +5482,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Advantages of Using Reconfigurable Logic" ID="ID_861240050" CREATED="1411611274900" MODIFIED="1411611274900" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Advantages of Using Reconfigurable Logic" FOLDED="true" ID="ID_861240050" CREATED="1411611274900" MODIFIED="1411611274900" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="34" object_id="2044595409760511524" object_number="3660"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5500,7 +5500,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Reconfigurable Logic Classification" ID="ID_202328451" CREATED="1411611274821" MODIFIED="1411611274821" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Reconfigurable Logic Classification" FOLDED="true" ID="ID_202328451" CREATED="1411611274821" MODIFIED="1411611274821" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="38" object_id="1976063688340901556" object_number="3663"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5536,7 +5536,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Directions" ID="ID_1384362446" CREATED="1411611274762" MODIFIED="1411611274762" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Directions" FOLDED="true" ID="ID_1384362446" CREATED="1411611274762" MODIFIED="1411611274762" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="44" object_id="7035552857976162078" object_number="3669"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5573,7 +5573,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Deployment of Reconfigurable Systems" ID="ID_562019801" CREATED="1411611273044" MODIFIED="1411611273044" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Deployment of Reconfigurable Systems" FOLDED="true" ID="ID_562019801" CREATED="1411611273044" MODIFIED="1411611273044" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="59" object_id="7169686072427295523" object_number="3675"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5584,12 +5584,12 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Examples of Reconfigurable Architectures" ID="ID_1603939193" CREATED="1411611273103" MODIFIED="1411611273103" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Examples of Reconfigurable Architectures" FOLDED="true" ID="ID_1603939193" CREATED="1411611273103" MODIFIED="1411611273103" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="60" object_id="468496374091566781" object_number="3677"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="Chimaera" ID="ID_751695284" CREATED="1411611274627" MODIFIED="1411611274627" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Chimaera" FOLDED="true" ID="ID_751695284" CREATED="1411611274627" MODIFIED="1411611274627" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="60" object_id="455970420323446833" object_number="3678"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5625,7 +5625,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="GARP" ID="ID_684493425" CREATED="1411611274516" MODIFIED="1411611274516" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="GARP" FOLDED="true" ID="ID_684493425" CREATED="1411611274516" MODIFIED="1411611274516" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="63" object_id="8316889984285796047" object_number="3684"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5667,7 +5667,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="REMARC" ID="ID_265145439" CREATED="1411611274423" MODIFIED="1411611274423" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="REMARC" FOLDED="true" ID="ID_265145439" CREATED="1411611274423" MODIFIED="1411611274423" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="66" object_id="1532393023785530287" object_number="3691"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5703,7 +5703,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Rapid" ID="ID_1554107705" CREATED="1411611274351" MODIFIED="1411611274351" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Rapid" FOLDED="true" ID="ID_1554107705" CREATED="1411611274351" MODIFIED="1411611274351" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="69" object_id="953135282416290509" object_number="3697"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5733,7 +5733,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Piperench (1999)" ID="ID_1405496398" CREATED="1411611274268" MODIFIED="1411611274268" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Piperench (1999)" FOLDED="true" ID="ID_1405496398" CREATED="1411611274268" MODIFIED="1411611274268" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="71" object_id="775063456382365104" object_number="3702"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5769,7 +5769,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Molen" ID="ID_1772585637" CREATED="1411611274206" MODIFIED="1411611274206" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Molen" FOLDED="true" ID="ID_1772585637" CREATED="1411611274206" MODIFIED="1411611274206" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="75" object_id="4547547477086184423" object_number="3708"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5799,7 +5799,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Morphosys" ID="ID_1664296611" CREATED="1411611274133" MODIFIED="1411611274133" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Morphosys" FOLDED="true" ID="ID_1664296611" CREATED="1411611274133" MODIFIED="1411611274133" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="77" object_id="8111718245450685416" object_number="3713"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5829,7 +5829,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="ADRES" ID="ID_1880359612" CREATED="1411611274061" MODIFIED="1411611274061" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="ADRES" FOLDED="true" ID="ID_1880359612" CREATED="1411611274061" MODIFIED="1411611274061" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="80" object_id="6829200368012919951" object_number="3718"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5859,7 +5859,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Concise" ID="ID_1602631758" CREATED="1411611273998" MODIFIED="1411611273999" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Concise" FOLDED="true" ID="ID_1602631758" CREATED="1411611273998" MODIFIED="1411611273999" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="82" object_id="496628585550451469" object_number="3723"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5889,7 +5889,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="PACT-XPP" ID="ID_731972551" CREATED="1411611273931" MODIFIED="1411611273931" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="PACT-XPP" FOLDED="true" ID="ID_731972551" CREATED="1411611273931" MODIFIED="1411611273931" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="83" object_id="3834933155781864752" object_number="3728"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5925,7 +5925,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="RAW" ID="ID_22834972" CREATED="1411611273845" MODIFIED="1411611273845" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="RAW" FOLDED="true" ID="ID_22834972" CREATED="1411611273845" MODIFIED="1411611273845" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="87" object_id="5320032354070347942" object_number="3734"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5961,7 +5961,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Onechip" ID="ID_188257862" CREATED="1411611273763" MODIFIED="1411611273764" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Onechip" FOLDED="true" ID="ID_188257862" CREATED="1411611273763" MODIFIED="1411611273764" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="89" object_id="3320802872626239440" object_number="3740"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -5997,7 +5997,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Chess" ID="ID_221746994" CREATED="1411611273723" MODIFIED="1411611273723" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Chess" FOLDED="true" ID="ID_221746994" CREATED="1411611273723" MODIFIED="1411611273723" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="90" object_id="4021600204668074241" object_number="3746"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6015,7 +6015,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="PRISM I" ID="ID_1638154838" CREATED="1411611273686" MODIFIED="1411611273686" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="PRISM I" FOLDED="true" ID="ID_1638154838" CREATED="1411611273686" MODIFIED="1411611273686" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="92" object_id="5562700991220559243" object_number="3749"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6039,7 +6039,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="PRISM II" ID="ID_1297008574" CREATED="1411611273173" MODIFIED="1411611273173" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="PRISM II" FOLDED="true" ID="ID_1297008574" CREATED="1411611273173" MODIFIED="1411611273173" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="92" object_id="457071357696750365" object_number="3753"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6069,7 +6069,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Nano" ID="ID_278914084" CREATED="1411611273100" MODIFIED="1411611273100" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Nano" FOLDED="true" ID="ID_278914084" CREATED="1411611273100" MODIFIED="1411611273100" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="94" object_id="4683307707758689735" object_number="3758"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6106,7 +6106,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Summary and Comparative Tables" ID="ID_860686064" CREATED="1411611273057" MODIFIED="1411611273057" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Summary and Comparative Tables" FOLDED="true" ID="ID_860686064" CREATED="1411611273057" MODIFIED="1411611273057" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="97" object_id="5509354262454544400" object_number="3764"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6131,7 +6131,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Dynamic Optimization Techniques" ID="ID_1763194481" CREATED="1411611272740" MODIFIED="1411611272740" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Dynamic Optimization Techniques" FOLDED="true" ID="ID_1763194481" CREATED="1411611272740" MODIFIED="1411611272740" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="108" object_id="9124419045692305474" object_number="3768"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6142,7 +6142,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Binary Translation" ID="ID_1940992837" CREATED="1411611272821" MODIFIED="1411611272821" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Binary Translation" FOLDED="true" ID="ID_1940992837" CREATED="1411611272821" MODIFIED="1411611272821" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="108" object_id="1506827308127121424" object_number="3770"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6159,7 +6159,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Challenges" ID="ID_464674703" CREATED="1411611272908" MODIFIED="1411611272908" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Challenges" FOLDED="true" ID="ID_464674703" CREATED="1411611272908" MODIFIED="1411611272908" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="112" object_id="1649888096340838093" object_number="3773"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6195,7 +6195,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Examples" ID="ID_916156273" CREATED="1411611272818" MODIFIED="1411611272818" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Examples" FOLDED="true" ID="ID_916156273" CREATED="1411611272818" MODIFIED="1411611272818" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="113" object_id="2470474882463693577" object_number="3779"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6232,7 +6232,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Reuse" ID="ID_352002474" CREATED="1411611272755" MODIFIED="1411611272755" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Reuse" FOLDED="true" ID="ID_352002474" CREATED="1411611272755" MODIFIED="1411611272755" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="122" object_id="2758476634368159297" object_number="3785"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6275,12 +6275,12 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Dynamic Detection and Reconfiguration" ID="ID_1141082785" CREATED="1411611272603" MODIFIED="1411611272604" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Dynamic Detection and Reconfiguration" FOLDED="true" ID="ID_1141082785" CREATED="1411611272603" MODIFIED="1411611272604" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="131" object_id="2129009903879966380" object_number="3792"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="Warp Processing" ID="ID_129019590" CREATED="1411611272688" MODIFIED="1411611272688" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Warp Processing" FOLDED="true" ID="ID_129019590" CREATED="1411611272688" MODIFIED="1411611272688" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="131" object_id="9201130299820383176" object_number="3793"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6304,7 +6304,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Configurable Compute Array" ID="ID_1913106286" CREATED="1411611272634" MODIFIED="1411611272634" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Configurable Compute Array" FOLDED="true" ID="ID_1913106286" CREATED="1411611272634" MODIFIED="1411611272634" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="136" object_id="2956859884437170816" object_number="3797"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6341,12 +6341,12 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="The DIM Reconfigurable System" ID="ID_1993785465" CREATED="1411611272331" MODIFIED="1411611272331" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="The DIM Reconfigurable System" FOLDED="true" ID="ID_1993785465" CREATED="1411611272331" MODIFIED="1411611272331" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="143" object_id="6634879886283852954" object_number="3803"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
-<node TEXT="Introduction" ID="ID_1159052851" CREATED="1411611272584" MODIFIED="1411611272584" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Introduction" FOLDED="true" ID="ID_1159052851" CREATED="1411611272584" MODIFIED="1411611272584" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="143" object_id="2111150536556931423" object_number="3804"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6370,7 +6370,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="The BT Algorithm in Details" ID="ID_732109254" CREATED="1411611272469" MODIFIED="1411611272469" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="The BT Algorithm in Details" FOLDED="true" ID="ID_732109254" CREATED="1411611272469" MODIFIED="1411611272469" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="150" object_id="4896188488448417335" object_number="3808"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6406,7 +6406,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Case Studies" ID="ID_227020571" CREATED="1411611272423" MODIFIED="1411611272423" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Case Studies" FOLDED="true" ID="ID_227020571" CREATED="1411611272423" MODIFIED="1411611272423" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="157" object_id="4876398517072506360" object_number="3814"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6436,7 +6436,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="On-Going and Future Works" ID="ID_1097376534" CREATED="1411611272348" MODIFIED="1411611272348" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="On-Going and Future Works" FOLDED="true" ID="ID_1097376534" CREATED="1411611272348" MODIFIED="1411611272348" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="168" object_id="9156654989862467951" object_number="3819"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6479,7 +6479,7 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="Conclusions and Future Trends" ID="ID_207148261" CREATED="1411611272191" MODIFIED="1411611272191" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Conclusions and Future Trends" FOLDED="true" ID="ID_207148261" CREATED="1411611272191" MODIFIED="1411611272191" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="174" object_id="2727713535971305063" object_number="3826"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6526,7 +6526,7 @@
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="Reconfigurable Systems Attacking Different Levels of Instruction Granularity" ID="ID_1986221019" CREATED="1411611272223" MODIFIED="1411611272223" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
+<node TEXT="Reconfigurable Systems Attacking Different Levels of Instruction Granularity" FOLDED="true" ID="ID_1986221019" CREATED="1411611272223" MODIFIED="1411611272223" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-90-481-3913-2.pdf">
 <pdf_annotation type="BOOKMARK" page="179" object_id="7675592374805655896" object_number="3834"/>
 <attribute NAME="authors" VALUE="Beck, Antonio Carlos Schneider and Carro, Luigi and Carro, Luigi"/>
 <attribute NAME="title" VALUE="Dynamic Reconfigurable Architectures and Transparent Optimization Techniques: Automatic Acceleration of Software Execution"/>
@@ -6574,7 +6574,7 @@
 <attribute NAME="year" VALUE="1993"/>
 </node>
 </node>
-<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1413321621389" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1413680316983" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c0000"/>
 <node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1413321727133" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf" MOVED="1411878920151">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D4D852F99AB0D925364677F4A756C5A8FAB3037A8D28642BF5470F141F1E13E">
@@ -6659,7 +6659,7 @@
 <attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="I.  Introduction" ID="ID_951652527" CREATED="1411539431276" MODIFIED="1411539431276" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT="I.  Introduction" FOLDED="true" ID="ID_951652527" CREATED="1411539431276" MODIFIED="1411539431276" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="13" object_id="5035175155978832479" object_number="27" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -6706,7 +6706,7 @@
 <attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT=" Background Work" ID="ID_107736457" CREATED="1411539431288" MODIFIED="1411539431289" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Background Work" FOLDED="true" ID="ID_107736457" CREATED="1411539431288" MODIFIED="1411539431289" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="22" object_id="2986513693136853719" object_number="51" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -6739,14 +6739,14 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="II.  Physical Processes" ID="ID_589766435" CREATED="1411539431083" MODIFIED="1411539431083" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT="II.  Physical Processes" FOLDED="true" ID="ID_589766435" CREATED="1411539431083" MODIFIED="1411539431083" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="34" object_id="4230179365090260051" object_number="67" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Brian Sierawski"/>
 <attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Electronic Interactions" ID="ID_1879701809" CREATED="1411539431247" MODIFIED="1411539431247" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Electronic Interactions" FOLDED="true" ID="ID_1879701809" CREATED="1411539431247" MODIFIED="1411539431247" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="35" object_id="5755347021521399450" object_number="71" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -6778,7 +6778,7 @@
 <attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT=" Nuclear Interactions" ID="ID_833373290" CREATED="1411539431128" MODIFIED="1411539431128" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Nuclear Interactions" FOLDED="true" ID="ID_833373290" CREATED="1411539431128" MODIFIED="1411539431128" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="38" object_id="1891363686176373353" object_number="87" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -6834,7 +6834,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT=" Decay" ID="ID_1857837709" CREATED="1411539431096" MODIFIED="1411539431096" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Decay" FOLDED="true" ID="ID_1857837709" CREATED="1411539431096" MODIFIED="1411539431096" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="42" object_id="8483189838095604980" object_number="115" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -6867,14 +6867,14 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="III.  Radiation Environments" ID="ID_386405291" CREATED="1411539430985" MODIFIED="1411539430985" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT="III.  Radiation Environments" FOLDED="true" ID="ID_386405291" CREATED="1411539430985" MODIFIED="1411539430985" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="45" object_id="2548998950685207458" object_number="131" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Brian Sierawski"/>
 <attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Extraterrestrial Environments" ID="ID_1008664471" CREATED="1411539431044" MODIFIED="1411539431044" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Extraterrestrial Environments" FOLDED="true" ID="ID_1008664471" CREATED="1411539431044" MODIFIED="1411539431044" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="46" object_id="7969479227871706991" object_number="135" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -6898,7 +6898,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT=" Terrestrial Environments" ID="ID_1645092483" CREATED="1411539430996" MODIFIED="1411539430996" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Terrestrial Environments" FOLDED="true" ID="ID_1645092483" CREATED="1411539430996" MODIFIED="1411539430996" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="52" object_id="3963061269768761283" object_number="147" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -6939,7 +6939,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="IV.  Accelerated Testing" ID="ID_535662549" CREATED="1411539430817" MODIFIED="1411539430817" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT="IV.  Accelerated Testing" FOLDED="true" ID="ID_535662549" CREATED="1411539430817" MODIFIED="1411539430817" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="60" object_id="1801027664858960861" object_number="167" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -6954,7 +6954,7 @@
 <attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT=" Heavy Ion Accelerated Tests" ID="ID_1147723919" CREATED="1411539430956" MODIFIED="1411539430956" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Heavy Ion Accelerated Tests" FOLDED="true" ID="ID_1147723919" CREATED="1411539430956" MODIFIED="1411539430956" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="63" object_id="8253514585346285654" object_number="175" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -6978,7 +6978,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT=" Proton Accelerated Testing" ID="ID_1891397012" CREATED="1411539430928" MODIFIED="1411539430928" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Proton Accelerated Testing" FOLDED="true" ID="ID_1891397012" CREATED="1411539430928" MODIFIED="1411539430928" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="66" object_id="7309885148738389166" object_number="187" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -7002,7 +7002,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT=" Muon Accelerated Testing" ID="ID_708916291" CREATED="1411539430865" MODIFIED="1411539430865" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Muon Accelerated Testing" FOLDED="true" ID="ID_708916291" CREATED="1411539430865" MODIFIED="1411539430865" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="71" object_id="5744955799232667162" object_number="199" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -7042,7 +7042,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT=" Hardness Assurance Methods" ID="ID_1580716916" CREATED="1411539430832" MODIFIED="1411539430832" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Hardness Assurance Methods" FOLDED="true" ID="ID_1580716916" CREATED="1411539430832" MODIFIED="1411539430832" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="84" object_id="1340157309769038919" object_number="219" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -7075,7 +7075,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="V.  Rate Prediction Analyses" ID="ID_1896282543" CREATED="1411539430731" MODIFIED="1411539430731" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT="V.  Rate Prediction Analyses" FOLDED="true" ID="ID_1896282543" CREATED="1411539430731" MODIFIED="1411539430731" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="94" object_id="102833849757819995" object_number="235" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -7106,7 +7106,7 @@
 <attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT=" Single Event Upset Predictions" ID="ID_7831755" CREATED="1411539430748" MODIFIED="1411539430748" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Single Event Upset Predictions" FOLDED="true" ID="ID_7831755" CREATED="1411539430748" MODIFIED="1411539430748" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="102" object_id="2116088210800043501" object_number="251" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -7139,14 +7139,14 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="VI.  Implications for Future Devices" ID="ID_1260288935" CREATED="1411539430673" MODIFIED="1411539430673" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT="VI.  Implications for Future Devices" FOLDED="true" ID="ID_1260288935" CREATED="1411539430673" MODIFIED="1411539430673" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="111" object_id="3756696354433219150" object_number="267" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
 <attribute NAME="authors" VALUE="Brian Sierawski"/>
 <attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT=" Charge Collection Models" ID="ID_1876598956" CREATED="1411539430687" MODIFIED="1411539430687" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT=" Charge Collection Models" FOLDED="true" ID="ID_1876598956" CREATED="1411539430687" MODIFIED="1411539430687" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="BOOKMARK" page="113" object_id="4350500864242498993" object_number="271" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
@@ -7414,7 +7414,7 @@
 <attribute NAME="year" VALUE="2012"/>
 </node>
 </node>
-<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1413321621481" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1413680317066" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7434,7 +7434,7 @@
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT="Preface" ID="ID_1050861268" CREATED="1411611277945" MODIFIED="1411611277946" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="Preface" FOLDED="true" ID="ID_1050861268" CREATED="1411611277945" MODIFIED="1411611277946" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="5" object_id="1970866415583229483" object_number="4328"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7476,7 +7476,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="1 Introduction" ID="ID_845223471" CREATED="1411611277825" MODIFIED="1411611277826" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="1 Introduction" FOLDED="true" ID="ID_845223471" CREATED="1411611277825" MODIFIED="1411611277826" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="25" object_id="6741949538321246676" object_number="4336"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7506,12 +7506,12 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="2 Terrestrial Neutron-Induced Failures in Semiconductor Devices and Relevant Systems and Their Mitigation Techniques" ID="ID_1773317911" CREATED="1411611276975" MODIFIED="1411611276975" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2 Terrestrial Neutron-Induced Failures in Semiconductor Devices and Relevant Systems and Their Mitigation Techniques" FOLDED="true" ID="ID_1773317911" CREATED="1411611276975" MODIFIED="1411611276975" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="31" object_id="884467156898047083" object_number="4342"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT="2.1 Introduction" ID="ID_127823539" CREATED="1411611277748" MODIFIED="1411611277748" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.1 Introduction" FOLDED="true" ID="ID_127823539" CREATED="1411611277748" MODIFIED="1411611277748" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="31" object_id="7490955287357989018" object_number="4343"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7547,7 +7547,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="2.2 Basic Knowledge on Terrestrial Neutron-Induced Soft-Error in MOSFET Devices" ID="ID_1763337813" CREATED="1411611277711" MODIFIED="1411611277711" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.2 Basic Knowledge on Terrestrial Neutron-Induced Soft-Error in MOSFET Devices" FOLDED="true" ID="ID_1763337813" CREATED="1411611277711" MODIFIED="1411611277711" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="34" object_id="2121300704642875929" object_number="4349"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7565,7 +7565,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="2.3 Experimental Techniques to Quantify Soft-Error Rate (SER) and Their Standardization" ID="ID_1214460182" CREATED="1411611277623" MODIFIED="1411611277623" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.3 Experimental Techniques to Quantify Soft-Error Rate (SER) and Their Standardization" FOLDED="true" ID="ID_1214460182" CREATED="1411611277623" MODIFIED="1411611277623" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="36" object_id="1483440185560957754" object_number="4352"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7576,7 +7576,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="2.3.2 Basic Method in JESD89A" ID="ID_814330097" CREATED="1411611277660" MODIFIED="1411611277660" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.3.2 Basic Method in JESD89A" FOLDED="true" ID="ID_814330097" CREATED="1411611277660" MODIFIED="1411611277660" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="37" object_id="7548099810176448844" object_number="4354"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7607,12 +7607,12 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="2.4 Evolution of Multi-node Upset Problem" ID="ID_550539285" CREATED="1411611277509" MODIFIED="1411611277509" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.4 Evolution of Multi-node Upset Problem" FOLDED="true" ID="ID_550539285" CREATED="1411611277509" MODIFIED="1411611277509" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="41" object_id="3953464299432587372" object_number="4359"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT="2.4.1 MCU Characterization by Accelerator-Based Experiments" ID="ID_1988976994" CREATED="1411611277532" MODIFIED="1411611277532" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.4.1 MCU Characterization by Accelerator-Based Experiments" FOLDED="true" ID="ID_1988976994" CREATED="1411611277532" MODIFIED="1411611277532" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="41" object_id="2601399732644864639" object_number="4360"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7655,7 +7655,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="2.5 Simulation Techniques for Neutron-Induced Soft Error" ID="ID_1743853094" CREATED="1411611277391" MODIFIED="1411611277391" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.5 Simulation Techniques for Neutron-Induced Soft Error" FOLDED="true" ID="ID_1743853094" CREATED="1411611277391" MODIFIED="1411611277391" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="47" object_id="1512130893582163227" object_number="4367"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7703,7 +7703,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="2.6 Prediction for Scaling Effects Down to 22nm Design Rule in SRAMs" ID="ID_1488424948" CREATED="1411611277228" MODIFIED="1411611277228" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.6 Prediction for Scaling Effects Down to 22nm Design Rule in SRAMs" FOLDED="true" ID="ID_1488424948" CREATED="1411611277228" MODIFIED="1411611277228" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="53" object_id="519778103867055934" object_number="4375"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7714,7 +7714,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="2.6.2 Results and Discussions" ID="ID_1857783208" CREATED="1411611277244" MODIFIED="1411611277244" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.6.2 Results and Discussions" FOLDED="true" ID="ID_1857783208" CREATED="1411611277244" MODIFIED="1411611277244" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="54" object_id="5730674193987179122" object_number="4377"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7769,7 +7769,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="2.7 SER Estimation in Devices/Components/System" ID="ID_972860059" CREATED="1411611277180" MODIFIED="1411611277180" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.7 SER Estimation in Devices/Components/System" FOLDED="true" ID="ID_972860059" CREATED="1411611277180" MODIFIED="1411611277180" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="64" object_id="6797454753085016196" object_number="4386"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7793,12 +7793,12 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="2.8 An Example of Chip/Board-Level SER Measurement and Architectural Mitigation Techniques" ID="ID_462781856" CREATED="1411611277052" MODIFIED="1411611277052" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.8 An Example of Chip/Board-Level SER Measurement and Architectural Mitigation Techniques" FOLDED="true" ID="ID_462781856" CREATED="1411611277052" MODIFIED="1411611277052" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="67" object_id="5388102465464070120" object_number="4390"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT="2.8.1 SER Test Procedures for Network Components" ID="ID_578749056" CREATED="1411611277109" MODIFIED="1411611277109" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.8.1 SER Test Procedures for Network Components" FOLDED="true" ID="ID_578749056" CREATED="1411611277109" MODIFIED="1411611277109" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="67" object_id="5917496139623517043" object_number="4391"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7828,7 +7828,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="2.8.2 Results and Discussions" ID="ID_1605528828" CREATED="1411611277050" MODIFIED="1411611277050" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.8.2 Results and Discussions" FOLDED="true" ID="ID_1605528828" CREATED="1411611277050" MODIFIED="1411611277050" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="73" object_id="2482849487998555339" object_number="4396"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7853,7 +7853,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2.9 Hierarchical Mitigation Strategies" ID="ID_493070877" CREATED="1411611277013" MODIFIED="1411611277013" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="2.9 Hierarchical Mitigation Strategies" FOLDED="true" ID="ID_493070877" CREATED="1411611277013" MODIFIED="1411611277013" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="75" object_id="6773989324137271486" object_number="4400"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7890,7 +7890,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="3 Electromagnetic Compatibility" ID="ID_570346630" CREATED="1411611276745" MODIFIED="1411611276746" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="3 Electromagnetic Compatibility" FOLDED="true" ID="ID_570346630" CREATED="1411611276745" MODIFIED="1411611276746" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="88" object_id="4873407891668555681" object_number="4406"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7901,7 +7901,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="3.2 Quantitative Estimation of the EMI Radiation Based on the Measured Near-Field Magnetic Distribution" ID="ID_1106440505" CREATED="1411611276911" MODIFIED="1411611276911" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="3.2 Quantitative Estimation of the EMI Radiation Based on the Measured Near-Field Magnetic Distribution" FOLDED="true" ID="ID_1106440505" CREATED="1411611276911" MODIFIED="1411611276911" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="91" object_id="3552931231180051385" object_number="4408"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7925,12 +7925,12 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="3.3 Development of a Non-contact Current Distribution Measurement Technique for LSI Packaging on PCBs" ID="ID_1586277296" CREATED="1411611276832" MODIFIED="1411611276833" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="3.3 Development of a Non-contact Current Distribution Measurement Technique for LSI Packaging on PCBs" FOLDED="true" ID="ID_1586277296" CREATED="1411611276832" MODIFIED="1411611276833" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="94" object_id="3949511060177510621" object_number="4412"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT="3.3.1 Electric Current Distribution Detection" ID="ID_60866892" CREATED="1411611276850" MODIFIED="1411611276850" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="3.3.1 Electric Current Distribution Detection" FOLDED="true" ID="ID_60866892" CREATED="1411611276850" MODIFIED="1411611276850" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="94" object_id="2260391609774075842" object_number="4413"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -7961,7 +7961,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="3.4 Reduction Technique of Radiated Emission from Chassis with PCB" ID="ID_665743114" CREATED="1411611276771" MODIFIED="1411611276771" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="3.4 Reduction Technique of Radiated Emission from Chassis with PCB" FOLDED="true" ID="ID_665743114" CREATED="1411611276771" MODIFIED="1411611276771" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="98" object_id="1384783111960738145" object_number="4418"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8004,7 +8004,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="4 Power Integrity" ID="ID_1038089292" CREATED="1411611276111" MODIFIED="1411611276111" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4 Power Integrity" FOLDED="true" ID="ID_1038089292" CREATED="1411611276111" MODIFIED="1411611276111" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="113" object_id="4641103487935237482" object_number="4426"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8015,12 +8015,12 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="4.2 Detrimental Effect and Technical Trends of Power Integrity Design of Electronic Systems and Devices" ID="ID_898445709" CREATED="1411611276619" MODIFIED="1411611276619" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.2 Detrimental Effect and Technical Trends of Power Integrity Design of Electronic Systems and Devices" FOLDED="true" ID="ID_898445709" CREATED="1411611276619" MODIFIED="1411611276619" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="114" object_id="6146160776066050649" object_number="4428"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT="4.2.1 Detrimental Effect by Power Supply Noise on Semiconducting Devices" ID="ID_319810174" CREATED="1411611276654" MODIFIED="1411611276654" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.2.1 Detrimental Effect by Power Supply Noise on Semiconducting Devices" FOLDED="true" ID="ID_319810174" CREATED="1411611276654" MODIFIED="1411611276654" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="114" object_id="1134311438812025259" object_number="4429"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8069,7 +8069,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="4.3 Design Methodology of Power Integrity" ID="ID_1758178048" CREATED="1411611276522" MODIFIED="1411611276522" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.3 Design Methodology of Power Integrity" FOLDED="true" ID="ID_1758178048" CREATED="1411611276522" MODIFIED="1411611276522" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="124" object_id="4043458925821387677" object_number="4438"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8080,7 +8080,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="4.3.2 Time-Domain and Frequency-Domain Design Methodology" ID="ID_1618948074" CREATED="1411611276520" MODIFIED="1411611276520" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.3.2 Time-Domain and Frequency-Domain Design Methodology" FOLDED="true" ID="ID_1618948074" CREATED="1411611276520" MODIFIED="1411611276520" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="126" object_id="2927224804936094338" object_number="4440"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8111,12 +8111,12 @@
 </node>
 </node>
 </node>
-<node TEXT="4.4 Modeling and Design Methodologies of PDS" ID="ID_443370126" CREATED="1411611276283" MODIFIED="1411611276283" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.4 Modeling and Design Methodologies of PDS" FOLDED="true" ID="ID_443370126" CREATED="1411611276283" MODIFIED="1411611276283" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="137" object_id="4911740612834278272" object_number="4445"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT="4.4.1 Modeling of Electrical Circuit Parameters" ID="ID_290578382" CREATED="1411611276375" MODIFIED="1411611276375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.4.1 Modeling of Electrical Circuit Parameters" FOLDED="true" ID="ID_290578382" CREATED="1411611276375" MODIFIED="1411611276375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="138" object_id="7559683521493194936" object_number="4446"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8164,7 +8164,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="4.4.2 Design Strategies of PDS" ID="ID_1479617000" CREATED="1411611276280" MODIFIED="1411611276280" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.4.2 Design Strategies of PDS" FOLDED="true" ID="ID_1479617000" CREATED="1411611276280" MODIFIED="1411611276280" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="143" object_id="2096361710483387388" object_number="4454"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8201,7 +8201,7 @@
 </node>
 </node>
 </node>
-<node TEXT="4.5 Simultaneous Switching Noise (SSN)" ID="ID_49138737" CREATED="1411611276230" MODIFIED="1411611276230" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.5 Simultaneous Switching Noise (SSN)" FOLDED="true" ID="ID_49138737" CREATED="1411611276230" MODIFIED="1411611276230" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="147" object_id="6075391512460358783" object_number="4460"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8225,12 +8225,12 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="4.6 Measurement of Power Distribution System Performance" ID="ID_274485021" CREATED="1411611276139" MODIFIED="1411611276139" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.6 Measurement of Power Distribution System Performance" FOLDED="true" ID="ID_274485021" CREATED="1411611276139" MODIFIED="1411611276139" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="153" object_id="5813451043721409019" object_number="4464"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT="4.6.1 On-Chip Voltage Waveform Measurement" ID="ID_838936443" CREATED="1411611276175" MODIFIED="1411611276175" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.6.1 On-Chip Voltage Waveform Measurement" FOLDED="true" ID="ID_838936443" CREATED="1411611276175" MODIFIED="1411611276175" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="153" object_id="7073495302530931831" object_number="4465"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8254,7 +8254,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="4.6.2 On-Chip Power Supply Impedance Measurement" ID="ID_1964296724" CREATED="1411611276137" MODIFIED="1411611276137" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="4.6.2 On-Chip Power Supply Impedance Measurement" FOLDED="true" ID="ID_1964296724" CREATED="1411611276137" MODIFIED="1411611276137" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="159" object_id="485928014446178892" object_number="4469"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8286,7 +8286,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="5 Fault-Tolerant System Technology" ID="ID_502426057" CREATED="1411611275550" MODIFIED="1411611275550" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5 Fault-Tolerant System Technology" FOLDED="true" ID="ID_502426057" CREATED="1411611275550" MODIFIED="1411611275550" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="165" object_id="7189074767424726811" object_number="4474"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8297,7 +8297,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="5.2 Metrics for Dependability" ID="ID_1129676986" CREATED="1411611276049" MODIFIED="1411611276049" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.2 Metrics for Dependability" FOLDED="true" ID="ID_1129676986" CREATED="1411611276049" MODIFIED="1411611276049" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="166" object_id="8272116943920193754" object_number="4476"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8333,7 +8333,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="5.5 Technical Issues" ID="ID_1446079319" CREATED="1411611275944" MODIFIED="1411611275945" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.5 Technical Issues" FOLDED="true" ID="ID_1446079319" CREATED="1411611275944" MODIFIED="1411611275945" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="175" object_id="468138474757045504" object_number="4482"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8369,7 +8369,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="5.6 Industrial Approach" ID="ID_1532705950" CREATED="1411611275869" MODIFIED="1411611275869" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.6 Industrial Approach" FOLDED="true" ID="ID_1532705950" CREATED="1411611275869" MODIFIED="1411611275869" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="183" object_id="3789251828626138340" object_number="4488"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8405,7 +8405,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="5.8 Trade-Off Between Availability and Coverage  Stepwise Negotiating Voting" ID="ID_1805204236" CREATED="1411611275767" MODIFIED="1411611275767" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.8 Trade-Off Between Availability and Coverage  Stepwise Negotiating Voting" FOLDED="true" ID="ID_1805204236" CREATED="1411611275767" MODIFIED="1411611275767" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="188" object_id="6909476793678508167" object_number="4495"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8422,7 +8422,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="5.8.3 Fault-Tolerance Experiments" ID="ID_1209856969" CREATED="1411611275785" MODIFIED="1411611275785" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.8.3 Fault-Tolerance Experiments" FOLDED="true" ID="ID_1209856969" CREATED="1411611275785" MODIFIED="1411611275785" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="192" object_id="3577018812234967309" object_number="4498"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8447,7 +8447,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="5.9 Coverage Improvement" ID="ID_11105587" CREATED="1411611275734" MODIFIED="1411611275734" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.9 Coverage Improvement" FOLDED="true" ID="ID_11105587" CREATED="1411611275734" MODIFIED="1411611275734" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="197" object_id="9207997094976327766" object_number="4502"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8471,12 +8471,12 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="5.11 High Performance (Commercial Fault-Tolerant Computer)" ID="ID_1284861268" CREATED="1411611275580" MODIFIED="1411611275580" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.11 High Performance (Commercial Fault-Tolerant Computer)" FOLDED="true" ID="ID_1284861268" CREATED="1411611275580" MODIFIED="1411611275580" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="210" object_id="7865232507509953690" object_number="4506"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
-<node TEXT="5.11.1 Basic Concepts of TPR Architecture" ID="ID_1339553513" CREATED="1411611275683" MODIFIED="1411611275683" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.11.1 Basic Concepts of TPR Architecture" FOLDED="true" ID="ID_1339553513" CREATED="1411611275683" MODIFIED="1411611275683" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="210" object_id="6516944996533379868" object_number="4507"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8512,7 +8512,7 @@
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="5.11.5 Fault Tolerance of Fault Tolerance" ID="ID_283503106" CREATED="1411611275594" MODIFIED="1411611275594" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="5.11.5 Fault Tolerance of Fault Tolerance" FOLDED="true" ID="ID_283503106" CREATED="1411611275594" MODIFIED="1411611275594" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="214" object_id="8865819777843284258" object_number="4513"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8550,7 +8550,7 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="6 Challenges in the Future" ID="ID_1287474963" CREATED="1411611275534" MODIFIED="1411611275534" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
+<node TEXT="6 Challenges in the Future" FOLDED="true" ID="ID_1287474963" CREATED="1411611275534" MODIFIED="1411611275534" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6715-2.pdf">
 <pdf_annotation type="BOOKMARK" page="223" object_id="6543461973822191449" object_number="4520"/>
 <attribute NAME="authors" VALUE="Kanekawa, Nobuyasu and Ibe, Eishi H and Suga, Takashi and Uematsu, Yutaka"/>
 <attribute NAME="title" VALUE="Dependability in electronic systems - Mitigation of Hardware Failures, Soft Errors, and Electro-Magnetic Disturbances"/>
@@ -8569,39 +8569,39 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1413321621565" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="confiabilidade (reliability)" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1413321621565" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1413680317192" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1413680317192" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="medida do tempo de funcionamento de um sistema at&#xe9; falhar, ou da probabilidade de n&#xe3;o falhar durante o tempo de miss&#xe3;o (ex.:MTTF, MTBF, 10-5 falhas/hora, 99.9%)" ID="ID_1611290074" CREATED="1411860915945" MODIFIED="1411860919478" MOVED="1411860922539"/>
 </node>
-<node TEXT="disponibilidade (availability)" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1413321621565" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1413680317192" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 <node TEXT="medida do tempo (ou %) em que o sistema est&#xe1; operacional (ex.: MTBF/(MTBF+MTTR), 5000h/ano)" ID="ID_1771869519" CREATED="1411860934455" MODIFIED="1411860936807" MOVED="1411860939275"/>
 </node>
-<node TEXT="reparabilidade (maintainability)" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1413321621566" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1413321621566" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1413680317192" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1413680317192" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="seguran&#xe7;a contra acidentes (safety)" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1413321621566" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1413680317192" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="medida da fiabilidade do sistema relativa a faltas que ocasionem efeitos catastr&#xf3;ficos" ID="ID_938916906" CREATED="1411860999742" MODIFIED="1411861002690" MOVED="1411861005203"/>
 </node>
-<node TEXT="seguran&#xe7;a contra acesso n&#xe3;o autorizado (security)" ID="ID_1077168734" CREATED="1411860750229" MODIFIED="1411860764146">
+<node TEXT="seguran&#xe7;a contra acesso n&#xe3;o autorizado (security)" FOLDED="true" ID="ID_1077168734" CREATED="1411860750229" MODIFIED="1411860764146">
 <node TEXT="idem, relativo a faltas contra integridade, confidencialidade e autenticidade" ID="ID_1580126393" CREATED="1411861015289" MODIFIED="1411861017812" MOVED="1411861019923"/>
 </node>
 </node>
-<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1413321621566" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Falha(fault)" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1413321621566" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1413680317193" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1413680317193" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="define-se como a causa f&#xed;sica ou algor&#xed;tmica do erro" ID="ID_1619338102" CREATED="1411863391820" MODIFIED="1411863408032" MOVED="1411863413368"/>
 </node>
-<node TEXT="Erro(error)" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1413321621566" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1413680317193" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT=" Define-se que um sistema est&#xe1; em estado err&#xf4;neo, ou em erro, se o processamento posterior a partir desse estado pode levar a um defeito" ID="ID_575761268" CREATED="1411863458582" MODIFIED="1411863484409" MOVED="1411863489937"/>
 </node>
-<node TEXT="Defeito(failure)" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1413321621566" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1413680317193" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="&#xe9; definido como um desvio da especifica&#xe7;&#xe3;o" ID="ID_618166955" CREATED="1411863351666" MODIFIED="1411863425108" MOVED="1411863358800"/>
 </node>
 </node>
-<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1413321621566" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1413321621566" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1413680317193" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1413680317193" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1413321726964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
     <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
@@ -8682,7 +8682,7 @@
 <attribute NAME="title" VALUE="Non-intrusive reconfigurable HW/SW fault tolerance approach to detect transient faults in microprocessor systems"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="Fault tolerant system design and SEU injection based testing" ID="ID_143909533" CREATED="1411539430068" MODIFIED="1413321726868" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<node TEXT="Fault tolerant system design and SEU injection based testing" FOLDED="true" ID="ID_143909533" CREATED="1411539430068" MODIFIED="1413321726868" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
     <pdf_title>Microprocessors and Microsystems</pdf_title>
 </pdf_annotation>
@@ -8700,7 +8700,7 @@
 <attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
 <attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
 <attribute NAME="year" VALUE="2013"/>
-<node TEXT="1 Introduction" ID="ID_647856713" CREATED="1411539430465" MODIFIED="1411539430465" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<node TEXT="1 Introduction" FOLDED="true" ID="ID_647856713" CREATED="1411539430465" MODIFIED="1411539430465" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
 <pdf_annotation type="BOOKMARK" page="1" object_id="6881972343143052388" object_number="553" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
     <pdf_title>Microprocessors and Microsystems</pdf_title>
 </pdf_annotation>
@@ -8799,7 +8799,7 @@
 <attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
 <attribute NAME="year" VALUE="2013"/>
 </node>
-<node TEXT="4 Highly dependable systems design into FPGA based on partial dynamic reconfiguration" ID="ID_1990764067" CREATED="1411539430409" MODIFIED="1411539430409" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<node TEXT="4 Highly dependable systems design into FPGA based on partial dynamic reconfiguration" FOLDED="true" ID="ID_1990764067" CREATED="1411539430409" MODIFIED="1411539430409" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
 <pdf_annotation type="BOOKMARK" page="7" object_id="8152968833358290828" object_number="568" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
     <pdf_title>Microprocessors and Microsystems</pdf_title>
 </pdf_annotation>
@@ -8826,7 +8826,7 @@
 <attribute NAME="year" VALUE="2013"/>
 </node>
 </node>
-<node TEXT="5 Error correction and recovery of faulty modules" ID="ID_1479227891" CREATED="1411539430359" MODIFIED="1411539430359" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<node TEXT="5 Error correction and recovery of faulty modules" FOLDED="true" ID="ID_1479227891" CREATED="1411539430359" MODIFIED="1411539430359" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
 <pdf_annotation type="BOOKMARK" page="8" object_id="968811449485383779" object_number="565" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
     <pdf_title>Microprocessors and Microsystems</pdf_title>
 </pdf_annotation>
@@ -8871,7 +8871,7 @@
 <attribute NAME="year" VALUE="2013"/>
 </node>
 </node>
-<node TEXT="6 SEU simulation framework for testing fault tolerant systems based on FPGA" ID="ID_1774937775" CREATED="1411539430276" MODIFIED="1411539430276" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<node TEXT="6 SEU simulation framework for testing fault tolerant systems based on FPGA" FOLDED="true" ID="ID_1774937775" CREATED="1411539430276" MODIFIED="1411539430276" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
 <pdf_annotation type="BOOKMARK" page="11" object_id="3995713560517384949" object_number="562" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
     <pdf_title>Microprocessors and Microsystems</pdf_title>
 </pdf_annotation>
@@ -8934,7 +8934,7 @@
 <attribute NAME="year" VALUE="2013"/>
 </node>
 </node>
-<node TEXT="7 Experimental results" ID="ID_1439828062" CREATED="1411539430131" MODIFIED="1411539430131" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<node TEXT="7 Experimental results" FOLDED="true" ID="ID_1439828062" CREATED="1411539430131" MODIFIED="1411539430131" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
 <pdf_annotation type="BOOKMARK" page="13" object_id="8985962939412129311" object_number="559" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
     <pdf_title>Microprocessors and Microsystems</pdf_title>
 </pdf_annotation>
@@ -8969,7 +8969,7 @@
 <attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
 <attribute NAME="year" VALUE="2013"/>
 </node>
-<node TEXT="7.4 Experiments with SEU simulation framework and FT architectures" ID="ID_1988252838" CREATED="1411539430147" MODIFIED="1411539430147" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<node TEXT="7.4 Experiments with SEU simulation framework and FT architectures" FOLDED="true" ID="ID_1988252838" CREATED="1411539430147" MODIFIED="1411539430147" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
 <pdf_annotation type="BOOKMARK" page="15" object_id="7054613299908779366" object_number="579" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
     <pdf_title>Microprocessors and Microsystems</pdf_title>
 </pdf_annotation>
@@ -9042,7 +9042,7 @@
 <attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
 <attribute NAME="year" VALUE="2013"/>
 </node>
-<node TEXT="9 Conclusions and suggestions for future research" ID="ID_1994099911" CREATED="1411539430095" MODIFIED="1411539430095" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<node TEXT="9 Conclusions and suggestions for future research" FOLDED="true" ID="ID_1994099911" CREATED="1411539430095" MODIFIED="1411539430095" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
 <pdf_annotation type="BOOKMARK" page="17" object_id="9171785327800419055" object_number="556" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
     <pdf_title>Microprocessors and Microsystems</pdf_title>
 </pdf_annotation>
@@ -9251,6 +9251,32 @@
 <attribute NAME="title" VALUE="A New Mitigation Approach for Soft Errors in Embedded Processors"/>
 <attribute NAME="year" VALUE="2008"/>
 </node>
+<node TEXT="Configurable tool to protect processors against SEE by software-based detection techniques" ID="ID_1423242595" CREATED="1411611277995" MODIFIED="1413321725964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06261259.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0"/>
+<attribute NAME="key" VALUE="6261259"/>
+<attribute NAME="authors" VALUE="Chielle, E. and Barth, Raul Sergio and Lapolli, Angelo Cardoso and Kastensmidt, F.L."/>
+<attribute NAME="title" VALUE="Configurable tool to protect processors against SEE by software-based detection techniques"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs" ID="ID_980490496" CREATED="1411611275274" MODIFIED="1413321725969" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05551155.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DC7AAA26B788E5BF257DE72FAEEE6EE7DE35F495C890FC7269EA3DD36212D690">
+    <pdf_title>Short Papers</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="5551155"/>
+<attribute NAME="journal" VALUE="Dependable and Secure Computing, IEEE Transactions on"/>
+<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani Poehls, L.M. and Grosso, M. and Reorda, M.S."/>
+<attribute NAME="title" VALUE="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs"/>
+<attribute NAME="year" VALUE="2010"/>
+</node>
+<node TEXT="A Hybrid Approach to Design Error Detection and Correction" ID="ID_1834435057" CREATED="1411611275221" MODIFIED="1413321725974" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00812294.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A8357883C38DAA41BA2BE08FE685BBCB5A329968A7F11076F8FEEA649E4CB62">
+    <pdf_title>Hybrid to Design Error Correctioii</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="812294"/>
+<attribute NAME="authors" VALUE="Veneris, A and Hajj, IN."/>
+<attribute NAME="title" VALUE="A hybrid approach to design error detection and correction [VLSI digital circuits]"/>
+<attribute NAME="year" VALUE="1999"/>
+</node>
 </node>
 <node TEXT="Modelagem e Inje&#xe7;&#xe3;o de Falhas" ID="ID_165684907" CREATED="1411926028455" MODIFIED="1411937098140">
 <node TEXT="Physical Defect Modeling for Fault Insertion in System Reliability Test" ID="ID_1861870009" CREATED="1411836924270" MODIFIED="1413321726698" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/05355715.pdf">
@@ -9264,7 +9290,7 @@
 </node>
 <node TEXT="A Study of the Effects of Transient Fault Injection into a 32-bit RISC with Built-in Watchdog" ID="ID_636165393" CREATED="1411836924285" MODIFIED="1413321726693" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/00243569.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="4E865C5163FDBC223F479D37AB8FF3CDCE4D2802271CE7F9BFC79CF99EC">
-    <pdf_title>A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog - Fault-Tolerant Computing, FTCS-22. Digest of Papers., Twenty-Second International Symposium on</pdf_title>
+    <pdf_title>A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog</pdf_title>
 </pdf_annotation>
 <attribute NAME="key" VALUE="243569"/>
 <attribute NAME="authors" VALUE="Ohlsson, J. and Rimen, M. and Gunneflo, U."/>
@@ -9273,7 +9299,7 @@
 </node>
 <node TEXT="Simulator Independent Fault Simulation using WAVES" ID="ID_80508796" CREATED="1411539430613" MODIFIED="1413321726689" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/DELONG96A.PDF">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="83427726B2FA205ED3195836611B732622303F677054D07B90F16E8650A8D0D9">
-    <pdf_title>vfp9244.PDF</pdf_title>
+    <pdf_title>Simulator Independent Fault Simulation Using WAVES</pdf_title>
 </pdf_annotation>
 <attribute NAME="key" VALUE="DeLong1996"/>
 <attribute NAME="authors" VALUE="DeLong, Todd A and Smith, D Todd and Johnson, Barry W and Hanna, James P"/>
@@ -9289,7 +9315,7 @@
 <attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
 <attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
 <attribute NAME="year" VALUE="2004"/>
-<node TEXT="Efficient analysis of single event transients" ID="ID_1640460744" CREATED="1411836924028" MODIFIED="1411836924028" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<node TEXT="Efficient analysis of single event transients" FOLDED="true" ID="ID_1640460744" CREATED="1411836924028" MODIFIED="1411836924028" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
 <pdf_annotation type="BOOKMARK" page="1" object_id="4907391926913859186" object_number="78" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
     <pdf_title>Efficient analysis of single event transients</pdf_title>
 </pdf_annotation>
@@ -9348,7 +9374,7 @@
 <attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
 <attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="Experimental results" ID="ID_207790086" CREATED="1411836924094" MODIFIED="1411836924095" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<node TEXT="Experimental results" FOLDED="true" ID="ID_207790086" CREATED="1411836924094" MODIFIED="1411836924095" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
 <pdf_annotation type="BOOKMARK" page="5" object_id="1984578537220786289" object_number="82" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
     <pdf_title>Efficient analysis of single event transients</pdf_title>
 </pdf_annotation>
@@ -9441,6 +9467,16 @@
 <attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.S. and Violante, M."/>
 <attribute NAME="title" VALUE="Analysis of SEU effects in a pipelined processor"/>
 <attribute NAME="year" VALUE="2002"/>
+</node>
+<node TEXT="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor" ID="ID_960035522" CREATED="1411611272159" MODIFIED="1413321725997" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1023%252FA%253A1025130131636.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E2ED74595EF085E2E8CBC753AFD35BB6DAA984EA882723479AAA86E7B4E2C923">
+    <pdf_title>Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Rebaudengo2003"/>
+<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
+<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.Sonza and Violante, M."/>
+<attribute NAME="title" VALUE="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor"/>
+<attribute NAME="year" VALUE="2003"/>
 </node>
 </node>
 <node TEXT="Detec&#xe7;&#xe3;o de Erros" ID="ID_1238543771" CREATED="1411880005892" MODIFIED="1411880040114">
@@ -9660,7 +9696,7 @@
 <attribute NAME="authors" VALUE="Bolchini, C. and Miele, A. and Rebaudengo, M. and Salice, F. and Sciuto, D. and Sterpone, L. and Violante, M."/>
 <attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
 <attribute NAME="year" VALUE="2008"/>
-<node TEXT="Software and Hardware Techniques for SEU Detection in IP Processors" ID="ID_1587655122" CREATED="1411539431586" MODIFIED="1411539431586" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<node TEXT="Software and Hardware Techniques for SEU Detection in IP Processors" FOLDED="true" ID="ID_1587655122" CREATED="1411539431586" MODIFIED="1411539431586" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
 <pdf_annotation type="BOOKMARK" page="1" object_id="4310668087726885420" object_number="128" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
     <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
 </pdf_annotation>
@@ -9685,7 +9721,7 @@
 <attribute NAME="title" VALUE="Software and Hardware Techniques for SEU Detection in IP Processors"/>
 <attribute NAME="year" VALUE="2008"/>
 </node>
-<node TEXT="The Proposed Approach" ID="ID_125944890" CREATED="1411539431660" MODIFIED="1411539431660" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<node TEXT="The Proposed Approach" FOLDED="true" ID="ID_125944890" CREATED="1411539431660" MODIFIED="1411539431660" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
 <pdf_annotation type="BOOKMARK" page="2" object_id="2836301608078365508" object_number="136" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
     <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
 </pdf_annotation>
@@ -9730,7 +9766,7 @@
 <attribute NAME="year" VALUE="2008"/>
 </node>
 </node>
-<node TEXT="Methodology Evaluation" ID="ID_1899663209" CREATED="1411539431623" MODIFIED="1411539431624" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
+<node TEXT="Methodology Evaluation" FOLDED="true" ID="ID_1899663209" CREATED="1411539431623" MODIFIED="1411539431624" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1007%252Fs10836-007-5028-0.pdf">
 <pdf_annotation type="BOOKMARK" page="6" object_id="4783012943391935335" object_number="133" document_hash="D1A209A21D6DE35BEA80BAB5275D2D6B4CBF6B261A22B9A058BB4F5B8B48">
     <pdf_title>Software and Hardware Techniques for SEU Detection in IP Processors</pdf_title>
 </pdf_annotation>
@@ -9911,7 +9947,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1413321621643" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="235" VSHIFT="-44">
+<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1413680317273" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="235" VSHIFT="-44">
 <font NAME="Courier New" BOLD="true"/>
 <edge COLOR="#006699"/>
 <node TEXT="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems" ID="ID_347948509" CREATED="1411247618530" MODIFIED="1413321726061" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05746555.pdf">
@@ -9953,26 +9989,6 @@
 <attribute NAME="title" VALUE="A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor" ID="ID_1961672831" CREATED="1411539430056" MODIFIED="1413321726009" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/art%253A10.1023%252FA%253A1025130131636.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E2ED74595EF085E2E8CBC753AFD35BB6DAA984EA882723479AAA86E7B4E2C923">
-    <pdf_title>Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Rebaudengo2003"/>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.Sonza and Violante, M."/>
-<attribute NAME="title" VALUE="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor"/>
-<attribute NAME="year" VALUE="2003"/>
-</node>
-<node TEXT="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor" ID="ID_960035522" CREATED="1411611272159" MODIFIED="1413321725997" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1023%252FA%253A1025130131636.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E2ED74595EF085E2E8CBC753AFD35BB6DAA984EA882723479AAA86E7B4E2C923">
-    <pdf_title>Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Rebaudengo2003"/>
-<attribute NAME="journal" VALUE="Journal of Electronic Testing"/>
-<attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.Sonza and Violante, M."/>
-<attribute NAME="title" VALUE="Accurate Analysis of Single Event Upsets in a Pipelined Microprocessor"/>
-<attribute NAME="year" VALUE="2003"/>
-</node>
 <node TEXT="SOC DESIGN METHODOLOGIES" ID="ID_732369618" CREATED="1411611275180" MODIFIED="1413321725986" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-35597-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 <attribute NAME="key" VALUE="Robert2002"/>
@@ -9980,34 +9996,8 @@
 <attribute NAME="title" VALUE="SOC Design Methodologies"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="A Hybrid Approach to Design Error Detection and Correction" ID="ID_1834435057" CREATED="1411611275221" MODIFIED="1413321725974" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00812294.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A8357883C38DAA41BA2BE08FE685BBCB5A329968A7F11076F8FEEA649E4CB62">
-    <pdf_title>Hybrid to Design Error Correctioii</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="812294"/>
-<attribute NAME="authors" VALUE="Veneris, A and Hajj, IN."/>
-<attribute NAME="title" VALUE="A hybrid approach to design error detection and correction [VLSI digital circuits]"/>
-<attribute NAME="year" VALUE="1999"/>
 </node>
-<node TEXT="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs" ID="ID_980490496" CREATED="1411611275274" MODIFIED="1413321725969" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05551155.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DC7AAA26B788E5BF257DE72FAEEE6EE7DE35F495C890FC7269EA3DD36212D690">
-    <pdf_title>Short Papers</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="5551155"/>
-<attribute NAME="journal" VALUE="Dependable and Secure Computing, IEEE Transactions on"/>
-<attribute NAME="authors" VALUE="Bernardi, P. and Bolzani Poehls, L.M. and Grosso, M. and Reorda, M.S."/>
-<attribute NAME="title" VALUE="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs"/>
-<attribute NAME="year" VALUE="2010"/>
-</node>
-<node TEXT="Configurable tool to protect processors against SEE by software-based detection techniques" ID="ID_1423242595" CREATED="1411611277995" MODIFIED="1413321725964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06261259.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0"/>
-<attribute NAME="key" VALUE="6261259"/>
-<attribute NAME="authors" VALUE="Chielle, E. and Barth, Raul Sergio and Lapolli, Angelo Cardoso and Kastensmidt, F.L."/>
-<attribute NAME="title" VALUE="Configurable tool to protect processors against SEE by software-based detection techniques"/>
-<attribute NAME="year" VALUE="2012"/>
-</node>
-</node>
-<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1413321621649" HGAP="-411" VSHIFT="-225" DCR_PRIVACY_LEVEL="DEMO" MOVED="1411937015572"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1413680317276" HGAP="-411" VSHIFT="-225" DCR_PRIVACY_LEVEL="DEMO" MOVED="1411937015572"><richcontent TYPE="NODE">
 
 <html>
   <head>

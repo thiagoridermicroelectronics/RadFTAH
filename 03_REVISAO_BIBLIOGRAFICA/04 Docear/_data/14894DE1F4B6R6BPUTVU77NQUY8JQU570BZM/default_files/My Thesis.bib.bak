@@ -39,7 +39,7 @@
 	Preliminary fault injection results performed on a PowerPC-based
 	system confirmed the efficiency of the approach.},
   doi = {10.1109/TNS.2008.2000839},
-  file = {:../../../../02_PDFs/Referencias4/04636948.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/04636948.pdf:PDF},
   issn = {0018-9499},
   keywords = {embedded systems;fault tolerance;integrated circuit design;integrated
 	circuit reliability;memory architecture;microprocessor chips;radiation
@@ -56,7 +56,7 @@
   author = {Ahmad A. Al-Yamani and Nahmsuk Oh and Edward J. McCluskey},
   title = {Algorithm-Based Fault Tolerance: A Performance Perspective Based
 	on Error Rate},
-  file = {:../../../../02_PDFs/Referencias2/alyamaniDSN01.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/alyamaniDSN01.pdf:PDF},
   url = {http://crc.stanford.edu/crc_papers/alyamaniDSN01.pdf}
 }
 
@@ -89,7 +89,7 @@
 	conducted using FERRARI to determine the fault coverage of the proposed
 	techniques},
   doi = {10.1109/71.774911},
-  file = {:../../../../02_PDFs/Referencias1/00774911.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/00774911.pdf:PDF},
   issn = {1045-9219},
   keywords = {concurrency control;distributed processing;real-time systems;ECCA;Enhanced
 	Control-Flow Checking Using Assertions;concurrent error detection;control
@@ -141,7 +141,7 @@
 	usually designed with extant design methods, and it offers the potential
 	for improved masking fault-tolerant programs},
   doi = {10.1109/32.689401},
-  file = {:../../../../02_PDFs/Referencias1/00689401.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/00689401.pdf:PDF},
   issn = {0098-5589},
   keywords = {formal specification;software fault tolerance;Byzantine faults;fault-intolerant
 	program;masking fault-tolerance;masking fault-tolerant programs;nonmasking
@@ -174,7 +174,7 @@
 	performance overhead. The conclusions can lead designers in developing
 	more efficient techniques to detect these types of faults.},
   doi = {10.1109/LATW.2011.5985914},
-  file = {:../../../../02_PDFs/Referencias1/05985914.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/05985914.pdf:PDF},
   keywords = {data flow computing;electronic engineering computing;fault tolerance;microprocessor
 	chips;reduced instruction set computing;MlPS-based microprocessor
 	architecture;SEE detection;SEU detection;data flow software-based
@@ -208,7 +208,7 @@
 	results show high detection rates with a small amount of performance
 	degradation and area overhead.},
   doi = {10.1109/TNS.2011.2109398},
-  file = {:../../../../02_PDFs/Referencias1/05720529.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/05720529.pdf:PDF},
   issn = {0018-9499},
   keywords = {fault tolerance;flow control;microprocessor chips;MIPS microprocessor;SEE
 	detection;SET fault;decoder characteristic;error detection;fault
@@ -244,7 +244,7 @@
 	time overhead when compared to related works. Fault injection results
 	show the efficiency of this method by detecting 100% of faults.},
   doi = {10.1109/TNS.2012.2201750},
-  file = {:../../../../02_PDFs/Referencias1/06236246.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06236246.pdf:PDF},
   issn = {0018-9499},
   keywords = {Fault tolerance;Fault tolerant systems;Hardware;Microprocessors;Registers;Software;Transient
 	analysis;Fault tolerance;microprocessors;reconfigurable;single event
@@ -275,7 +275,7 @@
 	injection results show the efficiency of this method on detecting
 	100% of faults.},
   doi = {10.1109/RADECS.2011.6131362},
-  file = {:../../../../02_PDFs/Referencias2/06131362.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/06131362.pdf:PDF},
   issn = {0379-6566},
   keywords = {fault tolerance;microprocessor chips;radiation hardening (electronics);MIPS
 	microprocessor systems;application-oriented hardware module;control
@@ -391,7 +391,7 @@
 	validation. Modalities to alter the main testbench components are
 	presented, highlighting the effects on the testbench behavior.},
   doi = {10.1109/OPTIM.2010.5510515},
-  file = {:../../../../02_PDFs/Referencias4/05510515.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/05510515.pdf:PDF},
   issn = {1842-0133},
   keywords = {fault diagnosis;formal verification;hardware description languages;object-oriented
 	programming;program testing;SystemVerilog;design misbehavior;digital
@@ -425,7 +425,7 @@
 	measured their latencies, and calculated both error detection and
 	recovery latencies and coverages},
   doi = {10.1109/DFTVS.2000.887180},
-  file = {:../../../../02_PDFs/Referencias4/00887180.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/00887180.pdf:PDF},
   issn = {1550-5774},
   keywords = {computer testing;error detection;fault tolerant computing;hardware
 	description languages;system recovery;virtual machines;IBM-PC platform;VHDL-based
@@ -451,7 +451,7 @@
 	product reliability. Memory and logic scaling trends are discussed
 	along with a method for determining logic SER.},
   doi = {10.1109/IEDM.2002.1175845},
-  file = {:../../../../02_PDFs/Referencias5/01175845.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias5/01175845.pdf:PDF},
   keywords = {CMOS logic circuits;CMOS memory circuits;DRAM chips;SRAM chips;alpha-particle
 	effects;error correction;integrated circuit reliability;integrated
 	circuit testing;neutron effects;sequential circuits;space vehicle
@@ -518,7 +518,7 @@
 	nearly the same low memory and performance overhead of a purely hardware-based
 	one.},
   doi = {10.1109/TDSC.2010.33},
-  file = {:../../../../02_PDFs/Referencias2/05551155.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/05551155.pdf:PDF},
   issn = {1545-5971},
   keywords = {cache storage;electronic engineering computing;fault diagnosis;fault
 	tolerant computing;system-on-chip;SoC data memory;SoC design flow;cache
@@ -551,7 +551,7 @@
 	characteristics of the method in terms of fault detection capabilities
 	and area, memory, and performance overheads.},
   doi = {10.1109/TC.2006.15},
-  file = {:../../../../02_PDFs/Referencias4/01566579.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/01566579.pdf:PDF},
   issn = {0018-9340},
   keywords = {fault location;hardware-software codesign;logic testing;system-on-chip;SoC;hybrid
 	fault detection technique;systems-on-a-chip;Automotive engineering;Circuit
@@ -581,7 +581,7 @@
 	can be added easily and it is independent on the application. Experimental
 	results are reported showing the effectiveness of the proposed approach.},
   doi = {10.1109/DSN.2005.74},
-  file = {:../../../../02_PDFs/Referencias4/01467779.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/01467779.pdf:PDF},
   keywords = {error detection;fault tolerant computing;industrial property;system-on-chip;SoC;control-flow
 	error detection;intellectual property core;system-on-chip;Application
 	software;Computer aided manufacturing;Computer architecture;Costs;Error
@@ -599,7 +599,7 @@
   pages = {35-44},
   number = {1-3},
   doi = {10.1007/s10836-007-5028-0},
-  file = {:../../../../02_PDFs/Referencias4/art%3A10.1007%2Fs10836-007-5028-0.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/art%3A10.1007%2Fs10836-007-5028-0.pdf:PDF},
   issn = {0923-8174},
   keywords = {Reliability; Hardware/software techniques; Single-event upset faults;
 	Fault injection},
@@ -619,7 +619,7 @@
   pages = {79-84},
   month = {July},
   doi = {10.1109/OLT.2004.1319663},
-  file = {:../../../../02_PDFs/Referencias4/01319663.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/01319663.pdf:PDF},
   keywords = {error detection;fault diagnosis;fault tolerance;fault tolerant computing;industrial
 	property;integrated circuit reliability;redundancy;safety-critical
 	software;system-on-chip;dependability;fault correction;fault detection;fault
@@ -663,7 +663,7 @@
 	for parametric yield improvement through energy-efficient operation
 	using Razor.},
   doi = {10.1109/JSSC.2010.2079410},
-  file = {:../../../../02_PDFs/Referencias2/05640683.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/05640683.pdf:PDF},
   issn = {0018-9200},
   keywords = {error correction;error detection;microprocessor chips;EDA tools;PVT
 	variation;Razor technique;dynamic voltage;error detecting circuits;frequency
@@ -699,7 +699,7 @@
 	this technique to improve soft error detection with better performance
 	and less hardware.},
   doi = {10.1109/AUTEST.2012.6334568},
-  file = {:../../../../02_PDFs/Referencias2/06334568.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/06334568.pdf:PDF},
   issn = {1088-7725},
   keywords = {radiation hardening (electronics);redundancy;cell dimensions;double
 	execution;hardware assistance;modern digital systems;reliability
@@ -730,7 +730,7 @@
 	redundancy scheme is able to effectively cope with malicious faults
 	as those affecting the pipeline of a RISC microprocessor.},
   doi = {10.1109/DATE.2012.6176590},
-  file = {:../../../../02_PDFs/Referencias2/06176590.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/06176590.pdf:PDF},
   issn = {1530-1591},
   keywords = {fault diagnosis;fault tolerant computing;integrated circuit reliability;microprocessor
 	chips;transient analysis;RISC microprocessor chips;commercial off
@@ -764,7 +764,7 @@
 	footprint for many case studies. With that, designers can find the
 	best trade-off in using selective redundancy in software.},
   doi = {10.1109/TNS.2013.2266917},
-  file = {:../../../../02_PDFs/Referencias1/06560441.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06560441.pdf:PDF},
   issn = {0018-9499},
   keywords = {data flow analysis;error detection;microprocessor chips;allocated
 	registers;data-flow errors;data-flow software-based techniques;error
@@ -795,7 +795,7 @@
 	of the code should be hardened considering detection rates and hardening
 	overheads.},
   doi = {10.1109/LATW.2013.6562659},
-  file = {:../../../../02_PDFs/Referencias1/06562659.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06562659.pdf:PDF},
   keywords = {error detection;fault diagnosis;fault tolerant computing;microprocessor
 	chips;redundancy;detection rates;fault injection campaign;fault tolerance
 	approach;hardening overheads;miniMIPS microprocessor;selective redundancy;selective
@@ -821,7 +821,7 @@
 	campaign was performed and simulation results show high detection
 	rates to both processors and a small increase in area and runtime.},
   doi = {10.1109/LATW.2012.6261259},
-  file = {:../../../../02_PDFs/Referencias2/06261259.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/06261259.pdf:PDF},
   keywords = {SET;SEU;fault tolerance;soft errors;software techniques}
 }
 
@@ -847,7 +847,7 @@
 	The advantages of our proposal are illustrated by means of a case
 	study.},
   doi = {10.1109/TNS.2011.2112379},
-  file = {:../../../../02_PDFs/Referencias1/05746555.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/05746555.pdf:PDF},
   issn = {0018-9499},
   keywords = {embedded systems;fault tolerant computing;radiation hardening (electronics);dependability
 	requirements;design constraints;embedded systems;hardening infrastructure;hardware
@@ -872,7 +872,7 @@
 	the tradeoffs involved in designing the architecture, the design
 	for performance issues, and the possibilities for future development},
   doi = {10.1109/CICC.1993.590366},
-  file = {:../../../../02_PDFs/Referencias5/00590366.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias5/00590366.pdf:PDF},
   keywords = {field programmable gate arrays;8 bit;ASIC;FPGA implementation;XILINX;architecture;complete
 	instruction set;design for performance;hardware interrupts;memory-based
 	FPGA;reconfigurable microprocessor;software interrupts;Circuits;Computer
@@ -917,7 +917,7 @@
 	of each, produced the most severe degradation in inverter performance
 	for both device technologies.},
   doi = {10.1109/TPS.2012.2193600},
-  file = {:../../../../02_PDFs/Referencias1/06204100.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06204100.pdf:PDF},
   issn = {0093-3813},
   keywords = {CMOS integrated circuits;electromagnetic interference;radiation effects;CMOS
 	devices;complementary metal oxide semiconductor inverter technology;device
@@ -962,7 +962,7 @@
 	oxides and alternative dielectrics to SiO2, and in developing a comprehensive
 	model of ELDRS.},
   doi = {10.1109/TNS.2013.2259260},
-  file = {:../../../../02_PDFs/Referencias1/06522833.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06522833.pdf:PDF},
   issn = {0018-9499},
   keywords = {CMOS integrated circuits;MIS devices;dangling bonds;elemental semiconductors;hardness;ionisation;radiation
 	hardening (electronics);semiconductor-insulator boundaries;silicon;silicon
@@ -995,7 +995,7 @@
 	other journal publications. Observations on the successes and failures
 	of the methodology used for selecting high-impact papers are presented.},
   doi = {10.1109/TNS.2013.2244614},
-  file = {:../../../../02_PDFs/Referencias1/06482273.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06482273.pdf:PDF},
   issn = {0018-9499},
   keywords = {nuclear engineering;AD 2003;AD 2013;IEEE Transactions on Nuclear Science;IEEE
 	nuclear and space radiation effects conference;NSREC;high impact
@@ -1020,7 +1020,7 @@
 	using a special fault injector with various statistical tools. A
 	new error-handling scheme is proposed.},
   doi = {10.1109/ATS.2003.1250857},
-  file = {:../../../../02_PDFs/Referencias1/01250857.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/01250857.pdf:PDF},
   issn = {1081-7735},
   keywords = {error detection;error handling;fault tolerant computing;hardware-software
 	codesign;redundancy;COTS error detection mechanisms;compiler specificity;error
@@ -1061,7 +1061,7 @@
 	in terms of fault detection capability, at the cost of a limited
 	increase in memory requirements and in performance overhead.},
   doi = {10.1109/DFTVS.2003.1250158},
-  file = {:../../../../02_PDFs/Referencias2/01250158.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/01250158.pdf:PDF},
   issn = {1550-5774},
   keywords = {embedded systems;error detection;program control structures;safety-critical
 	software;software fault tolerance;control flow assertions;embedded
@@ -1105,7 +1105,7 @@
 	can affect the cost of EDAC circuitry and be used as a guide for
 	selecting the proper Code for different application requirements.},
   doi = {10.1109/ICCIT.2008.14},
-  file = {:../../../../02_PDFs/Referencias2/04682244.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/04682244.pdf:PDF},
   keywords = {error correction codes;error detection codes;logic circuits;parity
 	check codes;radiation effects;2-input XOR gates structure;EDAC circuitry;EDAC
 	circuits;SEC-DED Hsiao code;check bits generator;hardware implementation;low-cost
@@ -1192,7 +1192,7 @@
 	study highlights the need for radiation-hardened Si-NW FET circuits
 	against SEE.},
   doi = {10.1109/TED.2012.2187656},
-  file = {:../../../../02_PDFs/Referencias1/06166873.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06166873.pdf:PDF},
   issn = {0018-9383},
   keywords = {CMOS integrated circuits;MOSFET;circuit simulation;elemental semiconductors;gamma-rays;invertors;nanowires;radiation
 	hardening (electronics);semiconductor device reliability;silicon;technology
@@ -1217,7 +1217,7 @@
   pages = {423-431},
   number = {6},
   doi = {10.1007/s10604-005-0066-9},
-  file = {:../../../../02_PDFs/Referencias2/art%3A10.1007%2Fs10604-005-0066-9.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/art%3A10.1007%2Fs10604-005-0066-9.pdf:PDF},
   issn = {0010-9525},
   language = {English},
   publisher = {Nauka/Interperiodica},
@@ -1252,7 +1252,7 @@
 	detect either single fault or multi-faults, no matter what the fault
 	is transient or intermittent.},
   doi = {10.1109/PRDC.2007.61},
-  file = {:../../../../02_PDFs/Referencias2/04459660.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/04459660.pdf:PDF},
   keywords = {discrete wavelet transforms;error detection codes;image coding;control
 	flow error concurrent detection;data computing blocks;discrete cosine
 	transform;fault detection latency;final DCT signature;instruction
@@ -1285,7 +1285,7 @@
 	epitaxial layer devices are large-which shows the need for an improved
 	model.},
   doi = {10.1109/TNS.2013.2260355},
-  file = {:../../../../02_PDFs/Referencias1/06519952.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06519952.pdf:PDF},
   issn = {0018-9499},
   keywords = {CMOS image sensors;electronic engineering computing;simulation;3T
 	active pixel sensors;APS;CMOS image sensors;SEE;SEFI;SEL;SET effects;STARDUST
@@ -1313,7 +1313,7 @@
 	scheme. The fault injection analysis results indicate that the highest
 	fault coverage is achieved with the code-based retry technique},
   doi = {10.1109/PRFTS.1997.640142},
-  file = {:../../../../02_PDFs/Referencias2/00640142.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/00640142.pdf:PDF},
   keywords = {fault tolerant computing;microprocessor chips;redundancy;reliability;virtual
 	machines;MIPS R3000-compatible;RISC microprocessor;fault injection
 	analysis;fault-tolerant mechanisms;fault-tolerant microprocessor;performance/area
@@ -1346,7 +1346,7 @@
 	architecture. The method is suitable for hardening SoCs against transient
 	faults and also for detecting permanent faults},
   doi = {10.1109/DFT.2006.49},
-  file = {:../../../../02_PDFs/Referencias4/04030939.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/04030939.pdf:PDF},
   issn = {1550-5774},
   keywords = {embedded systems;fault tolerance;instruction sets;microprocessor chips;system-on-chip;SET;SEU;control
 	flow checking;hardware hardening;instruction hardening;memory overhead;online
@@ -1380,7 +1380,7 @@
 	than the RAD-hard board, offsetting the performance overhead of the
 	SIHFT techniques used on the COTS board while consuming less power.},
   doi = {10.1109/AERO.2002.1035377},
-  file = {:../../../../02_PDFs/Referencias2/01035377.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/01035377.pdf:PDF},
   keywords = {aerospace computing;artificial satellites;circuit reliability;error
 	detection;fault tolerant computing;performance evaluation;radiation
 	hardening (electronics);space vehicle electronics;32 bit;ARGOS satellite;ARGOS
@@ -1408,7 +1408,7 @@
 	implementing SIC are presented. The modification of a Pascal compiler
 	into an SIC Pascal preprocessor is summarized.},
   doi = {10.1109/TC.1982.1676066},
-  file = {:../../../../02_PDFs/Referencias2/01676066.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/01676066.pdf:PDF},
   issn = {0018-9340},
   keywords = {Control flow;Pascal;error detection;structural integrity checking
 	(SIC);structured programming;watchdog processor;Circuit faults;Circuit
@@ -1435,7 +1435,7 @@
 	flow information of the application programs are substantially reduced
 	and the design of the watchdog processor is greatly simplified},
   doi = {10.1109/MELCON.1991.162054},
-  file = {:../../../../02_PDFs/Referencias2/00162054.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/00162054.pdf:PDF},
   keywords = {computerised monitoring;error detection;multiprocessing systems;Checker;application
 	programs;architecture;control flow information;design;error detection;intermittent
 	errors;local memory;multiple-processor systems;online signature analysis;online
@@ -1467,7 +1467,7 @@
 	reasonable checks on the output of a main processor by executing
 	assertions is discussed.},
   doi = {10.1109/12.2145},
-  file = {:../../../../02_PDFs/Referencias2/00002145.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/00002145.pdf:PDF},
   issn = {0018-9340},
   keywords = {automatic testing;computer architecture;computer testing;computerised
 	monitoring;error detection;fault tolerant computing;reviews;satellite
@@ -1490,7 +1490,7 @@
   abstract = {This paper discusses several attributes of integrated circuit scaling
 	in relation to radiation soft error failure modes and vulnerability.},
   doi = {10.1109/IRPS.2012.6241810},
-  file = {:../../../../02_PDFs/Referencias1/06241810.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06241810.pdf:PDF},
   issn = {1541-7026},
   keywords = {failure analysis;integrated circuit reliability;radiation hardening
 	(electronics);integrated circuit scaling;radiation soft error failure
@@ -1533,7 +1533,7 @@
 	Fault injection experiments put in evidence the detection capabilities
 	and the limitations of each of the studied techniques},
   doi = {10.1109/OLT.2001.937838},
-  file = {:../../../../02_PDFs/Referencias4/00937838.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/00937838.pdf:PDF},
   keywords = {error detection;fault diagnosis;integrated circuit testing;microprocessor
 	chips;radiation effects;transients;bit-flip errors;detection capabilities;fault
 	injection experiments;microprocessor-based digital architectures;on-line
@@ -1561,7 +1561,7 @@
 	proton and heavy ion induced single event effects is studied. Devices
 	tested include digital, linear bipolar, and hybrid devices},
   doi = {10.1109/REDW.2006.295463},
-  file = {:../../../../02_PDFs/Referencias1/06353739.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06353739.pdf:PDF},
   keywords = {avionics;proton effects;radiation hardening (electronics);semiconductor
 	devices;NASA;digital device;heavy ion single event effects;hybrid
 	device;linear bipolar device;proton induced single event effects;spacecraft
@@ -1600,7 +1600,7 @@
 	average compared to previous techniques that do not take energy consumption
 	into consideration},
   doi = {10.1109/DFTVS.2001.966768},
-  file = {:../../../../02_PDFs/Referencias2/00966768.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/00966768.pdf:PDF},
   issn = {1550-5774},
   keywords = {data integrity;error detection;fault tolerant computing;power consumption;subroutines;COTS
 	components;benchmark program simulation;constrained error detection
@@ -1703,7 +1703,7 @@
 	execution time overhead in the processors that can issue two instructions
 	in one cycle},
   doi = {10.1109/24.994913},
-  file = {:../../../../02_PDFs/Referencias2/00994913.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/00994913.pdf:PDF},
   issn = {0018-9529},
   keywords = {error detection;instruction sets;parallel architectures;software fault
 	tolerance;software reliability;concurrent error detection;error detection
@@ -1748,7 +1748,7 @@
 	but the advantage of CFCSS over a watchdog task is that CFCSS can
 	be used even when the operating system does not support multitasking},
   doi = {10.1109/24.994926},
-  file = {:../../../../02_PDFs/Referencias1/00994926.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/00994926.pdf:PDF},
   issn = {0018-9529},
   keywords = {program diagnostics;program testing;software reliability;assigned
 	signatures;branching fault injection experiment;branching faults;code
@@ -1781,7 +1781,7 @@
 	devices. Similar to these experimental results, the result of SPICE
 	Simulation in NAND gate has found that the latch-up phenomena could
 	be checked in more than 7.0×1011W/cm2.},
-  file = {:../../../../02_PDFs/Referencias1/06393319.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06393319.pdf:PDF},
   keywords = {CMOS integrated circuits;SPICE;gamma-ray bursts;ionisation;linear
 	accelerators;logic gates;radiation effects;semiconductor device testing;CMOS
 	integrated circuit;LINAC;NAND gate;Pohang Accelerator Laboratory;SPICE
@@ -1820,7 +1820,7 @@
 	one clock cycle. Few effective data errors, between 22% and 50%,
 	were detected.<>},
   doi = {10.1109/FTCS.1992.243569},
-  file = {:../../../../02_PDFs/Referencias5/00243569.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias5/00243569.pdf:PDF},
   keywords = {CMOS integrated circuits;fault location;fault tolerant computing;reduced
 	instruction set computing;specification languages;1.2 micron;32 bit;32-bit
 	RISC;CMOS technology;VHDL;application programs;built-in watchdog;embedded
@@ -1854,7 +1854,7 @@
 	the Fibonacci series is presented as an example. A description of
 	laboratory tasks currently used is offered.},
   doi = {10.1109/ReConFig.2011.62},
-  file = {:../../../../02_PDFs/Referencias1/06128570.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/06128570.pdf:PDF},
   keywords = {computer aided instruction;display devices;electrical engineering
 	computing;electrical engineering education;field programmable gate
 	arrays;light emitting diodes;user interfaces;7-segment displays;8-bit
@@ -1889,7 +1889,7 @@
 	technique vary between 33.3 and 140.8% and between 79.7 and 84.6%
 	respectively. The errors are detected with about zero latency.},
   doi = {10.1109/PRDC.2005.7},
-  file = {:../../../../02_PDFs/Referencias2/01607502.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/01607502.pdf:PDF},
   keywords = {concurrency control;microprocessor chips;safety-critical software;systems
 	analysis;Altera Flex 10K30 FPGA;COTS processors;COTS-based design;commercial
 	off-the-shelf;concurrent error detection capability enhancement;execution
@@ -1921,7 +1921,7 @@
 	the Pentium® processor. The results show that the error detection
 	coverage varies between to 90.92% and 98.41%, for different workloads.},
   doi = {10.1109/PRDC.2004.1276552},
-  file = {:../../../../02_PDFs/Referencias2/01276552.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/01276552.pdf:PDF},
   keywords = {fault tolerant computing;instruction sets;parallel architectures;performance
 	evaluation;32-bit Pentium processor;COTS superscalar processor;commercial
 	off-the-shelf;committed instructions counting;error detection enhancement;event
@@ -1948,7 +1948,7 @@
 	and reconfiguring networks used in the implementation of such systems
 	are developed.},
   doi = {10.1109/T-C.1975.224332},
-  file = {:../../../../02_PDFs/Referencias2/01672925.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/01672925.pdf:PDF},
   issn = {0018-9340},
   keywords = {Availability, critical reliability of detector, detector redundant
 	system, hybrid (N, S), N-tuple modular redundant system, reconfiguration
@@ -1969,7 +1969,7 @@
   pages = {433-437},
   number = {4},
   doi = {10.1023/B:JETT.0000039610.30724.b2},
-  file = {:../../../../02_PDFs/Referencias4/art%3A10.1023%2FB%3AJETT.0000039610.30724.b2.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/art%3A10.1023%2FB%3AJETT.0000039610.30724.b2.pdf:PDF},
   issn = {0923-8174},
   keywords = {software-implemented fault tolerance; single event upsets; fault injection},
   language = {English},
@@ -1986,7 +1986,7 @@
   pages = {577-584},
   number = {5},
   doi = {10.1023/A:1025130131636},
-  file = {:../../../../02_PDFs/Referencias4/art%3A10.1023%2FA%3A1025130131636.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/art%3A10.1023%2FA%3A1025130131636.pdf:PDF},
   issn = {0923-8174},
   keywords = {dependability evaluation; single event upsets; fault injection},
   language = {English},
@@ -2013,7 +2013,7 @@
 	approaches may lead to errors during the failure rate estimation
 	of up to 400%.},
   doi = {10.1109/OLT.2002.1030193},
-  file = {:../../../../02_PDFs/Referencias4/01030193.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/01030193.pdf:PDF},
   keywords = {cache storage;fault simulation;fault tolerant computing;field programmable
 	gate arrays;hardware description languages;multiprocessing systems;pipeline
 	processing;radiation hardening (electronics);software tools;FPGA-based
@@ -2043,7 +2043,7 @@
 	solution based on source-level code modification. Radiation testing
 	experiments confirmed results obtained by simulation.},
   doi = {10.1109/RADECS.2001.1159312},
-  file = {:../../../../02_PDFs/Referencias4/01039689.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/01039689.pdf:PDF},
   keywords = {integrated circuit testing;radiation hardening (electronics);SEUs/SETs;error
 	detection capabilities;hardware-implemented solution;low-cost solutions;microprocessors;parity
 	code;simulation-based fault injection;software-implemented solution;source-level
@@ -2077,7 +2077,7 @@
 	architecture, and the experimental results gathered from the fault
 	injection analysis campaign},
   doi = {10.1109/DFT.2006.18},
-  file = {:../../../../02_PDFs/Referencias4/04030937.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/04030937.pdf:PDF},
   issn = {1550-5774},
   keywords = {fault location;hardware-software codesign;microprocessor chips;redundancy;SEU
 	faults;autonomous detection;fault coverage;fault detection;fault
@@ -2119,7 +2119,7 @@
 	techniques in general, offer attractive options in the fault-detection
 	design space.},
   doi = {10.1109/ISCA.2005.21},
-  file = {:../../../../02_PDFs/Referencias2/01431553.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/01431553.pdf:PDF},
   issn = {1063-6897},
   keywords = {fault diagnosis;fault tolerant computing;hardware-software codesign;instruction
 	sets;performance evaluation;program processors;CRAFT;hardware cost;hardware
@@ -2155,7 +2155,7 @@
 	utilizing an ECC memory system, SWIFT demonstrates a 51% average
 	speedup.},
   doi = {10.1109/CGO.2005.34},
-  file = {:../../../../02_PDFs/Referencias1/01402092.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/01402092.pdf:PDF},
   keywords = {error correction codes;fault diagnosis;program processors;redundancy;software
 	fault tolerance;storage management;SWIFT;control-flow checking mechanism;hardware
 	technique;instruction-level resource;memory system;program execution;redundancy;reliable
@@ -2186,7 +2186,7 @@
 	results are reported on both standard benchmarks and real-life circuits
 	assessing the effectiveness of the proposed techniques. },
   doi = {http://dx.doi.org/10.1016/j.sysarc.2003.08.008},
-  file = {:../../../../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf:PDF},
   issn = {1383-7621},
   url = {http://www.sciencedirect.com/science/article/pii/S1383762103001449}
 }
@@ -2236,7 +2236,7 @@
 	is useful for fail-safe operation), underscoring the efficacy of
 	our methods},
   doi = {10.1109/DFT.2006.47},
-  file = {:../../../../02_PDFs/Referencias2/04030963.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/04030963.pdf:PDF},
   issn = {1550-5774},
   keywords = {cache storage;error detection;instruction sets;microprocessor chips;program
 	processors;system buses;CPU-cache bus;block-level instruction error;concurrent
@@ -2279,7 +2279,7 @@
 	microarchitecture takes only 10% to 30% longer than running a single
 	version of the program.},
   doi = {10.1109/FTCS.1999.781037},
-  file = {:../../../../02_PDFs/Referencias1/AR-SMT.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/AR-SMT.pdf:PDF},
   issn = {0731-3071},
   keywords = {computer architecture;fault tolerant computing;redundancy;AR-SMT;fault
 	tolerance;microarchitecture;microprocessors;time redundancy fault-tolerant;Circuit
@@ -2310,7 +2310,7 @@
 	environments. The Hewlett-Packard precision architecture is used
 	as an example to demonstrate the feasibility of watchdog assists.<>},
   doi = {10.1109/FTCS.1989.105615},
-  file = {:../../../../02_PDFs/Referencias2/00054849.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/00054849.pdf:PDF},
   keywords = {Hewlett Packard computers;buffer storage;computer architecture;error
 	detection;fault tolerant computing;multiprocessing systems;multiprogramming;Hewlett-Packard
 	precision architecture;analytical measures;cache-based environments;control-flow
@@ -2390,7 +2390,7 @@
 	an experimental investigation effort for application of adaptive
 	fault tolerance for autonomous spacecraft},
   doi = {10.1109/WORDSF.1999.842342},
-  file = {:../../../../02_PDFs/Referencias1/00842342.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/00842342.pdf:PDF},
   keywords = {adaptive systems;aerospace computing;fault tolerance;resource allocation;space
 	vehicles;adaptive fault tolerance;adjustable resource allocation
 	strategy;autonomous spacecraft;dynamic application profile;dynamic
@@ -2476,7 +2476,7 @@
 	classifiers and run scripts, JIFI enables massive fault injection
 	campaigns and statistical data analysis.},
   doi = {10.1109/DSN.2001.941435},
-  file = {:../../../../02_PDFs/Referencias3/00941435.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias3/00941435.pdf:PDF},
   keywords = {aerospace computing;computer testing;fault tolerant computing;parallel
 	processing;program testing;JIFI;Jet Propulsion Laboratory;SWIFI;classifiers;fault
 	detection strategies;fault injection campaigns;fault isolation strategies;fault
@@ -2542,7 +2542,7 @@
 	show the fault coverage and \{SEU\} occurrence causing faulty behavior
 	of verified architectures. },
   doi = {http://dx.doi.org/10.1016/j.micpro.2012.09.006},
-  file = {:../../../../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf:PDF},
   issn = {0141-9331},
   keywords = {Fault tolerant system},
   url = {http://www.sciencedirect.com/science/article/pii/S0141933112001688}
@@ -2577,7 +2577,7 @@
 	results show that most control flow errors can be recovered with
 	relatively low performance overhead.},
   doi = {10.1109/DFT.2013.6653578},
-  file = {:../../../../02_PDFs/Referencias2/06653578.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/06653578.pdf:PDF},
   issn = {1550-5774},
   keywords = {digital signatures;fault diagnosis;program control structures;software
 	fault tolerance;system recovery;CFEDR;control-flow error detection
@@ -2615,7 +2615,7 @@
 	regarding modeling, bulk complementary metal oxide semiconductor
 	technologies, and research on future, exploratory technologies. },
   doi = {10.1557/mrs2003.37},
-  file = {:../../../../02_PDFs/Referencias4/S0883769400017504a.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF},
   issn = {1938-1425},
   issue = {02},
   numpages = {6},
@@ -2685,7 +2685,7 @@
 	TMR. Finally, it deals with aging phenomenon and thus, increases
 	the expected lifetime of logic circuits.},
   doi = {10.1109/ATS.2011.89},
-  file = {:../../../../02_PDFs/Referencias2/06114526.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/06114526.pdf:PDF},
   issn = {1081-7735},
   keywords = {CMOS logic circuits;error detection;fault tolerance;redundancy;CMOS
 	technology;ISCAS benchmark circuit;ITC benchmark circuit;circuit
@@ -2724,7 +2724,7 @@
 	26% of an Altera Max-7000 FPGA chip logic cells. The performance
 	overhead varies between 42% and 82% depending on the workload used.},
   doi = {10.1109/IES.2006.357485},
-  file = {:../../../../02_PDFs/Referencias1/04197508.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/04197508.pdf:PDF},
   keywords = {embedded systems;error detection;field programmable gate arrays;microcontrollers;reconfigurable
 	architectures;transient analysis;8051 microcontroller;Altera Max-7000
 	FPGA chip logic cells;compile time;embedded systems;hardware control
@@ -2756,7 +2756,7 @@
 	show that these mechanisms detect about 90% of transient errors,
 	injected by software implemented method.},
   doi = {10.1109/ICM.2006.373268},
-  file = {:../../../../02_PDFs/Referencias2/04243649.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/04243649.pdf:PDF},
   keywords = {data flow analysis;error detection;field programmable gate arrays;logic
 	testing;microcontrollers;FPGA;error detection;fault detection;hardware-based
 	control flow checking mechanisms;microcontroller;software-implemented
@@ -2786,7 +2786,7 @@
 	it has been applied in the design of a 32-bit MIPS microprocessor
 	core using a 90nm CMOS technology.},
   doi = {10.1109/DFT.2012.6378204},
-  file = {:../../../../02_PDFs/Referencias2/06378204.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/06378204.pdf:PDF},
   keywords = {CMOS digital integrated circuits;flip-flops;microprocessor chips;CMOS
 	technology;MIPS;SEU;architectural replay;asynchronous local error
 	correction scheme;error recovery;flip-flop oriented soft error detection;nanometer
@@ -2824,7 +2824,7 @@
 	circuits show that our approach can typically detect and correct
 	2 and 3 errors within seconds of CPU time},
   doi = {10.1109/ICECS.1999.812294},
-  file = {:../../../../02_PDFs/Referencias2/00812294.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/00812294.pdf:PDF},
   keywords = {VLSI;circuit CAD;digital integrated circuits;error correction;error
 	detection;integrated circuit design;logic CAD;BDD;VLSI circuit design;hybrid
 	approach;logic design errors;logic error correction;logic error detection;multiple
@@ -2881,7 +2881,7 @@
 	process architecture as the basis for implementing replaceable error
 	detection and recovery services.},
   doi = {10.1109/ECBS.2003.1194806},
-  file = {:../../../../02_PDFs/Referencias1/01194806.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias1/01194806.pdf:PDF},
   keywords = {configuration management;distributed programming;formal specification;software
 	fault tolerance;system recovery;ARMOR processes;SIFT;adaptive software
 	fault tolerance;assertion checking;data error propagation;distributed
@@ -2921,7 +2921,7 @@
 	data accesses, while causing little performance overhead and little
 	memory overhead},
   doi = {10.1109/12.588046},
-  file = {:../../../../02_PDFs/Referencias2/00588046.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias2/00588046.pdf:PDF},
   issn = {0018-9340},
   keywords = {data structures;fault tolerant computing;software fault tolerance;MIPS
 	R300D processor;architecture support;benchmark results;compiler support;data
@@ -2968,7 +2968,7 @@
 	selected ISCAS and OpenCore benchmarks, as well as for an industrial
 	circuit.},
   doi = {10.1109/TEST.2009.5355715},
-  file = {:../../../../02_PDFs/Referencias5/05355715.pdf:PDF},
+  file = {:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias5/05355715.pdf:PDF},
   keywords = {application specific integrated circuits;fault diagnosis;integrated
 	circuit reliability;integrated circuit testing;modelling;optimisation;simulation;ASIC;diagnosis
 	coverage measurement;hardware architectural solution;hardware fault-insertion
