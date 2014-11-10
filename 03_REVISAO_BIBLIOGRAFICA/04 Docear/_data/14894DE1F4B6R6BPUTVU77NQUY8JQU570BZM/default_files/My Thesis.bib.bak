@@ -301,7 +301,7 @@
 }
 
 @MASTERSTHESIS{Azambuja2010,
-  author = {Azambuja, José Rodrigo Furlanetto de },
+  author = {Azambuja, José Rodrigo Furlanetto de},
   title = {Análise de técnicas de tolerância a falhas baseadas em software para
 	a proteção de microprocessadores},
   school = {Universidade Federal do Rio Grande do Sul},

@@ -1,7 +1,7 @@
-<map version="docear 1.1" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a">
+<map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1414253497103" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1415471894751" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75,7 +75,7 @@
 <attribute NAME="mon_flatten_dirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_add_extra_incoming_node" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1414253497106" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1415471894754" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#007c7c"/>
 <node TEXT="Verification Methodology Manual for SystemVerilog" ID="ID_1296405716" CREATED="1411539431435" MODIFIED="1413321727263" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-25556-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
@@ -5355,7 +5355,7 @@
 <attribute NAME="year" VALUE="2001"/>
 </node>
 </node>
-<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1414253497591" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1415471895241" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c7c00"/>
 <node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1413321727169" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5FF56780A5BCACE023A24384365ADABF1FDF4C93E721EC53591F1571F2BE5A">
@@ -6574,7 +6574,7 @@
 <attribute NAME="year" VALUE="1993"/>
 </node>
 </node>
-<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1414253497745" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1415471895773" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c0000"/>
 <node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1413321727133" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf" MOVED="1411878920151">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D4D852F99AB0D925364677F4A756C5A8FAB3037A8D28642BF5470F141F1E13E">
@@ -7414,7 +7414,7 @@
 <attribute NAME="year" VALUE="2012"/>
 </node>
 </node>
-<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1414256552135" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1415471895841" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8569,39 +8569,39 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1414253497961" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1414253497961" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1415471895909" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1415471895910" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="medida do tempo de funcionamento de um sistema at&#xe9; falhar, ou da probabilidade de n&#xe3;o falhar durante o tempo de miss&#xe3;o (ex.:MTTF, MTBF, 10-5 falhas/hora, 99.9%)" ID="ID_1611290074" CREATED="1411860915945" MODIFIED="1411860919478" MOVED="1411860922539"/>
 </node>
-<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1414253497961" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1415471895910" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 <node TEXT="medida do tempo (ou %) em que o sistema est&#xe1; operacional (ex.: MTBF/(MTBF+MTTR), 5000h/ano)" ID="ID_1771869519" CREATED="1411860934455" MODIFIED="1411860936807" MOVED="1411860939275"/>
 </node>
-<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1414253497961" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1414253497961" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1415471895910" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1415471895910" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1414253497961" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1415471895910" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="medida da fiabilidade do sistema relativa a faltas que ocasionem efeitos catastr&#xf3;ficos" ID="ID_938916906" CREATED="1411860999742" MODIFIED="1411861002690" MOVED="1411861005203"/>
 </node>
 <node TEXT="seguran&#xe7;a contra acesso n&#xe3;o autorizado (security)" FOLDED="true" ID="ID_1077168734" CREATED="1411860750229" MODIFIED="1411860764146">
 <node TEXT="idem, relativo a faltas contra integridade, confidencialidade e autenticidade" ID="ID_1580126393" CREATED="1411861015289" MODIFIED="1411861017812" MOVED="1411861019923"/>
 </node>
 </node>
-<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1414253497962" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1414253497962" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1415471895910" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1415471895910" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="define-se como a causa f&#xed;sica ou algor&#xed;tmica do erro" ID="ID_1619338102" CREATED="1411863391820" MODIFIED="1411863408032" MOVED="1411863413368"/>
 </node>
-<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1414253497962" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1415471895911" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT=" Define-se que um sistema est&#xe1; em estado err&#xf4;neo, ou em erro, se o processamento posterior a partir desse estado pode levar a um defeito" ID="ID_575761268" CREATED="1411863458582" MODIFIED="1411863484409" MOVED="1411863489937"/>
 </node>
-<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1414253497962" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1415471895911" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="&#xe9; definido como um desvio da especifica&#xe7;&#xe3;o" ID="ID_618166955" CREATED="1411863351666" MODIFIED="1411863425108" MOVED="1411863358800"/>
 </node>
 </node>
-<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1414253497962" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1414253497962" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1415471895911" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1415471895911" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1413321726964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
     <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
@@ -9297,6 +9297,15 @@
 <attribute NAME="title" VALUE="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
+<node TEXT="An&#xe1;lise de T&#xe9;cnicas de Toler&#xe2;ncia a Falhas Baseadas em Software para a Prote&#xe7;&#xe3;o de Microprocessadores" ID="ID_278016786" CREATED="1411247618744" MODIFIED="1415472046962" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/000826746.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA584EA9D2B745F59431FF745986A71D7CE625BE4FCAB566C487EE154DC630">
+    <pdf_title>Software</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Azambuja2010"/>
+<attribute NAME="authors" VALUE="Azambuja, Jos&#xe9; Rodrigo Furlanetto de"/>
+<attribute NAME="title" VALUE="An&#xe1;lise de t&#xe9;cnicas de toler&#xe2;ncia a falhas baseadas em software para a prote&#xe7;&#xe3;o de microprocessadores"/>
+<attribute NAME="year" VALUE="2010"/>
+</node>
 </node>
 <node TEXT="Modelagem e Inje&#xe7;&#xe3;o de Falhas" ID="ID_165684907" CREATED="1411926028455" MODIFIED="1411937098140">
 <node TEXT="Physical Defect Modeling for Fault Insertion in System Reliability Test" ID="ID_1861870009" CREATED="1411836924270" MODIFIED="1413321726698" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/05355715.pdf">
@@ -9977,18 +9986,9 @@
 </node>
 </node>
 </node>
-<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1414256569047" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
+<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1415471895979" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
 <font NAME="Courier New" BOLD="true"/>
 <edge COLOR="#006699"/>
-<node TEXT="An&#xe1;lise de T&#xe9;cnicas de Toler&#xe2;ncia a Falhas Baseadas em Software para a Prote&#xe7;&#xe3;o de Microprocessadores" ID="ID_278016786" CREATED="1411247618744" MODIFIED="1413321726046" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/000826746.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA584EA9D2B745F59431FF745986A71D7CE625BE4FCAB566C487EE154DC630">
-    <pdf_title>Software</pdf_title>
-</pdf_annotation>
-<attribute NAME="key" VALUE="Azambuja2010"/>
-<attribute NAME="authors" VALUE="Azambuja, Jos&#xe9; Rodrigo Furlanetto de "/>
-<attribute NAME="title" VALUE="An&#xe1;lise de t&#xe9;cnicas de toler&#xe2;ncia a falhas baseadas em software para a prote&#xe7;&#xe3;o de microprocessadores"/>
-<attribute NAME="year" VALUE="2010"/>
-</node>
 <node TEXT="SOC DESIGN METHODOLOGIES" ID="ID_732369618" CREATED="1411611275180" MODIFIED="1413321725986" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-35597-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
 <attribute NAME="key" VALUE="Robert2002"/>
