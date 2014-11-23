@@ -1,4 +1,4 @@
-<map version="docear 1.1" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/" dcr_id="1415571930717_6sfhsq4l8y1w4i8o59njrkpae">
+<map version="docear 1.1" dcr_id="1415571930717_6sfhsq4l8y1w4i8o59njrkpae" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <node TEXT="RadFTAH" FOLDED="false" ID="4e761ek5784lh44uptn1l38h0b" CREATED="1415571623955" MODIFIED="1415673454809" STYLE="bubble"><hook NAME="MapStyle">
     <properties show_note_icons="true"/>
@@ -51,7 +51,7 @@
 </map_styles>
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="AutomaticEdgeColor" COUNTER="1"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="3"/>
 <node TEXT="Contexto da Pesquisa" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="1vhksld5j5jtr8b3fsn8r6tbb3" CREATED="1415571623956" MODIFIED="1415674124784" HGAP="47" VSHIFT="19" BACKGROUND_COLOR="#c5c5c5"><richcontent TYPE="DETAILS">
 
 <html>
@@ -64,7 +64,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#272693" WIDTH="4"/>
@@ -102,7 +101,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#509b38" WIDTH="4"/>
@@ -140,7 +138,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#f35e28" WIDTH="4"/>
@@ -179,7 +176,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#5abdf7" WIDTH="4"/>
@@ -196,12 +192,11 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#c74dd0" WIDTH="4"/>
 </node>
-<node TEXT="Introdu&#xe7;&#xe3;o" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_939593023" CREATED="1415674043043" MODIFIED="1415674119043" HGAP="-299" VSHIFT="-437" BACKGROUND_COLOR="#c5c5c5">
+<node TEXT="Introdu&#xe7;&#xe3;o" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_939593023" CREATED="1415674043043" MODIFIED="1416707312105" HGAP="-299" VSHIFT="-437" BACKGROUND_COLOR="#c5c5c5">
 <edge COLOR="#ff0500" WIDTH="4"/>
 <richcontent TYPE="DETAILS">
 
@@ -215,8 +210,12 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="As prospec&#xe7;oes do International Technology Roadmap for Semiconductors (ITRS) preveem que em pouco tempo teremos transistores de menos de uma dezena de nan&#xf4;metros e isso implica em ...." ID="ID_1431431857" CREATED="1416705507016" MODIFIED="1416776683039" HGAP="-795" VSHIFT="-120">
+<node TEXT="menor confiabilidade dos transistores" ID="ID_1788373626" CREATED="1416707362650" MODIFIED="1416776686233" HGAP="-950" VSHIFT="30"/>
+<node TEXT="manifesta&#xe7;oes de efeitos da radia&#xe7;ao ao nivel do mar" ID="ID_1057459301" CREATED="1416776690969" MODIFIED="1416776729870" HGAP="-1070" VSHIFT="30"/>
+<node TEXT="" ID="ID_924322165" CREATED="1416776740154" MODIFIED="1416776745578" HGAP="-670" VSHIFT="30"/>
+</node>
 </node>
 </node>
 </map>
