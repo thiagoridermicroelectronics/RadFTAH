@@ -127,8 +127,8 @@ endtask : collect_instruction_transactions
 
 // Determines if this Instruction_Memory got the grant 
 task UFRGS_miniMIPS_Instruction_Memory_monitor::collect_arbitration();
-  @(posedge vif.sig_request[Instruction_Memory_id]);
-  @(posedge vif.sig_clock iff vif.sig_grant[Instruction_Memory_id] === 1);
+  @(posedge vif.sig_ram_req[Instruction_Memory_id]);
+  @(posedge vif.sig_clock iff vif.sig_ram_rdy[Instruction_Memory_id] === 1);
   // Enable instruction_transaction recording
   void'(begin_tr(instruction_transaction_collected, "UFRGS_miniMIPS Instruction_Memory Monitor"));
 endtask : collect_arbitration
@@ -136,13 +136,15 @@ endtask : collect_arbitration
 // Collect address phase
 task UFRGS_miniMIPS_Instruction_Memory_monitor::collect_address();
   @(posedge vif.sig_clock);
-  instruction_transaction_collected.addr = vif.sig_addr;
+  instruction_transaction_collected.addr = vif.sig_ram_adr;
+  /*
   case (vif.sig_size)
     2'b00 : instruction_transaction_collected.size = 1;
     2'b01 : instruction_transaction_collected.size = 2;
     2'b10 : instruction_transaction_collected.size = 4;
     2'b11 : instruction_transaction_collected.size = 8;
   endcase
+  */
   instruction_transaction_collected.data = new[instruction_transaction_collected.size];
   case ({vif.sig_read,vif.sig_write})
     2'b00 : instruction_transaction_collected.read_write = NOP;

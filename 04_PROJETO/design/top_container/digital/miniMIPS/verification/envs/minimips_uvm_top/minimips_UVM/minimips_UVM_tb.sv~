@@ -23,7 +23,8 @@ class minimips_UVM_tb extends uvm_env;
   // UFRGS_miniMIPS environment
   UFRGS_miniMIPS_env UFRGS_miniMIPS0;
 
-  // Scoreboard to check the memory operation.
+  // Scoreboard to check the memory operation of the Data_Memory.
+  // NOTE: Only two max will be shown
   UFRGS_miniMIPS_scoreboard scoreboard0;
 
   // Constructor - required syntax for UVM automation and utilities
@@ -52,15 +53,11 @@ endfunction
 // UVM connect phase
 function void connect_phase(uvm_phase phase);
   super.connect_phase(phase);
-  //Connect Memorys monitors to scoreboard
+  //Connect Data_Memory monitor to scoreboard - only 2 are shown
   // Connect Data_Memory0 monitor to scoreboard
   UFRGS_miniMIPS0.Data_Memorys[0].monitor.item_collected_port.connect(scoreboard0.item_collected_imp);
-  // Connect Instruction_Memory0 monitor to scoreboard
-  UFRGS_miniMIPS0.Instruction_Memorys[0].monitor.item_collected_port.connect(scoreboard0.item_collected_imp);
-  // Set up Instruction_Memory address map for UFRGS_miniMIPS0
-  UFRGS_miniMIPS0.set_Memory_address_map("Instruction_Memorys[0]", 0, 32'hffff);
   // Set up Data_Memory address map for UFRGS_miniMIPS0
-  UFRGS_miniMIPS0.set_Memory_address_map("Data_Memorys[0]", 0, 32'hffff);
+  UFRGS_miniMIPS0.set_Data_Memory_address_map("Data_Memorys[0]", 0, 32'hffff);
 endfunction 
 
 // UVM start_of_simulation() phase

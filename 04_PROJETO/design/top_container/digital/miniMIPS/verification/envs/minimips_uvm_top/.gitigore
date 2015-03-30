@@ -1,0 +1,11 @@
+*.*~
+irun.*
+*.key
+*.log
+.uvmtcl*
+.simvision
+simvision*.*
+INCA_libs
+waves.shm
+work
+cov_work

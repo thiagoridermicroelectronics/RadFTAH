@@ -28,15 +28,15 @@ class UFRGS_miniMIPS_instruction_transaction extends uvm_sequence_item;
    print and copy) for each attribute that you add. 
    ***************************************************************************/           
 
-  rand bit [31:0]            addr;
-  rand UFRGS_miniMIPS_read_write_enum read_write;
-  rand int unsigned         size;
-  rand bit [31:0]             data[];
-  rand int unsigned         wait_state[];
-  rand int unsigned         error_pos;
-  rand int unsigned         transmit_delay = 0;
-  string                    Instruction_Memory = "";
-  string                    Data_Memory = "";
+  rand bit [31:0]                       addr;
+  rand UFRGS_miniMIPS_read_write_enum   read_write;
+  rand int unsigned                     size;
+  rand bit [31:0]                       data[];
+  rand int unsigned                     wait_state[];
+  rand int unsigned                     error_pos;
+  rand int unsigned                     transmit_delay = 0;
+  string                                Instruction_Memory = "";
+  string                                Data_Memory = "";
  
   constraint c_read_write {
     read_write inside { READ, WRITE };

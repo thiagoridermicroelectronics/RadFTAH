@@ -22,6 +22,8 @@ class UFRGS_miniMIPS_env extends uvm_env;
 
   // Control properties
   protected bit has_bus_monitor = 1;
+//  protected int unsigned num_Instruction_Memorys = 0;
+//  protected int unsigned num_Data_Memorys = 0;
   protected int unsigned num_Instruction_Memorys = 1;
   protected int unsigned num_Data_Memorys = 1;
 
@@ -53,7 +55,7 @@ class UFRGS_miniMIPS_env extends uvm_env;
   // Additional class methods
   extern virtual function void build_phase(uvm_phase phase);
   extern virtual function void connect_phase(uvm_phase phase);
-  extern virtual function void set_Memory_address_map(string Memory_name, int min_addr, int max_addr);
+  extern virtual function void set_Data_Memory_address_map(string Data_Memory_name, int min_addr, int max_addr);
   extern virtual protected task update_vif_enables();
   extern virtual task run_phase(uvm_phase phase);
 endclass
@@ -83,27 +85,23 @@ function void UFRGS_miniMIPS_env::connect_phase(uvm_phase phase);
   for(int i = 0; i < num_Instruction_Memorys; i++) begin
     Instruction_Memorys[i].set_Instruction_Memory_id(i);
   end
-  for(int i = 0; i < num_Data_Memorys; i++) begin
-    Data_Memorys[i].set_Instruction_Memory_id(i);
-  end
 
   if(!uvm_config_db#(virtual UFRGS_miniMIPS_if)::get(this,"","vif",vif))
 	`uvm_error("NOVIF","vif is unset")
 endfunction 
 
 // Used to set the Data_Memory address map
-function void UFRGS_miniMIPS_env::set_Memory_address_map(string Memory_name, int min_addr, int max_addr);
+function void UFRGS_miniMIPS_env::set_Data_Memory_address_map(string Data_Memory_name, int min_addr, int max_addr);
   UFRGS_miniMIPS_Memory_monitor tmp_Memory_monitor;
   if( bus_monitor != null ) begin
     // Set Data_Memory address map for bus monitor
-    bus_monitor.set_Memory_configs(Memory_name, min_addr, max_addr);
+    bus_monitor.set_Data_Memory_configs(Data_Memory_name, min_addr, max_addr);
   end
-  // Set Memory address map for Data_Memory Agent and Instruction_Memory Agent
-  //$cast( singular dest_handle, singular source_handle )
-  $cast(tmp_Memory_monitor, lookup({Memory_name, ".monitor"}));
+  // Set Data_Memory address map for Data_Memory monitor
+  $cast(tmp_Memory_monitor, lookup({Data_Memory_name, ".monitor"}));
   tmp_Memory_monitor.min_addr = min_addr;
   tmp_Memory_monitor.max_addr = max_addr;
-endfunction : set_Memory_address_map
+endfunction : set_Data_Memory_address_map
 
 // Function to assign the checks and coverage bits
 task UFRGS_miniMIPS_env::update_vif_enables();

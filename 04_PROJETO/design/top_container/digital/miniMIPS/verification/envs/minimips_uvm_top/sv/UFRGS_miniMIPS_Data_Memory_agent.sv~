@@ -16,9 +16,6 @@ Copyright 2015 (c) Universidade Federal do Rio Grande do Sul
 //------------------------------------------------------------------------------
 
 class UFRGS_miniMIPS_Data_Memory_agent extends uvm_agent;
-  // Master's id
-  protected int Instruction_Memory_id;
-
   UFRGS_miniMIPS_Data_Memory_driver driver;
   UFRGS_miniMIPS_Data_Memory_sequencer sequencer;
   UFRGS_miniMIPS_Memory_monitor monitor;
@@ -65,6 +62,6 @@ function void UFRGS_miniMIPS_Data_Memory_agent::connect_phase(uvm_phase phase);
     // Binds the driver to the sequencer using consumer-producer interface
     driver.seq_item_port.connect(sequencer.seq_item_export);
     // Enable the sequencer to peek the address phase from the monitor
-    //sequencer.addr_ph_port.connect(monitor.addr_ph_imp);
+    sequencer.addr_ph_port.connect(monitor.addr_ph_imp);
    end
 endfunction 

@@ -42,12 +42,12 @@ simvision -submit {
   group clear 0 end
 
   group insert \
-    minimips_UVM_top.dut.clock \
-    minimips_UVM_top.dut.reset \
-    minimips_UVM_top.dut.ram_r_w \
-    minimips_UVM_top.dut.UFRGS_miniMIPS_size \
-    minimips_UVM_top.dut.ram_adr \
-    minimips_UVM_top.dut.ram_data \
+   minimips_UVM_top.dut.clock \
+   minimips_UVM_top.dut.reset \
+   minimips_UVM_top.dut.ram_r_w \
+    {minimips_UVM_top.dut.UFRGS_miniMIPS_size} \
+      {minimips_UVM_top.dut.ram_adr} \
+      {minimips_UVM_top.dut.ram_data} \
     minimips_UVM_top.dut.it_mat \
     minimips_UVM_top.dut.ram_req \
     minimips_UVM_top.dut.ram_ack 

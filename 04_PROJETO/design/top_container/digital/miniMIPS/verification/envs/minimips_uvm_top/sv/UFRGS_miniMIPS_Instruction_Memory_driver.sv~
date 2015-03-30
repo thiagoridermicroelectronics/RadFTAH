@@ -147,9 +147,9 @@ endtask : drive_address
 task UFRGS_miniMIPS_Instruction_Memory_driver::drive_data (UFRGS_miniMIPS_instruction_transaction Instruction_Memory_transaction);
   bit err;
   for(int i = 0; i <= Instruction_Memory_transaction.size - 1; i ++) begin
-//    if (i == (Instruction_Memory_transaction.size - 1))
+    if (i == (Instruction_Memory_transaction.size - 1))
 //      vif.sig_bip <= 0;
-//    else
+    else
 //      vif.sig_bip <= 1;
     case (Instruction_Memory_transaction.read_write)
       READ : read_word(Instruction_Memory_transaction.data[i], err);

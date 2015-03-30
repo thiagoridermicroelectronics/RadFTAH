@@ -21,7 +21,7 @@ class UFRGS_miniMIPS_Instruction_Memory_agent extends uvm_agent;
 
   UFRGS_miniMIPS_Instruction_Memory_driver driver;
   UFRGS_miniMIPS_Instruction_Memory_sequencer sequencer;
-  UFRGS_miniMIPS_Instruction_Memory_monitor monitor;
+  UFRGS_miniMIPS_Memory_monitor monitor;
   
   /***************************************************************************
    IVB-NOTE : OPTIONAL : Instruction_Memory Agent : Agents
@@ -48,7 +48,7 @@ class UFRGS_miniMIPS_Instruction_Memory_agent extends uvm_agent;
 // build
 function void build_phase(uvm_phase phase);
   super.build_phase(phase);
-  monitor = UFRGS_miniMIPS_Instruction_Memory_monitor::type_id::create("monitor", this);
+  monitor = UFRGS_miniMIPS_Memory_monitor::type_id::create("monitor", this);
   if(is_active == UVM_ACTIVE) begin
     sequencer = UFRGS_miniMIPS_Instruction_Memory_sequencer::type_id::create("sequencer", this);
     driver = UFRGS_miniMIPS_Instruction_Memory_driver::type_id::create("driver", this);

@@ -45,6 +45,15 @@ interface UFRGS_miniMIPS_if (input sig_clock, input sig_reset);
   logic        [1:0]  sig_size = 2'b00;
 
 
+
+
+//  logic sig_write;
+//  logic sig_start;
+//  logic sig_bip;
+//  logic [31:0] sig_data_out;
+//  logic sig_error;
+//  logic rw;
+
   // Coverage and assertions to be implemented here.
   /***************************************************************************
    IVB-NOTE : REQUIRED : Assertion checks : Interface

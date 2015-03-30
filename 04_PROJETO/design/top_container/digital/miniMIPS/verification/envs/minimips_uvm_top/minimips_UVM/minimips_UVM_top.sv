@@ -22,56 +22,42 @@ module minimips_UVM_top;
 
   reg clock;
   reg reset;
-  wire [31:0]  UFRGS_miniMIPS_addr;
-  wire [1:0] UFRGS_miniMIPS_size;
-  wire UFRGS_miniMIPS_read;
-  wire UFRGS_miniMIPS_write;
-  reg UFRGS_miniMIPS_start;
-  wire UFRGS_miniMIPS_bip;
-  wire [31:0] UFRGS_miniMIPS_data;
-  wire UFRGS_miniMIPS_wait;
-  wire UFRGS_miniMIPS_error;
-  reg UFRGS_miniMIPS_req_Instruction_Memory0;
-  reg UFRGS_miniMIPS_gnt_Instruction_Memory0;  
+  wire         UFRGS_miniMIPS_ram_rdy;
+  wire         UFRGS_miniMIPS_it_mat;
+  wire [31:0]  UFRGS_miniMIPS_ram_adr;
+  wire [31:0]  UFRGS_miniMIPS_ram_data;
+  reg          UFRGS_miniMIPS_ram_req;
+  wire         UFRGS_miniMIPS_ram_r_w;
+  wire [1:0]   UFRGS_miniMIPS_size;
+
 
   UFRGS_miniMIPS_if UFRGS_miniMIPS_if_0(clock, reset);
   
-  dut_dummy dut(
-    UFRGS_miniMIPS_req_Instruction_Memory0,
-    UFRGS_miniMIPS_gnt_Instruction_Memory0,
+  minimips dut(
     clock,
     reset,
-    UFRGS_miniMIPS_addr,
-    UFRGS_miniMIPS_size,
-    UFRGS_miniMIPS_read,
-    UFRGS_miniMIPS_write,
-    UFRGS_miniMIPS_start,
-    UFRGS_miniMIPS_bip,
-    UFRGS_miniMIPS_data,
-    UFRGS_miniMIPS_wait,
-    UFRGS_miniMIPS_error
+    ram_req,
+    ram_adr,
+    ram_r_w,
+    ram_data,
+    ram_ack,
+    it_mat
   );
 
+
   // Interface Connections
-  //assign UFRGS_miniMIPS_if_0.sig_clock = UFRGS_miniMIPS_clock;
-  //assign UFRGS_miniMIPS_if_0.sig_reset = UFRGS_miniMIPS_reset;
+  assign UFRGS_miniMIPS_if_0.sig_clock = clock;
+  assign UFRGS_miniMIPS_if_0.sig_reset = reset;
 
-  assign UFRGS_miniMIPS_req_Instruction_Memory0 = UFRGS_miniMIPS_if_0.sig_request[0];
-  assign UFRGS_miniMIPS_if_0.sig_grant[0] = UFRGS_miniMIPS_gnt_Instruction_Memory0;
 
-  assign UFRGS_miniMIPS_addr = UFRGS_miniMIPS_if_0.sig_addr;
-  assign UFRGS_miniMIPS_size = UFRGS_miniMIPS_if_0.sig_size;
-  assign UFRGS_miniMIPS_read = UFRGS_miniMIPS_if_0.sig_read;
-  assign UFRGS_miniMIPS_write = UFRGS_miniMIPS_if_0.sig_write;
-  assign UFRGS_miniMIPS_if_0.sig_start = UFRGS_miniMIPS_start;
-  assign UFRGS_miniMIPS_bip = UFRGS_miniMIPS_if_0.sig_bip;
+  assign UFRGS_miniMIPS_ram_rdy  = UFRGS_miniMIPS_if_0.sig_ram_rdy;
+  assign UFRGS_miniMIPS_it_mat   = UFRGS_miniMIPS_if_0.sig_it_mat;
+  assign UFRGS_miniMIPS_ram_adr  = UFRGS_miniMIPS_if_0.sig_ram_adr;
+  assign UFRGS_miniMIPS_ram_data = UFRGS_miniMIPS_if_0.sig_ram_data;
+  assign UFRGS_miniMIPS_ram_req  = UFRGS_miniMIPS_if_0.sig_ram_req;
+  assign UFRGS_miniMIPS_ram_r_w  = UFRGS_miniMIPS_if_0.sig_ram_r_w;
+  assign UFRGS_miniMIPS_size     = UFRGS_miniMIPS_if_0.sig_size;
 
-  assign UFRGS_miniMIPS_if_0.sig_data = UFRGS_miniMIPS_data;
-
-  assign UFRGS_miniMIPS_wait = UFRGS_miniMIPS_if_0.sig_wait;
-  assign UFRGS_miniMIPS_error = UFRGS_miniMIPS_if_0.sig_error;
-
-  assign UFRGS_miniMIPS_data = UFRGS_miniMIPS_if_0.rw ? UFRGS_miniMIPS_if_0.sig_data_out : 32'bz;
 
   initial begin
     run_test();

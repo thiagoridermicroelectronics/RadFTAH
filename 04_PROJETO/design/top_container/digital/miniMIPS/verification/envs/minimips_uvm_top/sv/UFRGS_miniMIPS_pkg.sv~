@@ -21,7 +21,7 @@ import uvm_pkg::*;
 `include "UFRGS_miniMIPS_instruction_transaction.sv"
 
 `include "UFRGS_miniMIPS_Memory_monitor.sv"
-
+//`include "UFRGS_miniMIPS_Instruction_Memory_monitor.sv"
 `include "UFRGS_miniMIPS_Instruction_Memory_sequencer.sv"
 `include "UFRGS_miniMIPS_Instruction_Memory_driver.sv"
 `include "UFRGS_miniMIPS_Instruction_Memory_agent.sv"

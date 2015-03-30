@@ -13,18 +13,18 @@ Copyright Universidade Federal do Rio Grande do Sul (c)2015
 
 //------------------------------------------------------------------------------
 //
-// CLASS: Memory_address_map_info
+// CLASS: Data_Memory_address_map_info
 //
-// The following class is used to determine which Memory should respond 
+// The following class is used to determine which Data_Memory should respond 
 // to a instruction_transaction on the bus
 //------------------------------------------------------------------------------
 
-class Memory_address_map_info extends uvm_object;
+class Data_Memory_address_map_info extends uvm_object;
 
   int min_addr;
   int max_addr;
  
-  `uvm_object_utils_begin(Memory_address_map_info)
+  `uvm_object_utils_begin(Data_Memory_address_map_info)
     `uvm_field_int(min_addr, UVM_DEFAULT)
     `uvm_field_int(max_addr, UVM_DEFAULT)
   `uvm_object_utils_end
@@ -34,7 +34,7 @@ class Memory_address_map_info extends uvm_object;
     this.max_addr = max_addr;
   endfunction : set_address_map
 
-endclass : Memory_address_map_info
+endclass : Data_Memory_address_map_info
 
 
 //------------------------------------------------------------------------------
@@ -62,8 +62,8 @@ class UFRGS_miniMIPS_bus_monitor extends uvm_monitor;
   uvm_analysis_port #(int) reset_end_port;
   uvm_analysis_port #(string) phase_change_port;
 
-  // The following property is used to store Memory address map
-  protected Memory_address_map_info Memory_addr_map[string];
+  // The following property is used to store Data_Memory address map
+  protected Data_Memory_address_map_info Data_Memory_addr_map[string];
 
   // The following property holds the instruction_transaction information currently
   // being captured (by the collect_address and data_phase methods). 
@@ -83,7 +83,7 @@ class UFRGS_miniMIPS_bus_monitor extends uvm_monitor;
     `uvm_field_int(checks_enable, UVM_DEFAULT)
     `uvm_field_int(coverage_enable, UVM_DEFAULT)
     `uvm_field_int(num_instruction_transactions, UVM_DEFAULT)
-    `uvm_field_aa_object_string(Memory_addr_map, UVM_DEFAULT)
+    `uvm_field_aa_object_string(Data_Memory_addr_map, UVM_DEFAULT)
   `uvm_component_utils_end
 
   // Constructor - required syntax for UVM automation and utilities
@@ -104,14 +104,14 @@ class UFRGS_miniMIPS_bus_monitor extends uvm_monitor;
   endfunction : new
 
   // Additional class methods
-  extern virtual function void set_Memory_configs(string Memory_name, int min_addr, int max_addr);
+  extern virtual function void set_Data_Memory_configs(string Data_Memory_name, int min_addr, int max_addr);
   extern virtual task run_phase(uvm_phase phase);
   extern protected virtual task observe_reset();
   extern protected virtual task collect_instruction_transactions();
   extern protected virtual task collect_arbitration();
   extern protected virtual task collect_address();
   extern protected virtual task collect_data();
-  extern protected virtual function void check_which_Memory();
+  extern protected virtual function void check_which_Data_Memory();
   extern protected virtual function void perform_checks();
   extern protected virtual function void check_UFRGS_miniMIPS_instruction_transaction_size();
   extern protected virtual function void check_UFRGS_miniMIPS_instruction_transaction_data_size();
@@ -125,12 +125,12 @@ class UFRGS_miniMIPS_bus_monitor extends uvm_monitor;
   endfunction
 endclass : UFRGS_miniMIPS_bus_monitor
 
-// set_Memory_configs
-function void UFRGS_miniMIPS_bus_monitor::set_Memory_configs(string Memory_name,
+// set_Data_Memory_configs
+function void UFRGS_miniMIPS_bus_monitor::set_Data_Memory_configs(string Data_Memory_name,
   int min_addr, int max_addr);
-  Memory_addr_map[Memory_name] = new();
-  Memory_addr_map[Memory_name].set_address_map(min_addr, max_addr);
-endfunction : set_Memory_configs
+  Data_Memory_addr_map[Data_Memory_name] = new();
+  Data_Memory_addr_map[Data_Memory_name].set_address_map(min_addr, max_addr);
+endfunction : set_Data_Memory_configs
 
 // UVM run phase
 task UFRGS_miniMIPS_bus_monitor::run_phase(uvm_phase phase);
@@ -178,20 +178,22 @@ task UFRGS_miniMIPS_bus_monitor::collect_instruction_transactions();
 endtask : collect_instruction_transactions
 
 // Collect arbitration phase
-// Determines which one of the Memorys got the grant
+// Determines which one of the Instruction_Memorys got the grant
 task UFRGS_miniMIPS_bus_monitor::collect_arbitration();
   string tmpStr;
   @(posedge vif.sig_clock iff (vif.sig_ram_rdy != 0));
   phase_change_port.write("arbitration");
   // Enable instruction_transaction recording
   void'(begin_tr(instruction_transaction_collected, "UFRGS_miniMIPS Bus Monitor"));
-  // Check which grant is active to determine which Memory is performing
+  // Check which grant is active to determine which Instruction_Memory is performing
   // the instruction_transaction on the bus.
-//   if (vif.sig_ram_rdy === 1) begin
-//     $sformat(tmpStr,"Instruction_Memorys[%0d]", j);
-//     instruction_transaction_collected.Instruction_Memory = tmpStr;
-//     break;   
-//   end
+  for (int j = 0; j <= 0; j++) begin
+    if (vif.sig_ram_rdy[j] === 1) begin
+      $sformat(tmpStr,"Instruction_Memorys[%0d]", j);
+      instruction_transaction_collected.Instruction_Memory = tmpStr;
+      break;   
+    end 
+  end
 endtask : collect_arbitration
 
 // Collect address phase
@@ -205,7 +207,7 @@ task UFRGS_miniMIPS_bus_monitor::collect_address();
     2'b11 : instruction_transaction_collected.size = 8;
   endcase
   instruction_transaction_collected.data = new[instruction_transaction_collected.size];
-  case (vif.sig_ram_r_w)
+  case ({vif.sig_read,vif.sig_write})
     1'bz : begin
       instruction_transaction_collected.read_write = NOP;
       phase_change_port.write("nop_cycle");
@@ -218,16 +220,20 @@ task UFRGS_miniMIPS_bus_monitor::collect_address();
       instruction_transaction_collected.read_write = WRITE;
       phase_change_port.write("normal_address_phase");
     end
+    //2'b11 : begin
+    //  if (checks_enable)
+    //     `uvm_error("ERR_R_AND_W_ACTIVE","Read and Write true at the same time")
+    //end            
   endcase
 endtask : collect_address
 
 // Collect data phase
 task UFRGS_miniMIPS_bus_monitor::collect_data();
   if (instruction_transaction_collected.read_write != NOP) begin
-    check_which_Memory();
+    check_which_Data_Memory();
     for (int i = 0; i < instruction_transaction_collected.size; i++) begin
       phase_change_port.write("data_phase");
-      @(posedge vif.sig_clock iff vif.sig_ram_rdy === 1);
+      @(posedge vif.sig_clock iff vif.sig_ram_rdy === 0);
       instruction_transaction_collected.data[i] = vif.sig_ram_data;
     end
     num_instruction_transactions++;
@@ -235,29 +241,29 @@ task UFRGS_miniMIPS_bus_monitor::collect_data();
   end
 endtask : collect_data
 
-// Check which on of the Memorys has this instruction_transaction in his address range
-function void UFRGS_miniMIPS_bus_monitor::check_which_Memory();
-  string Memory_name;
-  bit Memory_found;
-  Memory_found = 1'b0;
-  if(Memory_addr_map.first(Memory_name))
+// Check which on of the Data_Memorys has this instruction_transaction in his address range
+function void UFRGS_miniMIPS_bus_monitor::check_which_Data_Memory();
+  string Data_Memory_name;
+  bit Data_Memory_found;
+  Data_Memory_found = 1'b0;
+  if(Data_Memory_addr_map.first(Data_Memory_name))
     do begin
-      if (Memory_addr_map[Memory_name].min_addr <= instruction_transaction_collected.addr
-        && instruction_transaction_collected.addr <= Memory_addr_map[Memory_name].max_addr) 
+      if (Data_Memory_addr_map[Data_Memory_name].min_addr <= instruction_transaction_collected.addr
+        && instruction_transaction_collected.addr <= Data_Memory_addr_map[Data_Memory_name].max_addr) 
       begin
-        instruction_transaction_collected.Memory = Memory_name;
-        Memory_found = 1'b1;
+        instruction_transaction_collected.Data_Memory = Data_Memory_name;
+        Data_Memory_found = 1'b1;
       end
-      if (Memory_found == 1'b1)
+      if (Data_Memory_found == 1'b1)
         break;
     end
-  while (Memory_addr_map.next(Memory_name));
-    if(!Memory_found) begin
+  while (Data_Memory_addr_map.next(Data_Memory_name));
+    if(!Data_Memory_found) begin
       `uvm_error("ERR_ILLEGAL_ACCESS", 
-      $sformatf("MiniMIPS attempted a instruction_transaction at illegal address 32'h%0h",
+      $sformatf("Master attempted a instruction_transaction at illegal address 32'h%0h",
         instruction_transaction_collected.addr))
     end
-endfunction : check_which_Memory
+endfunction : check_which_Data_Memory
  
 /***************************************************************************
  IVB-NOTE : OPTIONAL : Bus Monitor Protocol Checks : Checks
