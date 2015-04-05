@@ -1,8 +1,8 @@
-<map version="docear 1.1" dcr_id="1415571930717_6sfhsq4l8y1w4i8o59njrkpae" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
+<map version="docear 1.1" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/" dcr_id="1415571930717_6sfhsq4l8y1w4i8o59njrkpae">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected"/>
-<node TEXT="RadFTAH" FOLDED="false" ID="4e761ek5784lh44uptn1l38h0b" CREATED="1415571623955" MODIFIED="1415673454809" STYLE="bubble"><hook NAME="MapStyle">
-    <properties show_note_icons="true" show_icon_for_attributes="true"/>
+<node TEXT="RadFTAH" FOLDED="false" ID="4e761ek5784lh44uptn1l38h0b" CREATED="1415571623955" MODIFIED="1415673454809" STYLE="bubble"><hook NAME="MapStyle" zoom="0.909">
+    <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">

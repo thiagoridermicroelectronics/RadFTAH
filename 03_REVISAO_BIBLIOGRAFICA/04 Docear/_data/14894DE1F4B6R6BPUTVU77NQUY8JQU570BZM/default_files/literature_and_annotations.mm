@@ -1,7 +1,7 @@
 <map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1425960022071" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1428262156679" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17,7 +17,7 @@
   </body>
 </html>
 </richcontent>
-<hook NAME="MapStyle" zoom="0.656">
+<hook NAME="MapStyle" zoom="0.794">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -70,12 +70,12 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="2"/>
 <attribute NAME="mon_incoming_folder" VALUE="@@literature_repository@@"/>
 <attribute NAME="mon_mindmap_folder" VALUE="@@library_mindmaps@@"/>
-<attribute NAME="mon_auto" VALUE="2" OBJECT="java.lang.Integer|2"/>
+<attribute NAME="mon_auto" VALUE="1" OBJECT="java.lang.Integer|1"/>
 <attribute NAME="mon_subdirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_flatten_dirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_add_extra_incoming_node" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1425960022075" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1428262156682" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#007c7c"/>
 <node TEXT="Verification Methodology Manual for SystemVerilog" ID="ID_1296405716" CREATED="1411539431435" MODIFIED="1413321727263" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-25556-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
@@ -5355,7 +5355,7 @@
 <attribute NAME="year" VALUE="2001"/>
 </node>
 </node>
-<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1425960022511" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1428262156993" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c7c00"/>
 <node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1413321727169" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5FF56780A5BCACE023A24384365ADABF1FDF4C93E721EC53591F1571F2BE5A">
@@ -6574,7 +6574,7 @@
 <attribute NAME="year" VALUE="1993"/>
 </node>
 </node>
-<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1425960022920" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1428262157094" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c0000"/>
 <node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1413321727133" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf" MOVED="1411878920151">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D4D852F99AB0D925364677F4A756C5A8FAB3037A8D28642BF5470F141F1E13E">
@@ -7248,7 +7248,8 @@
 <attribute NAME="title" VALUE="Ultra-Wideband, Short Pulse Electromagnetics 9"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1413321727018" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1428182312665" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<icon BUILTIN="button_ok"/>
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
     <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
 </pdf_annotation>
@@ -7404,8 +7405,116 @@
 <attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="Technology Scaling and Soft Error Reliability" ID="ID_347099177" CREATED="1411247622128" MODIFIED="1413321726978" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<node TEXT="Technology Scaling and Soft Error Reliability" FOLDED="true" ID="ID_347099177" CREATED="1411247622128" MODIFIED="1428182275306" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<icon BUILTIN="button_ok"/>
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+<node TEXT="cont... porque o assunto estah(...)" ID="ID_700653853" CREATED="1428120143712" MODIFIED="1428120143712" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="1673439643406327793" object_number="18" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Porque o assunto estah mais em voga do que nunca: lei de Moore e o dimensionamento dos dispositivos de circuito." ID="ID_1279793175" CREATED="1428120143721" MODIFIED="1428120143721" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="3281766873568750093" object_number="19" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Importancia dos Estudos em Soft Errors" ID="ID_59798776" CREATED="1428120143730" MODIFIED="1428120143730" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="COMMENT" page="1" object_id="1732074185340311947" object_number="25" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="1980&#x2019;s  of  a  brief  bout  with  alpha  particle emissions  from  IC  packaging  contaminants  [2]  &#x2013;  a  problem directly solved by eliminating the troublemaking impurities. " ID="ID_153055158" CREATED="1428120143737" MODIFIED="1428120143738" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="3584938197888302522" object_number="27" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Today, the issue of extrinsic ionizing radiation is every bit as important to integrated circuit reliability as intrinsic failure modes, such as dielectric breakdown, hot electron injection, or contamination-induced  stuck-at  faults.   " ID="ID_1414486839" CREATED="1428120143750" MODIFIED="1428120143750" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="2321787542769307336" object_number="29" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="extremely  energetic  particles  found  in  orbital  and flight-altitude  environments  wreaked  havoc  with  sensitive integrated  electronics " ID="ID_1094401996" CREATED="1428120143759" MODIFIED="1428120143760" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="3543786996240223645" object_number="31" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="&#x2018;Soft  errors&#x2019;  due  to ionizing radiation &#x2018;single events&#x2019; and the &#x2018;soft error rate&#x2019; (SER) of  all  types  of  microelectronic  circuits  has  moved  into  the mainstream  conversation.  " ID="ID_96117569" CREATED="1428120143768" MODIFIED="1428120143768" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="3544695887707043602" object_number="33" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Many  other  technical  conferences,  such  as  the  IRPS,  now include  sessions  devoted  to  soft  errors  and  single  event phenomenon. " ID="ID_224636849" CREATED="1428120143780" MODIFIED="1428120143780" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="7716996744683986836" object_number="35" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Artigo que discute desde o porque do assunto estar em voga como os mais diversos aspectos da lei de Moore e o dimensionamento afetam a sensibilidade dos circuitos aos erros, alem de apresentar os novos tipos de erros decorrentes das altera&#xe7;oes dos dispositivos" ID="ID_1316801730" CREATED="1428120143789" MODIFIED="1428120143789" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="COMMENT" page="1" object_id="920899825887785936" object_number="37" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="An  important  consideration  for  soft  error  susceptibility  is the volume of the radiation energy deposition region associated with  an  electrical  node. " ID="ID_20660081" CREATED="1428120143798" MODIFIED="1428120143798" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="775035872443166191" object_number="47" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="The  geometric  scaling  of  planar dimensions  has  not  been  accompanied  by  like  scaling  of  the non-planar  front-end-of-line  processing  dimensions  such  as well or epitaxial depths. " ID="ID_77898995" CREATED="1428120143806" MODIFIED="1428120143806" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="6555774537224009154" object_number="48" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
+    <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
+<attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="the efficiency of energy transfer from  ion  track  to  circuit  node  has  scaled  at  a  rate  closer  to feature  size  squared  rather  than  feature  size  cubed.  This  is important  because  the  circuit  switching  energy  also  scales  at roughly  feature  size  squared,  as  described  in  Section  III  &#x2013;  in competition with the volumetric scaling. " ID="ID_292259735" CREATED="1428120143815" MODIFIED="1428120143815" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="6338835885775582812" object_number="49" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
     <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
 </pdf_annotation>
 <attribute NAME="key" VALUE="6241810"/>
@@ -7414,7 +7523,8 @@
 <attribute NAME="year" VALUE="2012"/>
 </node>
 </node>
-<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1425960023002" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
+</node>
+<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1428262157150" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8569,39 +8679,39 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1425960023074" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1425960023074" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1428262157239" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1428262157239" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="medida do tempo de funcionamento de um sistema at&#xe9; falhar, ou da probabilidade de n&#xe3;o falhar durante o tempo de miss&#xe3;o (ex.:MTTF, MTBF, 10-5 falhas/hora, 99.9%)" ID="ID_1611290074" CREATED="1411860915945" MODIFIED="1411860919478" MOVED="1411860922539"/>
 </node>
-<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1425960023074" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1428262157239" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 <node TEXT="medida do tempo (ou %) em que o sistema est&#xe1; operacional (ex.: MTBF/(MTBF+MTTR), 5000h/ano)" ID="ID_1771869519" CREATED="1411860934455" MODIFIED="1411860936807" MOVED="1411860939275"/>
 </node>
-<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1425960023074" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1425960023074" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1428262157239" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1428262157239" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1425960023074" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="medida da fiabilidade do sistema relativa a faltas que ocasionem efeitos catastr&#xf3;ficos" ID="ID_938916906" CREATED="1411860999742" MODIFIED="1411861002690" MOVED="1411861005203"/>
 </node>
 <node TEXT="seguran&#xe7;a contra acesso n&#xe3;o autorizado (security)" FOLDED="true" ID="ID_1077168734" CREATED="1411860750229" MODIFIED="1411860764146">
 <node TEXT="idem, relativo a faltas contra integridade, confidencialidade e autenticidade" ID="ID_1580126393" CREATED="1411861015289" MODIFIED="1411861017812" MOVED="1411861019923"/>
 </node>
 </node>
-<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1425960023075" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1425960023075" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="define-se como a causa f&#xed;sica ou algor&#xed;tmica do erro" ID="ID_1619338102" CREATED="1411863391820" MODIFIED="1411863408032" MOVED="1411863413368"/>
 </node>
-<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1425960023075" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT=" Define-se que um sistema est&#xe1; em estado err&#xf4;neo, ou em erro, se o processamento posterior a partir desse estado pode levar a um defeito" ID="ID_575761268" CREATED="1411863458582" MODIFIED="1411863484409" MOVED="1411863489937"/>
 </node>
-<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1425960023075" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1428262157240" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="&#xe9; definido como um desvio da especifica&#xe7;&#xe3;o" ID="ID_618166955" CREATED="1411863351666" MODIFIED="1411863425108" MOVED="1411863358800"/>
 </node>
 </node>
-<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1425960023075" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1425960023075" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1413321726964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
     <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
@@ -9986,7 +10096,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1425960023158" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
+<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1428262157312" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
 <font NAME="Courier New" BOLD="true"/>
 <edge COLOR="#006699"/>
 <node TEXT="SOC DESIGN METHODOLOGIES" ID="ID_732369618" CREATED="1411611275180" MODIFIED="1413321725986" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-35597-9.pdf">
@@ -9995,6 +10105,495 @@
 <attribute NAME="authors" VALUE="Robert, Michel"/>
 <attribute NAME="title" VALUE="SOC Design Methodologies"/>
 <attribute NAME="year" VALUE="2002"/>
+</node>
+<node TEXT="00243569.pdf" ID="ID_821059820" CREATED="1428177571022" MODIFIED="1428177571035" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00243569.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4E865C5163FDBC223F479D37AB8FF3CDCE4D2802271CE7F9BFC79CF99EC">
+    <pdf_title>A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="243569"/>
+<attribute NAME="authors" VALUE="Ohlsson, J. and Rimen, M. and Gunneflo, U."/>
+<attribute NAME="title" VALUE="A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog"/>
+<attribute NAME="year" VALUE="1992"/>
+</node>
+<node TEXT="06169884.pdf" ID="ID_1922042771" CREATED="1428261739680" MODIFIED="1428261739680" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+<node TEXT="Marcador de texto" ID="ID_1319842704" CREATED="1428261740212" MODIFIED="1428261740212" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="8564244483242778642" object_number="16" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1418587909" CREATED="1428261740243" MODIFIED="1428261740243" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="2100198460402663904" object_number="17" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1639995810" CREATED="1428261740275" MODIFIED="1428261740275" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="2392313976886904880" object_number="18" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1166491325" CREATED="1428261740300" MODIFIED="1428261740301" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="7586727938008262433" object_number="19" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_650200511" CREATED="1428261740336" MODIFIED="1428261740336" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="7268610250591013335" object_number="20" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_44369531" CREATED="1428261740361" MODIFIED="1428261740361" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="1453412343087149515" object_number="21" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_448219423" CREATED="1428261740384" MODIFIED="1428261740384" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="743399106387069650" object_number="22" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_908018442" CREATED="1428261740409" MODIFIED="1428261740409" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="3771263917695625375" object_number="26" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_549905678" CREATED="1428261740434" MODIFIED="1428261740434" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="3160696907758385709" object_number="27" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1752430446" CREATED="1428261740465" MODIFIED="1428261740465" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="2178059388644077582" object_number="28" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_114496451" CREATED="1428261740502" MODIFIED="1428261740502" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="205782282614850628" object_number="29" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_742704176" CREATED="1428261740541" MODIFIED="1428261740541" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="6234125630597688552" object_number="30" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1353917241" CREATED="1428261740575" MODIFIED="1428261740575" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="9030914352246795910" object_number="34" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1256643155" CREATED="1428261740611" MODIFIED="1428261740611" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="905479561688754089" object_number="35" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1329645351" CREATED="1428261740179" MODIFIED="1428261740179" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="8001433097744807116" object_number="36" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1256806747" CREATED="1428261740149" MODIFIED="1428261740149" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="6885634549519178333" object_number="37" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_549005850" CREATED="1428261740120" MODIFIED="1428261740120" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="2902729583879774800" object_number="38" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_760862863" CREATED="1428261740084" MODIFIED="1428261740085" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="7925303994730935084" object_number="39" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1638228075" CREATED="1428261740045" MODIFIED="1428261740045" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="3" object_id="5683838597433603462" object_number="44" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_115564355" CREATED="1428261740014" MODIFIED="1428261740014" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="3" object_id="148194269665170479" object_number="45" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_125114106" CREATED="1428261739987" MODIFIED="1428261739987" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="3" object_id="7887533072631383019" object_number="47" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_964896677" CREATED="1428261739953" MODIFIED="1428261739953" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="3" object_id="4229322990208943998" object_number="48" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1207535442" CREATED="1428261739921" MODIFIED="1428261739922" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="3" object_id="8948266205430070359" object_number="49" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_21405417" CREATED="1428261739899" MODIFIED="1428261739899" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="4" object_id="7037213756550361925" object_number="53" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1971522939" CREATED="1428261739877" MODIFIED="1428261739877" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="4" object_id="7938421335778881865" object_number="54" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_661193658" CREATED="1428261739856" MODIFIED="1428261739856" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="4" object_id="2712945454062905657" object_number="55" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1601429348" CREATED="1428261739834" MODIFIED="1428261739834" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="4" object_id="5430340251825301871" object_number="56" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1434971919" CREATED="1428261739809" MODIFIED="1428261739810" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="4" object_id="2067560603607938156" object_number="57" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_857555549" CREATED="1428261739786" MODIFIED="1428261739786" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="4" object_id="2522959869328060400" object_number="58" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_899007381" CREATED="1428261739762" MODIFIED="1428261739762" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="4" object_id="9205405261611887532" object_number="59" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1482784004" CREATED="1428261739727" MODIFIED="1428261739727" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="8" object_id="2518262368551891221" object_number="74" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+<node TEXT="Discute muito bem os efeitos dos pulsos de energia: soft-delays, clock jitter e clock pulse, e tambem crosstalk. Mostra que os efeitos so mais acentuados quanto menor o no tecnologico. Discute tecnicas de hardening para crosstalking e dalays." ID="ID_1448209095" CREATED="1428261739578" MODIFIED="1428261739585" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<pdf_annotation type="COMMENT" page="8" object_id="8142867233262144928" object_number="75" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
+    <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Sayil2012"/>
+<attribute NAME="journal" VALUE="Potentials, IEEE"/>
+<attribute NAME="authors" VALUE="Sayil, Selahattin and Wang, Juyu"/>
+<attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
+<attribute NAME="year" VALUE="2012"/>
+</node>
+</node>
+<node TEXT="art%3A10.1007%2Fs10604-005-0066-9.pdf" ID="ID_373257430" CREATED="1428261740653" MODIFIED="1428261740653" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+<node TEXT=" that the effect could be explained by the in&#xfb02;uence  of  separate  heavy  charged  particles  (HCP)  of galactic  cosmic  rays  (GCR)  which  penetrated  into memory cells of the RAM." ID="ID_504991902" CREATED="1428261741147" MODIFIED="1428261741147" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="9024027544064103483" object_number="21" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="It was referred to as soft errors and later as single event upsets (SEU) of the logical state of memory cells or single failures " ID="ID_1246809354" CREATED="1428261741102" MODIFIED="1428261741102" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="5908044548804724567" object_number="22" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT=" best known such experiments [2&#x2013;17] " ID="ID_689044452" CREATED="1428261741058" MODIFIED="1428261741058" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="4161637815253415706" object_number="25" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="It was found that in this case SEU were induced by alphaparticles of radioactive isotopes contained in the substance of microchip packages." ID="ID_566368248" CREATED="1428261741015" MODIFIED="1428261741015" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="39137271546415842" object_number="27" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="SEU effect began to be extensively studied at accelerators of heavy ions and protons [19] and also with the use of radio isotopic and laser sources [20]." ID="ID_1401183558" CREATED="1428261740973" MODIFIED="1428261740973" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="516710487591168546" object_number="29" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="under  investigation  [21] " ID="ID_529400789" CREATED="1428261740932" MODIFIED="1428261740932" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="6970875868586302432" object_number="31" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="&#x2014;Pulses of photocurrent in a semiconductor structure lead to inversion of the logical state of memory cells or to a functional interruption of VLSIC operation." ID="ID_488631535" CREATED="1428261740890" MODIFIED="1428261740890" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="6322024270129895637" object_number="33" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="&#x2014;Breakdowns of p-n junctions result in latching up (thyristor effect) of CMOS structures or in burning out of power MOS transistors." ID="ID_1834886050" CREATED="1428261740862" MODIFIED="1428261740862" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="1149011190368205621" object_number="34" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="&#x2014;Breakdowns of the gate dielectric or variations of built-in charge in MOS transistors cause sticking (parametric failure) of separate elements of VLSIC." ID="ID_550539821" CREATED="1428261740819" MODIFIED="1428261740819" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="4216505755657164990" object_number="35" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="Trata dos calculos para estimar a taxa de SEEs em um veiculo espacial, levando em considera&#xe7;ao o tempo de voo, taxa de incidencia de particulas, sensibilidade do circuito VLSI aos SEEs(usando a abordagem cross-section), etc..." ID="ID_1083292916" CREATED="1428261740790" MODIFIED="1428261740790" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="COMMENT" page="1" object_id="3023865060852641015" object_number="37" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="above effects become a cause of appearance of both  intermittent  failures  (malfunctions)  and  permanent failures of VLSIC in electronic systems of control, and  systems  of  data  acquisition  and  storage  onboard spacecraft." ID="ID_803487700" CREATED="1428261740757" MODIFIED="1428261740757" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="4629645287119625816" object_number="47" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="optimal choice of these methods is based not only on knowing the nature of SEE  and  the  causes  of  their  occurrence,  but  also  on quantitative estimates of their rate in VLSIC due to irradiation by the &#xfb02;uxes of space radiation particles." ID="ID_461877641" CREATED="1428261740735" MODIFIED="1428261740736" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="7690362384961970214" object_number="48" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="calculations of the rate of SEE of any type is a sum of two components " ID="ID_691501981" CREATED="1428261740682" MODIFIED="1428261740683" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="4986607128345650579" object_number="49" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="&#x3bd; ion is the rate of SEE appearing as a result of direct penetration of HCP of the space radiation into VLSIC (direct mechanism of SEE origination); and  &#x3bd; p is the rate of SEE appearing as a result of production of residual  nuclei  and  recoil  nuclei  in  VLSIC  through nuclear interactions of cosmic ray protons with the matter of VLSIC chips (nuclear mechanism of SEE origination)." ID="ID_427122307" CREATED="1428261740647" MODIFIED="1428261740647" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="9213494415345921648" object_number="50" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
 </node>
 </node>
 </node>
