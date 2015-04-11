@@ -1,7 +1,6 @@
 ram.vhd
 rom.vhd
 bench_minimips.vhd
-../../../functional/rtl/
 ../../../functional/rtl/alu.vhd
 ../../../functional/rtl/banc.vhd
 ../../../functional/rtl/bus_ctrl.vhd

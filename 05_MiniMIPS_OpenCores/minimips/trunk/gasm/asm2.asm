@@ -1,11 +1,10 @@
-main add $1,$1,$2
-     add $2,$0,$3
-     add $3,$3,$3
-     add $3,$0,$4
+MAIN: ADD $1,$1,$2
+      ADD $2,$0,$3
+      ADD $3,$3,$3
+      ADD $3,$0,$4
 
-loop beq $3,$0,done #here’s the loop
-     sub $3,$1,$3
-     j loop
+LOOP: BEQ $3,$0,DONE
+      SUB $3,$1,$3
+      J LOOP
 
-done sw $2,0($0)
-     lw $a,-2($4)
+DONE: SW $2,0($0)

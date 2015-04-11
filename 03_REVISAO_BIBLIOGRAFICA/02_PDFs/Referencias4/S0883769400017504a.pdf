@@ -5355,3 +5355,1565 @@ trailer
 startxref
 404216
 %%EOF
+65 0 obj
+<<
+/CreationDate (D:20150405164323-03'00')
+/Rect [223.000305 674.023071 384.985931 705.022827]
+/C [1 0 0]
+/F 4
+/M (D:20150410212116-03'00')
+/Subj (Sublinhado)
+/AP <<
+/N 119 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">see, e.g., Reference 8 for fur-ther  details  and  Reference 9  for  a  lively&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">and up-to-date account of cosmic-ray re-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">search geared toward nonspecialists\)</span></p></body>)
+/Contents (see, e.g., Reference 8 for fur-ther  details  and  Reference 9  for  a  lively\rand up-to-date account of cosmic-ray re-\rsearch geared toward nonspecialists\))
+/T (thiago)
+/dcr_uid (3252298173923208588)
+/Popup 66 0 R
+/Subtype /Underline
+/NM (c335d4e9-1c71-4500-9f4f4cbb5ff97e9c)
+/QuadPoints [272.444519 712.352905 384.976929 712.352905 272.444519 703.226929 384.976929 703.226929 223.0003 702.353027
+384.985931 702.353027 223.0003 693.22699 384.985931 693.22699 223.0003 692.35309 384.976898 692.35309
+223.0003 683.22711 384.976898 683.22711 223.0003 682.35321 365.788879 682.35321 223.0003 673.22723
+365.788879 673.22723]
+>>
+endobj
+11 0 obj
+<<
+/CreationDate (D:20150405170245-03'00')
+/Rect [64.66324 456.9151 371.190308 479.188538]
+/C [1 0.678432 0.356863]
+/F 4
+/M (D:20150410212116-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 87 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">SEUs have been recognized as one of the key reliability concerns&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">for both current and future technologies.</span></p></body>)
+/Contents (SEUs have been recognized as one of the key reliability concerns for both current and future technologies.)
+/T (thiago)
+/dcr_uid (5884954814798817438)
+/Popup 38 0 R
+/Subtype /Highlight
+/NM (227c9039-c885-46a8-b823ca99ba44b4e7)
+/QuadPoints [147.560013 479.188538 368.853546 479.188538 147.560013 467.4151 368.853546 467.4151 67 468.688538
+203.666443 468.688538 67 456.9151 203.666443 456.9151]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212116-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000412991 00000 n
+11 1
+0000411819 00000 n
+65 1
+0000410314 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (π0cÜ`Çø_ªàh1ï€\(Æ)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 404216
+/Size 297
+>>
+startxref
+415028
+%%EOF
+12 0 obj
+<<
+/CreationDate (D:20150405170320-03'00')
+/Rect [64.66324 446.4151 354.50235 468.688538]
+/C [0.196079 0.803922 0.196079]
+/F 4
+/M (D:20150410212116-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 88 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">We identify the major sources of SEUs that&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">impact many commercial products: \(1\) alpha particles in packaging materials</span></p></body>)
+/Contents (We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials)
+/T (thiago)
+/dcr_uid (3512024815691162802)
+/Popup 39 0 R
+/Subtype /Highlight
+/NM (388eb3d3-458d-4fa2-8463775d62c8c7eb)
+/QuadPoints [204.852051 468.688538 352.165588 468.688538 204.852051 456.9151 352.165588 456.9151 67 458.188538
+331.01349 458.188538 67 446.4151 331.01349 446.4151]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212116-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000416476 00000 n
+12 1
+0000415272 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (~e y‰”ÙBü€Æs€)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 415028
+/Size 297
+>>
+startxref
+418513
+%%EOF
+14 0 obj
+<<
+/CreationDate (D:20150405170410-03'00')
+/Rect [64.66324 425.4151 366.17273 447.688538]
+/C [1 0.678432 0.356863]
+/F 4
+/M (D:20150410212116-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 90 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">\(3\) thermal neutrons in certain device&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">materials.</span></p></body>)
+/Contents (\(3\) thermal neutrons in certain device materials.)
+/T (thiago)
+/dcr_uid (1974661847848188603)
+/Popup 41 0 R
+/Subtype /Highlight
+/NM (389fb1ed-6f95-4c4e-ac53300747d80842)
+/QuadPoints [235.971985 447.688538 363.83597 447.688538 235.971985 435.9151 363.83597 435.9151 67 437.188538
+100.587997 437.188538 67 425.4151 100.587997 425.4151]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212116-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000419790 00000 n
+14 1
+0000418731 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (∑\\Ò¯jíôè}-yu¥?G)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 418513
+/Size 297
+>>
+startxref
+421827
+%%EOF
+15 0 obj
+<<
+/CreationDate (D:20150405164846-03'00')
+/Rect [47.188694 253.224594 212.839188 282.350403]
+/C [0.196079 0.803922 0.196079]
+/F 4
+/M (D:20150410212116-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 91 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">Any charged particle passing through a&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">microelectronic  device  ionizes  the  mate-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">rial\(s\) along its path.</span></p></body>)
+/Contents (Any charged particle passing through a microelectronic  device  ionizes  the  material\(s\) along its path.)
+/T (thiago)
+/dcr_uid (115374676697973106)
+/Popup 28 0 R
+/Subtype /Highlight
+/NM (df8c6e12-8725-4c48-8f716ba0c61c03c0)
+/QuadPoints [77.071899 282.3504 211.0126 282.3504 77.071899 273.2244 211.0126 273.2244 49 272.3505
+211.027878 272.3505 49 263.2245 211.027878 263.2245 49 262.350586 126.89679 262.350586
+49 253.224594 126.89679 253.224594]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212116-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000423354 00000 n
+15 1
+0000422046 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (®âáûgÌeÓŒÓ!*Äg)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 421827
+/Size 297
+>>
+startxref
+425391
+%%EOF
+16 0 obj
+<<
+/CreationDate (D:20150405164906-03'00')
+/Rect [47.188694 213.225006 212.837402 262.350586]
+/C [1 0.678432 0.356863]
+/F 4
+/M (D:20150410212116-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 92 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">A column of transient&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">electron&#8211;hole pairs is created around the&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">particle track. These induced free carriers,&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">if  left  alone  in  a  field-free  host  medium,&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">will eventually recombine.</span></p></body>)
+/Contents (A column of transient electronÖhole pairs is created around the particle track. These induced free carriers, if  left  alone  in  a  field-free  host  medium, will eventually recombine.)
+/T (thiago)
+/dcr_uid (2005329402181759201)
+/Popup 29 0 R
+/Subtype /Highlight
+/NM (7eb6fadc-0652-4bac-9e21f2c07504ff2e)
+/QuadPoints [136.401688 262.350586 211.024277 262.350586 136.401688 253.224594 211.024277 253.224594 49 252.350708
+211.026093 252.350708 49 243.224701 211.026093 243.224701 49 242.3508 211.023361 242.3508
+49 233.224808 211.023361 233.224808 49 232.350906 211.024292 232.350906 49 223.224899
+211.024292 223.224899 49 222.350998 147.928009 222.350998 49 213.225006 147.928009 213.225006]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212116-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000427369 00000 n
+16 1
+0000425609 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> ('t\fsÿ·ﬁ‚Ò<“Ø\bÙµ)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 425391
+/Size 297
+>>
+startxref
+429406
+%%EOF
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212116-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+17 0 obj
+<<
+/CreationDate (D:20150405164936-03'00')
+/Rect [47.188694 123.225906 212.8284 182.35141]
+/C [0.196079 0.803922 0.196079]
+/F 4
+/M (D:20150410212116-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 93 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">This can gen-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">erate  an  electrical  pulse  large  enough  to&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">disrupt normal device operation. This dis-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">ruption caused by one random intruding&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">particle is not associated with any perma-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">nent damage to the device. </span></p></body>)
+/Contents (This can generate  an  electrical  pulse  large  enough  to disrupt normal device operation. This disruption caused by one random intruding particle is not associated with any permanent damage to the device. )
+/T (thiago)
+/dcr_uid (5582062904717651628)
+/Popup 30 0 R
+/Subtype /Highlight
+/NM (45e10878-8d9d-4c8f-970fc3afe6352785)
+/QuadPoints [159.021408 182.35141 211.01709 182.35141 159.021408 173.225403 211.01709 173.225403 49 172.351501
+210.987411 172.351501 49 163.22551 210.987411 163.22551 49 162.351608 210.982895 162.351608
+49 153.225601 210.982895 153.225601 49 152.3517 211.0153 152.3517 49 143.225708
+211.0153 143.225708 49 142.351807 211.009903 142.351807 49 133.2258 211.009903 133.2258
+49 132.351898 160.126587 132.351898 49 123.225906 160.126587 123.225906]
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000429626 00000 n
+17 1
+0000431663 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (o/Œ±ã>5I<¨˚M–ˇ⁄)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 429406
+/Size 297
+>>
+startxref
+433598
+%%EOF
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212116-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+20 0 obj
+<<
+/CreationDate (D:20150405165228-03'00')
+/Rect [224.188995 233.226608 389.826874 262.352417]
+/C [1 1 0]
+/F 4
+/M (D:20150410212116-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 96 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">electrically  neutral  subatomic  par-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">ticles such as neutrons are known to cause&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">soft failures in circuits.</span></p></body>)
+/Contents (electrically  neutral  subatomic  particles such as neutrons are known to cause soft failures in circuits.)
+/T (thiago)
+/dcr_uid (8752527288560388507)
+/Popup 37 0 R
+/Subtype /Highlight
+/NM (22abf46c-449c-4152-9958274561e2cf3f)
+/QuadPoints [246.9388 262.352417 388.014679 262.352417 246.9388 253.22641 388.014679 253.22641 226.0003 252.352509
+388.015564 252.352509 226.0003 243.226501 388.015564 243.226501 226.0003 242.352615 313.285004 242.352615
+226.0003 233.226608 313.285004 233.226608]
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000433816 00000 n
+20 1
+0000435853 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (ó≈ˇv◊\f+äa®®îw€w)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 433598
+/Size 297
+>>
+startxref
+437182
+%%EOF
+21 0 obj
+<<
+/CreationDate (D:20150405170524-03'00')
+/Rect [224.188995 73.22821 389.831421 102.354012]
+/C [1 0.678432 0.356863]
+/F 4
+/M (D:20150410212117-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 97 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">SEUs have been recognized&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">as  a  key  area  limiting  the  reliability  of&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">many mainstream technologies.</span></p></body>)
+/Contents (SEUs have been recognized as  a  key  area  limiting  the  reliability  of many mainstream technologies.)
+/T (thiago)
+/dcr_uid (2323758211993409472)
+/Popup 43 0 R
+/Subtype /Highlight
+/NM (2af09dd7-b0e0-4275-9a64a92811ab0652)
+/QuadPoints [275.205109 102.354012 388.01468 102.354012 275.205109 93.228012 388.01468 93.228012 226.0003 92.354111
+388.020111 92.354111 226.0003 83.228111 388.020111 83.228111 226.0003 82.35421 350.441498 82.35421
+226.0003 73.22821 350.441498 73.22821]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212117-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000438726 00000 n
+21 1
+0000437401 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (|®/? \\s⁄üúé3Ke)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 437182
+/Size 297
+>>
+startxref
+440763
+%%EOF
+22 0 obj
+<<
+/CreationDate (D:20150405165200-03'00')
+/Rect [401.18927 653.228699 566.836182 712.354187]
+/C [0.196079 0.803922 0.196079]
+/F 4
+/M (D:20150410212117-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 98 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">SEUs and radiation&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">hardening  \(i.e.,  intentional  improvement&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">in  a  device&#8217;s  ability  to  withstand  high-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">radiation  environments\)  are  of  growing&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">concern to both the commercial and space-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">based  semiconductor  industries.</span></p></body>)
+/Contents (SEUs and radiation hardening  \(i.e.,  intentional  improvement in  a  deviceês  ability  to  withstand  highradiation  environments\)  are  of  growing concern to both the commercial and spacebased  semiconductor  industries.)
+/T (thiago)
+/dcr_uid (86882898782503081)
+/Popup 36 0 R
+/Subtype /Highlight
+/NM (90762944-af29-412f-9a64ce469b556a8b)
+/QuadPoints [486.205597 712.354187 565.013184 712.354187 486.205597 703.22821 565.013184 703.22821 403.0006 702.354309
+565.024902 702.354309 403.0006 693.228333 565.024902 693.228333 403.0006 692.354431 565.006897 692.354431
+403.0006 683.228394 565.006897 683.228394 403.0006 682.354492 564.989807 682.354492 403.0006 673.228516
+564.989807 673.228516 403.0006 672.354614 565.012329 672.354614 403.0006 663.228638 565.012329 663.228638
+403.0006 662.354736 531.750977 662.354736 403.0006 653.228699 531.750977 653.228699]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212117-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000443034 00000 n
+22 1
+0000440982 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (J!.f]c€ÂÒA¥ÕëxI)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 440763
+/Size 297
+>>
+startxref
+445071
+%%EOF
+23 0 obj
+<<
+/CreationDate (D:20150405165107-03'00')
+/Rect [401.18869 403.224487 566.795105 422.350403]
+/C [1 0.678432 0.356863]
+/F 4
+/M (D:20150410212117-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 99 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">Alpha  particles  emitted  from  packaging&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">materials </span></p></body>)
+/Contents (Alpha  particles  emitted  from  packaging materials )
+/T (thiago)
+/dcr_uid (3427534961175231283)
+/Popup 33 0 R
+/Subtype /Highlight
+/NM (42443303-2e0e-47b0-a8530f38e1a2749b)
+/QuadPoints [403 422.350403 564.983826 422.350403 403 413.224396 564.983826 413.224396 403 412.350494
+440.8198 412.350494 403 403.224487 440.8198 403.224487]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212117-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000446350 00000 n
+23 1
+0000445289 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (=…Ò@á‰Ç¨Ü6á8U1Ò\\)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 445071
+/Size 297
+>>
+startxref
+448387
+%%EOF
+26 0 obj
+<<
+/CreationDate (D:20150405165041-03'00')
+/Rect [401.188385 193.224503 566.799316 222.350296]
+/C [1 1 0]
+/F 4
+/M (D:20150410212117-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 102 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">caused  by  radiation&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">generated  by  high  energy  beams  inter-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">acting  with  surrounding  materials.</span></p></body>)
+/Contents (caused  by  radiation generated  by  high  energy  beams  interacting  with  surrounding  materials.)
+/T (thiago)
+/dcr_uid (1450012430246271723)
+/Popup 32 0 R
+/Subtype /Highlight
+/NM (875ffb05-06c5-4cdf-b577d5818b1c4bde)
+/QuadPoints [479.85791 222.3503 564.979004 222.3503 479.85791 213.2243 564.979004 213.2243 402.9997 212.350403
+564.988037 212.350403 402.9997 203.224396 564.988037 203.224396 402.9997 202.350494 548.116577 202.350494
+402.9997 193.224503 548.116577 193.224503]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212117-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000449920 00000 n
+26 1
+0000448606 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> ({◊9ìöPH IÊje°ŒÆ)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 448387
+/Size 297
+>>
+startxref
+451957
+%%EOF
+27 0 obj
+<<
+/CreationDate (D:20150405165025-03'00')
+/Rect [401.18869 83.224602 566.83197 132.350204]
+/C [1 0.678432 0.356863]
+/F 4
+/M (D:20150410212117-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 103 0 R
+>>
+/P 5 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">The oldest SEU problem can be tracked&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">to  certain  packaging  materials  used  in&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">integrated  circuits  \(ICs\).  These  materials&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">contain  traces  of  radioactive  atoms  that&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">emit  alpha  particles  \(helium-4  nuclei\).</span></p></body>)
+/Contents (The oldest SEU problem can be tracked to  certain  packaging  materials  used  in integrated  circuits  \(ICs\).  These  materials contain  traces  of  radioactive  atoms  that emit  alpha  particles  \(helium-4  nuclei\).)
+/T (thiago)
+/dcr_uid (629267453589249220)
+/Popup 31 0 R
+/Subtype /Highlight
+/NM (45fb9514-c9ad-41ed-9e92535c1b734155)
+/QuadPoints [429.043304 132.3502 565.011719 132.3502 429.043304 123.2242 565.011719 123.2242 403 122.3503
+565.007202 122.3503 403 113.2243 565.007202 113.2243 403 112.350403 565.02069 112.350403
+403 103.224403 565.02069 103.224403 403 102.350502 565.005371 102.350502 403 93.224503
+565.005371 93.224503 403 92.350601 554.856995 92.350601 403 83.224602 554.856995 83.224602]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212117-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000453989 00000 n
+27 1
+0000452175 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (’åË¢Nª&÷]˙ﬂˇí ⁄˝)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 451957
+/Size 297
+>>
+startxref
+456026
+%%EOF
+53 0 obj
+<<
+/CreationDate (D:20150405164755-03'00')
+/Rect [44.188389 578.224731 209.825394 627.350281]
+/C [0.196079 0.803922 0.196079]
+/F 4
+/M (D:20150410212117-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 107 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">When an alpha&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">particle  penetrates  the  materials  above&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">a device  and  hits  a  sensitive  volume,  it&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">can generate  an  electrical  pulse  that  can&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">lead to an SEU in the circuit.</span></p></body>)
+/Contents (When an alpha particle  penetrates  the  materials  above a device  and  hits  a  sensitive  volume,  it can generate  an  electrical  pulse  that  can lead to an SEU in the circuit.)
+/T (thiago)
+/dcr_uid (1029830508130072749)
+/Popup 75 0 R
+/Subtype /Highlight
+/NM (51fc9c3b-0006-442b-b3807922e3e9cf26)
+/QuadPoints [146.262421 627.3503 207.970032 627.3503 146.262421 618.2243 207.970032 618.2243 45.9997 617.350403
+208.005112 617.350403 45.9997 608.224426 208.005112 608.224426 45.9997 607.350525 208.008698 607.350525
+45.9997 598.224487 208.008698 598.224487 45.9997 597.350586 208.014099 597.350586 45.9997 588.224609
+208.014099 588.224609 45.9997 587.350708 160.162888 587.350708 45.9997 578.224731 160.162888 578.224731]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212117-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000458036 00000 n
+53 1
+0000456244 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (‚^œ∑õ.≤ÊráB∫∫kV)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 456026
+/Size 297
+>>
+startxref
+460073
+%%EOF
+54 0 obj
+<<
+/CreationDate (D:20150405164731-03'00')
+/Rect [44.189095 508.22461 209.835068 537.350403]
+/C [1 1 0]
+/F 4
+/M (D:20150410212117-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 108 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">The mitigation of this problem&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">relies on improvements in the packaging&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">processes and using alpha-free materials.</span></p></body>)
+/Contents (The mitigation of this problem relies on improvements in the packaging processes and using alpha-free materials.)
+/T (thiago)
+/dcr_uid (5444548600628506749)
+/Popup 74 0 R
+/Subtype /Highlight
+/NM (54bf791c-1e27-4d4f-b8b37465393f4cf4)
+/QuadPoints [92.651001 537.3504 208.009399 537.3504 92.651001 528.2244 208.009399 528.2244 46.0004 527.350525
+208.014786 527.350525 46.0004 518.224487 208.014786 518.224487 46.0004 517.350586 208.023758 517.350586
+46.0004 508.224609 208.023758 508.224609]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212117-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000461621 00000 n
+54 1
+0000460291 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (ëUªß¯ãtÈ|3xm3–´)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 460073
+/Size 297
+>>
+startxref
+463658
+%%EOF
+55 0 obj
+<<
+/CreationDate (D:20150405164712-03'00')
+/Rect [44.188694 333.224304 209.802338 352.35019]
+/C [1 0.678432 0.356863]
+/F 4
+/M (D:20150410212118-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 109 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">Of all the SEU sources discussed here,&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">cosmic rays are by far the most important.</span></p></body>)
+/Contents (Of all the SEU sources discussed here, cosmic rays are by far the most important.)
+/T (thiago)
+/dcr_uid (5239476364143547617)
+/Popup 73 0 R
+/Subtype /Highlight
+/NM (6b00b0d1-de94-4cd0-968d9211aa223793)
+/QuadPoints [55 352.3502 207.991028 352.3502 55 343.2242 207.991028 343.2242 46 342.3503
+207.969391 342.3503 46 333.2243 207.969391 333.2243]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212118-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000464977 00000 n
+55 1
+0000463876 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (*≈B}WJ<|£`èbñ6)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 463658
+/Size 297
+>>
+startxref
+467014
+%%EOF
+56 0 obj
+<<
+/CreationDate (D:20150405164652-03'00')
+/Rect [44.188694 263.225006 209.804123 302.350708]
+/C [0.196079 0.803922 0.196079]
+/F 4
+/M (D:20150410212118-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 110 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">The underlying reasons are&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">complex  and  subtle  and,  until  recently,&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">the situation  with  cosmic  rays  has  not&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">been fully appreciated.</span></p></body>)
+/Contents (The underlying reasons are complex  and  subtle  and,  until  recently, the situation  with  cosmic  rays  has  not been fully appreciated.)
+/T (thiago)
+/dcr_uid (2538033953669658788)
+/Popup 72 0 R
+/Subtype /Highlight
+/NM (00e70fef-6f2c-4072-a792aafbf4d8198a)
+/QuadPoints [99.524796 302.350708 207.992813 302.350708 99.524796 293.224701 207.992813 293.224701 46 292.3508
+207.981094 292.3508 46 283.224792 207.981094 283.224792 46 282.350891 207.975708 282.350891
+46 273.224915 207.975708 273.224915 46 272.351013 136.53821 272.351013 46 263.225006
+136.53821 263.225006]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212118-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000468759 00000 n
+56 1
+0000467232 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (._è\tÿŸY‘v£¢ı}Q•V)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 467014
+/Size 297
+>>
+startxref
+470796
+%%EOF
+57 0 obj
+<<
+/CreationDate (D:20150405164630-03'00')
+/Rect [44.188694 233.225311 209.829315 262.351105]
+/C [1 1 0]
+/F 4
+/M (D:20150410212118-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 111 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">cosmic-ray particles,&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">which carry kinetic energies spanning the&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">range from milli- to gigaelectronvolts.</span></p></body>)
+/Contents (cosmic-ray particles, which carry kinetic energies spanning the range from milli- to gigaelectronvolts.)
+/T (thiago)
+/dcr_uid (6031717402962428434)
+/Popup 71 0 R
+/Subtype /Highlight
+/NM (6de7701f-7a05-42e6-b2872b7fa9d11a47)
+/QuadPoints [128.408493 262.351105 208.018005 262.351105 128.408493 253.225098 208.018005 253.225098 46 252.351212
+207.985611 252.351212 46 243.225204 207.985611 243.225204 46 242.351303 196.577209 242.351303
+46 233.225311 196.577209 233.225311]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212118-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000472318 00000 n
+57 1
+0000471015 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (9maá∏õMı¥Tdhú‹)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 470796
+/Size 297
+>>
+startxref
+474355
+%%EOF
+58 0 obj
+<<
+/CreationDate (D:20150405164556-03'00')
+/Rect [44.188694 193.225708 209.797821 232.35141]
+/C [1 0.678432 0.356863]
+/F 4
+/M (D:20150410212118-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 112 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">designing&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">effective  radiation  shielding  valid  for  all&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">possible  applications  and  in  all  environ-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">ments is not a viable solution.</span></p></body>)
+/Contents (designing effective  radiation  shielding  valid  for  all possible  applications  and  in  all  environments is not a viable solution.)
+/T (thiago)
+/dcr_uid (1882054064195242336)
+/Popup 70 0 R
+/Subtype /Highlight
+/NM (b7e70cc5-192a-42ae-a015aed445f884a2)
+/QuadPoints [169.725723 232.35141 207.979324 232.35141 169.725723 223.225403 207.979324 223.225403 46 222.351501
+207.986526 222.351501 46 213.22551 207.986526 213.22551 46 212.351608 207.980225 212.351608
+46 203.225601 207.980225 203.225601 46 202.3517 160.718491 202.3517 46 193.225708
+160.718491 193.225708]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212118-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000476086 00000 n
+58 1
+0000474573 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (\)µYä√d÷ö-|∆É[é)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 474355
+/Size 297
+>>
+startxref
+478123
+%%EOF
+59 0 obj
+<<
+/CreationDate (D:20150405163621-03'00')
+/Rect [44.188694 123.22641 209.825699 192.351807]
+/C [0.196079 0.803922 0.196079]
+/F 4
+/M (D:20150410212118-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 113 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">cosmic-ray  fluxes  are  subject  to  large&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">changes  due  to  constant  fluctuations  of&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">atmospheric conditions, the earth&#8217;s mag-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">netic  field,  solar  winds,  solar  activities,&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">and  even  supernova  explosions.  All  of&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">these  factors  are  clearly  beyond  human&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">control.  </span></p></body>)
+/Contents (cosmic-ray  fluxes  are  subject  to  large changes  due  to  constant  fluctuations  of atmospheric conditions, the earthês magnetic  field,  solar  winds,  solar  activities, and  even  supernova  explosions.  All  of these  factors  are  clearly  beyond  human control.  )
+/T (thiago)
+/dcr_uid (6081004407278554683)
+/Popup 69 0 R
+/Subtype /Highlight
+/NM (06d4e255-7057-4c53-b51fe652b25b3b60)
+/QuadPoints [46 192.351807 207.997284 192.351807 46 183.2258 207.997284 183.2258 46 182.351913
+208.010773 182.351913 46 173.225906 208.010773 173.225906 46 172.352005 208.011688 172.352005
+46 163.226013 208.011688 163.226013 46 162.352112 208.011688 162.352112 46 153.226105
+208.011688 153.226105 46 152.352203 208.011703 152.352203 46 143.226212 208.011703 143.226212
+46 142.35231 208.014389 142.35231 46 133.226303 208.014389 133.226303 46 132.352402
+78.8635 132.352402 46 123.22641 78.8635 123.22641]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212118-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000480541 00000 n
+59 1
+0000478342 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (N»Ñ&∆ÔVk–2!…TÖ|–)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 478123
+/Size 297
+>>
+startxref
+482578
+%%EOF
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212118-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+60 0 obj
+<<
+/CreationDate (D:20150405164826-03'00')
+/Rect [221.188995 423.229706 386.827789 462.355408]
+/C [0.196079 0.803922 0.196079]
+/F 4
+/M (D:20150410212118-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 114 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">The  earth&#8217;s  magnetic  field  acts  as  an&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">effective  shield,  and  a  charged  primary&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">cosmic-ray particle is constantly deflected&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">from  its  path.</span></p></body>)
+/Contents (The  earthês  magnetic  field  acts  as  an effective  shield,  and  a  charged  primary cosmic-ray particle is constantly deflected from  its  path.)
+/T (thiago)
+/dcr_uid (2450204803167579819)
+/Popup 76 0 R
+/Subtype /Highlight
+/NM (7f18cb5f-3d5d-4f46-935632abb2ed97fb)
+/QuadPoints [232.0003 462.355408 385.009277 462.355408 232.0003 453.229431 385.009277 453.229431 223.0003 452.35553
+385.01648 452.35553 223.0003 443.229523 385.01648 443.229523 223.0003 442.355621 385.016479 442.355621
+223.0003 433.229614 385.016479 433.229614 223.0003 432.355713 279.561707 432.355713 223.0003 423.229706
+279.561707 423.229706]
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000482796 00000 n
+60 1
+0000484833 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (ı6ZÒ§3hFƒA^µÿ$)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 482578
+/Size 297
+>>
+startxref
+486423
+%%EOF
+63 0 obj
+<<
+/CreationDate (D:20150405164442-03'00')
+/Rect [398.18988 344.226898 563.835876 433.352112]
+/C [1 0.678432 0.356863]
+/F 4
+/M (D:20150410212118-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 117 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">When a neutron penetrates a chip, it oc-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">casionally collides with an elemental nu-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">cleus, for example, a silicon nucleus in a&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">device  region,  an  oxygen  nucleus  in  the&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">oxide  layer,  or  a  copper  nucleus  in  the&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">metal  layer.  This  neutron&#8211;nucleus  event&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">initiates a local spallation reaction. Some&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">of these fragments may hit a sensitive de-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">vice region and cause an SEU. </span></p></body>)
+/Contents (When a neutron penetrates a chip, it occasionally collides with an elemental nucleus, for example, a silicon nucleus in a device  region,  an  oxygen  nucleus  in  the oxide  layer,  or  a  copper  nucleus  in  the metal  layer.  This  neutronÖnucleus  event initiates a local spallation reaction. Some of these fragments may hit a sensitive device region and cause an SEU. )
+/T (thiago)
+/dcr_uid (3525030591074895516)
+/Popup 67 0 R
+/Subtype /Highlight
+/NM (0a4b1298-22c0-429f-aad9593802a698f3)
+/QuadPoints [400.0012 433.352112 562.008362 433.352112 400.0012 424.226105 562.008362 424.226105 400.0012 423.352203
+562.014709 423.352203 400.0012 414.226196 562.014709 414.226196 400.0012 413.352295 562.015625 413.352295
+400.0012 404.226318 562.015625 404.226318 400.0012 403.352417 562.014709 403.352417 400.0012 394.22641
+562.014709 394.22641 400.0012 393.352509 562.012878 393.352509 400.0012 384.226501 562.012878 384.226501
+400.0012 383.3526 562.024597 383.3526 400.0012 374.226593 562.024597 374.226593 400.0012 373.352722
+562.011108 373.352722 400.0012 364.226715 562.011108 364.226715 400.0012 363.352814 562.015564 363.352814
+400.0012 354.226807 562.015564 354.226807 400.0012 353.352905 521.477783 353.352905 400.0012 344.226898
+521.477783 344.226898]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212118-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000489432 00000 n
+63 1
+0000486641 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (qÑJcB∆Yb¿õ÷ı!€)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 486423
+/Size 297
+>>
+startxref
+491469
+%%EOF
+64 0 obj
+<<
+/CreationDate (D:20150405164514-03'00')
+/Rect [398.18869 123.224403 563.809509 172.350204]
+/C [0.196079 0.803922 0.196079]
+/F 4
+/M (D:20150410212118-03'00')
+/Subj (Marcador de texto)
+/AP <<
+/N 118 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">For several recent technologies, thermal&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">neutrons  were  discovered  to  be  a  major&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">SEU issue. Thermal neutrons \(n th \) are slow&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">neutrons with kinetic energies in the milli-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">electronvolt range. </span></p></body>)
+/Contents (For several recent technologies, thermal neutrons  were  discovered  to  be  a  major SEU issue. Thermal neutrons \(n th \) are slow neutrons with kinetic energies in the millielectronvolt range. )
+/T (thiago)
+/dcr_uid (1625506282994396401)
+/Popup 68 0 R
+/Subtype /Highlight
+/NM (9b1e6de9-6564-48f2-8d146abc2243cee0)
+/QuadPoints [409 172.3502 561.987427 172.3502 409 163.2242 561.987427 163.2242 400 162.3503
+561.985596 162.3503 400 153.2243 561.985596 153.2243 400 152.350403 520.567566 152.350403
+400 143.224396 520.567566 143.224396 520.4381 148.22334 525.36804 148.22334 520.4381 142.56522
+525.36804 142.56522 525.2332 152.3502 561.99823 152.3502 525.2332 143.2242 561.99823 143.2242
+400 142.3503 561.99646 142.3503 400 133.2243 561.99646 133.2243 400 132.350403
+470.395294 132.350403 400 123.224403 470.395294 123.224403]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212118-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000493597 00000 n
+64 1
+0000491687 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (;—°Êødö›A∑å•?\nÍÙ)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 491469
+/Size 297
+>>
+startxref
+495634
+%%EOF
+65 0 obj
+<<
+/CreationDate (D:20150405164323-03'00')
+/Rect [223.000305 674.023071 384.985931 705.022827]
+/C [1 0 0]
+/F 4
+/M (D:20150410212118-03'00')
+/Subj (Sublinhado)
+/AP <<
+/N 119 0 R
+>>
+/P 6 0 R
+/RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:7.0.8" xfa:spec="2.0.2" style="font-size:12.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Arial;font-stretch:normal"><p><span style="font-family:Arial;font-size:12.0pt">see, e.g., Reference 8 for fur-ther  details  and  Reference 9  for  a  lively&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">and up-to-date account of cosmic-ray re-&#13;</span></p><p><span style="font-family:Arial;font-size:12.0pt">search geared toward nonspecialists\)</span></p></body>)
+/Contents (see, e.g., Reference 8 for fur-ther  details  and  Reference 9  for  a  lively and up-to-date account of cosmic-ray research geared toward nonspecialists\))
+/T (thiago)
+/dcr_uid (3252298173923208588)
+/Popup 66 0 R
+/Subtype /Underline
+/NM (c335d4e9-1c71-4500-9f4f4cbb5ff97e9c)
+/QuadPoints [272.444519 712.352905 384.976929 712.352905 272.444519 703.226929 384.976929 703.226929 223.0003 702.353027
+384.985931 702.353027 223.0003 693.22699 384.985931 693.22699 223.0003 692.35309 384.976898 692.35309
+223.0003 683.22711 384.976898 683.22711 223.0003 682.35321 365.788879 682.35321 223.0003 673.22723
+365.788879 673.22723]
+>>
+endobj
+1 0 obj
+<<
+/bibtex#2Fissn (1938-1425)
+/CreationDate (D:20030210161838-05'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.309.0 [*PrivateBuild];Jul 28 2014;19:17:56;D:20150405170541-03'00')
+/bibtex#2Fjournal (MRS Bulletin)
+/bibtex#2Fmonth (2)
+/bibtex#2Fvolume (28)
+/Title (Single-Event Upsets in Microelectronics: Fundamental Physics and Issues)
+/bibtex#2Fnumpages (6)
+/Creator (QuarkXPress™ 4.11: LaserWriter 8 8.7.1)
+/bibtex#2Furl (http://journals.cambridge.org/article_S0883769400017504)
+/Subject ( ABSTRACT We review the current understanding of single-event upsets \(SEUs\) in microelectronic devices. In recent years, SEUs have been recognized as one of the key reliability concerns for both current and future technologies. We identify the major sources of SEUs that impact many commercial products: \(1\) alpha particles in packaging materials, \(2\) background radiation due to cosmic rays, and \(3\) thermal neutrons in certain device materials. The origins of SEUs are examined from the standpoint of the fundamental atomic and nuclear interactions between the intruding particles \(alpha particles, cosmic rays, and thermal neutrons\) and semiconductor materials. We analyze field funneling, which is a key mechanism of charge collection in a device struck by an ionizing particle. Next, we formulate how SEU cross sections and SEU rates are calculated and discuss how these basic quantities are related to experiments. Finally, we summarize the major SEU issues regarding modeling, bulk complementary metal oxide semiconductor technologies, and research on future, exploratory technologies. )
+/bibtex#2Fyear (2003)
+/Producer (Acrobat Distiller 5.0.5 for Macintosh)
+/bibtex#2Fissue (02)
+/bibtex#2Fentrytype (Article)
+/bibtex#2Ffile (:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/02_PDFs/Referencias4/S0883769400017504a.pdf:PDF)
+/Author (Tang,Henry H.K. and Rodbell,Kenneth P.)
+/ModDate (D:20150410212118-03'00')
+/bibtex#2Fdoi (10.1557/mrs2003.37)
+/bibtex#2Fbibtexkey (MRS:7964131)
+/bibtex#2Fpages (111--116)
+>>
+endobj
+xref
+0 2
+0000000000 65535 f
+0000497354 00000 n
+65 1
+0000495853 00000 n
+trailer
+<<
+/ID [<7B4F27B7CCCE6F40CECACFDE1369C80D> (éêM üÿQ‹K}ùv#⁄á)]
+/Root 2 0 R
+/Info 1 0 R
+/Prev 495634
+/Size 297
+>>
+startxref
+499391
+%%EOF

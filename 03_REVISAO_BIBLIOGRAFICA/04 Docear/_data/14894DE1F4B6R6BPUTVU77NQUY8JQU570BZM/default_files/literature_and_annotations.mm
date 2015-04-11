@@ -1,7 +1,7 @@
 <map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1428262156679" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1428711666843" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75,7 +75,7 @@
 <attribute NAME="mon_flatten_dirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_add_extra_incoming_node" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1428262156682" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1428711666847" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#007c7c"/>
 <node TEXT="Verification Methodology Manual for SystemVerilog" ID="ID_1296405716" CREATED="1411539431435" MODIFIED="1413321727263" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-25556-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
@@ -5355,7 +5355,7 @@
 <attribute NAME="year" VALUE="2001"/>
 </node>
 </node>
-<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1428262156993" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1428711667181" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c7c00"/>
 <node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1413321727169" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5FF56780A5BCACE023A24384365ADABF1FDF4C93E721EC53591F1571F2BE5A">
@@ -6574,7 +6574,7 @@
 <attribute NAME="year" VALUE="1993"/>
 </node>
 </node>
-<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1428262157094" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1428711667241" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c0000"/>
 <node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1413321727133" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf" MOVED="1411878920151">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D4D852F99AB0D925364677F4A756C5A8FAB3037A8D28642BF5470F141F1E13E">
@@ -7248,7 +7248,7 @@
 <attribute NAME="title" VALUE="Ultra-Wideband, Short Pulse Electromagnetics 9"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1428182312665" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" FOLDED="true" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1428182312665" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
 <icon BUILTIN="button_ok"/>
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
     <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
@@ -7258,6 +7258,146 @@
 <attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
 <attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
 <attribute NAME="year" VALUE="2005"/>
+<node TEXT=" that the effect could be explained by the in&#xfb02;uence  of  separate  heavy  charged  particles  (HCP)  of galactic  cosmic  rays  (GCR)  which  penetrated  into memory cells of the RAM." ID="ID_504991902" CREATED="1428261741147" MODIFIED="1428261741147" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="9024027544064103483" object_number="21" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="It was referred to as soft errors and later as single event upsets (SEU) of the logical state of memory cells or single failures " ID="ID_1246809354" CREATED="1428261741102" MODIFIED="1428261741102" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="5908044548804724567" object_number="22" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT=" best known such experiments [2&#x2013;17] " ID="ID_689044452" CREATED="1428261741058" MODIFIED="1428261741058" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="4161637815253415706" object_number="25" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="It was found that in this case SEU were induced by alphaparticles of radioactive isotopes contained in the substance of microchip packages." ID="ID_566368248" CREATED="1428261741015" MODIFIED="1428261741015" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="39137271546415842" object_number="27" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="SEU effect began to be extensively studied at accelerators of heavy ions and protons [19] and also with the use of radio isotopic and laser sources [20]." ID="ID_1401183558" CREATED="1428261740973" MODIFIED="1428261740973" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="516710487591168546" object_number="29" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="under  investigation  [21] " ID="ID_529400789" CREATED="1428261740932" MODIFIED="1428261740932" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="6970875868586302432" object_number="31" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="&#x2014;Pulses of photocurrent in a semiconductor structure lead to inversion of the logical state of memory cells or to a functional interruption of VLSIC operation." ID="ID_488631535" CREATED="1428261740890" MODIFIED="1428261740890" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="6322024270129895637" object_number="33" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="&#x2014;Breakdowns of p-n junctions result in latching up (thyristor effect) of CMOS structures or in burning out of power MOS transistors." ID="ID_1834886050" CREATED="1428261740862" MODIFIED="1428261740862" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="1149011190368205621" object_number="34" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="&#x2014;Breakdowns of the gate dielectric or variations of built-in charge in MOS transistors cause sticking (parametric failure) of separate elements of VLSIC." ID="ID_550539821" CREATED="1428261740819" MODIFIED="1428711938095" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="4216505755657164990" object_number="35" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="Trata dos calculos para estimar a taxa de SEEs em um veiculo espacial, levando em considera&#xe7;ao o tempo de voo, taxa de incidencia de particulas, sensibilidade do circuito VLSI aos SEEs(usando a abordagem cross-section), etc..." ID="ID_1083292916" CREATED="1428261740790" MODIFIED="1428261740790" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="COMMENT" page="1" object_id="3023865060852641015" object_number="37" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="above effects become a cause of appearance of both  intermittent  failures  (malfunctions)  and  permanent failures of VLSIC in electronic systems of control, and  systems  of  data  acquisition  and  storage  onboard spacecraft." ID="ID_803487700" CREATED="1428261740757" MODIFIED="1428261740757" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="4629645287119625816" object_number="47" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="optimal choice of these methods is based not only on knowing the nature of SEE  and  the  causes  of  their  occurrence,  but  also  on quantitative estimates of their rate in VLSIC due to irradiation by the &#xfb02;uxes of space radiation particles." ID="ID_461877641" CREATED="1428261740735" MODIFIED="1428261740736" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="7690362384961970214" object_number="48" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="calculations of the rate of SEE of any type is a sum of two components " ID="ID_691501981" CREATED="1428261740682" MODIFIED="1428261740683" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="4986607128345650579" object_number="49" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
+<node TEXT="&#x3bd; ion is the rate of SEE appearing as a result of direct penetration of HCP of the space radiation into VLSIC (direct mechanism of SEE origination); and  &#x3bd; p is the rate of SEE appearing as a result of production of residual  nuclei  and  recoil  nuclei  in  VLSIC  through nuclear interactions of cosmic ray protons with the matter of VLSIC chips (nuclear mechanism of SEE origination)." ID="ID_427122307" CREATED="1428261740647" MODIFIED="1428261740647" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="9213494415345921648" object_number="50" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
+    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="journal" VALUE="Cosmic Research"/>
+<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
+<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
+<attribute NAME="year" VALUE="2005"/>
+</node>
 </node>
 <node TEXT="Soft Errors in Modern Electronic Systems" FOLDED="true" ID="ID_930099762" CREATED="1411611275312" MODIFIED="1413321727007" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-1-4419-6993-4.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
@@ -7524,7 +7664,7 @@
 </node>
 </node>
 </node>
-<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1428262157150" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1428711667281" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8679,39 +8819,39 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1428262157239" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1428262157239" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1428711667380" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="medida do tempo de funcionamento de um sistema at&#xe9; falhar, ou da probabilidade de n&#xe3;o falhar durante o tempo de miss&#xe3;o (ex.:MTTF, MTBF, 10-5 falhas/hora, 99.9%)" ID="ID_1611290074" CREATED="1411860915945" MODIFIED="1411860919478" MOVED="1411860922539"/>
 </node>
-<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1428262157239" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 <node TEXT="medida do tempo (ou %) em que o sistema est&#xe1; operacional (ex.: MTBF/(MTBF+MTTR), 5000h/ano)" ID="ID_1771869519" CREATED="1411860934455" MODIFIED="1411860936807" MOVED="1411860939275"/>
 </node>
-<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1428262157239" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1428262157239" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="medida da fiabilidade do sistema relativa a faltas que ocasionem efeitos catastr&#xf3;ficos" ID="ID_938916906" CREATED="1411860999742" MODIFIED="1411861002690" MOVED="1411861005203"/>
 </node>
 <node TEXT="seguran&#xe7;a contra acesso n&#xe3;o autorizado (security)" FOLDED="true" ID="ID_1077168734" CREATED="1411860750229" MODIFIED="1411860764146">
 <node TEXT="idem, relativo a faltas contra integridade, confidencialidade e autenticidade" ID="ID_1580126393" CREATED="1411861015289" MODIFIED="1411861017812" MOVED="1411861019923"/>
 </node>
 </node>
-<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="define-se como a causa f&#xed;sica ou algor&#xed;tmica do erro" ID="ID_1619338102" CREATED="1411863391820" MODIFIED="1411863408032" MOVED="1411863413368"/>
 </node>
-<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1428711667381" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT=" Define-se que um sistema est&#xe1; em estado err&#xf4;neo, ou em erro, se o processamento posterior a partir desse estado pode levar a um defeito" ID="ID_575761268" CREATED="1411863458582" MODIFIED="1411863484409" MOVED="1411863489937"/>
 </node>
-<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1428262157240" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1428711667381" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="&#xe9; definido como um desvio da especifica&#xe7;&#xe3;o" ID="ID_618166955" CREATED="1411863351666" MODIFIED="1411863425108" MOVED="1411863358800"/>
 </node>
 </node>
-<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1428262157240" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1428711667381" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1428711667381" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1413321726964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
     <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
@@ -10096,7 +10236,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1428262157312" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
+<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1428711667436" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
 <font NAME="Courier New" BOLD="true"/>
 <edge COLOR="#006699"/>
 <node TEXT="SOC DESIGN METHODOLOGIES" ID="ID_732369618" CREATED="1411611275180" MODIFIED="1413321725986" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-35597-9.pdf">
@@ -10445,154 +10585,314 @@
 <attribute NAME="year" VALUE="2012"/>
 </node>
 </node>
-<node TEXT="art%3A10.1007%2Fs10604-005-0066-9.pdf" ID="ID_373257430" CREATED="1428261740653" MODIFIED="1428261740653" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="S0883769400017504a.pdf" ID="ID_1929891272" CREATED="1428711682114" MODIFIED="1428711682114" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
-<node TEXT=" that the effect could be explained by the in&#xfb02;uence  of  separate  heavy  charged  particles  (HCP)  of galactic  cosmic  rays  (GCR)  which  penetrated  into memory cells of the RAM." ID="ID_504991902" CREATED="1428261741147" MODIFIED="1428261741147" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="9024027544064103483" object_number="21" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+<node TEXT="SEUs have been recognized as one of the key reliability concerns for both current and future technologies." ID="ID_781542569" CREATED="1428711682221" MODIFIED="1428711682221" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="5884954814798817438" object_number="11" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="It was referred to as soft errors and later as single event upsets (SEU) of the logical state of memory cells or single failures " ID="ID_1246809354" CREATED="1428261741102" MODIFIED="1428261741102" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="5908044548804724567" object_number="22" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="We identify the major sources of SEUs that impact many commercial products: (1) alpha particles in packaging materials" ID="ID_1876451086" CREATED="1428711682138" MODIFIED="1428711682138" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="3512024815691162802" object_number="12" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT=" best known such experiments [2&#x2013;17] " ID="ID_689044452" CREATED="1428261741058" MODIFIED="1428261741058" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="4161637815253415706" object_number="25" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="(2) background radiation due to cosmic rays" ID="ID_1801743420" CREATED="1428711682257" MODIFIED="1428711682257" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="96139008970753501" object_number="13" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="It was found that in this case SEU were induced by alphaparticles of radioactive isotopes contained in the substance of microchip packages." ID="ID_566368248" CREATED="1428261741015" MODIFIED="1428261741015" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="39137271546415842" object_number="27" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="(3) thermal neutrons in certain device materials." ID="ID_1041544673" CREATED="1428711682281" MODIFIED="1428711682281" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="1974661847848188603" object_number="14" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="SEU effect began to be extensively studied at accelerators of heavy ions and protons [19] and also with the use of radio isotopic and laser sources [20]." ID="ID_1401183558" CREATED="1428261740973" MODIFIED="1428261740973" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="516710487591168546" object_number="29" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="Any charged particle passing through a microelectronic  device  ionizes  the  material(s) along its path." ID="ID_1199944558" CREATED="1428711682318" MODIFIED="1428711682318" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="115374676697973106" object_number="15" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="under  investigation  [21] " ID="ID_529400789" CREATED="1428261740932" MODIFIED="1428261740932" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="6970875868586302432" object_number="31" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="A column of transient electron&#x2013;hole pairs is created around the particle track. These induced free carriers, if  left  alone  in  a  field-free  host  medium, will eventually recombine." ID="ID_1418986648" CREATED="1428711682384" MODIFIED="1428711682384" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="2005329402181759201" object_number="16" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="&#x2014;Pulses of photocurrent in a semiconductor structure lead to inversion of the logical state of memory cells or to a functional interruption of VLSIC operation." ID="ID_488631535" CREATED="1428261740890" MODIFIED="1428261740890" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="6322024270129895637" object_number="33" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="This can generate  an  electrical  pulse  large  enough  to disrupt normal device operation. This disruption caused by one random intruding particle is not associated with any permanent damage to the device. " ID="ID_133648612" CREATED="1428711682518" MODIFIED="1428711682518" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="5582062904717651628" object_number="17" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="&#x2014;Breakdowns of p-n junctions result in latching up (thyristor effect) of CMOS structures or in burning out of power MOS transistors." ID="ID_1834886050" CREATED="1428261740862" MODIFIED="1428261740862" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="1149011190368205621" object_number="34" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="result is an error in one bit" ID="ID_642103010" CREATED="1428711682024" MODIFIED="1428711682029" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="7785545414356009501" object_number="18" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="&#x2014;Breakdowns of the gate dielectric or variations of built-in charge in MOS transistors cause sticking (parametric failure) of separate elements of VLSIC." ID="ID_550539821" CREATED="1428261740819" MODIFIED="1428261740819" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="4216505755657164990" object_number="35" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="Marcador de texto" ID="ID_600702987" CREATED="1428711682341" MODIFIED="1428711682341" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="2784499240742224926" object_number="19" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="Trata dos calculos para estimar a taxa de SEEs em um veiculo espacial, levando em considera&#xe7;ao o tempo de voo, taxa de incidencia de particulas, sensibilidade do circuito VLSI aos SEEs(usando a abordagem cross-section), etc..." ID="ID_1083292916" CREATED="1428261740790" MODIFIED="1428261740790" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="COMMENT" page="1" object_id="3023865060852641015" object_number="37" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="electrically  neutral  subatomic  particles such as neutrons are known to cause soft failures in circuits." ID="ID_1916239405" CREATED="1428711682636" MODIFIED="1428711682636" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="8752527288560388507" object_number="20" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="above effects become a cause of appearance of both  intermittent  failures  (malfunctions)  and  permanent failures of VLSIC in electronic systems of control, and  systems  of  data  acquisition  and  storage  onboard spacecraft." ID="ID_803487700" CREATED="1428261740757" MODIFIED="1428261740757" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="4629645287119625816" object_number="47" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="SEUs have been recognized as  a  key  area  limiting  the  reliability  of many mainstream technologies." ID="ID_278538668" CREATED="1428711682170" MODIFIED="1428711682170" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="2323758211993409472" object_number="21" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="optimal choice of these methods is based not only on knowing the nature of SEE  and  the  causes  of  their  occurrence,  but  also  on quantitative estimates of their rate in VLSIC due to irradiation by the &#xfb02;uxes of space radiation particles." ID="ID_461877641" CREATED="1428261740735" MODIFIED="1428261740736" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="7690362384961970214" object_number="48" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="SEUs and radiation hardening  (i.e.,  intentional  improvement in  a  device&#x2019;s  ability  to  withstand  highradiation  environments)  are  of  growing concern to both the commercial and spacebased  semiconductor  industries." ID="ID_1556190236" CREATED="1428711682187" MODIFIED="1428711682187" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="86882898782503081" object_number="22" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="calculations of the rate of SEE of any type is a sum of two components " ID="ID_691501981" CREATED="1428261740682" MODIFIED="1428261740683" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="4986607128345650579" object_number="49" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="Alpha  particles  emitted  from  packaging materials " ID="ID_1049119954" CREATED="1428711682363" MODIFIED="1428711682363" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="3427534961175231283" object_number="23" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="&#x3bd; ion is the rate of SEE appearing as a result of direct penetration of HCP of the space radiation into VLSIC (direct mechanism of SEE origination); and  &#x3bd; p is the rate of SEE appearing as a result of production of residual  nuclei  and  recoil  nuclei  in  VLSIC  through nuclear interactions of cosmic ray protons with the matter of VLSIC chips (nuclear mechanism of SEE origination)." ID="ID_427122307" CREATED="1428261740647" MODIFIED="1428261740647" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
-<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="9213494415345921648" object_number="50" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
-    <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
+<node TEXT="terrestrial cosmic rays" ID="ID_1209958954" CREATED="1428711682154" MODIFIED="1428711682154" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="583056810560547275" object_number="24" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
-<attribute NAME="journal" VALUE="Cosmic Research"/>
-<attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
-<attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
-<attribute NAME="year" VALUE="2005"/>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="thermal neutrons" ID="ID_1051650735" CREATED="1428711682669" MODIFIED="1428711682669" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="4310045794422020642" object_number="25" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="caused  by  radiation generated  by  high  energy  beams  interacting  with  surrounding  materials." ID="ID_300222960" CREATED="1428711682455" MODIFIED="1428711682455" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="1450012430246271723" object_number="26" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="The oldest SEU problem can be tracked to  certain  packaging  materials  used  in integrated  circuits  (ICs).  These  materials contain  traces  of  radioactive  atoms  that emit  alpha  particles  (helium-4  nuclei)." ID="ID_734979770" CREATED="1428711682202" MODIFIED="1428711682203" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="629267453589249220" object_number="27" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="When an alpha particle  penetrates  the  materials  above a device  and  hits  a  sensitive  volume,  it can generate  an  electrical  pulse  that  can lead to an SEU in the circuit." ID="ID_1953844775" CREATED="1428711682598" MODIFIED="1428711682598" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="1029830508130072749" object_number="53" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="The mitigation of this problem relies on improvements in the packaging processes and using alpha-free materials." ID="ID_1481517593" CREATED="1428711682494" MODIFIED="1428711682494" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="5444548600628506749" object_number="54" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="Of all the SEU sources discussed here, cosmic rays are by far the most important." ID="ID_1551034065" CREATED="1428711682550" MODIFIED="1428711682550" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="5239476364143547617" object_number="55" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="The underlying reasons are complex  and  subtle  and,  until  recently, the situation  with  cosmic  rays  has  not been fully appreciated." ID="ID_1153254171" CREATED="1428711682303" MODIFIED="1428711682303" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="2538033953669658788" object_number="56" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="cosmic-ray particles, which carry kinetic energies spanning the range from milli- to gigaelectronvolts." ID="ID_1376622002" CREATED="1428711682701" MODIFIED="1428711682701" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="6031717402962428434" object_number="57" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="designing effective  radiation  shielding  valid  for  all possible  applications  and  in  all  environments is not a viable solution." ID="ID_1864079411" CREATED="1428711682579" MODIFIED="1428711682579" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="1882054064195242336" object_number="58" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="cosmic-ray  fluxes  are  subject  to  large changes  due  to  constant  fluctuations  of atmospheric conditions, the earth&#x2019;s magnetic  field,  solar  winds,  solar  activities, and  even  supernova  explosions.  All  of these  factors  are  clearly  beyond  human control.  " ID="ID_1236587323" CREATED="1428711682741" MODIFIED="1428711682741" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="6081004407278554683" object_number="59" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="The  earth&#x2019;s  magnetic  field  acts  as  an effective  shield,  and  a  charged  primary cosmic-ray particle is constantly deflected from  its  path." ID="ID_1489867759" CREATED="1428711682476" MODIFIED="1428711682476" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="2450204803167579819" object_number="60" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_543621223" CREATED="1428711682410" MODIFIED="1428711682410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="724960451200562841" object_number="61" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="Marcador de texto" ID="ID_1073059145" CREATED="1428711682724" MODIFIED="1428711682724" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="7225307673881076089" object_number="62" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="When a neutron penetrates a chip, it occasionally collides with an elemental nucleus, for example, a silicon nucleus in a device  region,  an  oxygen  nucleus  in  the oxide  layer,  or  a  copper  nucleus  in  the metal  layer.  This  neutron&#x2013;nucleus  event initiates a local spallation reaction. Some of these fragments may hit a sensitive device region and cause an SEU. " ID="ID_409148648" CREATED="1428711682438" MODIFIED="1428711682438" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="3525030591074895516" object_number="63" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="For several recent technologies, thermal neutrons  were  discovered  to  be  a  major SEU issue. Thermal neutrons (n th ) are slow neutrons with kinetic energies in the millielectronvolt range. " ID="ID_1513449587" CREATED="1428711682621" MODIFIED="1428711682622" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="1625506282994396401" object_number="64" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
+</node>
+<node TEXT="see, e.g., Reference 8 for fur-ther  details  and  Reference 9  for  a  lively and up-to-date account of cosmic-ray research geared toward nonspecialists)" ID="ID_1746133410" CREATED="1428711682426" MODIFIED="1428711682426" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="3252298173923208588" object_number="65" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
+    <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="journal" VALUE="MRS Bulletin"/>
+<attribute NAME="year" VALUE="2003"/>
+<attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
+<attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
 </node>
 </node>
