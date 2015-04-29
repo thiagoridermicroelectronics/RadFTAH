@@ -3048,17 +3048,17 @@
   url = {http://link.springer.com/978-1-4419-6993-4}
 }
 
-@comment{jabref-meta: selector_publisher:}
-
-@comment{jabref-meta: selector_author:Toomey, Corey Thomas;}
-
-@comment{jabref-meta: selector_journal:}
-
 @comment{jabref-meta: selector_keywords:Architectural Vulnerability Fa
 ctor;Fault injection;Microeletronica;Microprocessors;Register Transfer
  Level;Single Event;Soft Errors;Software-based fault tolerant techniqu
 es;Statistical Fault Injection;Tolerancia : Falhas;Verilog Procedural 
 Interface;}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:Toomey, Corey Thomas;}
 
 @comment{jabref-meta: groupsversion:3;}
 

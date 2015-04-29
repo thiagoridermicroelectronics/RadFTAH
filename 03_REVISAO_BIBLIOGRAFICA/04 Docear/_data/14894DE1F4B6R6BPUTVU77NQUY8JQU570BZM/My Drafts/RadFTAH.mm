@@ -1,7 +1,7 @@
-<map version="docear 1.1" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/" dcr_id="1415571930717_6sfhsq4l8y1w4i8o59njrkpae">
+<map version="docear 1.1" dcr_id="1415571930717_6sfhsq4l8y1w4i8o59njrkpae" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/Projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected"/>
-<node TEXT="RadFTAH" FOLDED="false" ID="4e761ek5784lh44uptn1l38h0b" CREATED="1415571623955" MODIFIED="1415673454809" STYLE="bubble"><hook NAME="MapStyle" zoom="0.909">
+<node TEXT="RadFTAH" FOLDED="false" ID="4e761ek5784lh44uptn1l38h0b" CREATED="1415571623955" MODIFIED="1415673454809" STYLE="bubble"><hook NAME="MapStyle" zoom="0.754">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -114,18 +114,6 @@
 <node TEXT="Fragilidades das prote&#xe7;&#xf5;es em hardware e software" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="0aga4r4mena1vdb46l1ie725sm" CREATED="1415571623956" MODIFIED="1415674216347">
 <font BOLD="true"/>
 </node>
-<node TEXT="Arquitetura proposta" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="7pc659g2topp9hlc7q4jq8lpsh" CREATED="1415571623956" MODIFIED="1415674216350">
-<font BOLD="true"/>
-</node>
-<node TEXT="Metodologia de verifica&#xe7;&#xe3;o" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="0m5dlgmtf5h83opekhlr0m8mh2" CREATED="1415571623956" MODIFIED="1415674216353">
-<font BOLD="true"/>
-<node TEXT="M&#xe1;quina de estados para a t&#xe9;cnica EDDI" ID="3kqn40bi34ss92d0db1jb3vg5r" CREATED="1415571623956" MODIFIED="1415674293376"/>
-<node TEXT="M&#xe1;quina de estados para a t&#xe9;cnica 2" ID="2h6v8ii9mdr9d6uk28fndb55f8" CREATED="1415571623956" MODIFIED="1415571623956"/>
-<node TEXT="M&#xe1;quina de estados para a t&#xe9;cnica 3" ID="5s6sbsdjbq09epaf7s14le6uea" CREATED="1415571623956" MODIFIED="1415571623956"/>
-</node>
-<node TEXT="Experimentos de inje&#xe7;&#xe3;o de falhas em simula&#xe7;&#xe3;o" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="3easmq46b7hggkndbp7mnpvpkc" CREATED="1415571623956" MODIFIED="1415674216356">
-<font BOLD="true"/>
-</node>
 </node>
 <node TEXT="Hardware Adaptativo para Toler&#xe2;ncia a Falhas" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="0kl1rnal1074arrhj6nq40mum6" CREATED="1415571623957" MODIFIED="1415674144258" HGAP="70" VSHIFT="70" BACKGROUND_COLOR="#c5c5c5"><richcontent TYPE="DETAILS">
 
@@ -142,6 +130,18 @@
 </richcontent>
 <hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#f35e28" WIDTH="4"/>
+<node TEXT="Arquitetura proposta" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="7pc659g2topp9hlc7q4jq8lpsh" CREATED="1415571623956" MODIFIED="1430280620210" HGAP="51" VSHIFT="-36" MOVED="1430280622865">
+<font BOLD="true"/>
+<node TEXT="M&#xe1;quina de estados para a t&#xe9;cnica EDDI" ID="3kqn40bi34ss92d0db1jb3vg5r" CREATED="1415571623956" MODIFIED="1415674293376" MOVED="1430280929318"/>
+<node TEXT="M&#xe1;quina de estados para a t&#xe9;cnica 2" ID="2h6v8ii9mdr9d6uk28fndb55f8" CREATED="1415571623956" MODIFIED="1415571623956" MOVED="1430280936929"/>
+<node TEXT="M&#xe1;quina de estados para a t&#xe9;cnica 3" ID="5s6sbsdjbq09epaf7s14le6uea" CREATED="1415571623956" MODIFIED="1415571623956" MOVED="1430280940417"/>
+</node>
+<node TEXT="Metodologia de verifica&#xe7;&#xe3;o" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="0m5dlgmtf5h83opekhlr0m8mh2" CREATED="1415571623956" MODIFIED="1415674216353" MOVED="1430280637162">
+<font BOLD="true"/>
+</node>
+<node TEXT="Experimentos de inje&#xe7;&#xe3;o de falhas em simula&#xe7;&#xe3;o" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="3easmq46b7hggkndbp7mnpvpkc" CREATED="1415571623956" MODIFIED="1415674216356" MOVED="1430280654292">
+<font BOLD="true"/>
+</node>
 <node TEXT="Integrando as m&#xe1;quinas de estados" LOCALIZED_STYLE_REF="AutomaticLayout.level,2" ID="5cakub43na2og82hosutih9f58" CREATED="1415571623957" MODIFIED="1415674216358">
 <font BOLD="true"/>
 </node>

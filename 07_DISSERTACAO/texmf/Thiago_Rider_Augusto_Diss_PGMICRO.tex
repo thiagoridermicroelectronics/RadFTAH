@@ -1,0 +1,203 @@
+\documentclass[pgmicro,diss,openright,oneside]{iiufrgs}
+% Para usar o modelo, deve-se informar o programa e o tipo de documento.
+% Programas :
+%   * cic       -- Graduação em Ciência da Computação
+%   * ecp       -- Graduação em Ciência da Computação
+%   * ppgc      -- Programa de Pós Graduação em Computação
+%   * pgmigro   -- Programa de Pós Graduação em Microeletrônica
+%   
+% Tipos de Documento:
+%   * tc                -- Trabalhos de Conclusão (apenas cic e ecp)
+%   * diss ou mestrado  -- Dissertações de Mestrado (ppgc e pgmicro)
+%   * tese ou doutorado -- Teses de Doutorado (ppgc e pgmicro)
+%   * ti                -- Trabalho Individual (ppgc e pgmicro)
+% 
+% Outras Opções:
+%   * english    -- para textos em inglês
+%   * openright  -- Força início de capítulos em páginas ímpares (padrão da
+%                   biblioteca)
+%   * oneside    -- Desliga frente-e-verso
+%   * nominatalocal -- Lê os dados da nominata do arquivo nominatalocal.def
+
+
+% Use unicode
+\usepackage[utf8]{inputenc}   % pacote para acentuação
+
+% Necessário para incluir figuras
+\usepackage{graphicx}           % pacote para importar figuras
+
+
+\usepackage{times}              % pacote para usar fonte Adobe Times
+% \usepackage{palatino}
+% \usepackage{mathptmx}          % p/ usar fonte Adobe Times nas fórmulas
+
+\usepackage[alf,abnt-emphasize=bf]{abntex2cite}	% pacote para usar citações abnt
+
+%
+% Informações gerais
+%
+\title{Hardware dinâmico para tolerância a falhas em microprocessadores}
+
+\author{Augusto}{Thiago Rider}
+
+\advisor[Prof.~Dr.]{Beck Filho}{Antônio Carlos Schneider}
+%\coadvisor[Prof.~Dr.]{Silva}{Fulano da}
+
+% a data deve ser a da defesa; se nao especificada, são gerados
+% mes e ano correntes
+\date{dezembro}{2015}
+
+% o local de realização do trabalho pode ser especificado (ex. para TCs)
+% com o comando \location:
+\location{Porto Alegre}{RS}
+
+% itens individuais da nominata podem ser redefinidos com os comandos
+% abaixo:
+% \renewcommand{\nominataReit}{Prof\textsuperscript{a}.~Wrana Maria Panizzi}
+% \renewcommand{\nominataReitname}{Reitora}
+% \renewcommand{\nominataPRE}{Prof.~Jos{\'e} Carlos Ferraz Hennemann}
+% \renewcommand{\nominataPREname}{Pr{\'o}-Reitor de Ensino}
+% \renewcommand{\nominataPRAPG}{Prof\textsuperscript{a}.~Joc{\'e}lia Grazia}
+% \renewcommand{\nominataPRAPGname}{Pr{\'o}-Reitora Adjunta de P{\'o}s-Gradua{\c{c}}{\~a}o}
+% \renewcommand{\nominataDir}{Prof.~Philippe Olivier Alexandre Navaux}
+% \renewcommand{\nominataDirname}{Diretor do Instituto de Inform{\'a}tica}
+% \renewcommand{\nominataCoord}{Prof.~Carlos Alberto Heuser}
+% \renewcommand{\nominataCoordname}{Coordenador do PPGC}
+% \renewcommand{\nominataBibchefe}{Beatriz Regina Bastos Haro}
+% \renewcommand{\nominataBibchefename}{Bibliotec{\'a}ria-chefe do Instituto de Inform{\'a}tica}
+% \renewcommand{\nominataChefeINA}{Prof.~Jos{\'e} Valdeni de Lima}
+% \renewcommand{\nominataChefeINAname}{Chefe do \deptINA}
+% \renewcommand{\nominataChefeINT}{Prof.~Leila Ribeiro}
+% \renewcommand{\nominataChefeINTname}{Chefe do \deptINT}
+
+% A seguir são apresentados comandos específicos para alguns
+% tipos de documentos.
+
+% Relatório de Pesquisa [rp]:
+% \rp{123}             % numero do rp
+% \financ{CNPq, CAPES} % orgaos financiadores
+
+% Trabalho Individual [ti]:
+% \ti{123}     % numero do TI
+% \ti[II]{456} % no caso de ser o segundo TI
+
+% Monografias de Especialização [espec]:
+% \espec{Redes e Sistemas Distribuídos}      % nome do curso
+% \coord[Profa.~Dra.]{Weber}{Taisy da Silva} % coordenador do curso
+% \dept{INA}                                 % departamento relacionado
+
+%
+% palavras-chave
+% iniciar todas com letras minúsculas, exceto no caso de abreviaturas
+%
+\keyword{Tolerância à Falhas}
+\keyword{Detecção de Erros}
+\keyword{Hardware Adaptativo}
+\keyword{Microprocessadores}
+
+%
+% inicio do documento
+%
+\begin{document}
+
+% folha de rosto
+% às vezes é necessário redefinir algum comando logo antes de produzir
+% a folha de rosto:
+% \renewcommand{\coordname}{Coordenadora do Curso}
+\maketitle
+
+% dedicatoria
+\clearpage
+\begin{flushright}
+\mbox{}\vfill
+{\sffamily\itshape
+``Logic will get you from A to B. \\
+Imagination will take you everywhere.''\\}
+--- \textsc{Albert Einstein}
+\end{flushright}
+
+% agradecimentos
+\chapter*{Agradecimentos}
+Agradeço ao \LaTeX\ por não ter vírus de macro\ldots
+
+
+
+% resumo na língua do documento
+\begin{abstract}
+Com a evolução dos processos de fabricação de dispositivos eletrônicos, um fenômeno já conhecido passa a afetar ainda mais os circuitos: trata-se do fenômeno da radiação cósmica. Logo, ao tentar se utilizar circuitos no meio espacial, é necessária a devida adaptação com técnicas especializadas para mitigar falhas que podem levar a efeitos catastróficos e arruinar missões espaciais. Ao passar dos anos, muitas técnicas foram desenvolvidas em diferentes níveis: hardware, software ou híbridas.
+
+A suscetibilidade dos circuitos a radiação está ligada a maior integração, que faz com que os transistores sejam cada vez mais diminutos. Com as chaves menores, a chance de uma partícula afetar um ou mais dispositivos é muito maior. O aumento da frequência de operação também ocupa lugar nessa problemática, haja visto que com um intervalo mais curto entre as bordas de relógio, aumenta-se a probabilidade de um pulso espúrio ser capturado pela lógica. A complexidade e tamanho dos circuitos também ficaram maiores e grande parte dos sistemas é microprocessado, levando a um interesse ainda maior de proteger essa classe de sistemas.
+
+Este trabalho visa implementar em hardware diversas técnicas de detecção de erros, com o objetivo de proteger processadores contra falhas transientes, propondo um  módulo especializado, capaz de atuar dinamicamente selecionando uma técnica, levando em consideração a melhor relação entre o custo do tempo de execução e a taxa de detecção de erros. Tem relevância no contexto de uso de sistemas micro processados em ambientes hostis cuja exposição à radiação ou ainda, influência eletromagnética podem causar efeitos inesperados no comportamento do circuito.
+\end{abstract}
+
+% resumo na outra língua
+% como parametros devem ser passados o titulo e as palavras-chave
+% na outra língua, separadas por vírgulas
+\begin{englishabstract}{Dynamic hardware for fault tolerance in microprocessors}{Fault Tolerance,Error Detection,Adaptative Hardware,Microprocessors}
+With the development of electronic devices manufacturing processes, an already known phenomenon becomes even more affect the circuits: it is the phenomenon of cosmic radiation. Then when you try to use circuits in the space environment, appropriate adjustment is required with specialized techniques to mitigate failures that can lead to catastrophic effects and ruin space missions. Over the years, many techniques have been developed at different levels: hardware, software or hybrid.
+
+The susceptibility of circuits radiation is linked to greater integration, which makes the transistors are increasingly tiny. With the minor keys, the chance of a particle affect one or more devices is much higher. Increasing the frequency of operation also takes place on these problems, there is seen that with a shorter interval between the clock edges, increases the likelihood of a spurious pulse is captured by logic. The complexity and size of the circuits were also larger and much of the microprocessor systems is leading to an even greater interest in protecting this class of systems.
+
+This work aims to implement in hardware several error detection techniques, in order to protect against transient faults processors, offering a specialized module, able to act dynamically selecting a technique, taking into account the best ratio between the cost of run time and error detection rate. Has relevance in micro systems use context processed in hostile environments where exposure to radiation or, electromagnetic influence can cause unexpected effects on circuit behavior.
+\end{englishabstract}
+
+% lista de abreviaturas e siglas
+% o parametro deve ser a abreviatura mais longa
+\begin{listofabbrv}{SPMD}
+        \item[SMP] Symmetric Multi-Processor
+        \item[NUMA] Non-Uniform Memory Access
+        \item[SIMD] Single Instruction Multiple Data
+        \item[SPMD] Single Program Multiple Data
+        \item[ABNT] Associação Brasileira de Normas Técnicas
+\end{listofabbrv}
+
+% idem para a lista de símbolos
+%\begin{listofsymbols}{$\alpha\beta\pi\omega$}
+%       \item[$\sum{\frac{a}{b}}$] Somatório do produtório
+%       \item[$\alpha\beta\pi\omega$] Fator de inconstância do resultado
+%\end{listofsymbols}
+
+% lista de figuras
+\listoffigures
+
+% lista de tabelas
+\listoftables
+
+% sumario
+\tableofcontents
+
+% aqui comeca o texto propriamente dito
+
+% Introducao
+\input{./cap1/introducao.tex}
+
+% Capítulo 2
+\input{./cap2/capitulo2.tex}
+
+% Capítulo 3
+\input{./cap3/capitulo3.tex}
+
+% Capítulo 4
+\input{./cap4/capitulo4.tex}
+
+% Capítulo 5
+\input{./cap5/capitulo5.tex}
+
+% Conclusão
+\input{./cap6/conclusao.tex}
+
+% referencias
+% aqui será usado o environment padrao `thebibliography'; porém, sugere-se
+% seriamente o uso de BibTeX e do estilo abnt.bst (veja na página do
+% UTUG)
+%
+% observe também o estilo meio estranho de alguns labels; isso é
+% devido ao uso do pacote `natbib', que permite fazer citações de
+% autores, ano, e diversas combinações desses
+
+\bibliographystyle{abntex2-alf}
+
+\bibliography{./biblio.bib}
+
+\end{document}
