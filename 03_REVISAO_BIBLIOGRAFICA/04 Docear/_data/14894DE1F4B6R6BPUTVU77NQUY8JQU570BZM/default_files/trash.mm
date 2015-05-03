@@ -1,7 +1,7 @@
-<map version="docear 1.1" type="trash" dcr_id="1377255079355_8mkgvh9a8l9nwiiml8bl7nure" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
+<map version="docear 1.1" type="trash" dcr_id="1377255079355_8mkgvh9a8l9nwiiml8bl7nure" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/Projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node TEXT="Trash" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1428265086506" DCR_PRIVACY_LEVEL="DEMO"><hook NAME="MapStyle">
+<node TEXT="Trash" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1430520381427" DCR_PRIVACY_LEVEL="DEMO"><hook NAME="MapStyle">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -52,7 +52,7 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="4"/>
-<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="right" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1428265086508" HGAP="-284" VSHIFT="-160" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="right" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1430520381428" HGAP="-284" VSHIFT="-160" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>

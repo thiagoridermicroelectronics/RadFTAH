@@ -1,7 +1,7 @@
-<map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
+<map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/Projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1428711666843" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1430613541045" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75,7 +75,7 @@
 <attribute NAME="mon_flatten_dirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_add_extra_incoming_node" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1428711666847" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1430613541048" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#007c7c"/>
 <node TEXT="Verification Methodology Manual for SystemVerilog" ID="ID_1296405716" CREATED="1411539431435" MODIFIED="1413321727263" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-25556-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
@@ -1136,11 +1136,11 @@
 </node>
 </node>
 </node>
-<node TEXT="Testbench Components Verification Using Fault Injection Techniques" ID="ID_1526681197" CREATED="1411539430626" MODIFIED="1413321727214" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/05510515.pdf">
+<node TEXT="Testbench Components Verification Using Fault Injection Techniques" ID="ID_1526681197" CREATED="1411539430626" MODIFIED="1430613553815" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/05510515.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C7125C0EA367CFE412CB9C0FE538EC04233D0759A6556031A86F249CA9E68">
     <pdf_title>Testbench Components Verification Using Fault Injection Techniques</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5510515"/>
+<attribute NAME="key" VALUE="Banciu2010"/>
 <attribute NAME="authors" VALUE="Banciu, N. A and Toacse, G."/>
 <attribute NAME="title" VALUE="Testbench components verification using fault injection techniques"/>
 <attribute NAME="year" VALUE="2010"/>
@@ -5345,23 +5345,23 @@
 <attribute NAME="year" VALUE="2007"/>
 </node>
 </node>
-<node TEXT="A Software-Implemented Fault Injection Methodology for Design and Validation of System Fault Tolerance" ID="ID_404114006" CREATED="1411247618805" MODIFIED="1413321727176" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias3/00941435.pdf">
+<node TEXT="A Software-Implemented Fault Injection Methodology for Design and Validation of System Fault Tolerance" ID="ID_404114006" CREATED="1411247618805" MODIFIED="1430613552323" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias3/00941435.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="10EF84E043A5796FCB483B5FF7CE279B7608975955EEA114D82A073A74042DE">
     <pdf_title>for</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="941435"/>
+<attribute NAME="key" VALUE="Some2001"/>
 <attribute NAME="authors" VALUE="Some, R.R. and Kim, W.S. and Khanoyan, G. and Callum, L. and Agrawal, A and Beahan, J.J."/>
 <attribute NAME="title" VALUE="A software-implemented fault injection methodology for design and validation of system fault tolerance"/>
 <attribute NAME="year" VALUE="2001"/>
 </node>
 </node>
-<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1428711667181" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1430613541440" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c7c00"/>
-<node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1413321727169" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
+<node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1430613553926" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5FF56780A5BCACE023A24384365ADABF1FDF4C93E721EC53591F1571F2BE5A">
     <pdf_title>An 8-Bit MIPS in an FPGA for Educational Purposes</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6128570"/>
+<attribute NAME="key" VALUE="Ortega-Sanchez2011"/>
 <attribute NAME="authors" VALUE="Ortega-Sanchez, C."/>
 <attribute NAME="title" VALUE="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes"/>
 <attribute NAME="year" VALUE="2011"/>
@@ -6564,33 +6564,33 @@
 <attribute NAME="year" VALUE="2010"/>
 </node>
 </node>
-<node TEXT="FPGA IMPLEMENTATION OF A RECONFIGURABLE MICROPROCESSOR" ID="ID_235941726" CREATED="1411836923941" MODIFIED="1413321727153" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/00590366.pdf">
+<node TEXT="FPGA IMPLEMENTATION OF A RECONFIGURABLE MICROPROCESSOR" ID="ID_235941726" CREATED="1411836923941" MODIFIED="1430613552703" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/00590366.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="7F23218AB04D38EBB9DBC8D1609E319238B639365EFA83D746F2F3D44A83">
     <pdf_title>- -</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="590366"/>
+<attribute NAME="key" VALUE="Davidson1993"/>
 <attribute NAME="authors" VALUE="Davidson, J."/>
 <attribute NAME="title" VALUE="FPGA implementation of a reconfigurable microprocessor"/>
 <attribute NAME="year" VALUE="1993"/>
 </node>
 </node>
-<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1428711667241" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1430613541718" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c0000"/>
-<node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1413321727133" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf" MOVED="1411878920151">
+<node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1430613553541" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf" MOVED="1411878920151">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D4D852F99AB0D925364677F4A756C5A8FAB3037A8D28642BF5470F141F1E13E">
     <pdf_title>Radiation Effects in Si-NW GAA FET and CMOS Inverter: A TCAD Simulation Study</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6166873"/>
+<attribute NAME="key" VALUE="Kaushal2012"/>
 <attribute NAME="journal" VALUE="Electron Devices, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Kaushal, G. and Rathod, S.S. and Maheshwaram, S. and Manhas, S. K. and Saxena, A K. and Dasgupta, S."/>
 <attribute NAME="title" VALUE="Radiation Effects in Si-NW GAA FET and CMOS Inverter: A TCAD Simulation Study"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="The Study of the Transient Radiation Effects on Electronic Devices caused by Pulsed High Energy Gama-Ray" FOLDED="true" ID="ID_1402581234" CREATED="1411247614643" MODIFIED="1413321727117" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06393319.pdf">
+<node TEXT="The Study of the Transient Radiation Effects on Electronic Devices caused by Pulsed High Energy Gama-Ray" FOLDED="true" ID="ID_1402581234" CREATED="1411247614643" MODIFIED="1430613553619" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06393319.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E4F37017881C199A537B67BBDDA677836036D7278486FF19B4F794A4728E9C">
     <pdf_title>The Study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6393319"/>
+<attribute NAME="key" VALUE="Oh2012"/>
 <attribute NAME="authors" VALUE="Seung-Chan Oh and Nam-Ho Lee and Heung-Ho Lee"/>
 <attribute NAME="title" VALUE="The study of the transient radiation effects on electronic devices caused by pulsed high energy gamma-ray"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -6611,11 +6611,11 @@
 <attribute NAME="title" VALUE="Effects of space weather on technology infrastructure"/>
 <attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS RELIABILITY" FOLDED="true" ID="ID_1065110152" CREATED="1411539430641" MODIFIED="1413321727086" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
+<node TEXT="THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS RELIABILITY" FOLDED="true" ID="ID_1065110152" CREATED="1411539430641" MODIFIED="1430613553665" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/etd.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="F5ACD8DE6FF2823ADC269B6479CD29B923F86DFB2D3C5FAF049BC7F91F4CC44">
     <pdf_title>THE ROLE OF SINGLY-CHARGED PARTICLES IN MICROELECTRONICS</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Sierawski"/>
+<attribute NAME="key" VALUE="Sierawski2011"/>
 <attribute NAME="authors" VALUE="Brian Sierawski"/>
 <attribute NAME="title" VALUE="The Role of Singly-Charged Particles in Microelectronics Reliability"/>
 <attribute NAME="year" VALUE="2011"/>
@@ -7204,30 +7204,30 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA" ID="ID_1248100795" CREATED="1411247618646" MODIFIED="1413321727076" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06353739.pdf">
+<node TEXT="Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA" ID="ID_1248100795" CREATED="1411247618646" MODIFIED="1430613553654" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06353739.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DE7C9C241BD457CFC82765F1AF62AFB313D27BC5D56B2ADF87D75170717BFF">
     <pdf_title>Compendium of Single Event Effects for Candidate Spacecraft Electronics for NASA</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4077277"/>
+<attribute NAME="key" VALUE="OBryan2006"/>
 <attribute NAME="authors" VALUE="O&apos;Bryan, M.V. and Poivey, C. and Kniffin, S.D. and Buchner, S.P. and Ladbury, R.L. and Oldham, T.R. and Howard, J.W. and LaBel, K.A and Sanders, AB. and Berg, M. and Marshall, C.J. and Marshall, P.W. and Kim, H.S. and Dung-Phan, AM. and Hawkins, D.K. and Carts, M.A and Forney, J.D. and Irwin, T. and Seidleck, C.M. and Cox, S.R. and Friendlich, M. and Flanigan, R.J. and Petrick, D. and Powell, W. and Karsh, J. and Baze, M.P."/>
 <attribute NAME="title" VALUE="Compendium of Single Event Effects Results for Candidate Spacecraft Electronics for NASA"/>
 <attribute NAME="year" VALUE="2006"/>
 </node>
-<node TEXT="Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices" ID="ID_865575048" CREATED="1411247618572" MODIFIED="1413321727065" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06204100.pdf">
+<node TEXT="Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices" ID="ID_865575048" CREATED="1411247618572" MODIFIED="1430613552645" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06204100.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="40F3BD4CA8D111EFF4AB1117A09042324658F5F35C155EAF4E1AE4551AF14AF4">
     <pdf_title>Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6204100"/>
+<attribute NAME="key" VALUE="Estep2012"/>
 <attribute NAME="journal" VALUE="Plasma Science, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Estep, N.A and Petrosky, J.C. and McClory, J.W. and Kim, Y. and Terzuoli, AJ."/>
 <attribute NAME="title" VALUE="Electromagnetic Interference and Ionizing Radiation Effects on CMOS Devices"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices" ID="ID_1948641765" CREATED="1411247618578" MODIFIED="1413321727054" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06522833.pdf">
+<node TEXT="Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices" ID="ID_1948641765" CREATED="1411247618578" MODIFIED="1430613553869" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06522833.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="2EFE6BA933F61650DD8C392DAD8143B6AFB371DC3FCE47529B5238B5F1B5B">
     <pdf_title>Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6522833"/>
+<attribute NAME="key" VALUE="Fleetwood2013"/>
 <attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Fleetwood, D.M."/>
 <attribute NAME="title" VALUE="Total Ionizing Dose Effects in MOS and Low-Dose-Rate-Sensitive Linear-Bipolar Devices"/>
@@ -7248,12 +7248,12 @@
 <attribute NAME="title" VALUE="Ultra-Wideband, Short Pulse Electromagnetics 9"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" FOLDED="true" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1428182312665" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
+<node TEXT="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft" FOLDED="true" ID="ID_218977545" CREATED="1411611277971" MODIFIED="1430613553916" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/art%253A10.1007%252Fs10604-005-0066-9.pdf">
 <icon BUILTIN="button_ok"/>
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DCE36ADBDE56CDB7E64A1E7622884692CBA2538C38D0679080D37F5F571EB4F2">
     <pdf_title>The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="raey"/>
+<attribute NAME="key" VALUE="Kuznetsov2005"/>
 <attribute NAME="journal" VALUE="Cosmic Research"/>
 <attribute NAME="authors" VALUE="Kuznetsov, N.V."/>
 <attribute NAME="title" VALUE="The Rate of Single Event Upsets in Electronic Circuits onboard Spacecraft"/>
@@ -7496,40 +7496,40 @@
 </node>
 <node TEXT="Soft Errors in Modern Electronic Systems" ID="ID_500119958" CREATED="1411790448879" MODIFIED="1411790448879"/>
 </node>
-<node TEXT="The Impact of Technology Scaling on Soft Error Rate Performance and Limits to the Efficacy of Error Correction" ID="ID_1453219291" CREATED="1411836924014" MODIFIED="1413321726999" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/01175845.pdf">
+<node TEXT="The Impact of Technology Scaling on Soft Error Rate Performance and Limits to the Efficacy of Error Correction" ID="ID_1453219291" CREATED="1411836924014" MODIFIED="1430613552921" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/01175845.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="A57525C42BE3AA58C97B1DB66717E7EA259863229BDE4A3B368EB3A892B4">
     <pdf_title>- -</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1175845"/>
+<attribute NAME="key" VALUE="Baumann2002"/>
 <attribute NAME="authors" VALUE="Baumann, R."/>
 <attribute NAME="title" VALUE="The impact of technology scaling on soft error rate performance and limits to the efficacy of error correction"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues" ID="ID_1111008332" CREATED="1411539429997" MODIFIED="1413321726994" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues" ID="ID_1111008332" CREATED="1411539429997" MODIFIED="1430613553450" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="year" VALUE="2003"/>
 </node>
-<node TEXT="Single-Event Effects in CMOS Image Sensors" ID="ID_429554744" CREATED="1411247622170" MODIFIED="1413321726989" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06519952.pdf">
+<node TEXT="Single-Event Effects in CMOS Image Sensors" ID="ID_429554744" CREATED="1411247622170" MODIFIED="1430613553835" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06519952.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="18285461374C9FBBAB3CD4AD4279A11E1B47A22C581CEECA8BA72F718C43152">
     <pdf_title>Single-Event Effects in CMOS Image Sensors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6519952"/>
+<attribute NAME="key" VALUE="Lalucaa2013"/>
 <attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Lalucaa, V. and Goiffon, V. and Magnan, P. and Rolland, G. and Petit, S."/>
 <attribute NAME="title" VALUE="Single-Event Effects in CMOS Image Sensors"/>
 <attribute NAME="year" VALUE="2013"/>
 </node>
-<node TEXT="Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013" ID="ID_123087803" CREATED="1411247622135" MODIFIED="1413321726985" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06482273.pdf">
+<node TEXT="Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013" ID="ID_123087803" CREATED="1411247622135" MODIFIED="1430613553020" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06482273.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="A369AAFC35D92B86E2B555596ABA443526F83AFC955B40BCA4DE412583992E">
     <pdf_title>Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6482273"/>
+<attribute NAME="key" VALUE="Galloway2013"/>
 <attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Galloway, K.F. and Primich, T."/>
 <attribute NAME="title" VALUE="Update on High-Impact Papers Presented at the IEEE Nuclear and Space Radiation Effects Conference: The View in 2013"/>
@@ -7545,12 +7545,12 @@
 <attribute NAME="title" VALUE="Single-event soft errors in CMOS logic"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="Technology Scaling and Soft Error Reliability" FOLDED="true" ID="ID_347099177" CREATED="1411247622128" MODIFIED="1428182275306" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<node TEXT="Technology Scaling and Soft Error Reliability" FOLDED="true" ID="ID_347099177" CREATED="1411247622128" MODIFIED="1430613552730" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
 <icon BUILTIN="button_ok"/>
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
     <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="key" VALUE="Massengill2012"/>
 <attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
 <attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -7664,7 +7664,7 @@
 </node>
 </node>
 </node>
-<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1428711667281" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1430613541767" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8819,44 +8819,44 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1428711667380" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1430613541823" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="medida do tempo de funcionamento de um sistema at&#xe9; falhar, ou da probabilidade de n&#xe3;o falhar durante o tempo de miss&#xe3;o (ex.:MTTF, MTBF, 10-5 falhas/hora, 99.9%)" ID="ID_1611290074" CREATED="1411860915945" MODIFIED="1411860919478" MOVED="1411860922539"/>
 </node>
-<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 <node TEXT="medida do tempo (ou %) em que o sistema est&#xe1; operacional (ex.: MTBF/(MTBF+MTTR), 5000h/ano)" ID="ID_1771869519" CREATED="1411860934455" MODIFIED="1411860936807" MOVED="1411860939275"/>
 </node>
-<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="medida da fiabilidade do sistema relativa a faltas que ocasionem efeitos catastr&#xf3;ficos" ID="ID_938916906" CREATED="1411860999742" MODIFIED="1411861002690" MOVED="1411861005203"/>
 </node>
 <node TEXT="seguran&#xe7;a contra acesso n&#xe3;o autorizado (security)" FOLDED="true" ID="ID_1077168734" CREATED="1411860750229" MODIFIED="1411860764146">
 <node TEXT="idem, relativo a faltas contra integridade, confidencialidade e autenticidade" ID="ID_1580126393" CREATED="1411861015289" MODIFIED="1411861017812" MOVED="1411861019923"/>
 </node>
 </node>
-<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1428711667380" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="define-se como a causa f&#xed;sica ou algor&#xed;tmica do erro" ID="ID_1619338102" CREATED="1411863391820" MODIFIED="1411863408032" MOVED="1411863413368"/>
 </node>
-<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1428711667381" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT=" Define-se que um sistema est&#xe1; em estado err&#xf4;neo, ou em erro, se o processamento posterior a partir desse estado pode levar a um defeito" ID="ID_575761268" CREATED="1411863458582" MODIFIED="1411863484409" MOVED="1411863489937"/>
 </node>
-<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1428711667381" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1430613541824" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="&#xe9; definido como um desvio da especifica&#xe7;&#xe3;o" ID="ID_618166955" CREATED="1411863351666" MODIFIED="1411863425108" MOVED="1411863358800"/>
 </node>
 </node>
-<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1428711667381" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1428711667381" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1413321726964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
+<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1430613553879" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
     <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6114526"/>
+<attribute NAME="key" VALUE="Tran2011"/>
 <attribute NAME="authors" VALUE="Tran, D. A and Virazel, A and Bosio, A and Dilillo, L. and Girard, P. and Pravossoudovitch, S. and Wunderlich, H. -J"/>
 <attribute NAME="title" VALUE="A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits"/>
 <attribute NAME="year" VALUE="2011"/>
@@ -8888,55 +8888,55 @@
 <attribute NAME="title" VALUE="Fault-Tolerance Projects at Stanford CRC"/>
 <attribute NAME="year" VALUE="1999"/>
 </node>
-<node TEXT="AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors" ID="ID_836763964" CREATED="1411247618509" MODIFIED="1413321726922" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/AR-SMT.pdf">
+<node TEXT="AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors" ID="ID_836763964" CREATED="1411247618509" MODIFIED="1430613552658" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/AR-SMT.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="3E8C555745A4B79315CE07BFF9FC1D8BA6BE684E40BA3419EBFB3998157AD6">
     <pdf_title>AR-SMT: A Microarchitectural Approach to Fault Tolerance in Microprocessors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="781037"/>
+<attribute NAME="key" VALUE="Rotenberg1999"/>
 <attribute NAME="authors" VALUE="Rotenberg, E."/>
 <attribute NAME="title" VALUE="AR-SMT: a microarchitectural approach to fault tolerance in microprocessors"/>
 <attribute NAME="year" VALUE="1999"/>
 </node>
-<node TEXT="Single Event Upset Tolerance in Flip-Flop Based Microprocessor Cores" ID="ID_1139968544" CREATED="1411611275149" MODIFIED="1413321726912" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06378204.pdf">
+<node TEXT="Single Event Upset Tolerance in Flip-Flop Based Microprocessor Cores" ID="ID_1139968544" CREATED="1411611275149" MODIFIED="1430613553001" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06378204.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="1797D527E212DF49487635C35246635E59EC78CB538FE83C9A58EF4837E85CE7">
     <pdf_title>Single Event Upset Tolerance in Flip-Flop Based Microprocessor Cores</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6378204"/>
+<attribute NAME="key" VALUE="Valadimas2012"/>
 <attribute NAME="authors" VALUE="Valadimas, S. and Tsiatouhas, Y. and Arapoyanni, A and Evans, A"/>
 <attribute NAME="title" VALUE="Single event upset tolerance in flip-flop based microprocessor cores"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="SWIFT: Software Implemented Fault Tolerance" ID="ID_652368858" CREATED="1411247618585" MODIFIED="1413321726902" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01402092.pdf">
+<node TEXT="SWIFT: Software Implemented Fault Tolerance" ID="ID_652368858" CREATED="1411247618585" MODIFIED="1430613553841" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01402092.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8147595D213C833218CFECE5CE779C6397293DA426122F2EF673E54BB0D2">
     <pdf_title>SWIFT: Software Implemented Fault Tolerance</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1402092"/>
+<attribute NAME="key" VALUE="Reis2005a"/>
 <attribute NAME="authors" VALUE="Reis, G.A and Chang, J. and Vachharajani, N. and Rangan, R. and August, D.I"/>
 <attribute NAME="title" VALUE="SWIFT: software implemented fault tolerance"/>
 <attribute NAME="year" VALUE="2005"/>
 </node>
-<node TEXT="ALGORITHM-BASED FAULT TOLERANCE: A PERFORMANCE PERSPECTIVE BASED ON ERROR RATE" ID="ID_148624973" CREATED="1411611275215" MODIFIED="1413321726893" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/alyamaniDSN01.pdf">
+<node TEXT="ALGORITHM-BASED FAULT TOLERANCE: A PERFORMANCE PERSPECTIVE BASED ON ERROR RATE" ID="ID_148624973" CREATED="1411611275215" MODIFIED="1430613553782" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/alyamaniDSN01.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3F661BE05843B14158F46D23A291859F46529F891B84AC9BCD782BE5588A55">
     <pdf_title>w w</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Al-Yamani_algorithm-basedfault"/>
+<attribute NAME="key" VALUE="Al-Yamani"/>
 <attribute NAME="authors" VALUE="Ahmad A. Al-Yamani and Nahmsuk Oh and Edward J. McCluskey"/>
 <attribute NAME="title" VALUE="Algorithm-Based Fault Tolerance: A Performance Perspective Based on Error Rate"/>
 </node>
-<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault&#xa;Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_297030936" CREATED="1411611275250" MODIFIED="1413321726882" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06131362.pdf">
+<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault&#xa;Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_297030936" CREATED="1411611275250" MODIFIED="1430613553715" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06131362.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="458A25552E5BFEBB0EF8999DE056919B317C612CE62983B5387A2FDBAEE086">
     <pdf_title>Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6131362"/>
+<attribute NAME="key" VALUE="Azambuja2011b"/>
 <attribute NAME="authors" VALUE="Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R."/>
 <attribute NAME="title" VALUE="Non-intrusive reconfigurable HW/SW fault tolerance approach to detect transient faults in microprocessor systems"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="Fault tolerant system design and SEU injection based testing" FOLDED="true" ID="ID_143909533" CREATED="1411539430068" MODIFIED="1413321726868" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
+<node TEXT="Fault tolerant system design and SEU injection based testing" FOLDED="true" ID="ID_143909533" CREATED="1411539430068" MODIFIED="1430613553741" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/1-s2.0-S0141933112001688-main.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="6648DBA58FBBFC928D5F9622FB60AE89E1F8D3A8C464BEFD3C82FABC6740B7">
     <pdf_title>Microprocessors and Microsystems</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Straka2013155"/>
+<attribute NAME="key" VALUE="Straka2013"/>
 <attribute NAME="journal" VALUE="Microprocessors and Microsystems "/>
 <attribute NAME="authors" VALUE="Martin Straka and Jan Kastil and Zdenek Kotasek and Lukas Miculka"/>
 <attribute NAME="title" VALUE="Fault tolerant system design and \{SEU\} injection based testing"/>
@@ -9330,20 +9330,20 @@
 </node>
 </node>
 </node>
-<node TEXT="A Foundation for Adaptive Fault Tolerance in Software" ID="ID_187448554" CREATED="1411247622196" MODIFIED="1413321726850" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01194806.pdf">
+<node TEXT="A Foundation for Adaptive Fault Tolerance in Software" ID="ID_187448554" CREATED="1411247622196" MODIFIED="1430613552755" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01194806.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C2BF5025B536A393C5577B7C34CACE1E6E9F436CE5FEE7CDF3AAB5BC463B7">
     <pdf_title>A Foundation for Adaptive Fault Tolerance in Software</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1194806"/>
+<attribute NAME="key" VALUE="Whisnant2003"/>
 <attribute NAME="authors" VALUE="Whisnant, K. and Kalbarczyk, Z. and Iyer, R.K."/>
 <attribute NAME="title" VALUE="A foundation for adaptive fault tolerance in software"/>
 <attribute NAME="year" VALUE="2003"/>
 </node>
-<node TEXT="Assessing Software Implemented Fault Detection and Fault Tolerance Mechanisms" ID="ID_1574436401" CREATED="1411247618662" MODIFIED="1413321726838" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01250857.pdf">
+<node TEXT="Assessing Software Implemented Fault Detection and Fault Tolerance Mechanisms" ID="ID_1574436401" CREATED="1411247618662" MODIFIED="1430613553931" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/01250857.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="3EFF7CDA527E4103B5A1842F7ECF281E653F6582AA8819B270BC3A93262979">
     <pdf_title>Assessing Software Implemented Fault Detection and Fault Tolerance Mechanisms</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1250857"/>
+<attribute NAME="key" VALUE="Gawkowski2003"/>
 <attribute NAME="authors" VALUE="Gawkowski, P. and Sosnowski, J."/>
 <attribute NAME="title" VALUE="Assessing software implemented fault detection and fault tolerance mechanisms"/>
 <attribute NAME="year" VALUE="2003"/>
@@ -9357,21 +9357,21 @@
 <attribute NAME="title" VALUE="Learning From Advanced Hardware Verification for Hardware Dependent Software"/>
 <attribute NAME="year" VALUE="2014"/>
 </node>
-<node TEXT="Designing Masking Fault-Tolerance via Nonmasking Fault-Tolerance" ID="ID_918319161" CREATED="1411247618670" MODIFIED="1413321726815" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00689401.pdf">
+<node TEXT="Designing Masking Fault-Tolerance via Nonmasking Fault-Tolerance" ID="ID_918319161" CREATED="1411247618670" MODIFIED="1430613552736" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00689401.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C219F4B5942887F5E8EF58B852BD34A9A442B6752C1F8B3BE7BBE61C8EF1371">
     <pdf_title>Designing Masking Fault-Tolerance via Nonmasking Fault-Tolerance</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="689401"/>
+<attribute NAME="key" VALUE="Arora1998"/>
 <attribute NAME="journal" VALUE="Software Engineering, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Arora, A and Kulkarni, S.S."/>
 <attribute NAME="title" VALUE="Designing masking fault-tolerance via nonmasking fault-tolerance"/>
 <attribute NAME="year" VALUE="1998"/>
 </node>
-<node TEXT="A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation" ID="ID_1904488928" CREATED="1411611275226" MODIFIED="1413321726801" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05640683.pdf">
+<node TEXT="A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation" ID="ID_1904488928" CREATED="1411611275226" MODIFIED="1430613552582" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05640683.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="3C665B397D6E623C9CAED7FDA3CC6CF25A0DF95CDBF0F35C41274AB2F55">
     <pdf_title>A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5640683"/>
+<attribute NAME="key" VALUE="Bull2011"/>
 <attribute NAME="journal" VALUE="Solid-State Circuits, IEEE Journal of"/>
 <attribute NAME="authors" VALUE="Bull, D. and Das, S. and Shivashankar, K. and Dasika, G.S. and Flautner, K. and Blaauw, D."/>
 <attribute NAME="title" VALUE="A Power-Efficient 32 bit ARM Processor Using Timing-Error Detection and Correction for Transient-Error Tolerance and Adaptation to PVT Variation"/>
@@ -9386,11 +9386,11 @@
 <attribute NAME="title" VALUE="Fault-tolerance techniques for SRAM-based FPGAs"/>
 <attribute NAME="year" VALUE="2007"/>
 </node>
-<node TEXT="Software-implemented hardening against soft errors" ID="ID_588392281" CREATED="1411611275281" MODIFIED="1413321726779" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/SlidesMassimoViolante.pdf">
+<node TEXT="Software-implemented hardening against soft errors" ID="ID_588392281" CREATED="1411611275281" MODIFIED="1430613554007" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/SlidesMassimoViolante.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5F1F8548C7C25DC2447EB6ED5B904F2C450881A689D6F445D30EED66426871C">
     <pdf_title>Software-implemented hardening against soft errors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="Violante"/>
+<attribute NAME="key" VALUE="Violante2013"/>
 <attribute NAME="authors" VALUE="Massimo Violante"/>
 <attribute NAME="title" VALUE="Software-implemented hardening against soft errors (slides)"/>
 <attribute NAME="year" VALUE="2013"/>
@@ -9402,11 +9402,11 @@
 <attribute NAME="title" VALUE="Software-implemented hardware fault tolerance"/>
 <attribute NAME="year" VALUE="2006"/>
 </node>
-<node TEXT="CFEDR: Control-Flow Error Detection and&#xa;Recovery Using Encoded Signatures Monitoring" ID="ID_1193988716" CREATED="1411611275143" MODIFIED="1413321726757" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06653578.pdf">
+<node TEXT="CFEDR: Control-Flow Error Detection and&#xa;Recovery Using Encoded Signatures Monitoring" ID="ID_1193988716" CREATED="1411611275143" MODIFIED="1430613552839" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06653578.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="49945B883679842CDD1839E5CB191F69ED01657328EBAC579F8ABD52C38AA9D">
     <pdf_title>CFEDR: Control-Flow Error Detection and Recovery Using Encoded Signatures Monitoring</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6653578"/>
+<attribute NAME="key" VALUE="Tan2013"/>
 <attribute NAME="authors" VALUE="Lanfang Tan and Ying Tan and Jianjun Xu"/>
 <attribute NAME="title" VALUE="CFEDR: Control-flow error detection and recovery using encoded signatures monitoring"/>
 <attribute NAME="year" VALUE="2013"/>
@@ -9421,38 +9421,38 @@
 <attribute NAME="title" VALUE="A New Approach to Software-Implemented Fault Tolerance"/>
 <attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="Design of A Fault-Tolerant Microprocessor: A Simulation Approach" ID="ID_1834577424" CREATED="1411611272086" MODIFIED="1413321726743" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00640142.pdf">
+<node TEXT="Design of A Fault-Tolerant Microprocessor: A Simulation Approach" ID="ID_1834577424" CREATED="1411611272086" MODIFIED="1430613553823" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00640142.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="827EC564DE4D81DFCD9F8B3BD7A5953CEA8B125AF25088BE2C85F1EE9A1977CF">
     <pdf_title>of</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="640142"/>
+<attribute NAME="key" VALUE="Lee1997"/>
 <attribute NAME="authors" VALUE="Kab Joo Lee and Gwan Choi"/>
 <attribute NAME="title" VALUE="Design of a fault-tolerant microprocessor: a simulation approach"/>
 <attribute NAME="year" VALUE="1997"/>
 </node>
-<node TEXT="Strategies for Fault-Tolerant, Space-Based Computing: Lessons Learned from the ARGOS Testbed" ID="ID_903914617" CREATED="1411611275199" MODIFIED="1413321726738" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01035377.pdf">
+<node TEXT="Strategies for Fault-Tolerant, Space-Based Computing: Lessons Learned from the ARGOS Testbed" ID="ID_903914617" CREATED="1411611275199" MODIFIED="1430613552623" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01035377.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="80CC2DDEFCD475FA10351BF58310D903346FB56581E19E7974D784DF965C1">
     <pdf_title>ARGOS</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1035377"/>
+<attribute NAME="key" VALUE="Lovellette2002"/>
 <attribute NAME="authors" VALUE="Lovellette, M.N. and Wood, K.S. and Wood, D. L. and Beall, J.H. and Shirvani, P.P. and Oh, N. and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="Strategies for fault-tolerant, space-based computing: Lessons learned from the ARGOS testbed"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="An Experiment with Adaptive Fault Tolerance in Highly-Constrained Systems" ID="ID_1525179419" CREATED="1411247618702" MODIFIED="1413321726733" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00842342.pdf">
+<node TEXT="An Experiment with Adaptive Fault Tolerance in Highly-Constrained Systems" ID="ID_1525179419" CREATED="1411247618702" MODIFIED="1430613552522" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00842342.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="4A36585F92C581F88732BD9E8A6237CC22BAC3BA531499D4ED4B7B5BE1B5CE">
     <pdf_title>An Experiment with Adaptive Fault Tolerance in Highly-Constraint Systems</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="842342"/>
+<attribute NAME="key" VALUE="Shokri1999"/>
 <attribute NAME="authors" VALUE="Shokri, E. and Beltas, P."/>
 <attribute NAME="title" VALUE="An experiment with adaptive fault tolerance in highly-constrained systems"/>
 <attribute NAME="year" VALUE="1999"/>
 </node>
-<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_1271063957" CREATED="1411247622189" MODIFIED="1413321726728" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06131362.pdf">
+<node TEXT="Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems" ID="ID_1271063957" CREATED="1411247622189" MODIFIED="1430613553729" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06131362.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="458A25552E5BFEBB0EF8999DE056919B317C612CE62983B5387A2FDBAEE086">
     <pdf_title>Non-Intrusive Reconfigurable HW/SW Fault Tolerance Approach to Detect Transient Faults in Microprocessor Systems</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6131362"/>
+<attribute NAME="key" VALUE="Azambuja2011b"/>
 <attribute NAME="authors" VALUE="Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R."/>
 <attribute NAME="title" VALUE="Non-intrusive reconfigurable HW/SW fault tolerance approach to detect transient faults in microprocessor systems"/>
 <attribute NAME="year" VALUE="2011"/>
@@ -9473,75 +9473,75 @@
 <attribute NAME="title" VALUE="Electronics system design techniques for safety critical applications"/>
 <attribute NAME="year" VALUE="2008"/>
 </node>
-<node TEXT="Online hardening of programs against SEUs and SETs" ID="ID_1675312566" CREATED="1411539420348" MODIFIED="1413321726711" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04030939.pdf">
+<node TEXT="Online hardening of programs against SEUs and SETs" ID="ID_1675312566" CREATED="1411539420348" MODIFIED="1430613553555" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04030939.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="624DECE5868A49CD4E676E589DA9B913BB49749DC4BACCB69A6FF93CA1DE115">
     <pdf_title>Online hardening of programs against SEUs and SETs</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4030939"/>
+<attribute NAME="key" VALUE="Lisboa2006"/>
 <attribute NAME="authors" VALUE="Lisboa, C. A L and Carro, L. and Reorda, M.S. and Violante, M."/>
 <attribute NAME="title" VALUE="Online hardening of programs against SEUs and SETs"/>
 <attribute NAME="year" VALUE="2006"/>
 </node>
-<node TEXT="Combined software and hardware techniques for the design of reliable IP processors" ID="ID_1726711939" CREATED="1411539429979" MODIFIED="1413321726707" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04030937.pdf">
+<node TEXT="Combined software and hardware techniques for the design of reliable IP processors" ID="ID_1726711939" CREATED="1411539429979" MODIFIED="1430613553684" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04030937.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="4F5C8B37547F6DA9EAE2A51CEC8AE34B2ADB5EA41235B74369B0C078992FB">
     <pdf_title>Combined software and hardware techniques for the design of reliable IP processors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4030937"/>
+<attribute NAME="key" VALUE="Rebaudengo2006"/>
 <attribute NAME="authors" VALUE="Rebaudengo, M. and Sterpone, L. and Violante, M. and Bolchini, C. and Miele, A and Sciuto, D."/>
 <attribute NAME="title" VALUE="Combined software and hardware techniques for the design of reliable IP processors"/>
 <attribute NAME="year" VALUE="2006"/>
 </node>
-<node TEXT="A New Mitigation Approach for Soft Errors in Embedded Processors" ID="ID_27158660" CREATED="1411539430606" MODIFIED="1413321726704" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04636948.pdf">
+<node TEXT="A New Mitigation Approach for Soft Errors in Embedded Processors" ID="ID_27158660" CREATED="1411539430606" MODIFIED="1430613552973" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/04636948.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FF49748F533AA0846ED05975387B3961CFF9D4021473A699C86557A65336CA3">
     <pdf_title>A New Mitigation Approach for Soft Errors in Embedded Processors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4636948"/>
+<attribute NAME="key" VALUE="Abate2008"/>
 <attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Abate, F. and Sterpone, L. and Violante, M."/>
 <attribute NAME="title" VALUE="A New Mitigation Approach for Soft Errors in Embedded Processors"/>
 <attribute NAME="year" VALUE="2008"/>
 </node>
-<node TEXT="Configurable tool to protect processors against SEE by software-based detection techniques" ID="ID_1423242595" CREATED="1411611277995" MODIFIED="1413321725964" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06261259.pdf">
+<node TEXT="Configurable tool to protect processors against SEE by software-based detection techniques" ID="ID_1423242595" CREATED="1411611277995" MODIFIED="1430613554000" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06261259.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
-<attribute NAME="key" VALUE="6261259"/>
+<attribute NAME="key" VALUE="Chielle2012"/>
 <attribute NAME="authors" VALUE="Chielle, E. and Barth, Raul Sergio and Lapolli, Angelo Cardoso and Kastensmidt, F.L."/>
 <attribute NAME="title" VALUE="Configurable tool to protect processors against SEE by software-based detection techniques"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs" ID="ID_980490496" CREATED="1411611275274" MODIFIED="1413321725969" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05551155.pdf">
+<node TEXT="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs" ID="ID_980490496" CREATED="1411611275274" MODIFIED="1430613553708" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05551155.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DC7AAA26B788E5BF257DE72FAEEE6EE7DE35F495C890FC7269EA3DD36212D690">
     <pdf_title>Short Papers</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5551155"/>
+<attribute NAME="key" VALUE="Bernardi2010"/>
 <attribute NAME="journal" VALUE="Dependable and Secure Computing, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Bernardi, P. and Bolzani Poehls, L.M. and Grosso, M. and Reorda, M.S."/>
 <attribute NAME="title" VALUE="A Hybrid Approach for Detection and Correction of Transient Faults in SoCs"/>
 <attribute NAME="year" VALUE="2010"/>
 </node>
-<node TEXT="A Hybrid Approach to Design Error Detection and Correction" ID="ID_1834435057" CREATED="1411611275221" MODIFIED="1413321725974" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00812294.pdf">
+<node TEXT="A Hybrid Approach to Design Error Detection and Correction" ID="ID_1834435057" CREATED="1411611275221" MODIFIED="1430613552719" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00812294.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="A8357883C38DAA41BA2BE08FE685BBCB5A329968A7F11076F8FEEA649E4CB62">
     <pdf_title>Hybrid to Design Error Correctioii</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="812294"/>
+<attribute NAME="key" VALUE="Veneris1999"/>
 <attribute NAME="authors" VALUE="Veneris, A and Hajj, IN."/>
 <attribute NAME="title" VALUE="A hybrid approach to design error detection and correction [VLSI digital circuits]"/>
 <attribute NAME="year" VALUE="1999"/>
 </node>
-<node TEXT="A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware" ID="ID_352644806" CREATED="1411247618850" MODIFIED="1413321726023" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06236246.pdf">
+<node TEXT="A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware" ID="ID_352644806" CREATED="1411247618850" MODIFIED="1430613553534" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06236246.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="43C7E5F33622657FB22FD1EF41726939F21C040BC55D5B0BEDE7CD6BB802E">
     <pdf_title>A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6236246"/>
+<attribute NAME="key" VALUE="Azambuja2012"/>
 <attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Azambuja, J.R. and Pagliarini, S. and Altieri, M. and Kastensmidt, F.L. and Hubner, M. and Becker, J. and Foucard, G. and Velazco, R."/>
 <attribute NAME="title" VALUE="A Fault Tolerant Approach to Detect Transient Faults in Microprocessors Based on a Non-Intrusive Reconfigurable Hardware"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems" ID="ID_347948509" CREATED="1411247618530" MODIFIED="1413321726061" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05746555.pdf">
+<node TEXT="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems" ID="ID_347948509" CREATED="1411247618530" MODIFIED="1430613552775" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05746555.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="424FAF394A9AB9418466BDCFDC250684522B2BBF855E9B09A71FDB518E8B247">
     <pdf_title>A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5746555"/>
+<attribute NAME="key" VALUE="Cuenca-Asensi2011"/>
 <attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Cuenca-Asensi, S. and Martinez-Alvarez, A and Restrepo-Calle, F. and Palomo, F.R. and Guzman-Miranda, H. and Aguirre, M.A"/>
 <attribute NAME="title" VALUE="A Novel Co-Design Approach for Soft Errors Mitigation in Embedded Systems"/>
@@ -9558,20 +9558,20 @@
 </node>
 </node>
 <node TEXT="Modelagem e Inje&#xe7;&#xe3;o de Falhas" ID="ID_165684907" CREATED="1411926028455" MODIFIED="1411937098140">
-<node TEXT="Physical Defect Modeling for Fault Insertion in System Reliability Test" ID="ID_1861870009" CREATED="1411836924270" MODIFIED="1413321726698" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/05355715.pdf">
+<node TEXT="Physical Defect Modeling for Fault Insertion in System Reliability Test" ID="ID_1861870009" CREATED="1411836924270" MODIFIED="1430613552505" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/05355715.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="217F55669AC270293B499EA8316AD97C77EC713D7F925ADBBD4CD386ABB653C9">
     <pdf_title>Physical Defect Modeling for Fault Insertion in System Reliability Test</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5355715"/>
+<attribute NAME="key" VALUE="Zhang2009"/>
 <attribute NAME="authors" VALUE="Zhaobo Zhang and Zhanglei Wang and Xinli Gu and Chakrabarty, K."/>
 <attribute NAME="title" VALUE="Physical defect modeling for fault insertion in system reliability test"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="A Study of the Effects of Transient Fault Injection into a 32-bit RISC with Built-in Watchdog" ID="ID_636165393" CREATED="1411836924285" MODIFIED="1413321726693" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/00243569.pdf">
+<node TEXT="A Study of the Effects of Transient Fault Injection into a 32-bit RISC with Built-in Watchdog" ID="ID_636165393" CREATED="1411836924285" MODIFIED="1430613552814" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/00243569.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="4E865C5163FDBC223F479D37AB8FF3CDCE4D2802271CE7F9BFC79CF99EC">
     <pdf_title>A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="243569"/>
+<attribute NAME="key" VALUE="Ohlsson1992"/>
 <attribute NAME="authors" VALUE="Ohlsson, J. and Rimen, M. and Gunneflo, U."/>
 <attribute NAME="title" VALUE="A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog"/>
 <attribute NAME="year" VALUE="1992"/>
@@ -9585,11 +9585,11 @@
 <attribute NAME="title" VALUE="Simulator Independent Fault Simulation Using WAVES"/>
 <attribute NAME="year" VALUE="1996"/>
 </node>
-<node TEXT="Efficient analysis of single event transients" FOLDED="true" ID="ID_1458998057" CREATED="1411836924034" MODIFIED="1413321726684" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
+<node TEXT="Efficient analysis of single event transients" FOLDED="true" ID="ID_1458998057" CREATED="1411836924034" MODIFIED="1430613552709" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/1-s2.0-S1383762103001449-main.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FC10A1C69A1603667ADBB5F1BA639A47FC2A3DEDDBE8FDED7925215764A84C">
     <pdf_title>Efficient analysis of single event transients</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="SonzaReorda2004239"/>
+<attribute NAME="key" VALUE="Reorda2004"/>
 <attribute NAME="journal" VALUE="Journal of Systems Architecture "/>
 <attribute NAME="authors" VALUE="M. Sonza Reorda and M. Violante"/>
 <attribute NAME="title" VALUE="Efficient analysis of single event transients "/>
@@ -9720,29 +9720,29 @@
     <pdf_title>High Speed Fault Injection Tool Implemented With Verilog HDL on FPGA for Testing Fault Tolerance Designs</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="Physical Defect Modeling for Fault Insertion in System Reliability Test" ID="ID_1495605135" CREATED="1411539431428" MODIFIED="1413321726677" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/05355715.pdf">
+<node TEXT="Physical Defect Modeling for Fault Insertion in System Reliability Test" ID="ID_1495605135" CREATED="1411539431428" MODIFIED="1430613552515" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/05355715.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="217F55669AC270293B499EA8316AD97C77EC713D7F925ADBBD4CD386ABB653C9">
     <pdf_title>Physical Defect Modeling for Fault Insertion in System Reliability Test</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5355715"/>
+<attribute NAME="key" VALUE="Zhang2009"/>
 <attribute NAME="authors" VALUE="Zhaobo Zhang and Zhanglei Wang and Xinli Gu and Chakrabarty, K."/>
 <attribute NAME="title" VALUE="Physical defect modeling for fault insertion in system reliability test"/>
 <attribute NAME="year" VALUE="2009"/>
 </node>
-<node TEXT="A Prototype of a VHDL-based Fault Injection Tool" ID="ID_603625913" CREATED="1411538427043" MODIFIED="1413321726673" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/00887180.pdf" MOVED="1411538444370">
+<node TEXT="A Prototype of a VHDL-based Fault Injection Tool" ID="ID_603625913" CREATED="1411538427043" MODIFIED="1430613552968" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/00887180.pdf" MOVED="1411538444370">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="A944C981B5489B57C2D5A658031F83F5BF8E569A4ECCE06DC284C172B63">
     <pdf_title>A Tool</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="887180"/>
+<attribute NAME="key" VALUE="Baraza2000"/>
 <attribute NAME="authors" VALUE="Baraza, J.-C. and Gracia, J. and Gil, D. and Gil, P."/>
 <attribute NAME="title" VALUE="A prototype of a VHDL-based fault injection tool"/>
 <attribute NAME="year" VALUE="2000"/>
 </node>
-<node TEXT="Analysis Of SEU Effects In A Pipelined Processor" ID="ID_10454439" CREATED="1411538861208" MODIFIED="1413321726670" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01030193.pdf" MOVED="1411538880043">
+<node TEXT="Analysis Of SEU Effects In A Pipelined Processor" ID="ID_10454439" CREATED="1411538861208" MODIFIED="1430613553777" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01030193.pdf" MOVED="1411538880043">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="0B12550C88151CB3BEE0CB2369EAFE7A6B92DA7ACDCBE1808D67D02975BA53">
     <pdf_title>Analysis of SEU effects in a pipelined processor</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1030193"/>
+<attribute NAME="key" VALUE="Rebaudengo2002"/>
 <attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.S. and Violante, M."/>
 <attribute NAME="title" VALUE="Analysis of SEU effects in a pipelined processor"/>
 <attribute NAME="year" VALUE="2002"/>
@@ -9759,208 +9759,208 @@
 </node>
 </node>
 <node TEXT="Detec&#xe7;&#xe3;o de Erros" ID="ID_1238543771" CREATED="1411880005892" MODIFIED="1411880040114">
-<node TEXT="Reliability Analysis of Systems with Concurrent Error Detection" ID="ID_543376500" CREATED="1411611278059" MODIFIED="1413321726657" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01672925.pdf">
+<node TEXT="Reliability Analysis of Systems with Concurrent Error Detection" ID="ID_543376500" CREATED="1411611278059" MODIFIED="1430613552930" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01672925.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="8C67D3D91FB9BAEE5CC875A6844E6991B7C7EB6BC66E4F7AFD58AAFBDFDB67">
     <pdf_title>Error Detection</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1672925"/>
+<attribute NAME="key" VALUE="Ramamoorthy1975"/>
 <attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Ramamoorthy, C.V. and Yih-Wu Han"/>
 <attribute NAME="title" VALUE="Reliability Analysis of Systems with Concurrent Error Detection"/>
 <attribute NAME="year" VALUE="1975"/>
 </node>
-<node TEXT="Concurrent Error Detection Using Watchdog Processors - A Survey" ID="ID_1745161832" CREATED="1411611278044" MODIFIED="1413321726634" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00002145.pdf">
+<node TEXT="Concurrent Error Detection Using Watchdog Processors - A Survey" ID="ID_1745161832" CREATED="1411611278044" MODIFIED="1430613553757" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00002145.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C4DFA6B670D417D74165A0E9AB4CDA9B7AEC6583AD8791BDB8EB32C9896096">
     <pdf_title>Concurrent Error Detection Using Watchdog Processors-A Survey</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="2145"/>
+<attribute NAME="key" VALUE="Mahmood1988"/>
 <attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Mahmood, A and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="Concurrent error detection using watchdog processors-a survey"/>
 <attribute NAME="year" VALUE="1988"/>
 </node>
-<node TEXT="ED4I: Error Detection by Diverse Data and Duplicated Instructions" ID="ID_173818103" CREATED="1411611278065" MODIFIED="1413321726609" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00980007.pdf">
+<node TEXT="ED4I: Error Detection by Diverse Data and Duplicated Instructions" ID="ID_173818103" CREATED="1411611278065" MODIFIED="1430613553564" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00980007.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="84A75D9D67169CF8FCBA212EC3658E035B71343E086BDAED346DAFC35D147">
     <pdf_title>5534.&gt;?@5A5;AB3C55 ;55;</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="980007"/>
+<attribute NAME="key" VALUE="Oh2002"/>
 <attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Oh, N. and Mitra, S and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="ED4I: error detection by diverse data and duplicated instructions"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="Experimental Evaluation of Three Concurrent Error Detection Mechanisms" ID="ID_165605468" CREATED="1411611278030" MODIFIED="1413321726584" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04243649.pdf">
+<node TEXT="Experimental Evaluation of Three Concurrent Error Detection Mechanisms" ID="ID_165605468" CREATED="1411611278030" MODIFIED="1430613553896" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04243649.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E954FD21BC57B26DDE104D5A83BF77B3FAC4E4AE2D8FCE445B88085F0C344CB">
     <pdf_title>Experimental</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4243649"/>
+<attribute NAME="key" VALUE="Vahdatpour2006a"/>
 <attribute NAME="authors" VALUE="Vahdatpour, A and Fazeli, M. and Miremadi, S.G."/>
 <attribute NAME="title" VALUE="Experimental Evaluation of Three Concurrent Error Detection Mechanisms"/>
 <attribute NAME="year" VALUE="2006"/>
 </node>
-<node TEXT="Error Detection by Duplicated Instructions in Super-Scalar Processors" ID="ID_948503780" CREATED="1411611275304" MODIFIED="1413321726560" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994913.pdf">
+<node TEXT="Error Detection by Duplicated Instructions in Super-Scalar Processors" ID="ID_948503780" CREATED="1411611275304" MODIFIED="1430613552441" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994913.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="9B7D52B8685D26C9D8A66D9ACC4B14C9EA2C9625E3AFE997335D3D9CAFC563E3">
     <pdf_title>Error Detection by Duplicated Instructions in Super-Scalar Processors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="994913"/>
+<attribute NAME="key" VALUE="Oh2002a"/>
 <attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="Error detection by duplicated instructions in super-scalar processors"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="Design and Evaluation of Hybrid Fault-Detection Systems" ID="ID_15784652" CREATED="1411611275256" MODIFIED="1413321726535" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01431553.pdf">
+<node TEXT="Design and Evaluation of Hybrid Fault-Detection Systems" ID="ID_15784652" CREATED="1411611275256" MODIFIED="1430613552885" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01431553.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="37CD057959DB5A875DDB22DD476CAC374EF987DF5FFE2EA30C827D63E9D35">
     <pdf_title>Design and Evaluation of Hybrid Fault-Detection Systems</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1431553"/>
+<attribute NAME="key" VALUE="Reis2005"/>
 <attribute NAME="authors" VALUE="Reis, G.A and Chang, J. and Vachharajani, N. and Mukherjee, S.S. and Rangan, R. and August, D.I"/>
 <attribute NAME="title" VALUE="Design and evaluation of hybrid fault-detection systems"/>
 <attribute NAME="year" VALUE="2005"/>
 </node>
-<node TEXT="Soft-error detection using control flow assertions" ID="ID_544471556" CREATED="1411611277990" MODIFIED="1413321726509" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01250158.pdf">
+<node TEXT="Soft-error detection using control flow assertions" ID="ID_544471556" CREATED="1411611277990" MODIFIED="1430613553797" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01250158.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="1388EE1C7B7C77B799506F97E75C116A55DB6AAC4A2288E28C33396727EEA8">
     <pdf_title>Soft-error Detection Using Control Flow Assertions</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1250158"/>
+<attribute NAME="key" VALUE="Goloubeva2003"/>
 <attribute NAME="authors" VALUE="Goloubeva, O. and Rebaudengo, M. and Reorda, M.S. and Violante, M."/>
 <attribute NAME="title" VALUE="Soft-error detection using control flow assertions"/>
 <attribute NAME="year" VALUE="2003"/>
 </node>
-<node TEXT="Concurrent Detection of Software and Hardware Data-Access Faults" ID="ID_1306654622" CREATED="1411611277965" MODIFIED="1413321726491" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00588046.pdf">
+<node TEXT="Concurrent Detection of Software and Hardware Data-Access Faults" ID="ID_1306654622" CREATED="1411611277965" MODIFIED="1430613553042" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00588046.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E0F7374BD26FEB0489284A8798DE276D9E260D033868AC77B03DABCE12630">
     <pdf_title>Concurrent Detection of Software and Hardware Data-Access Faults</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="588046"/>
+<attribute NAME="key" VALUE="Wilken1997"/>
 <attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Wilken, K.D. and Kong, T."/>
 <attribute NAME="title" VALUE="Concurrent detection of software and hardware data-access faults"/>
 <attribute NAME="year" VALUE="1997"/>
 </node>
-<node TEXT="A Study On The Hardware Implementation Of EDAC" ID="ID_441008017" CREATED="1411611275208" MODIFIED="1413321726465" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04682244.pdf">
+<node TEXT="A Study On The Hardware Implementation Of EDAC" ID="ID_441008017" CREATED="1411611275208" MODIFIED="1430613552479" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04682244.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="14E12F1FF2EFD056FB1235299DA2DE7C227B380E8D632581CF12F638EC3">
     <pdf_title>A Study On The Hardware Implementation Of EDAC</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4682244"/>
+<attribute NAME="key" VALUE="Hao2008"/>
 <attribute NAME="authors" VALUE="Li Hao and Lixin Yu"/>
 <attribute NAME="title" VALUE="A Study on the Hardware Implementation Of EDAC"/>
 <attribute NAME="year" VALUE="2008"/>
 </node>
-<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_1346855554" CREATED="1411247614659" MODIFIED="1413321726429" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05720529.pdf">
+<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_1346855554" CREATED="1411247614659" MODIFIED="1430613552343" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05720529.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="17CA6DE573D6F4EEF27B7D76810A85EEE1417D224FEBB053E59524E5D45EEB">
     <pdf_title>Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5720529"/>
+<attribute NAME="key" VALUE="Azambuja2011a"/>
 <attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Rosa, L. and Kastensmidt, F.L."/>
 <attribute NAME="title" VALUE="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core" ID="ID_616251369" CREATED="1411611275136" MODIFIED="1413321726405" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01467779.pdf">
+<node TEXT="On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core" ID="ID_616251369" CREATED="1411611275136" MODIFIED="1430613552414" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01467779.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="B8AED7A81D228BBC8E0B0E6891E360DE5F8D5F9D287A953422B3A0EA9E584">
     <pdf_title>On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1467779"/>
+<attribute NAME="key" VALUE="Bernardi2005"/>
 <attribute NAME="authors" VALUE="Bernardi, P. and Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
 <attribute NAME="title" VALUE="On-line detection of control-flow errors in SoCs by means of an infrastructure IP core"/>
 <attribute NAME="year" VALUE="2005"/>
 </node>
-<node TEXT="Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency" ID="ID_1444775608" CREATED="1411611275168" MODIFIED="1413321726381" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00966768.pdf">
+<node TEXT="Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency" ID="ID_1444775608" CREATED="1411611275168" MODIFIED="1430613552681" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00966768.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="CCD3BCA35AB4FB5C5CB26E18143CD7E9EA80ABE74CACB6C44B6FE378657F4">
     <pdf_title>Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="966768"/>
+<attribute NAME="key" VALUE="Oh2001"/>
 <attribute NAME="authors" VALUE="Oh, N. and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="Procedure call duplication: minimization of energy consumption with constrained error detection latency"/>
 <attribute NAME="year" VALUE="2001"/>
 </node>
-<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_605248550" CREATED="1411611275513" MODIFIED="1413321726359" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05720529.pdf">
+<node TEXT="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique" ID="ID_605248550" CREATED="1411611275513" MODIFIED="1430613552373" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05720529.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="17CA6DE573D6F4EEF27B7D76810A85EEE1417D224FEBB053E59524E5D45EEB">
     <pdf_title>Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5720529"/>
+<attribute NAME="key" VALUE="Azambuja2011a"/>
 <attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Rosa, L. and Kastensmidt, F.L."/>
 <attribute NAME="title" VALUE="Detecting SEEs in Microprocessors Through a Non-Intrusive Hybrid Technique"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="Soft Error Detection via Double Execution with Hardware Assistance" ID="ID_150472735" CREATED="1411611275237" MODIFIED="1413321726337" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06334568.pdf">
+<node TEXT="Soft Error Detection via Double Execution with Hardware Assistance" ID="ID_150472735" CREATED="1411611275237" MODIFIED="1430613552982" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06334568.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="3C13F3858D4A3798C32266CAFFE364494B830A1A427A2F675961DDE5E6A6583">
     <pdf_title>Soft Error Detection via Double Execution with Hardware Assistance</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6334568"/>
+<attribute NAME="key" VALUE="Bustamante2012"/>
 <attribute NAME="authors" VALUE="Bustamante, L. and Al-Asaad, H."/>
 <attribute NAME="title" VALUE="Soft error detection via double execution with hardware assistance"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="A New Concurrent Detection of Control Flow Errors Based on DCT Technique" ID="ID_336936749" CREATED="1411611275174" MODIFIED="1413321726316" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04459660.pdf">
+<node TEXT="A New Concurrent Detection of Control Flow Errors Based on DCT Technique" ID="ID_336936749" CREATED="1411611275174" MODIFIED="1430613552601" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04459660.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FC19AD4ADFFAB5B34F5695A74B925D951B168E2E608146B48F1EDFC6884">
     <pdf_title>A New Concurrent Detection of Control Flow Errors Based on DCT Technique</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4459660"/>
+<attribute NAME="key" VALUE="Lai2007"/>
 <attribute NAME="authors" VALUE="Hung-Chuan Lai and Shi-Jinn Horng and Yong-Yuan Chen and Pingzhi Fan and Yi Pan"/>
 <attribute NAME="title" VALUE="A New Concurrent Detection of Control Flow Errors Based on DCT Technique"/>
 <attribute NAME="year" VALUE="2007"/>
 </node>
-<node TEXT="A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors" ID="ID_1089741212" CREATED="1411611278073" MODIFIED="1413321726296" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01607502.pdf">
+<node TEXT="A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors" ID="ID_1089741212" CREATED="1411611278073" MODIFIED="1430613553693" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01607502.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="EB7E4C34D186DE81967448C7FCE41392D195E603AC12B19FDB32C49D45">
     <pdf_title>A Hardware Approach to Concurrent Error Detection Capability Enhancement in COTS Processors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1607502"/>
+<attribute NAME="key" VALUE="Rajabzadeh2005"/>
 <attribute NAME="authors" VALUE="Rajabzadeh, A and Miremadi, S.-G."/>
 <attribute NAME="title" VALUE="A hardware approach to concurrent error detection capability enhancement in COTS processors"/>
 <attribute NAME="year" VALUE="2005"/>
 </node>
-<node TEXT="Improving Error Detection with S elective Redundancy in Software-based Techniques" ID="ID_384380627" CREATED="1411247614698" MODIFIED="1413321726276" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06562659.pdf">
+<node TEXT="Improving Error Detection with S elective Redundancy in Software-based Techniques" ID="ID_384380627" CREATED="1411247614698" MODIFIED="1430613553025" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06562659.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="EF9C252EA4816D3ACF3B773190119620F64A2B59BE76FAB47C23C7A169B7FC">
     <pdf_title>Improving Error Detection with Selective Redundancy in Software-based Techniques</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6562659"/>
+<attribute NAME="key" VALUE="Chielle2013a"/>
 <attribute NAME="authors" VALUE="Chielle, E. and Azambuja, J.R. and Barth, R.S. and Kastensmidt, F.L."/>
 <attribute NAME="title" VALUE="Improving error detection with selective redundancy in software-based techniques"/>
 <attribute NAME="year" VALUE="2013"/>
 </node>
-<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_1076407100" CREATED="1411247618829" MODIFIED="1413321726258" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00994926.pdf">
+<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_1076407100" CREATED="1411247618829" MODIFIED="1430613552796" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00994926.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA4D594D38C7FD3721EE38EDA210BC8D265245B855D8F937D5CBDD8DF22CC3">
     <pdf_title>Control-Flow Checking by Software Signatures</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="994926"/>
+<attribute NAME="key" VALUE="Oh2002b"/>
 <attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="Control-flow checking by software signatures"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="Error Detection Enhancement in COTS Superscalar Processors with Event Monitoring Features" ID="ID_814842855" CREATED="1411611275162" MODIFIED="1413321726238" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01276552.pdf">
+<node TEXT="Error Detection Enhancement in COTS Superscalar Processors with Event Monitoring Features" ID="ID_814842855" CREATED="1411611275162" MODIFIED="1430613552907" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01276552.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="AB2DDC84ABCC66B2CA14FE6F778FDE5E93D1C49D377B4ADC9F0C6804C6447AA">
     <pdf_title>Error Detection Enhancement in COTS Superscalar Processors with Event Monitoring Features</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1276552"/>
+<attribute NAME="key" VALUE="Rajabzadeh2004"/>
 <attribute NAME="authors" VALUE="Rajabzadeh, A and Mohandespour, M. and Miremadi, G."/>
 <attribute NAME="title" VALUE="Error detection enhancement in COTS superscalar processors with event monitoring features"/>
 <attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream" ID="ID_538573899" CREATED="1411611275232" MODIFIED="1413321726224" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04030963.pdf">
+<node TEXT="Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream" ID="ID_538573899" CREATED="1411611275232" MODIFIED="1430613552952" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/04030963.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="96C898D7FF3C0748894CB6A165513798A7F576D75BD7FB17262F69B6F49D0">
     <pdf_title>Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4030963"/>
+<attribute NAME="key" VALUE="Rota2006"/>
 <attribute NAME="authors" VALUE="Rota, F. and Dutt, S. and Krishna, S."/>
 <attribute NAME="title" VALUE="Off-Chip Control Flow Checking of On-Chip Processor-Cache Instruction Stream"/>
 <attribute NAME="year" VALUE="2006"/>
 </node>
-<node TEXT="Transient Error Detection in Embedded Systems Using Reconfigurable Components" ID="ID_262750164" CREATED="1411247622113" MODIFIED="1413321726212" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04197508.pdf">
+<node TEXT="Transient Error Detection in Embedded Systems Using Reconfigurable Components" ID="ID_262750164" CREATED="1411247622113" MODIFIED="1430613553632" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/04197508.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="A16329FFD21CEE2F3EC97B965EC8BE31695A3648A7131A24D4E9904DAC22A6">
     <pdf_title>Using</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="4197508"/>
+<attribute NAME="key" VALUE="Vahdatpour2006"/>
 <attribute NAME="authors" VALUE="Vahdatpour, A and Fazeli, M. and Miremadi, S.G."/>
 <attribute NAME="title" VALUE="Transient Error Detection in Embedded Systems Using Reconfigurable Components"/>
 <attribute NAME="year" VALUE="2006"/>
 </node>
-<node TEXT="A New Hybrid Fault Detection Technique&#xa;for Systems-on-a-Chip" ID="ID_217945067" CREATED="1411539430027" MODIFIED="1413321726201" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01566579.pdf">
+<node TEXT="A New Hybrid Fault Detection Technique&#xa;for Systems-on-a-Chip" ID="ID_217945067" CREATED="1411539430027" MODIFIED="1430613552535" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01566579.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="1A70A5D5EAAAF379FB56FE7432A683B755498C8C867B2BF89EDA6D55D3CEDB">
     <pdf_title>A New Hybrid Fault Detection Technique for Systems-on-a-Chip</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1566579"/>
+<attribute NAME="key" VALUE="Bernardi2006"/>
 <attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Bernardi, P. and Bolzani, L.M.V. and Rebaudengo, M. and Reorda, M.S. and Rodri&#x301;guez-Andina, J.J. and Violante, M."/>
 <attribute NAME="title" VALUE="A new hybrid fault detection technique for systems-on-a-chip"/>
@@ -10093,113 +10093,113 @@
 </node>
 </node>
 </node>
-<node TEXT="On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core" ID="ID_1566727605" CREATED="1411539430035" MODIFIED="1413321726181" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01467779.pdf">
+<node TEXT="On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core" ID="ID_1566727605" CREATED="1411539430035" MODIFIED="1430613552398" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01467779.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="B8AED7A81D228BBC8E0B0E6891E360DE5F8D5F9D287A953422B3A0EA9E584">
     <pdf_title>On-line Detection of Control-Flow Errors in SoCs by means of an Infrastructure IP core</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1467779"/>
+<attribute NAME="key" VALUE="Bernardi2005"/>
 <attribute NAME="authors" VALUE="Bernardi, P. and Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
 <attribute NAME="title" VALUE="On-line detection of control-flow errors in SoCs by means of an infrastructure IP core"/>
 <attribute NAME="year" VALUE="2005"/>
 </node>
-<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_1150015022" CREATED="1411611275156" MODIFIED="1413321726171" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994926.pdf">
+<node TEXT="Control-Flow Checking by Software Signatures" ID="ID_1150015022" CREATED="1411611275156" MODIFIED="1430613552783" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00994926.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="DA4D594D38C7FD3721EE38EDA210BC8D265245B855D8F937D5CBDD8DF22CC3">
     <pdf_title>Control-Flow Checking by Software Signatures</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="994926"/>
+<attribute NAME="key" VALUE="Oh2002b"/>
 <attribute NAME="journal" VALUE="Reliability, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Oh, N. and Shirvani, P.P. and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="Control-flow checking by software signatures"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1409436893" CREATED="1411611277983" MODIFIED="1413321726159" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01319663.pdf">
+<node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1409436893" CREATED="1411611277983" MODIFIED="1430613552552" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01319663.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E668D0EFFDC85F14458CACAC84F0BC471EBC34AD395A35259AFF3E68366862">
     <pdf_title>Hybrid Soft Error Detection by means of Infrastructure IP cores</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1319663"/>
+<attribute NAME="key" VALUE="Bolzani2004"/>
 <attribute NAME="authors" VALUE="Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
 <attribute NAME="title" VALUE="Hybrid soft error detection by means of infrastructure IP cores [SoC implementation]"/>
 <attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="Evaluating Selective Redundancy in Data-Flow Software-Based Techniques" ID="ID_162567518" CREATED="1411247614711" MODIFIED="1413321726148" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06560441.pdf">
+<node TEXT="Evaluating Selective Redundancy in Data-Flow Software-Based Techniques" ID="ID_162567518" CREATED="1411247614711" MODIFIED="1430613553858" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06560441.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="47631311DE21C49FF9483C5D3465208388655B4CFDB03B4A9F2622D24B0528">
     <pdf_title>Evaluating Selective Redundancy in Data-Flow Software-Based Techniques</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6560441"/>
+<attribute NAME="key" VALUE="Chielle2013"/>
 <attribute NAME="authors" VALUE="Chielle, E. and Azambuja, J.R. and Barth, R.S. and Almeida, F. and Kastensmidt, F.L."/>
 <attribute NAME="title" VALUE="Evaluating Selective Redundancy in Data-Flow Software-Based Techniques"/>
 <attribute NAME="year" VALUE="2013"/>
 <attribute NAME="journal" VALUE="Nuclear Science, IEEE Transactions on"/>
 </node>
-<node TEXT="Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors" ID="ID_1355615074" CREATED="1411247618843" MODIFIED="1413321726137" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05985914.pdf">
+<node TEXT="Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors" ID="ID_1355615074" CREATED="1411247618843" MODIFIED="1430613552293" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/05985914.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8A863A897D3B768F9852AEAE6AD4C87BA1A2F6EC252144C1068BE521D141F81">
     <pdf_title>Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5985914"/>
+<attribute NAME="key" VALUE="Azambuja2011"/>
 <attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Altieri, M. and Kastensmidt, F.L."/>
 <attribute NAME="title" VALUE="Evaluating the efficiency of data-flow software-based techniques to detect SEEs in microprocessors"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1469915905" CREATED="1411539430005" MODIFIED="1413321726127" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01319663.pdf">
+<node TEXT="Hybrid Soft Error Detection by means of Infrastructure IP cores" ID="ID_1469915905" CREATED="1411539430005" MODIFIED="1430613552569" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01319663.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="E668D0EFFDC85F14458CACAC84F0BC471EBC34AD395A35259AFF3E68366862">
     <pdf_title>Hybrid Soft Error Detection by means of Infrastructure IP cores</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1319663"/>
+<attribute NAME="key" VALUE="Bolzani2004"/>
 <attribute NAME="authors" VALUE="Bolzani, L. and Rebaudengo, M. and Reorda, M.S. and Vargas, F. and Violante, M."/>
 <attribute NAME="title" VALUE="Hybrid soft error detection by means of infrastructure IP cores [SoC implementation]"/>
 <attribute NAME="year" VALUE="2004"/>
 </node>
-<node TEXT="SIGNATURE VERIFICATION: A NEW CONCEPT FOR BUILDING SIMPLE AND EFFECTIVE WATCHDOG PROCESSORS" ID="ID_1334838232" CREATED="1411611275187" MODIFIED="1413321726115" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00162054.pdf">
+<node TEXT="SIGNATURE VERIFICATION: A NEW CONCEPT FOR BUILDING SIMPLE AND EFFECTIVE WATCHDOG PROCESSORS" ID="ID_1334838232" CREATED="1411611275187" MODIFIED="1430613553645" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00162054.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="9C9AC09069738F4E4D41242B207E9B13F9E24CE339457B79B39FA9379F1D9F7">
     <pdf_title>Joao</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="162054"/>
+<attribute NAME="key" VALUE="Madeira1991"/>
 <attribute NAME="authors" VALUE="Madeira, H. and Camoes, J. and Silva, J.G."/>
 <attribute NAME="title" VALUE="Signature verification: a new concept for building simple and effective watchdog processors"/>
 <attribute NAME="year" VALUE="1991"/>
 </node>
-<node TEXT="Watchdog Processors and Structural Integrity Checking" ID="ID_487780065" CREATED="1411611278052" MODIFIED="1413321726107" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01676066.pdf">
+<node TEXT="Watchdog Processors and Structural Integrity Checking" ID="ID_487780065" CREATED="1411611278052" MODIFIED="1430613552329" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/01676066.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="2B32F32C5296F18345FAC346F5116B4125E773599FE164929A7673D52F4E7A1">
     <pdf_title>CONCLUSION</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1676066"/>
+<attribute NAME="key" VALUE="Lu1982"/>
 <attribute NAME="journal" VALUE="Computers, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Lu, D.J."/>
 <attribute NAME="title" VALUE="Watchdog Processors and Structural Integrity Checking"/>
 <attribute NAME="year" VALUE="1982"/>
 </node>
-<node TEXT="An Hybrid Architecture to Detect Transient Faults in Microprocessors" ID="ID_1887115306" CREATED="1411611278009" MODIFIED="1413321726101" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06176590.pdf">
+<node TEXT="An Hybrid Architecture to Detect Transient Faults in Microprocessors" ID="ID_1887115306" CREATED="1411611278009" MODIFIED="1430613553945" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06176590.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="25E992F7A2715694BC4A9929EB5ED384262CEDE3BD7D689051E82EFCCC97C48">
     <pdf_title>An Hybrid Architecture to Detect Transient Faults in Microprocessors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6176590"/>
+<attribute NAME="key" VALUE="Campagna2012"/>
 <attribute NAME="authors" VALUE="Campagna, S. and Violante, M."/>
 <attribute NAME="title" VALUE="An hybrid architecture to detect transient faults in microprocessors: An experimental validation"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
-<node TEXT="Effectiveness And Limitations Of Various Software Techniques For &quot;soft Error&quot; Detection: A Comparative Study" ID="ID_975296772" CREATED="1411538599856" MODIFIED="1413321726095" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/00937838.pdf" MOVED="1411538638200">
+<node TEXT="Effectiveness And Limitations Of Various Software Techniques For &quot;soft Error&quot; Detection: A Comparative Study" ID="ID_975296772" CREATED="1411538599856" MODIFIED="1430613552468" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/00937838.pdf" MOVED="1411538638200">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="F695CF81FFCA501D92EEF01DDBD5F7A36452C774D962FF6AB48A0A6CD57AB">
     <pdf_title>of</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="937838"/>
+<attribute NAME="key" VALUE="Nicolescu2001"/>
 <attribute NAME="authors" VALUE="Nicolescu, B. and Velazco, R. and Reorda, M.S."/>
 <attribute NAME="title" VALUE="Effectiveness and limitations of various software techniques for &quot;soft error&quot; detection: a comparative study"/>
 <attribute NAME="year" VALUE="2001"/>
 </node>
-<node TEXT="Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors" ID="ID_1474275653" CREATED="1411611275125" MODIFIED="1413321726090" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05985914.pdf">
+<node TEXT="Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors" ID="ID_1474275653" CREATED="1411611275125" MODIFIED="1430613552313" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/05985914.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D8A863A897D3B768F9852AEAE6AD4C87BA1A2F6EC252144C1068BE521D141F81">
     <pdf_title>Evaluating the Efficiency of Data-flow Software-based Techniques to Detect SEEs in Microprocessors</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="5985914"/>
+<attribute NAME="key" VALUE="Azambuja2011"/>
 <attribute NAME="authors" VALUE="Azambuja, J.R. and Lapolli, A and Altieri, M. and Kastensmidt, F.L."/>
 <attribute NAME="title" VALUE="Evaluating the efficiency of data-flow software-based techniques to detect SEEs in microprocessors"/>
 <attribute NAME="year" VALUE="2011"/>
 </node>
-<node TEXT="Control-Flow Checking Using Watchdog Assists and Extended-Precision Checksums" ID="ID_1195631821" CREATED="1411611275243" MODIFIED="1413321726085" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00054849.pdf">
+<node TEXT="Control-Flow Checking Using Watchdog Assists and Extended-Precision Checksums" ID="ID_1195631821" CREATED="1411611275243" MODIFIED="1430613553585" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00054849.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="58B0B4ACAC7377702AA28ABA29D3A8BC9BBC43827DD48B2A2665187C09190">
     <pdf_title>micro rollback,</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="105615"/>
+<attribute NAME="key" VALUE="Saxena1989"/>
 <attribute NAME="authors" VALUE="Saxena, N.R. and McCluskey, E.J."/>
 <attribute NAME="title" VALUE="Control-flow checking using watchdog assists and extended-precision checksums"/>
 <attribute NAME="year" VALUE="1989"/>
@@ -10214,20 +10214,20 @@
 <attribute NAME="journal" VALUE="I Workshop on Dependability Issues in Deep-submicron Technologies (DDT)"/>
 <attribute NAME="year" VALUE="2011&#xa;2011"/>
 </node>
-<node TEXT="Coping With SEUs/SETs In Microprocessors By Means Of Low-cost Solutions: A Comparison Study" ID="ID_1932792216" CREATED="1411539078080" MODIFIED="1413321726074" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01039689.pdf" MOVED="1411539085113">
+<node TEXT="Coping With SEUs/SETs In Microprocessors By Means Of Low-cost Solutions: A Comparison Study" ID="ID_1932792216" CREATED="1411539078080" MODIFIED="1430613552637" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/01039689.pdf" MOVED="1411539085113">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="C8925053177B2937F43893C17783318A640C37C894162BD34EA33734661AAC2">
     <pdf_title>Coping With SEUs/SETs in Microprocessors by Means of Low-Cost Solutions: A Comparison Study</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="1159312"/>
+<attribute NAME="key" VALUE="Rebaudengo2001"/>
 <attribute NAME="authors" VALUE="Rebaudengo, M. and Reorda, M.S. and Violante, M. and Nicolescu, B. and Velano, R."/>
 <attribute NAME="title" VALUE="Coping with SEUs/SETs in microprocessors by means of low-cost solutions: a comparison study"/>
 <attribute NAME="year" VALUE="2001"/>
 </node>
-<node TEXT="Design and Evaluation of System-Level Checks for On-Line Control Flow Error Detection" ID="ID_591459584" CREATED="1411247618818" MODIFIED="1413321726035" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00774911.pdf">
+<node TEXT="Design and Evaluation of System-Level Checks for On-Line Control Flow Error Detection" ID="ID_591459584" CREATED="1411247618818" MODIFIED="1430613552833" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/00774911.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="60B3C9FE54EA11D86CE2F51D393BA8580BFAC2A445D70A445FBB386B7BD44">
     <pdf_title>1045-9219/99/$10.00 &#xdf; 1999 IEEE</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="774911"/>
+<attribute NAME="key" VALUE="Alkhalifa1999"/>
 <attribute NAME="journal" VALUE="Parallel and Distributed Systems, IEEE Transactions on"/>
 <attribute NAME="authors" VALUE="Alkhalifa, Z. and Nair, V.S.S. and Krishnamurthy, N. and Abraham, J.A"/>
 <attribute NAME="title" VALUE="Design and evaluation of system-level checks for on-line control flow error detection"/>
@@ -10236,7 +10236,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1428711667436" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
+<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1430613541886" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
 <font NAME="Courier New" BOLD="true"/>
 <edge COLOR="#006699"/>
 <node TEXT="SOC DESIGN METHODOLOGIES" ID="ID_732369618" CREATED="1411611275180" MODIFIED="1413321725986" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-35597-9.pdf">
@@ -10246,11 +10246,11 @@
 <attribute NAME="title" VALUE="SOC Design Methodologies"/>
 <attribute NAME="year" VALUE="2002"/>
 </node>
-<node TEXT="00243569.pdf" ID="ID_821059820" CREATED="1428177571022" MODIFIED="1428177571035" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00243569.pdf">
+<node TEXT="00243569.pdf" ID="ID_821059820" CREATED="1428177571022" MODIFIED="1430613552821" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/00243569.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="4E865C5163FDBC223F479D37AB8FF3CDCE4D2802271CE7F9BFC79CF99EC">
     <pdf_title>A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="243569"/>
+<attribute NAME="key" VALUE="Ohlsson1992"/>
 <attribute NAME="authors" VALUE="Ohlsson, J. and Rimen, M. and Gunneflo, U."/>
 <attribute NAME="title" VALUE="A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog"/>
 <attribute NAME="year" VALUE="1992"/>
@@ -10585,310 +10585,310 @@
 <attribute NAME="year" VALUE="2012"/>
 </node>
 </node>
-<node TEXT="S0883769400017504a.pdf" ID="ID_1929891272" CREATED="1428711682114" MODIFIED="1428711682114" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="S0883769400017504a.pdf" ID="ID_1929891272" CREATED="1428711682114" MODIFIED="1430613553246" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
-<node TEXT="SEUs have been recognized as one of the key reliability concerns for both current and future technologies." ID="ID_781542569" CREATED="1428711682221" MODIFIED="1428711682221" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="SEUs have been recognized as one of the key reliability concerns for both current and future technologies." ID="ID_781542569" CREATED="1428711682221" MODIFIED="1430613553251" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="5884954814798817438" object_number="11" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="We identify the major sources of SEUs that impact many commercial products: (1) alpha particles in packaging materials" ID="ID_1876451086" CREATED="1428711682138" MODIFIED="1428711682138" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="We identify the major sources of SEUs that impact many commercial products: (1) alpha particles in packaging materials" ID="ID_1876451086" CREATED="1428711682138" MODIFIED="1430613553105" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="3512024815691162802" object_number="12" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="(2) background radiation due to cosmic rays" ID="ID_1801743420" CREATED="1428711682257" MODIFIED="1428711682257" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="(2) background radiation due to cosmic rays" ID="ID_1801743420" CREATED="1428711682257" MODIFIED="1430613553134" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="96139008970753501" object_number="13" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="(3) thermal neutrons in certain device materials." ID="ID_1041544673" CREATED="1428711682281" MODIFIED="1428711682281" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="(3) thermal neutrons in certain device materials." ID="ID_1041544673" CREATED="1428711682281" MODIFIED="1430613553375" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="1974661847848188603" object_number="14" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="Any charged particle passing through a microelectronic  device  ionizes  the  material(s) along its path." ID="ID_1199944558" CREATED="1428711682318" MODIFIED="1428711682318" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="Any charged particle passing through a microelectronic  device  ionizes  the  material(s) along its path." ID="ID_1199944558" CREATED="1428711682318" MODIFIED="1430613553161" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="115374676697973106" object_number="15" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="A column of transient electron&#x2013;hole pairs is created around the particle track. These induced free carriers, if  left  alone  in  a  field-free  host  medium, will eventually recombine." ID="ID_1418986648" CREATED="1428711682384" MODIFIED="1428711682384" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="A column of transient electron&#x2013;hole pairs is created around the particle track. These induced free carriers, if  left  alone  in  a  field-free  host  medium, will eventually recombine." ID="ID_1418986648" CREATED="1428711682384" MODIFIED="1430613553454" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="2005329402181759201" object_number="16" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="This can generate  an  electrical  pulse  large  enough  to disrupt normal device operation. This disruption caused by one random intruding particle is not associated with any permanent damage to the device. " ID="ID_133648612" CREATED="1428711682518" MODIFIED="1428711682518" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="This can generate  an  electrical  pulse  large  enough  to disrupt normal device operation. This disruption caused by one random intruding particle is not associated with any permanent damage to the device. " ID="ID_133648612" CREATED="1428711682518" MODIFIED="1430613553203" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="5582062904717651628" object_number="17" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="result is an error in one bit" ID="ID_642103010" CREATED="1428711682024" MODIFIED="1428711682029" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="result is an error in one bit" ID="ID_642103010" CREATED="1428711682024" MODIFIED="1430613553412" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="7785545414356009501" object_number="18" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="Marcador de texto" ID="ID_600702987" CREATED="1428711682341" MODIFIED="1428711682341" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="Marcador de texto" ID="ID_600702987" CREATED="1428711682341" MODIFIED="1430613553081" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="2784499240742224926" object_number="19" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="electrically  neutral  subatomic  particles such as neutrons are known to cause soft failures in circuits." ID="ID_1916239405" CREATED="1428711682636" MODIFIED="1428711682636" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="electrically  neutral  subatomic  particles such as neutrons are known to cause soft failures in circuits." ID="ID_1916239405" CREATED="1428711682636" MODIFIED="1430613553339" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="8752527288560388507" object_number="20" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="SEUs have been recognized as  a  key  area  limiting  the  reliability  of many mainstream technologies." ID="ID_278538668" CREATED="1428711682170" MODIFIED="1428711682170" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="SEUs have been recognized as  a  key  area  limiting  the  reliability  of many mainstream technologies." ID="ID_278538668" CREATED="1428711682170" MODIFIED="1430613553225" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="2323758211993409472" object_number="21" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="SEUs and radiation hardening  (i.e.,  intentional  improvement in  a  device&#x2019;s  ability  to  withstand  highradiation  environments)  are  of  growing concern to both the commercial and spacebased  semiconductor  industries." ID="ID_1556190236" CREATED="1428711682187" MODIFIED="1428711682187" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="SEUs and radiation hardening  (i.e.,  intentional  improvement in  a  device&#x2019;s  ability  to  withstand  highradiation  environments)  are  of  growing concern to both the commercial and spacebased  semiconductor  industries." ID="ID_1556190236" CREATED="1428711682187" MODIFIED="1430613553472" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="86882898782503081" object_number="22" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="Alpha  particles  emitted  from  packaging materials " ID="ID_1049119954" CREATED="1428711682363" MODIFIED="1428711682363" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="Alpha  particles  emitted  from  packaging materials " ID="ID_1049119954" CREATED="1428711682363" MODIFIED="1430613553277" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="3427534961175231283" object_number="23" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="terrestrial cosmic rays" ID="ID_1209958954" CREATED="1428711682154" MODIFIED="1428711682154" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="terrestrial cosmic rays" ID="ID_1209958954" CREATED="1428711682154" MODIFIED="1430613553295" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="583056810560547275" object_number="24" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="thermal neutrons" ID="ID_1051650735" CREATED="1428711682669" MODIFIED="1428711682669" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="thermal neutrons" ID="ID_1051650735" CREATED="1428711682669" MODIFIED="1430613553490" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="4310045794422020642" object_number="25" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="caused  by  radiation generated  by  high  energy  beams  interacting  with  surrounding  materials." ID="ID_300222960" CREATED="1428711682455" MODIFIED="1428711682455" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="caused  by  radiation generated  by  high  energy  beams  interacting  with  surrounding  materials." ID="ID_300222960" CREATED="1428711682455" MODIFIED="1430613553505" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="1450012430246271723" object_number="26" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="The oldest SEU problem can be tracked to  certain  packaging  materials  used  in integrated  circuits  (ICs).  These  materials contain  traces  of  radioactive  atoms  that emit  alpha  particles  (helium-4  nuclei)." ID="ID_734979770" CREATED="1428711682202" MODIFIED="1428711682203" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="The oldest SEU problem can be tracked to  certain  packaging  materials  used  in integrated  circuits  (ICs).  These  materials contain  traces  of  radioactive  atoms  that emit  alpha  particles  (helium-4  nuclei)." ID="ID_734979770" CREATED="1428711682202" MODIFIED="1430613553363" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="1" object_id="629267453589249220" object_number="27" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="When an alpha particle  penetrates  the  materials  above a device  and  hits  a  sensitive  volume,  it can generate  an  electrical  pulse  that  can lead to an SEU in the circuit." ID="ID_1953844775" CREATED="1428711682598" MODIFIED="1428711682598" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="When an alpha particle  penetrates  the  materials  above a device  and  hits  a  sensitive  volume,  it can generate  an  electrical  pulse  that  can lead to an SEU in the circuit." ID="ID_1953844775" CREATED="1428711682598" MODIFIED="1430613553352" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="1029830508130072749" object_number="53" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="The mitigation of this problem relies on improvements in the packaging processes and using alpha-free materials." ID="ID_1481517593" CREATED="1428711682494" MODIFIED="1428711682494" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="The mitigation of this problem relies on improvements in the packaging processes and using alpha-free materials." ID="ID_1481517593" CREATED="1428711682494" MODIFIED="1430613553187" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="5444548600628506749" object_number="54" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="Of all the SEU sources discussed here, cosmic rays are by far the most important." ID="ID_1551034065" CREATED="1428711682550" MODIFIED="1428711682550" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="Of all the SEU sources discussed here, cosmic rays are by far the most important." ID="ID_1551034065" CREATED="1428711682550" MODIFIED="1430613553427" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="5239476364143547617" object_number="55" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="The underlying reasons are complex  and  subtle  and,  until  recently, the situation  with  cosmic  rays  has  not been fully appreciated." ID="ID_1153254171" CREATED="1428711682303" MODIFIED="1428711682303" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="The underlying reasons are complex  and  subtle  and,  until  recently, the situation  with  cosmic  rays  has  not been fully appreciated." ID="ID_1153254171" CREATED="1428711682303" MODIFIED="1430613553063" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="2538033953669658788" object_number="56" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="cosmic-ray particles, which carry kinetic energies spanning the range from milli- to gigaelectronvolts." ID="ID_1376622002" CREATED="1428711682701" MODIFIED="1428711682701" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="cosmic-ray particles, which carry kinetic energies spanning the range from milli- to gigaelectronvolts." ID="ID_1376622002" CREATED="1428711682701" MODIFIED="1430613553330" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="6031717402962428434" object_number="57" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="designing effective  radiation  shielding  valid  for  all possible  applications  and  in  all  environments is not a viable solution." ID="ID_1864079411" CREATED="1428711682579" MODIFIED="1428711682579" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="designing effective  radiation  shielding  valid  for  all possible  applications  and  in  all  environments is not a viable solution." ID="ID_1864079411" CREATED="1428711682579" MODIFIED="1430613553391" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="1882054064195242336" object_number="58" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="cosmic-ray  fluxes  are  subject  to  large changes  due  to  constant  fluctuations  of atmospheric conditions, the earth&#x2019;s magnetic  field,  solar  winds,  solar  activities, and  even  supernova  explosions.  All  of these  factors  are  clearly  beyond  human control.  " ID="ID_1236587323" CREATED="1428711682741" MODIFIED="1428711682741" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="cosmic-ray  fluxes  are  subject  to  large changes  due  to  constant  fluctuations  of atmospheric conditions, the earth&#x2019;s magnetic  field,  solar  winds,  solar  activities, and  even  supernova  explosions.  All  of these  factors  are  clearly  beyond  human control.  " ID="ID_1236587323" CREATED="1428711682741" MODIFIED="1430613553322" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="6081004407278554683" object_number="59" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="The  earth&#x2019;s  magnetic  field  acts  as  an effective  shield,  and  a  charged  primary cosmic-ray particle is constantly deflected from  its  path." ID="ID_1489867759" CREATED="1428711682476" MODIFIED="1428711682476" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="The  earth&#x2019;s  magnetic  field  acts  as  an effective  shield,  and  a  charged  primary cosmic-ray particle is constantly deflected from  its  path." ID="ID_1489867759" CREATED="1428711682476" MODIFIED="1430613553402" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="2450204803167579819" object_number="60" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="Marcador de texto" ID="ID_543621223" CREATED="1428711682410" MODIFIED="1428711682410" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="Marcador de texto" ID="ID_543621223" CREATED="1428711682410" MODIFIED="1430613553316" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="724960451200562841" object_number="61" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="Marcador de texto" ID="ID_1073059145" CREATED="1428711682724" MODIFIED="1428711682724" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="Marcador de texto" ID="ID_1073059145" CREATED="1428711682724" MODIFIED="1430613553310" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="7225307673881076089" object_number="62" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="When a neutron penetrates a chip, it occasionally collides with an elemental nucleus, for example, a silicon nucleus in a device  region,  an  oxygen  nucleus  in  the oxide  layer,  or  a  copper  nucleus  in  the metal  layer.  This  neutron&#x2013;nucleus  event initiates a local spallation reaction. Some of these fragments may hit a sensitive device region and cause an SEU. " ID="ID_409148648" CREATED="1428711682438" MODIFIED="1428711682438" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="When a neutron penetrates a chip, it occasionally collides with an elemental nucleus, for example, a silicon nucleus in a device  region,  an  oxygen  nucleus  in  the oxide  layer,  or  a  copper  nucleus  in  the metal  layer.  This  neutron&#x2013;nucleus  event initiates a local spallation reaction. Some of these fragments may hit a sensitive device region and cause an SEU. " ID="ID_409148648" CREATED="1428711682438" MODIFIED="1430613553442" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="3525030591074895516" object_number="63" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="For several recent technologies, thermal neutrons  were  discovered  to  be  a  major SEU issue. Thermal neutrons (n th ) are slow neutrons with kinetic energies in the millielectronvolt range. " ID="ID_1513449587" CREATED="1428711682621" MODIFIED="1428711682622" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="For several recent technologies, thermal neutrons  were  discovered  to  be  a  major SEU issue. Thermal neutrons (n th ) are slow neutrons with kinetic energies in the millielectronvolt range. " ID="ID_1513449587" CREATED="1428711682621" MODIFIED="1430613553485" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="1625506282994396401" object_number="64" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
-<node TEXT="see, e.g., Reference 8 for fur-ther  details  and  Reference 9  for  a  lively and up-to-date account of cosmic-ray research geared toward nonspecialists)" ID="ID_1746133410" CREATED="1428711682426" MODIFIED="1428711682426" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="see, e.g., Reference 8 for fur-ther  details  and  Reference 9  for  a  lively and up-to-date account of cosmic-ray research geared toward nonspecialists)" ID="ID_1746133410" CREATED="1428711682426" MODIFIED="1430613553408" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="HIGHLIGHTED_TEXT" page="2" object_id="3252298173923208588" object_number="65" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="MRS:7964131"/>
+<attribute NAME="key" VALUE="Tang2003"/>
 <attribute NAME="journal" VALUE="MRS Bulletin"/>
 <attribute NAME="year" VALUE="2003"/>
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
