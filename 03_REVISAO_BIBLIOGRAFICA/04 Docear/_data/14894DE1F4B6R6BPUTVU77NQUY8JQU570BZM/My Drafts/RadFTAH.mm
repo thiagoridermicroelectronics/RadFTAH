@@ -1,7 +1,7 @@
-<map version="docear 1.1" dcr_id="1415571930717_6sfhsq4l8y1w4i8o59njrkpae" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/Projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
+<map version="docear 1.1" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/Projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/" dcr_id="1415571930717_6sfhsq4l8y1w4i8o59njrkpae">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected"/>
-<node TEXT="RadFTAH" FOLDED="false" ID="4e761ek5784lh44uptn1l38h0b" CREATED="1415571623955" MODIFIED="1415673454809" STYLE="bubble"><hook NAME="MapStyle" zoom="0.754">
+<node TEXT="RadFTAH" FOLDED="false" ID="4e761ek5784lh44uptn1l38h0b" CREATED="1415571623955" MODIFIED="1415673454809" STYLE="bubble"><hook NAME="MapStyle" zoom="0.566">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -52,7 +52,7 @@
 </map_styles>
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="AutomaticEdgeColor" COUNTER="3"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="7"/>
 <node TEXT="Contexto da Pesquisa" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="1vhksld5j5jtr8b3fsn8r6tbb3" CREATED="1415571623956" MODIFIED="1415674124784" HGAP="47" VSHIFT="19" BACKGROUND_COLOR="#c5c5c5"><richcontent TYPE="DETAILS">
 
 <html>
@@ -197,7 +197,7 @@
 <hook NAME="AlwaysUnfoldedNode"/>
 <edge COLOR="#c74dd0" WIDTH="4"/>
 </node>
-<node TEXT="Introdu&#xe7;&#xe3;o" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_939593023" CREATED="1415674043043" MODIFIED="1416707312105" HGAP="-299" VSHIFT="-437" BACKGROUND_COLOR="#c5c5c5">
+<node TEXT="Introdu&#xe7;&#xe3;o" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_939593023" CREATED="1415674043043" MODIFIED="1430701603321" HGAP="-296" VSHIFT="-716" BACKGROUND_COLOR="#c5c5c5">
 <edge COLOR="#ff0500" WIDTH="4"/>
 <richcontent TYPE="DETAILS">
 
@@ -212,27 +212,27 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="As prospec&#xe7;oes do International Technology Roadmap for Semiconductors (ITRS) preveem que em pouco tempo teremos transistores de menos de uma dezena de nan&#xf4;metros, al&#xe9;m de tecnologias com m&#xfa;ltiplos gates(MGT) e isso implica em ...." ID="ID_1431431857" CREATED="1416705507016" MODIFIED="1416785471029" HGAP="-907" VSHIFT="-28">
+<node TEXT="As prospec&#xe7;oes do International Technology Roadmap for Semiconductors (ITRS) preveem que em pouco tempo teremos transistores de menos de uma dezena de nan&#xf4;metros, al&#xe9;m de tecnologias com m&#xfa;ltiplos gates(MGT) e isso implica em ...." ID="ID_1431431857" CREATED="1416705507016" MODIFIED="1430701838997" HGAP="-860" VSHIFT="-89">
 <node TEXT="menor confiabilidade dos transistores" ID="ID_1788373626" CREATED="1416707362650" MODIFIED="1416781545272" HGAP="-1030" VSHIFT="-27"/>
 <node TEXT="manifesta&#xe7;oes de efeitos da radia&#xe7;ao ao nivel do mar" ID="ID_1057459301" CREATED="1416776690969" MODIFIED="1416781548402" HGAP="-1150" VSHIFT="-40"/>
 <node TEXT="menores capacit&#xe2;ncias" ID="ID_924322165" CREATED="1416776740154" MODIFIED="1416781558770" HGAP="-890" VSHIFT="-30"/>
 <node TEXT="menores cargas armazenadas" ID="ID_1985803577" CREATED="1416781406948" MODIFIED="1416781564233" HGAP="-920" VSHIFT="-20"/>
 <node TEXT="menores margens de ru&#xed;do" ID="ID_1671079462" CREATED="1416781446894" MODIFIED="1416781570642" HGAP="-890" VSHIFT="-20"/>
 <node TEXT="menor consumo" ID="ID_1180288309" CREATED="1416781476807" MODIFIED="1416781567262" HGAP="-810" VSHIFT="-40"/>
-<node TEXT="Technology Scaling and Soft Error Reliability" ID="ID_1535750975" CREATED="1411247622128" MODIFIED="1416793067872" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf" HGAP="-1010" VSHIFT="-10">
+<node TEXT="Technology Scaling and Soft Error Reliability" ID="ID_1535750975" CREATED="1411247622128" MODIFIED="1431214281289" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf" HGAP="-1010" VSHIFT="-10">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="ABAA43484F344765CCC7E7905D8FBA274B76E24BA8D4B86D2C7F43879F8F46">
     <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
 </pdf_annotation>
-<attribute NAME="key" VALUE="6241810"/>
+<attribute NAME="key" VALUE="Massengill2012"/>
 <attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
 <attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
 <attribute NAME="year" VALUE="2012"/>
 </node>
 </node>
-<node TEXT="Enquanto que a tecnologia avan&#xe7;a no sentido da escalabilidade, a radia&#xe7;&#xe3;o e seus efeitos permanecem como um fen&#xf4;meno prejudicial ao correto funcionamento dos circuitos eletr&#xf4;nicos, afetando ainda mais a cada mudan&#xe7;a de n&#xf3; tecnol&#xf3;gico... O que antes era alvo de aten&#xe7;&#xe3;o quase que exclusivamente no setor aeroespacial, vem a ser considerado ao n&#xed;vel do mar." ID="ID_811508771" CREATED="1416785460394" MODIFIED="1416792170840" HGAP="-900" VSHIFT="-370">
+<node TEXT="Enquanto que a tecnologia avan&#xe7;a no sentido da escalabilidade, a radia&#xe7;&#xe3;o e seus efeitos permanecem como um fen&#xf4;meno prejudicial ao correto funcionamento dos circuitos eletr&#xf4;nicos, afetando ainda mais a cada mudan&#xe7;a de n&#xf3; tecnol&#xf3;gico... O que antes era alvo de aten&#xe7;&#xe3;o quase que exclusivamente no setor aeroespacial, vem a ser considerado ao n&#xed;vel do mar." ID="ID_811508771" CREATED="1416785460394" MODIFIED="1430701835379" HGAP="-879" VSHIFT="-92">
 <node TEXT="exce&#xe7;ao: particulas alpha provenientes das impurezas dos encapsulamentos dos chips" ID="ID_1996023763" CREATED="1416792184921" MODIFIED="1416792748077" HGAP="-1236" VSHIFT="-50"/>
-<node TEXT="A radia&#xe7;ao ionizante extrinseca ao chip e cada vez tao importante quanto outros aspectos intr&#xed;nsecos como: rompimento do diel&#xe9;trico, hot electron injection ou falhas devido a contaminantes." ID="ID_532457254" CREATED="1416792757105" MODIFIED="1416793082058" HGAP="-1236" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
-<attribute NAME="key" VALUE="6241810"/>
+<node TEXT="A radia&#xe7;ao ionizante extrinseca ao chip e cada vez tao importante quanto outros aspectos intr&#xed;nsecos como: rompimento do diel&#xe9;trico, hot electron injection ou falhas devido a contaminantes." ID="ID_532457254" CREATED="1416792757105" MODIFIED="1431214281304" HGAP="-1236" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06241810.pdf">
+<attribute NAME="key" VALUE="Massengill2012"/>
 <attribute NAME="authors" VALUE="Massengill, L.W. and Bhuva, B.L. and Holman, W.T. and Alles, M.L. and Loveless, T.D."/>
 <attribute NAME="title" VALUE="Technology scaling and soft error reliability"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -240,8 +240,37 @@
     <pdf_title>Technology Scaling and Soft Error Reliability</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="" ID="ID_536830714" CREATED="1416792955168" MODIFIED="1416792961511" HGAP="-650" VSHIFT="30"/>
 </node>
+<node TEXT="" ID="ID_1828258580" CREATED="1430701416192" MODIFIED="1430701824746" HGAP="-318" VSHIFT="-133" MOVED="1430701514387"/>
+<node TEXT="" ID="ID_1326165218" CREATED="1430701416192" MODIFIED="1430701799113" HGAP="-318" VSHIFT="-217" MOVED="1430701505199"/>
+<node TEXT="" ID="ID_356662351" CREATED="1430701416192" MODIFIED="1430701782832" HGAP="-297" VSHIFT="-81" MOVED="1430701529391"/>
+<node TEXT="" ID="ID_1732234128" CREATED="1430701416192" MODIFIED="1430701776741" HGAP="-295" VSHIFT="-67" MOVED="1430701541293"/>
+<node TEXT="" ID="ID_1892245754" CREATED="1430701416192" MODIFIED="1430701767287" HGAP="-295" VSHIFT="-67" MOVED="1430701552009"/>
+<node TEXT="" ID="ID_861710710" CREATED="1430701416192" MODIFIED="1430701760684" HGAP="-295" VSHIFT="-97" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1239222664" CREATED="1430701416192" MODIFIED="1430701755173" HGAP="-295" VSHIFT="-88" MOVED="1430701463831"/>
+<node TEXT="" ID="ID_234555375" CREATED="1430701416192" MODIFIED="1430701749373" HGAP="-295" VSHIFT="-81" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_13366961" CREATED="1430701416192" MODIFIED="1430701742605" HGAP="-295" VSHIFT="-67" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_855193294" CREATED="1430701416192" MODIFIED="1430701735221" HGAP="-295" VSHIFT="-74" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_184568316" CREATED="1430701416192" MODIFIED="1430701730039" HGAP="-295" VSHIFT="-81" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1045007134" CREATED="1430701416192" MODIFIED="1430701726436" HGAP="-295" VSHIFT="-74" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1297871882" CREATED="1430701416192" MODIFIED="1430701721404" HGAP="-295" VSHIFT="-71" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_39566438" CREATED="1430701416192" MODIFIED="1430701717681" HGAP="-295" VSHIFT="-97" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_498532918" CREATED="1430701416192" MODIFIED="1430701713027" HGAP="-290" VSHIFT="-88" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_134218424" CREATED="1430701416192" MODIFIED="1430701709099" HGAP="-285" VSHIFT="-81" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_258945417" CREATED="1430701416192" MODIFIED="1430701703611" HGAP="-281" VSHIFT="-164" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1914590686" CREATED="1430701416192" MODIFIED="1430701698570" HGAP="-280" VSHIFT="-127" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1436478226" CREATED="1430701416192" MODIFIED="1430701689668" HGAP="-265" VSHIFT="-67" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_15555877" CREATED="1430701416192" MODIFIED="1430701686584" HGAP="-265" VSHIFT="-51" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_425987481" CREATED="1430701416192" MODIFIED="1430701682624" HGAP="-265" VSHIFT="-67" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_912163892" CREATED="1430701416192" MODIFIED="1430701675884" HGAP="-265" VSHIFT="-51" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1725413606" CREATED="1430701416192" MODIFIED="1430701671258" HGAP="-269" VSHIFT="-58" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1731798826" CREATED="1430701416192" MODIFIED="1430701665650" HGAP="-272" VSHIFT="-35" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1415547896" CREATED="1430701416192" MODIFIED="1430701660748" HGAP="-272" VSHIFT="-58" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_249466542" CREATED="1430701416192" MODIFIED="1430701656087" HGAP="-278" VSHIFT="-67" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_677124493" CREATED="1430701416192" MODIFIED="1430701650623" HGAP="-272" VSHIFT="-74" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_64695403" CREATED="1430701416192" MODIFIED="1430701642598" HGAP="-272" VSHIFT="-74" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1675773350" CREATED="1430701416192" MODIFIED="1430701635988" HGAP="-272" VSHIFT="-111" MOVED="1430701561511"/>
+<node TEXT="" ID="ID_1276844267" CREATED="1430701416192" MODIFIED="1430701631645" HGAP="-272" VSHIFT="-777" MOVED="1430701561511"/>
 </node>
 </node>
 </map>

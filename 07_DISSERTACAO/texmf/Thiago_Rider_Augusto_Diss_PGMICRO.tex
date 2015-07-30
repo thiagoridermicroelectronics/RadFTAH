@@ -26,12 +26,15 @@
 % Necessário para incluir figuras
 \usepackage{graphicx}           % pacote para importar figuras
 
+\usepackage{color}           % pacote para usar cores no texto
 
 \usepackage{times}              % pacote para usar fonte Adobe Times
 % \usepackage{palatino}
 % \usepackage{mathptmx}          % p/ usar fonte Adobe Times nas fórmulas
 
 \usepackage[alf,abnt-emphasize=bf]{abntex2cite}	% pacote para usar citações abnt
+
+\usepackage{epigraph}		%pacote para usar epígrafe
 
 %
 % Informações gerais
@@ -124,22 +127,14 @@ Agradeço ao \LaTeX\ por não ter vírus de macro\ldots
 
 % resumo na língua do documento
 \begin{abstract}
-Com a evolução dos processos de fabricação de dispositivos eletrônicos, um fenômeno já conhecido passa a afetar ainda mais os circuitos: trata-se do fenômeno da radiação cósmica. Logo, ao tentar se utilizar circuitos no meio espacial, é necessária a devida adaptação com técnicas especializadas para mitigar falhas que podem levar a efeitos catastróficos e arruinar missões espaciais. Ao passar dos anos, muitas técnicas foram desenvolvidas em diferentes níveis: hardware, software ou híbridas.
-
-A suscetibilidade dos circuitos a radiação está ligada a maior integração, que faz com que os transistores sejam cada vez mais diminutos. Com as chaves menores, a chance de uma partícula afetar um ou mais dispositivos é muito maior. O aumento da frequência de operação também ocupa lugar nessa problemática, haja visto que com um intervalo mais curto entre as bordas de relógio, aumenta-se a probabilidade de um pulso espúrio ser capturado pela lógica. A complexidade e tamanho dos circuitos também ficaram maiores e grande parte dos sistemas é microprocessado, levando a um interesse ainda maior de proteger essa classe de sistemas.
-
-Este trabalho visa implementar em hardware diversas técnicas de detecção de erros, com o objetivo de proteger processadores contra falhas transientes, propondo um  módulo especializado, capaz de atuar dinamicamente selecionando uma técnica, levando em consideração a melhor relação entre o custo do tempo de execução e a taxa de detecção de erros. Tem relevância no contexto de uso de sistemas micro processados em ambientes hostis cuja exposição à radiação ou ainda, influência eletromagnética podem causar efeitos inesperados no comportamento do circuito.
+Com a evolução dos processos de fabricação de dispositivos eletrônicos, um fenômeno já conhecido passa a afetar ainda mais os circuitos: trata-se do fenômeno da radiação cósmica. Logo, ao tentar se utilizar circuitos no meio espacial, é necessária a devida adaptação com técnicas especializadas para mitigar falhas que podem levar a efeitos catastróficos e arruinar missões espaciais. Ao passar dos anos, muitas técnicas foram desenvolvidas em diferentes níveis: hardware, software ou híbridas. A suscetibilidade dos circuitos a radiação está ligada a maior integração, que faz com que os transistores sejam cada vez mais diminutos. Com as chaves menores, a chance de uma partícula afetar um ou mais dispositivos é muito maior. O aumento da frequência de operação também ocupa lugar nessa problemática, haja visto que com um intervalo mais curto entre as bordas de relógio, aumenta-se a probabilidade de um pulso espúrio ser capturado pela lógica. A complexidade e tamanho dos circuitos também ficaram maiores e grande parte dos sistemas é microprocessado, levando a um interesse ainda maior de proteger essa classe de sistemas. Este trabalho visa implementar em hardware diversas técnicas de detecção de erros, com o objetivo de proteger processadores contra falhas transientes, propondo um  módulo especializado, capaz de atuar dinamicamente selecionando uma técnica, levando em consideração a melhor relação entre o custo do tempo de execução e a taxa de detecção de erros. Tem relevância no contexto de uso de sistemas micro processados em ambientes hostis cuja exposição à radiação ou ainda, influência eletromagnética podem causar efeitos inesperados no comportamento do circuito.
 \end{abstract}
 
 % resumo na outra língua
 % como parametros devem ser passados o titulo e as palavras-chave
 % na outra língua, separadas por vírgulas
 \begin{englishabstract}{Dynamic hardware for fault tolerance in microprocessors}{Fault Tolerance,Error Detection,Adaptative Hardware,Microprocessors}
-With the development of electronic devices manufacturing processes, an already known phenomenon becomes even more affect the circuits: it is the phenomenon of cosmic radiation. Then when you try to use circuits in the space environment, appropriate adjustment is required with specialized techniques to mitigate failures that can lead to catastrophic effects and ruin space missions. Over the years, many techniques have been developed at different levels: hardware, software or hybrid.
-
-The susceptibility of circuits radiation is linked to greater integration, which makes the transistors are increasingly tiny. With the minor keys, the chance of a particle affect one or more devices is much higher. Increasing the frequency of operation also takes place on these problems, there is seen that with a shorter interval between the clock edges, increases the likelihood of a spurious pulse is captured by logic. The complexity and size of the circuits were also larger and much of the microprocessor systems is leading to an even greater interest in protecting this class of systems.
-
-This work aims to implement in hardware several error detection techniques, in order to protect against transient faults processors, offering a specialized module, able to act dynamically selecting a technique, taking into account the best ratio between the cost of run time and error detection rate. Has relevance in micro systems use context processed in hostile environments where exposure to radiation or, electromagnetic influence can cause unexpected effects on circuit behavior.
+With the development of electronic devices manufacturing processes, an already known phenomenon becomes even more affect the circuits: it is the phenomenon of cosmic radiation. Then when you try to use circuits in the space environment, appropriate adjustment is required with specialized techniques to mitigate failures that can lead to catastrophic effects and ruin space missions. Over the years, many techniques have been developed at different levels: hardware, software or hybrid. The susceptibility of circuits radiation is linked to greater integration, which makes the transistors are increasingly tiny. With the minor keys, the chance of a particle affect one or more devices is much higher. Increasing the frequency of operation also takes place on these problems, there is seen that with a shorter interval between the clock edges, increases the likelihood of a spurious pulse is captured by logic. The complexity and size of the circuits were also larger and much of the microprocessor systems is leading to an even greater interest in protecting this class of systems. This work aims to implement in hardware several error detection techniques, in order to protect against transient faults processors, offering a specialized module, able to act dynamically selecting a technique, taking into account the best ratio between the cost of run time and error detection rate. Has relevance in micro systems use context processed in hostile environments where exposure to radiation or, electromagnetic influence can cause unexpected effects on circuit behavior.
 \end{englishabstract}
 
 % lista de abreviaturas e siglas
@@ -202,5 +197,9 @@ This work aims to implement in hardware several error detection techniques, in o
 
 \bibliographystyle{abntex2-alf}
 \bibliography{biblio}
+
+\appendix
+
+\chapter{CONTRIBUIÇÕES}
 
 \end{document}

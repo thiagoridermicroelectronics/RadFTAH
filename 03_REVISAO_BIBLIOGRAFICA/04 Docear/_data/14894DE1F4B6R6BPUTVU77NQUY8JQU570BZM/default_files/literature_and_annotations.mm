@@ -1,7 +1,7 @@
-<map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/Projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/">
+<map version="docear 1.1" project="14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM" project_last_home="file:/home/thiago/Projetos/RadFTAH/03_REVISAO_BIBLIOGRAFICA/04%20Docear/" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1430613541045" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1432172301312" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67,7 +67,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="2"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="3"/>
 <attribute NAME="mon_incoming_folder" VALUE="@@literature_repository@@"/>
 <attribute NAME="mon_mindmap_folder" VALUE="@@library_mindmaps@@"/>
 <attribute NAME="mon_auto" VALUE="1" OBJECT="java.lang.Integer|1"/>
@@ -75,7 +75,7 @@
 <attribute NAME="mon_flatten_dirs" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <attribute NAME="mon_add_extra_incoming_node" VALUE="2" OBJECT="java.lang.Integer|2"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1430613541048" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Verifica&#xe7;&#xe3;o e Teste" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1432172301314" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#007c7c"/>
 <node TEXT="Verification Methodology Manual for SystemVerilog" ID="ID_1296405716" CREATED="1411539431435" MODIFIED="1413321727263" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/bok%253A978-0-387-25556-9.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0"/>
@@ -5355,7 +5355,7 @@
 <attribute NAME="year" VALUE="2001"/>
 </node>
 </node>
-<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1430613541440" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Arquiteturas" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1432172301997" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c7c00"/>
 <node TEXT="MiniMIPS: An 8-Bit MIPS in an FPGA for Educational Purposes" ID="ID_1458520639" CREATED="1411247618766" MODIFIED="1430613553926" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06128570.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5FF56780A5BCACE023A24384365ADABF1FDF4C93E721EC53591F1571F2BE5A">
@@ -6574,7 +6574,7 @@
 <attribute NAME="year" VALUE="1993"/>
 </node>
 </node>
-<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1430613541718" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Radia&#xe7;&#xe3;o e Efeitos" POSITION="right" ID="ID_1382318753" CREATED="1377254985251" MODIFIED="1432172302046" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#7c0000"/>
 <node TEXT="Radiation Effects in Si-NW GAA FET and CMOSInverter: A TCAD Simulation Study" ID="ID_368276847" CREATED="1411247614562" MODIFIED="1430613553541" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06166873.pdf" MOVED="1411878920151">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D4D852F99AB0D925364677F4A756C5A8FAB3037A8D28642BF5470F141F1E13E">
@@ -7663,8 +7663,232 @@
 <attribute NAME="year" VALUE="2012"/>
 </node>
 </node>
+<node TEXT="NASA Thesaurus - Volume 1" FOLDED="true" ID="ID_1567956954" CREATED="1432172316280" MODIFIED="1432173767377" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Scientific2010"/>
+<attribute NAME="year" VALUE="2010"/>
+<attribute NAME="title" VALUE="NASA Thesaurus"/>
+<attribute NAME="authors" VALUE="NASA"/>
+<node TEXT="TERMS AND CONDITIONS" ID="ID_1780344699" CREATED="1432172316762" MODIFIED="1432172316762" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="2676205594688952045" object_number="3655" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
 </node>
-<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1430613541767" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
+<node TEXT="Volume 1 - Hierarchical Listing" ID="ID_661197617" CREATED="1432172316542" MODIFIED="1432172316542" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="2" object_id="2547713690725871922" object_number="3674" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="STI Program Profile" ID="ID_36968595" CREATED="1432172316816" MODIFIED="1432172316817" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="3" object_id="5770552759283066812" object_number="3672" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Table of Contents" ID="ID_2928879" CREATED="1432172316514" MODIFIED="1432172316514" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="194733109419931519" object_number="3668" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+<node TEXT="Introduction" ID="ID_1008932332" CREATED="1432172316927" MODIFIED="1432172316927" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="5" object_id="1945931692234376455" object_number="3670" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Nomenclature and Conventions" ID="ID_1946778523" CREATED="1432172316953" MODIFIED="1432172316953" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="82988565381962810" object_number="3687" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Cross Reference Structure" ID="ID_1171524003" CREATED="1432172317187" MODIFIED="1432172317187" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="8" object_id="8638499171218488224" object_number="3685" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Filing Order" ID="ID_1240586920" CREATED="1432172316507" MODIFIED="1432172316507" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="9" object_id="3587073677657478722" object_number="3683" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Retrospective Indexing" ID="ID_636933808" CREATED="1432172317510" MODIFIED="1432172317510" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="9" object_id="3729769349516964392" object_number="3681" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Term Definitions" ID="ID_1036599090" CREATED="1432172317535" MODIFIED="1432172317536" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="9" object_id="1734935689508424103" object_number="3679" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Historical Printed Editions" ID="ID_858575154" CREATED="1432172317558" MODIFIED="1432172317558" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="10" object_id="9143879018573996768" object_number="3677" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Typical Listing" ID="ID_785054304" CREATED="1432172316658" MODIFIED="1432172316658" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="11" object_id="7811414948848317137" object_number="3671" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+</node>
+<node TEXT="Volume 2 - Rotated Term Display" ID="ID_52264496" CREATED="1432172317329" MODIFIED="1432172317329" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="1711052381813579936" object_number="3666" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Other Thesaurus Products" ID="ID_678162480" CREATED="1432172316566" MODIFIED="1432172316566" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="7277380364625650113" object_number="3664" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Search For" ID="ID_1028966446" CREATED="1432172316594" MODIFIED="1432172316594" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="5243210656772421856" object_number="3662" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="------------------------" ID="ID_1757230972" CREATED="1432172316630" MODIFIED="1432172316630" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="5769707394974689135" object_number="3658" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+<node TEXT="A" ID="ID_1780626127" CREATED="1432172317343" MODIFIED="1432172317343" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="12" object_id="2159096347175412979" object_number="3660" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="B" ID="ID_642566922" CREATED="1432172316728" MODIFIED="1432172316728" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="97" object_id="6794700904385034065" object_number="3737" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="C" ID="ID_1912366236" CREATED="1432172317255" MODIFIED="1432172317255" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="137" object_id="2840358746115316820" object_number="3735" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="D" ID="ID_513481339" CREATED="1432172317307" MODIFIED="1432172317308" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="238" object_id="7717209723687476989" object_number="3733" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="E" ID="ID_848490996" CREATED="1432172317218" MODIFIED="1432172317219" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="281" object_id="7292617047922145817" object_number="3731" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="F" ID="ID_850578884" CREATED="1432172316790" MODIFIED="1432172316790" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="343" object_id="8035108622481118693" object_number="3729" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="G" ID="ID_75897846" CREATED="1432172317481" MODIFIED="1432172317481" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="388" object_id="5557048858151864196" object_number="3727" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="H" ID="ID_669472094" CREATED="1432172317097" MODIFIED="1432172317097" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="424" object_id="6501757824558384962" object_number="3725" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="I" ID="ID_295716271" CREATED="1432172317128" MODIFIED="1432172317128" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="465" object_id="3068612942100585913" object_number="3723" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="J" ID="ID_863908441" CREATED="1432172317160" MODIFIED="1432172317161" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="507" object_id="5592242098720282636" object_number="3721" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="K" ID="ID_194157154" CREATED="1432172316624" MODIFIED="1432172316624" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="515" object_id="3398003497141792905" object_number="3719" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="L" ID="ID_1291534488" CREATED="1432172316838" MODIFIED="1432172316839" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="521" object_id="3788290534207687461" object_number="3717" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="M" ID="ID_1661325512" CREATED="1432172317370" MODIFIED="1432172317370" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="567" object_id="2982348965493863532" object_number="3715" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="N" ID="ID_327231966" CREATED="1432172317283" MODIFIED="1432172317283" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="644" object_id="3959286363190052245" object_number="3713" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="O" ID="ID_1641498391" CREATED="1432172317438" MODIFIED="1432172317438" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="677" object_id="6802765806147514766" object_number="3711" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="P" ID="ID_1746786989" CREATED="1432172317576" MODIFIED="1432172317576" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="705" object_id="8835105552100283632" object_number="3709" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Q" ID="ID_1274057992" CREATED="1432172317034" MODIFIED="1432172317035" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="790" object_id="558098235855484416" object_number="3707" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="R" ID="ID_1161744832" CREATED="1432172317068" MODIFIED="1432172317068" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="795" object_id="4783600383647087060" object_number="3705" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="S" ID="ID_1845084561" CREATED="1432172316984" MODIFIED="1432172316984" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="852" object_id="7825595745815165199" object_number="3703" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="T" ID="ID_1121496892" CREATED="1432172316870" MODIFIED="1432172316870" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="982" object_id="4011357589491341455" object_number="3701" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="U" ID="ID_1655004757" CREATED="1432172317008" MODIFIED="1432172317008" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1042" object_id="6865988640450552242" object_number="3699" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="V" ID="ID_763411217" CREATED="1432172317393" MODIFIED="1432172317393" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1053" object_id="7333683257624875485" object_number="3697" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="W" ID="ID_1068841908" CREATED="1432172317419" MODIFIED="1432172317419" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1076" object_id="1927035449985368604" object_number="3695" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="X" ID="ID_258530506" CREATED="1432172316694" MODIFIED="1432172316694" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1095" object_id="3732204612296828366" object_number="3693" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Y" ID="ID_376289015" CREATED="1432172317593" MODIFIED="1432172317593" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1101" object_id="5802671728074979954" object_number="3691" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Z" ID="ID_1467380493" CREATED="1432172316900" MODIFIED="1432172316900" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1103" object_id="6095280308242326214" object_number="3661" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+</node>
+<node TEXT="RDP" ID="ID_574025813" CREATED="1432172317462" MODIFIED="1432172317462" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias5/NASA_thesaurus_vol1.pdf">
+<pdf_annotation type="BOOKMARK" page="1107" object_id="5098874605768676503" object_number="3656" document_hash="509C2762157C9A656ACD1C1D41254E209F413CAE43661DA954215556BD7468FE">
+    <pdf_title>Terms and Conditions of Use</pdf_title>
+</pdf_annotation>
+</node>
+</node>
+</node>
+<node POSITION="right" ID="ID_534222974" CREATED="1377252859602" MODIFIED="1432172302125" MOVED="1377255389469" DCR_PRIVACY_LEVEL="DEMO" HGAP="131" VSHIFT="-161"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8819,39 +9043,39 @@
 <attribute NAME="year" VALUE="2011"/>
 </node>
 </node>
-<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1430613541823" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Atributos" ID="ID_1439541577" CREATED="1377253251000" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="confiabilidade (reliability)" FOLDED="true" ID="ID_1342127086" CREATED="1377254593942" MODIFIED="1432172302217" MOVED="1411860866492" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="medida do tempo de funcionamento de um sistema at&#xe9; falhar, ou da probabilidade de n&#xe3;o falhar durante o tempo de miss&#xe3;o (ex.:MTTF, MTBF, 10-5 falhas/hora, 99.9%)" ID="ID_1611290074" CREATED="1411860915945" MODIFIED="1411860919478" MOVED="1411860922539"/>
 </node>
-<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="disponibilidade (availability)" FOLDED="true" ID="ID_1702652111" CREATED="1344508592622" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO">
 <hook NAME="FirstGroupNode"/>
 <node TEXT="medida do tempo (ou %) em que o sistema est&#xe1; operacional (ex.: MTBF/(MTBF+MTTR), 5000h/ano)" ID="ID_1771869519" CREATED="1411860934455" MODIFIED="1411860936807" MOVED="1411860939275"/>
 </node>
-<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO"/>
+<node TEXT="reparabilidade (maintainability)" FOLDED="true" ID="ID_1106797781" CREATED="1344508911688" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="medida do tempo de reposi&#xe7;&#xe3;o em servi&#xe7;o do sistema        (ex.: MTTR)" ID="ID_1773051357" CREATED="1344508926204" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO"/>
 </node>
-<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1430613541823" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="seguran&#xe7;a contra acidentes (safety)" FOLDED="true" ID="ID_1289497345" CREATED="1344509076356" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="medida da fiabilidade do sistema relativa a faltas que ocasionem efeitos catastr&#xf3;ficos" ID="ID_938916906" CREATED="1411860999742" MODIFIED="1411861002690" MOVED="1411861005203"/>
 </node>
 <node TEXT="seguran&#xe7;a contra acesso n&#xe3;o autorizado (security)" FOLDED="true" ID="ID_1077168734" CREATED="1411860750229" MODIFIED="1411860764146">
 <node TEXT="idem, relativo a faltas contra integridade, confidencialidade e autenticidade" ID="ID_1580126393" CREATED="1411861015289" MODIFIED="1411861017812" MOVED="1411861019923"/>
 </node>
 </node>
-<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Amea&#xe7;as" ID="ID_1598040635" CREATED="1377253207728" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Falha(fault)" FOLDED="true" ID="ID_1119530200" CREATED="1344508911688" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="define-se como a causa f&#xed;sica ou algor&#xed;tmica do erro" ID="ID_1619338102" CREATED="1411863391820" MODIFIED="1411863408032" MOVED="1411863413368"/>
 </node>
-<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Erro(error)" FOLDED="true" ID="ID_105182157" CREATED="1344509076356" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT=" Define-se que um sistema est&#xe1; em estado err&#xf4;neo, ou em erro, se o processamento posterior a partir desse estado pode levar a um defeito" ID="ID_575761268" CREATED="1411863458582" MODIFIED="1411863484409" MOVED="1411863489937"/>
 </node>
-<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1430613541824" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Defeito(failure)" FOLDED="true" ID="ID_1928953486" CREATED="1377254593942" MODIFIED="1432172302217" MOVED="1377254728216" DCR_PRIVACY_LEVEL="DEMO">
 <font BOLD="false"/>
 <node TEXT="&#xe9; definido como um desvio da especifica&#xe7;&#xe3;o" ID="ID_618166955" CREATED="1411863351666" MODIFIED="1411863425108" MOVED="1411863358800"/>
 </node>
 </node>
-<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
-<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1430613541824" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Meios" ID="ID_1893786783" CREATED="1377253325287" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="Toler&#xe2;ncia a Falhas" ID="ID_892954068" CREATED="1377253393791" MODIFIED="1432172302217" DCR_PRIVACY_LEVEL="DEMO">
 <node TEXT="A Hybrid Fault Tolerant Architecture&#xa;for Robustness Improvement of Digital Circuits" ID="ID_1504078085" CREATED="1411611278055" MODIFIED="1430613553879" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/06114526.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="FAE1D9E958908A2717FD74F7B7DBF818E27DF8F5B8E390532E4C1A3F897728">
     <pdf_title>A Hybrid Fault Tolerant Architecture for Robustness Improvement of Digital Circuits</pdf_title>
@@ -10236,7 +10460,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1430613541886" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
+<node TEXT="Incoming" POSITION="left" ID="ID_684370683" CREATED="1377252712955" MODIFIED="1432172302270" MOVED="1411936998221" COLOR="#ffffff" BACKGROUND_COLOR="#006699" INCOMING="true" DCR_PRIVACY_LEVEL="DEMO" HGAP="178" VSHIFT="-247">
 <font NAME="Courier New" BOLD="true"/>
 <edge COLOR="#006699"/>
 <node TEXT="SOC DESIGN METHODOLOGIES" ID="ID_732369618" CREATED="1411611275180" MODIFIED="1413321725986" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias2/bok%253A978-0-387-35597-9.pdf">
@@ -10255,7 +10479,7 @@
 <attribute NAME="title" VALUE="A study of the effects of transient fault injection into a 32-bit RISC with built-in watchdog"/>
 <attribute NAME="year" VALUE="1992"/>
 </node>
-<node TEXT="06169884.pdf" ID="ID_1922042771" CREATED="1428261739680" MODIFIED="1428261739680" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
+<node TEXT="06169884.pdf" FOLDED="true" ID="ID_1922042771" CREATED="1428261739680" MODIFIED="1428261739680" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/06169884.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="D23BA9A5251A6827223C0CC14B97EF4CCE459CD5278C8537E25ADB57C49D">
     <pdf_title>Single-event soft errors in CMOS logic</pdf_title>
 </pdf_annotation>
@@ -10585,7 +10809,7 @@
 <attribute NAME="year" VALUE="2012"/>
 </node>
 </node>
-<node TEXT="S0883769400017504a.pdf" ID="ID_1929891272" CREATED="1428711682114" MODIFIED="1430613553246" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
+<node TEXT="S0883769400017504a.pdf" FOLDED="true" ID="ID_1929891272" CREATED="1428711682114" MODIFIED="1430613553246" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias4/S0883769400017504a.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="CF88815F4FBDCC255289356FDA8277C412AE88C51A541C63777342F12517E8A">
     <pdf_title>ingle-Event Upsets in Microelectronics: Fundamental Physics and Issues</pdf_title>
 </pdf_annotation>
@@ -10894,6 +11118,19 @@
 <attribute NAME="title" VALUE="Single-Event Upsets in Microelectronics: Fundamental Physics and Issues"/>
 <attribute NAME="authors" VALUE="Tang,Henry H.K. and Rodbell,Kenneth P."/>
 </node>
+</node>
+</node>
+<node TEXT="Tecnologia Preditiva" POSITION="left" ID="ID_919969724" CREATED="1431214421315" MODIFIED="1431214598272" HGAP="-643" VSHIFT="1881">
+<edge COLOR="#00ff00"/>
+<node TEXT="2013PIDS_SummaryTable.pdf" ID="ID_965990165" CREATED="1431214537778" MODIFIED="1431215127049" LINK="project://14894DE1F4B6R6BPUTVU77NQUY8JQU570BZM/../02_PDFs/Referencias1/2013PIDS_SummaryTable.pdf" HGAP="-573" VSHIFT="-80">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5DC564E6E43BC649922CC63E8423A20C52E2798B1AD4D69CA243763D9E7F2">
+    <pdf_title>Table PIDS1 Process Integration Difficult Challenges</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Ajam2010"/>
+<attribute NAME="journal" VALUE="THE INTERNATIONAL TECHNOLOGY ROADMAP FOR SEMICONDUCTORS: 2013"/>
+<attribute NAME="year" VALUE="2013"/>
+<attribute NAME="title" VALUE="2013 ITRS Summary on Process Integration, Devices, and Structures (PIDS): Process Integration Difficult Challenges"/>
+<attribute NAME="authors" VALUE="ITRS"/>
 </node>
 </node>
 </node>

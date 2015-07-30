@@ -1,7 +1,20 @@
 \chapter{Introdução}
+
+\epigraph{\sffamily\itshape
+``Little by little, one travels far.''}{--- \textsc{J.R.R. Tolkien}}
+
+
 As prospecções do International Technology Roadmap for Semiconductors (ITRS) preveem que em pouco tempo teremos transistores de menos de meia dezena de nanômetros, além de tecnologias com múltiplos gates(MGT) e isso implica em: menor confiabilidade dos transistores, manifestações de efeitos da radiação ao nível do mar, menores capacitâncias(menores cargas armazenadas), menores margens de ruído e menor consumo.\cite{Massengill2012}
 
-Enquanto a tecnologia avança no sentido da escalabilidade, a radiação e seus efeitos permanecem como um fenômeno prejudicial ao correto funcionamento dos circuitos eletrônicos, afetando ainda mais estes a cada mudança de nó tecnológico. O que antes era alvo de atenção quase que exclusivamente no setor aeroespacial, vem a ser preocupação também ao nível do mar.\cite{Massengill2012}
+Enquanto a tecnologia avança no sentido da escalabilidade, a radiação e seus efeitos permanecem como um fenômeno prejudicial ao correto funcionamento dos circuitos eletrônicos, afetando ainda mais estes a cada mudança de nó tecnológico. O que antes era foco de atenção quase que exclusivamente no setor aeroespacial, vem a ser preocupação também ao nível do mar.\cite{Massengill2012}
+
+O entendimento de um tipo de evento causado pela radiação, o \textit{Single-Event Upset}(SEU), é reconhecidamente uma das preocupações-chave no que tange a confiabilidade dos circuitos para a tecnologia atual e futura. A natureza deste evento tem origem numa partícula carregada que passa por um dispositivo microeletrônico e ioniza o material pelo caminho percorrido. Ao ocorrer esta ionização, são gerados pares elétron-lacuna. Os portadores livres(elétrons e lacunas) eventualmente serão recombinados. Esta recombinação pode ser evitada em condições apropriadas de operação de um dispositivo, através dos campos elétricos internos. Com isso, um pulso elétrico é gerado, sendo grande o suficiente para interromper o funcionamento normal do dispositivo. Este fenômeno não esta associado a um dano permanente no dispositivo, porém o resultado é um erro num bit. O fenômeno é chamado de \textit{Single-Event Upset}(SEU), ou ainda, \textit{soft error} ou \textit{soft failure}\cite{Tang2003}. Segundo o dicionário de termos usados na área aeroespacial da \citen{Scientific2010}, SEUs são descritos de forma semelhante com a seguinte definição:
+
+\begin{quote}
+\emph{\textbf{Single Event Upsets}}: Radiation-induced errors in microelectronic circuits caused when charged particles(usually from the radiation belts or from cosmic rays) lose energy by ionizing the medium through which they pass, leaving behind a wake of electron-hole pairs.
+\end{quote}
+
+Nota-se que nesta definição são incluídas possíveis fontes das partículas: cinturões de radiação ou raios cósmicos.
 
 \section{Objetivos}
 Este trabalho tem como objetivo principal realizar uma pesquisa e implementação de um hardware adaptativo para tolerância a falhas utilizando técnicas para microprocessadores já consagradas na literatura científica da área.
@@ -20,7 +33,7 @@ Para alcançar esta meta principal, o percurso da pesquisa inclui objetivos secu
 \end{itemize}
 
 \section{Justificativa}
-
+A avaliação de diversas técnicas de detecção de erros em software, com o objetivo de proteger processadores contra falhas transientes e ainda, a implementação em hardware de forma a atuar dinamicamente selecionando qual a melhor técnica tem relevância no contexto de uso de sistemas microprocessados em ambientes hostis cuja exposição à radiação ou ainda, influência eletromagnética podem causar efeitos inesperados no comportamento do circuito, aproveitando o menor custo computacional disponível para uma dada taxa de erros detectados.
 
 \section{Expectativas}
 Espera-se que com o hardware desenvolvido e o ambiente injetor de falhas seja possível comparar o custo, em tempo de processamento adicional, necessário para a execução de um mesmo algoritmo aplicando-se cada técnica disponível no módulo. Para que isso seja possível, um dicionário de dados e uma análise da cobertura de falhas devem ser explorados ao decorrer da campanha de injeção de falhas. 
