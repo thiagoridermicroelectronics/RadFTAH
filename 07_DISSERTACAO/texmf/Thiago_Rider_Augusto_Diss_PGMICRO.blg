@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Thiago_Rider_Augusto_Diss_PGMICRO.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: biblio.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--campo year vazio ou faltando em Al-Yamani
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.1           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://abntex2.googlecode.com                           |
++---------------------------------------------------------+
+You've used 13 entries,
+            6711 wiz_defined-function locations,
+            1304 strings with 11959 characters,
+and the built_in function-call counts, 15427 in all, are:
+= -- 1665
+> -- 391
+< -- 265
++ -- 435
+- -- 116
+* -- 1038
+:= -- 1965
+add.period$ -- 46
+call.type$ -- 13
+change.case$ -- 132
+chr.to.int$ -- 30
+cite$ -- 12
+duplicate$ -- 1193
+empty$ -- 758
+format.name$ -- 556
+if$ -- 3331
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 219
+newline$ -- 70
+num.names$ -- 55
+pop$ -- 277
+preamble$ -- 1
+purify$ -- 53
+quote$ -- 0
+skip$ -- 1332
+stack$ -- 1
+substring$ -- 667
+swap$ -- 498
+text.length$ -- 23
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 5
+warning$ -- 1
+while$ -- 84
+width$ -- 0
+write$ -- 194
+(There was 1 warning)

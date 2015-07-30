@@ -1,0 +1,43 @@
+\select@language {brazilian}
+\select@language {english}
+\select@language {brazilian}
+\contentsline {chapter}{1~Introdu\IeC {\c c}\IeC {\~a}o}{11}{CHAPTER.1}
+\contentsline {section}{\numberline {1.1}Objetivos}{12}{section.1.1}
+\contentsline {section}{\numberline {1.2}Justificativa}{12}{section.1.2}
+\contentsline {section}{\numberline {1.3}Expectativas}{13}{section.1.3}
+\contentsline {chapter}{2~Contexto da Pesquisa}{14}{CHAPTER.2}
+\contentsline {section}{\numberline {2.1}O processador miniMIPS}{14}{section.2.1}
+\contentsline {section}{\numberline {2.2}A Origem de tudo: As 3 causas de problemas com a radia\IeC {\c c}\IeC {\~a}o c\IeC {\'o}smica}{14}{section.2.2}
+\contentsline {section}{\numberline {2.3}\textit {Background} de toler\IeC {\^a}ncia a falhas}{14}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Radia\IeC {\c c}\IeC {\~a}o e Efeitos}{14}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Eletr\IeC {\^o}nica, SEUs e SETs}{14}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}M\IeC {\'e}tricas para avaliar suscetibilidade dos circuitos}{14}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}T\IeC {\'e}cnicas de detec\IeC {\c c}\IeC {\~a}o de erros em processadores}{14}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}T\IeC {\'e}cnicas de mitiga\IeC {\c c}\IeC {\~a}o para SEUs e SETs em processadores}{14}{subsection.2.3.5}
+\contentsline {chapter}{3~Robustecimento de Processadores Contra Efeitos da Radia\IeC {\c c}\IeC {\~a}o C\IeC {\'o}smica}{15}{CHAPTER.3}
+\contentsline {section}{\numberline {3.1}Prote\IeC {\c c}\IeC {\~o}es em hardware}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Prote\IeC {\c c}\IeC {\~o}es em software}{15}{section.3.2}
+\contentsline {section}{\numberline {3.3}Fragilidades das prote\IeC {\c c}\IeC {\~o}es em hardware e software}{15}{section.3.3}
+\contentsline {chapter}{4~Hardware Adaptativo para Toler\IeC {\^a}ncia a Falhas}{16}{CHAPTER.4}
+\contentsline {section}{\numberline {4.1}Porque adaptativo?}{16}{section.4.1}
+\contentsline {section}{\numberline {4.2}Arquitetura proposta}{16}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}M\IeC {\'a}quina de estados para a t\IeC {\'e}cnica EDDI}{16}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}M\IeC {\'a}quina de estados para a t\IeC {\'e}cnica 2}{16}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}M\IeC {\'a}quina de estados para a t\IeC {\'e}cnica 3}{16}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Metodologia de verifica\IeC {\c c}\IeC {\~a}o adaptada a uma campanha de inje\IeC {\c c}\IeC {\~a}o de falhas}{16}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Metodologia de Verifica\IeC {\c c}\IeC {\~a}o Universal}{16}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Experimentos de inje\IeC {\c c}\IeC {\~a}o de falhas em simula\IeC {\c c}\IeC {\~a}o}{16}{subsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Biblioteca de inje\IeC {\c c}\IeC {\~a}o de falhas usando VPI}{16}{subsubsection.4.3.2.1}
+\contentsline {subsubsection}{\numberline {4.3.2.2}Premissas ao se injetar falhas}{16}{subsubsection.4.3.2.2}
+\contentsline {section}{\numberline {4.4}Integrando as m\IeC {\'a}quinas de estados propostas}{16}{section.4.4}
+\contentsline {chapter}{5~An\IeC {\'a}lise e Resultados da Pesquisa}{17}{CHAPTER.5}
+\contentsline {section}{\numberline {5.1}Casos de teste usando o m\IeC {\'o}dulo RadFTAH}{17}{section.5.1}
+\contentsline {chapter}{6~Conclus\IeC {\~a}o}{18}{CHAPTER.6}
+\contentsline {section}{\numberline {6.1}Trabalhos Futuros}{18}{section.6.1}
+\contentsline {chapter}{7~Exemplos de Uso do \textlatin {\LaTeX }}{19}{CHAPTER.7}
+\contentsline {section}{\numberline {7.1}Figuras e tabelas}{19}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Formato de Figuras}{20}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Classifica\IeC {\c c}\IeC {\~a}o dos etc.}{20}{subsection.7.1.2}
+\contentsline {section}{\numberline {7.2}Sobre as refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}{21}{section.7.2}
+\contentsline {chapter}{\xspace {}Refer{\^e}ncias}{22}{schapter.8}
+\contentsline {chapter}{\MakeUppercase {Ap{\^e}ndice} A~--- CONTRIBUI\IeC {\c C}\IeC {\~O}ES}{23}{CHAPTER.A}

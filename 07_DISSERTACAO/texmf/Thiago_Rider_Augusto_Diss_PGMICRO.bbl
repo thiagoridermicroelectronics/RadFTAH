@@ -1,0 +1,91 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.1 }
+
+\bibitem[Abate, Sterpone and Violante 2008]{Abate2008}
+\abntrefinfo{Abate, Sterpone and Violante}{ABATE; STERPONE; VIOLANTE}{2008}
+{ABATE, F.; STERPONE, L.; VIOLANTE, M. A new mitigation approach for soft
+  errors in embedded processors.
+\textbf{Nuclear Science, IEEE Transactions on}, v.~55, n.~4, p. 2063--2069, Aug
+  2008.
+ISSN 0018-9499.}
+
+\bibitem[Al-Yamani, Oh and McCluskey]{Al-Yamani}
+\abntrefinfo{Al-Yamani, Oh and McCluskey}{AL-YAMANI; OH; MCCLUSKEY}{}
+{AL-YAMANI, A.~A.; OH, N.; MCCLUSKEY, E.~J. \textbf{Algorithm-Based Fault
+  Tolerance: A Performance Perspective Based on Error Rate}.
+Available from Internet:
+  \url{http://crc.stanford.edu/crc\_papers/alyamaniDSN01.pdf}.}
+
+\bibitem[Alkhalifa et al. 1999]{Alkhalifa1999}
+\abntrefinfo{Alkhalifa et al.}{ALKHALIFA et al.}{1999}
+{ALKHALIFA, Z. et al. Design and evaluation of system-level checks for on-line
+  control flow error detection.
+\textbf{Parallel and Distributed Systems, IEEE Transactions on}, v.~10, n.~6,
+  p. 627--641, Jun 1999.
+ISSN 1045-9219.}
+
+\bibitem[Arora and Kulkarni 1998]{Arora1998}
+\abntrefinfo{Arora and Kulkarni}{ARORA; KULKARNI}{1998}
+{ARORA, A.; KULKARNI, S. Designing masking fault-tolerance via nonmasking
+  fault-tolerance.
+\textbf{Software Engineering, IEEE Transactions on}, v.~24, n.~6, p. 435--450,
+  Jun 1998.
+ISSN 0098-5589.}
+
+\bibitem[Azambuja 2010]{Azambuja2010}
+\abntrefinfo{Azambuja}{AZAMBUJA}{2010}
+{AZAMBUJA, J. R. F.~d.
+\textbf{Análise de técnicas de tolerância a falhas baseadas em software para
+  a proteção de microprocessadores}.
+Dissertation (Master) --- Universidade Federal do Rio Grande do Sul, Instituto
+  de Informática, 2010.
+Available from Internet: \url{http://hdl.handle.net/10183/49076}.}
+
+\bibitem[Massengill et al. 2012]{Massengill2012}
+\abntrefinfo{Massengill et al.}{MASSENGILL et al.}{2012}
+{MASSENGILL, L. et al. Technology scaling and soft error reliability. In:
+  \textbf{Reliability Physics Symposium (IRPS), 2012 IEEE International}.
+  [S.l.: s.n.], 2012. p. 3C.1.1--3C.1.7.
+ISSN 1541-7026.}
+
+\bibitem[NASA 2010]{Scientific2010}
+\abntrefinfo{NASA}{NASA}{2010}
+{NASA. \textbf{NASA Thesaurus}. [S.l.]: NASA Scientific and Technical
+  Information Program, 2010.}
+
+\bibitem[Nicolaidis 2011]{Nicolaidis2011}
+\abntrefinfo{Nicolaidis}{NICOLAIDIS}{2011}
+{NICOLAIDIS, M. (Ed.). \textbf{Soft Errors in Modern Electronic Systems}.
+  Springer, 2011. 318~p. Available from Internet:
+  \url{http://link.springer.com/978-1-4419-6993-4}.}
+
+\bibitem[Rebaudengo, Reorda and Violante 2004]{Rebaudengo2004}
+\abntrefinfo{Rebaudengo, Reorda and Violante}{REBAUDENGO; REORDA;
+  VIOLANTE}{2004}
+{REBAUDENGO, M.; REORDA, M.; VIOLANTE, M. A new approach to
+  software-implemented fault tolerance.
+\textbf{Journal of Electronic Testing}, Kluwer Academic Publishers, v.~20,
+  n.~4, p. 433--437, 2004.
+ISSN 0923-8174.
+Available from Internet:
+  \url{http://dx.doi.org/10.1023/B\%3AJETT.0000039610.30724.b2}.}
+
+\bibitem[Tang and Rodbell 2003]{Tang2003}
+\abntrefinfo{Tang and Rodbell}{TANG; RODBELL}{2003}
+{TANG, H.~H.; RODBELL, K.~P. Single-event upsets in microelectronics:
+  Fundamental physics and issues.
+\textbf{MRS Bulletin}, v.~28, p. 111--116, 2 2003.
+ISSN 1938-1425.
+Available from Internet:
+  \url{http://journals.cambridge.org/article\_S0883769400017504}.}
+
+\bibitem[Ziade et al. 2004]{Ziade2004}
+\abntrefinfo{Ziade et al.}{ZIADE et al.}{2004}
+{ZIADE, H. et al. A survey on fault injection techniques.
+\textbf{Int. Arab J. Inf. Technol.}, v.~1, n.~2, p. 171--186, 2004.}
+
+\end{thebibliography}
